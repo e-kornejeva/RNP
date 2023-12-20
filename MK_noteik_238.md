@@ -2265,6 +2265,14 @@ Piezīme. Aizlieguma zīmei ir apļveida forma, melna (piemēram, RAL 9004) pikt
 |                                      |   |
 
 
+
+
+
+| 3.1. Savienojošo cauruļvadu noslēdzošais aizbīdnis                      | 3.2. Ugunsdzēsības ūdenstilpnes atrašanās vieta                         | 3.3. Ūdens ugunsdzēsības hidrants                                       | 3.4. Putu šķīduma ugunsdzēsības hidrants                                |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE011.JPG) | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE012.JPG) | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE013.JPG) | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE014.JPG) |
+
+
 Piezīmes.
 
 1\. Ugunsdzēsības ūdensņemšanas vietas zīmei ir kvadrāta forma, balta (piemēram, RAL 9003) piktogramma uz sarkana (piemēram, RAL 3001) fona. Sarkanajam fonam jāaizņem vismaz 50 % no zīmes virsmas platības.
@@ -2289,9 +2297,24 @@ PH – putu šķīduma ugunsdzēsības hidrants (minimālais burtu augstums – 
 
 4\. Ugunsdzēsības līdzekļu zīmes
 
+
+| 4.1. Ugunsdzēsības aprīkojums un līdzekļi                               | 4.2. Stacionārās ugunsdzēsības sistēmas sausais cauruļvads              | 4.3. Ugunsdzēsības aparāts                                              | 4.4. Ugunsdzēsības krāns ar šļūteni                                     |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE016.PNG) | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE017.JPG) | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE018.PNG) | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE019.PNG) |
+
+
+
+
 Piezīme. Ugunsdzēsības līdzekļu zīmei ir kvadrāta forma (izņemot 4.7. un 4.8. zīmes), balta (piemēram, RAL 9003) piktogramma uz sarkana (piemēram, RAL 3001) fona. Sarkanajam fonam jāaizņem vismaz 50 % no zīmes virsmas platības.
 
 5\. Cilvēku kustības virziena zīmes
+
+
+| 5.1. Evakuācijas izeja                                                                                                | 5.2. Durvis evakuācijas ceļā                                                               | 5.3. Virziens uz evakuācijas izeju                                                                                                                                        | 5.4. Virziens uz evakuācijas izeju cilvēkiem ar kustību traucējumiem                                              |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE024.JPG)                                               | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE025.PNG)                    | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE026.PNG)                                                                                                   | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE027.PNG)                                           |
+| Izvieto evakuācijas izejā (izeja no būves, pa kuru var nokļūt ārpus būves).<br>Var izmantot kopā ar 5.2. un 5.4. zīmi | Izvieto virs durvīm vai uz durvīm evakuācijas ceļā. Var izmantot kopā ar 5.3. un 5.4. zīmi | Izvieto evakuācijas ceļā, norādot evakuācijas kustības virzienu. Lieto kopā ar 5.2. un 5.4. zīmi.<br>Bultas virzienu zīmē maina atkarībā no evakuācijas kustības virziena | Izvieto evakuācijas ceļā, kas paredzēts cilvēkiem ar kustību traucējumiem. Lieto kopā ar 5.1., 5.2. vai 5.3. zīmi |
+
 
 
 
@@ -2308,6 +2331,13 @@ Piezīme. Ugunsdzēsības līdzekļu zīmei ir kvadrāta forma (izņemot 4.7. un
 Piezīme. Cilvēku kustības virziena zīmei ir taisnstūra vai kvadrātveida forma, balta (piemēram, RAL 9003) piktogramma uz zaļa (piemēram, RAL 6032) fona. Zaļajam fonam jāaizņem vismaz 50 % no zīmes virsmas platības.
 
 6\. Rīkojuma zīmes
+
+
+| 6.1. Sazemēt                                                            | 6.2. Jālieto antistatiski apavi                                         |  |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |  |
+| ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE028.JPG) | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE029.JPG) |
+
+
 
 Piezīme. Rīkojuma zīmei ir apļveida forma, balta (piemēram, RAL 9003) piktogramma uz zila (piemēram, RAL 5005) fona. Zilajam fonam jāaizņem vismaz 50 % no zīmes virsmas platības.
 
