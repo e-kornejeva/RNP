@@ -1,6 +1,8 @@
 # Noteikumi par valsts metroloģiskajai kontrolei pakļauto mērīšanas līdzekļu sarakstu
 **Ministru kabineta noteikumi Nr.40**
 
+#### URL: https://likumi.lv/doc.php?id=151306
+
 Rīgā 2007.gada 9.janvārī (prot. Nr.3 5.§)
 
 Noteikumi par valsts metroloģiskajai kontrolei pakļauto mērīšanas līdzekļu sarakstu
