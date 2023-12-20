@@ -1,4 +1,5 @@
 # Enerģētikas likums
+#### URL:https://likumi.lv/doc.php?id=49833
 Grozījumi:
 
 03.08.2000. likums / LV, 298/299, 23.08.2000. / Stājas spēkā 03.08.2000. 10.05.2001. likums / LV, 83, 30.05.2001.; Ziņotājs, 12, 21.06.2001. / Stājas spēkā 01.06.2001. 17.03.2005. likums / LV, 52, 01.04.2005.; Ziņotājs, 8, 28.04.2005. / Stājas spēkā 15.04.2005. 26.05.2005. likums / LV, 94, 15.06.2005.; Ziņotājs, 13, 14.07.2005. / Stājas spēkā 29.06.2005. 05.06.2008. likums / LV, 96, 20.06.2008.; Ziņotājs, 14, 24.07.2008. / Stājas spēkā 04.07.2008. 04.12.2008. likums / LV, 200, 23.12.2008.; Ziņotājs, 2, 29.01.2009. / Stājas spēkā 01.07.2009. 12.06.2009. likums / LV, 96, 19.06.2009.; Ziņotājs, 14, 23.07.2009. / Stājas spēkā 01.07.2009. 13.05.2010. likums / LV, 82, 26.05.2010. / Stājas spēkā 09.06.2010. 17.06.2010. likums / LV, 106, 07.07.2010. / Stājas spēkā 08.07.2010. 17.02.2011. likums / LV, 36, 04.03.2011. / Stājas spēkā 18.03.2011. 22.09.2011. likums / LV, 161, 12.10.2011. / Stājas spēkā 26.10.2011. 08.11.2012. likums / LV, 186, 27.11.2012. / Stājas spēkā 11.12.2012. 13.03.2014. likums / LV, 60, 25.03.2014. / Stājas spēkā 26.03.2014. 11.02.2016. likums / LV, 37, 23.02.2016. / Stājas spēkā 08.03.2016. 11.02.2016. likums / LV, 37, 23.02.2016. / Stājas spēkā 08.03.2016. 03.03.2016. likums / LV, 52, 15.03.2016. / Stājas spēkā 29.03.2016. 12.04.2018. likums / LV, 76, 17.04.2018. / Stājas spēkā 18.04.2018. 03.10.2019. likums / LV, 212, 18.10.2019. / Stājas spēkā 01.11.2019. 17.10.2019. likums / LV, 214, 22.10.2019. / Stājas spēkā 23.10.2019. 14.11.2019. likums / LV, 240, 28.11.2019. / Stājas spēkā 01.01.2020. 21.01.2021. likums / LV, 22, 02.02.2021. / Stājas spēkā 16.02.2021. 21.04.2022. likums / LV, 78A, 22.04.2022. / Stājas spēkā 23.04.2022. 14.07.2022. likums / LV, 137A, 19.07.2022. / Stājas spēkā 01.01.2023. 14.07.2022. likums / LV, 144, 28.07.2022. / Stājas spēkā 11.08.2022. 14.07.2022. likums / LV, 144, 28.07.2022. / Stājas spēkā 11.08.2022.
@@ -8,8 +9,7 @@ prezidents izsludina šādu likumu:
 
 Enerģētikas likums
 
-I nodaļa  
-Vispārīgie noteikumi
+## I nodaļa  Vispārīgie noteikumi
 
 **1.pants**
 
@@ -23,21 +23,21 @@ Vispārīgie noteikumi
 
 4) **bioloģiskais šķidrais kurināmais** — no biomasas iegūta šķidrā degviela, kuru izmanto elektroenerģijas vai siltumenerģijas ražošanai, bet neizmanto un nav paredzēts izmantot par degvielu transportlīdzekļos;
 
-41) **biometāns** — gāzveida kurināmais, kura sastāvā ir vismaz 90 procenti (masas procenti) no biomasas ražota metāna;
+4<sup>1</sup>) **biometāns** — gāzveida kurināmais, kura sastāvā ir vismaz 90 procenti (masas procenti) no biomasas ražota metāna;
 
-42) **centralizētā aukstumapgādes sistēma** — aukstuma avotu, pārvades un sadales aukstumapgādes tīklu un dzesēšanai nepieciešamās enerģijas lietotāju kopums, kas saskaņoti ražo, pārveido, pārvada, sadala un patērē dzesēšanai nepieciešamo enerģiju;
+4<sup>2</sup>) **centralizētā aukstumapgādes sistēma** — aukstuma avotu, pārvades un sadales aukstumapgādes tīklu un dzesēšanai nepieciešamās enerģijas lietotāju kopums, kas saskaņoti ražo, pārveido, pārvada, sadala un patērē dzesēšanai nepieciešamo enerģiju;
 
-43) **centralizētā siltumapgādes sistēma** — siltumavotu, pārvades un sadales siltumtīklu un siltumenerģijas lietotāju kopums, kas saskaņoti ražo, pārveido, pārvada, sadala un patērē siltumenerģiju;
+4<sup>3</sup>) **centralizētā siltumapgādes sistēma** — siltumavotu, pārvades un sadales siltumtīklu un siltumenerģijas lietotāju kopums, kas saskaņoti ražo, pārveido, pārvada, sadala un patērē siltumenerģiju;
 
 5) **dabasgāzes krātuve** — virszemes vai pazemes objekts, kuru izmanto dabasgāzes (tostarp sašķidrinātās dabasgāzes) uzglabāšanai, izņemot ražošanā izmantotās daļas un iekārtas, ko izmanto tikai pārvades sistēmu operatori;
 
-51) **dabasgāzes stratēģiskās rezerves** — dabasgāzes rezerves, ko Latvija uztur noteiktā apjomā saskaņā ar šā likuma 64. panta pirmās daļas 3. punktā noteikto kārtību;
+5<sup>1</sup>) **dabasgāzes stratēģiskās rezerves** — dabasgāzes rezerves, ko Latvija uztur noteiktā apjomā saskaņā ar šā likuma 64. panta pirmās daļas 3. punktā noteikto kārtību;
 
 6) **drošības rezerves** — naftas produktu rezerves, ko Latvija uztur noteiktā apjomā saskaņā ar šā likuma 72.panta prasībām;
 
 7) **energoapgāde** — enerģētikas jomā veicama komercdarbība, kuru ir nepieciešams licencēt vai reģistrēt un kura ietver elektroenerģijas vai siltumenerģijas ražošanu, elektroenerģijas, siltumenerģijas vai dabasgāzes (tostarp sašķidrinātās dabasgāzes un biometāna) iepirkšanu, pārveidi, uzglabāšanu, pārvadi, sadali vai tirdzniecību;
 
-71) **energoapgādes drošuma rezerves** — dabasgāzes rezerves, kas ir valsts īpašums un ko Latvija uztur noteiktā apjomā Inčukalna pazemes gāzes krātuvē saskaņā ar šā likuma 82.1 panta prasībām, lai nodrošinātu nepārtrauktu apgādi ar dabasgāzi un novērstu enerģētikas krīzes iestāšanos;
+7<sup>1</sup>) **energoapgādes drošuma rezerves** — dabasgāzes rezerves, kas ir valsts īpašums un ko Latvija uztur noteiktā apjomā Inčukalna pazemes gāzes krātuvē saskaņā ar šā likuma 82.1 panta prasībām, lai nodrošinātu nepārtrauktu apgādi ar dabasgāzi un novērstu enerģētikas krīzes iestāšanos;
 
 8) **energoapgādes komersanta objekts** — energoapgādes komersantam piederoša vai tā lietošanā esoša manta (ēkas, būves, stacijas, iekārtas, ierīces, ietaises, tīkli, līnijas, cauruļvadu sistēma, cauruļvadi un to piederumi), kuru tieši izmanto energoapgādei;
 
@@ -45,7 +45,7 @@ Vispārīgie noteikumi
 
 10) **energoresursi** — apzinātie kurināmā krājumi un enerģijas avoti, kurus var izmantot tiešai lietošanai vai enerģijas iegūšanai;
 
-101) **enerģētiskā nabadzība** — mājsaimniecības lietotāja nespēja uzturēt mājoklī atbilstošu temperatūru vai izmantot energoapgādes komersantu sniegtos pakalpojumus, vai norēķināties par tiem zemas energoefektivitātes dēļ vai tādēļ, ka maksai par šiem pakalpojumiem ir augsts īpatsvars mājsaimniecības ienākumos;
+10<sup>1</sup>) **enerģētiskā nabadzība** — mājsaimniecības lietotāja nespēja uzturēt mājoklī atbilstošu temperatūru vai izmantot energoapgādes komersantu sniegtos pakalpojumus, vai norēķināties par tiem zemas energoefektivitātes dēļ vai tādēļ, ka maksai par šiem pakalpojumiem ir augsts īpatsvars mājsaimniecības ienākumos;
 
 11) **enerģija** — prece ar noteiktu vērtību — iegūtā elektroenerģija vai siltumenerģija, kā arī dabasgāze (tostarp sašķidrinātā dabasgāze un biometāns);
 
@@ -67,21 +67,21 @@ Vispārīgie noteikumi
 
 20) **gazificēts objekts** — dabasgāzes apgādes sistēmai pieslēgta būve vai tās daļa, kā arī iekārta;
 
-201) **gāzes izcelsmes apliecinājums** — elektronisks dokuments, kuru izmanto vienīgi kā pierādījumu, ka attiecīgais gāzes daudzums ir saražots no atjaunojamiem energoresursiem;
+20<sup>1</sup>) **gāzes izcelsmes apliecinājums** — elektronisks dokuments, kuru izmanto vienīgi kā pierādījumu, ka attiecīgais gāzes daudzums ir saražots no atjaunojamiem energoresursiem;
 
 21) **horizontālā integrācija** — viens energoapgādes komersants vai koncerns veic vismaz vienu no enerģijas ražošanas, pārvades, sadales, tirdzniecības vai dabasgāzes uzglabāšanas funkcijām un kādu darbību, kas nav saistīta ar energoapgādi;
 
 22) **Inčukalna pazemes gāzes krātuve** — pazemes un virszemes objekts, kuru izmanto dabasgāzes uzglabāšanai un kurš atrodas Krimuldas, Inčukalna un Sējas novadā;
 
-221) **individuālā aukstumapgādes sistēma** — atsevišķas ēkas aukstumapgādes sistēma, kas sastāv no dzesēšanas iekārtas, kura dzesē visu ēku, vai dzesēšanas iekārtām, kuras izmanto atsevišķu telpu dzesēšanai ēkā;
+22<sup>1</sup>) **individuālā aukstumapgādes sistēma** — atsevišķas ēkas aukstumapgādes sistēma, kas sastāv no dzesēšanas iekārtas, kura dzesē visu ēku, vai dzesēšanas iekārtām, kuras izmanto atsevišķu telpu dzesēšanai ēkā;
 
-222) **individuālā siltumapgādes sistēma** — atsevišķas ēkas siltumapgādes sistēma, kas sastāv no apkures iekārtas, kura apsilda visu ēku, vai apkures iekārtām, kuras izmanto atsevišķu telpu apsildīšanai ēkā;
+22<sup>2</sup>) **individuālā siltumapgādes sistēma** — atsevišķas ēkas siltumapgādes sistēma, kas sastāv no apkures iekārtas, kura apsilda visu ēku, vai apkures iekārtām, kuras izmanto atsevišķu telpu apsildīšanai ēkā;
 
-223) **koģenerācija** — tehnoloģiskais process, kurā lietderīgai izmantošanai vienlaikus ražo elektroenerģiju un siltumenerģiju;
+22<sup>3</sup>) **koģenerācija** — tehnoloģiskais process, kurā lietderīgai izmantošanai vienlaikus ražo elektroenerģiju un siltumenerģiju;
 
-224) **koģenerācijas iekārta** — iekārta vai iekārtu kopums, kas paredzēts vienlaicīgai elektroenerģijas un siltumenerģijas ražošanai vienotā tehnoloģiskajā procesā. Koģenerācijas iekārtā neietilpst iekārtas, ko izmanto tikai siltumenerģijas ražošanai vai tikai elektroenerģijas ražošanai;
+22<sup>4</sup>) **koģenerācijas iekārta** — iekārta vai iekārtu kopums, kas paredzēts vienlaicīgai elektroenerģijas un siltumenerģijas ražošanai vienotā tehnoloģiskajā procesā. Koģenerācijas iekārtā neietilpst iekārtas, ko izmanto tikai siltumenerģijas ražošanai vai tikai elektroenerģijas ražošanai;
 
-225) **koģenerācijas režīmā saražotā elektroenerģija** — elektroenerģija, kas saražota procesā, kurš ir saistīts ar lietderīgās siltumenerģijas ražošanu, veicot aprēķinus saskaņā ar apstiprinātu metodiku;
+22<sup>5</sup>) **koģenerācijas režīmā saražotā elektroenerģija** — elektroenerģija, kas saražota procesā, kurš ir saistīts ar lietderīgās siltumenerģijas ražošanu, veicot aprēķinus saskaņā ar apstiprinātu metodiku;
 
 23) **kurināmais** — nafta un naftas produkti, arī sašķidrinātā naftas gāze, dabasgāze, arī sašķidrinātā dabasgāze un biometāns, degakmens, degakmens gāze un eļļa, ogles, kūdra, kurināmā koksne un cita biomasa, tostarp bioloģiskais šķidrais kurināmais, kuru sadedzina enerģijas iegūšanai;
 
@@ -139,7 +139,7 @@ Vispārīgie noteikumi
 
 50) **tirgus dalībnieks** — dabasgāzes ražotājs, sistēmas operators, tirgotājs vai galalietotājs, kas darbojas dabasgāzes tirgū saskaņā ar brīvprātīgas līdzdalības principu;
 
-501) **universālais pakalpojums** — garantētas tiesības uz dabasgāzes piegādi noteiktā kvalitātē par viegli un skaidri salīdzināmu un pārskatāmu cenu;
+50<sup>1</sup>) **universālais pakalpojums** — garantētas tiesības uz dabasgāzes piegādi noteiktā kvalitātē par viegli un skaidri salīdzināmu un pārskatāmu cenu;
 
 51) **vertikāli integrēts komersants** — energoapgādes komersants vai koncerns, kuru tieši vai netieši kontrolē viena un tā pati persona vai vienas un tās pašas personas un kurš sniedz vismaz vienu no enerģijas pārvades, sadales, dabasgāzes uzglabāšanas vai sašķidrinātās dabasgāzes pakalpojumiem un vienlaikus nodarbojas ar enerģijas ražošanu vai tirdzniecību;
 
@@ -185,8 +185,7 @@ Enerģētikas politika ir valsts tautsaimniecības politikas sastāvdaļa, un t�
 
 ([05.06.2008](https://likumi.lv/ta/id/177092-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [04.07.2008.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2008/07/04))
 
-II nodaļa  
-Energoapgādes komersantu licencēšana, reģistrēšana un to darbība
+## II nodaļa  Energoapgādes komersantu licencēšana, reģistrēšana un to darbība
 
 (Nodaļas nosaukums [22.09.2011](https://likumi.lv/ta/id/237476-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [26.10.2011.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2011/10/26))
 
@@ -208,7 +207,7 @@ Energoapgādes komersantu licencēšana, reģistrēšana un to darbība
 
 (1) Sistēmas operatoram tā licences darbības zonā un licencē noteiktajā termiņā ir pastāvīgas saistības nodrošināt sistēmas lietotājiem un pretendentiem pieeju enerģijas pārvades vai sadales sistēmām, dabasgāzes krātuvei vai sašķidrinātās dabasgāzes iekārtām. Šīs saistības sistēmas operators pilda atbilstoši tehnisko noteikumu un drošības prasībām. Šīs daļas izpratnē ar drošību saprot enerģijas piegādes drošumu un tehnisko drošību.
 
-(11) Sistēmas operators septiņu darbdienu laikā informē regulatoru par katru gadījumu, kad sistēmas lietotājiem un pretendentiem atteikta pieeja sistēmai, un par pasākumiem, kas nepieciešami, lai uzlabotu sistēmu un palielinātu tās jaudu.
+(1<sup>1</sup>) Sistēmas operators septiņu darbdienu laikā informē regulatoru par katru gadījumu, kad sistēmas lietotājiem un pretendentiem atteikta pieeja sistēmai, un par pasākumiem, kas nepieciešami, lai uzlabotu sistēmu un palielinātu tās jaudu.
 
 (12) Lai sistēmas operators varētu izpildīt savas saistības nodrošināt sistēmas lietotājiem un pretendentiem pieeju dabasgāzes pārvades vai sadales sistēmām, dabasgāzes krātuvei vai sašķidrinātās dabasgāzes iekārtām gadījumā, kad šo saistību izpildīšanai nepieciešamā kustamā vai nekustamā manta ir valsts īpašumā un tās aizvietošana ar citu kustamu vai nekustamu mantu sistēmas operatoram objektīvi nav iespējama, valsts nodrošina sistēmas operatora tiesības izmantot minēto kustamo vai nekustamo mantu attiecīgo saistību nodrošināšanai.
 
