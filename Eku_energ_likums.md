@@ -1,4 +1,6 @@
 # Ēku energoefektivitātes likums
+#### URL:https://likumi.lv/ta/id/253635-eku-energoefektivitates-likums
+
 Grozījumi:
 
 10.03.2016. likums / LV, 57, 22.03.2016. / Stājas spēkā 05.04.2016. 15.06.2017. likums / LV, 124, 22.06.2017. / Stājas spēkā 06.07.2017. 01.11.2018. likums / LV, 225, 14.11.2018. / Stājas spēkā 28.11.2018. 08.10.2020. likums / LV, 202A, 19.10.2020. / Stājas spēkā 02.11.2020.
@@ -42,7 +44,7 @@ Likuma mērķis ir veicināt energoresursu racionālu izmantošanu, uzlabojot ē
 
 4) prasības augstas efektivitātes sistēmu izmantošanai.
 
-(11) Projektējamu, pārbūvējamu vai atjaunojamu ēku minimālās energoefektivitātes prasības nosaka būvniecības jomu regulējoši normatīvie akti, ņemot vērā šajā likumā noteiktos izņēmumus un prasības augstas efektivitātes sistēmu izmantošanai.
+(1<sup>1</sup>) Projektējamu, pārbūvējamu vai atjaunojamu ēku minimālās energoefektivitātes prasības nosaka būvniecības jomu regulējoši normatīvie akti, ņemot vērā šajā likumā noteiktos izņēmumus un prasības augstas efektivitātes sistēmu izmantošanai.
 
 (2) Šā likuma prasības nepiemēro ēkām:
 
@@ -158,7 +160,7 @@ Likuma mērķis ir veicināt energoresursu racionālu izmantošanu, uzlabojot ē
 
 (2) Ekspluatējamas ēkas energosertifikācija nav jāveic, lai pārdotu, izīrētu vai iznomātu to ēkas daļu, kurai nav individuāla energonesēja vai siltumenerģijas uzskaites.
 
-(21) Ekspluatējamas ēkas daļas energosertifikāciju var neveikt, lai šo ēku pārdotu, izīrētu vai iznomātu, ja ir spēkā esošs attiecīgās ēkas energosertifikāts vai pagaidu energosertifikāts.
+(2<sup>1</sup>) Ekspluatējamas ēkas daļas energosertifikāciju var neveikt, lai šo ēku pārdotu, izīrētu vai iznomātu, ja ir spēkā esošs attiecīgās ēkas energosertifikāts vai pagaidu energosertifikāts.
 
 (3) Ēku energosertifikācijas kārtību nosaka Ministru kabinets.
 
@@ -316,21 +318,21 @@ Likuma mērķis ir veicināt energoresursu racionālu izmantošanu, uzlabojot ē
 
 (Ar grozījumiem, kas izdarīti ar [15.06.2017](https://likumi.lv/ta/id/291730-grozijumi-eku-energoefektivitates-likuma). likumu, kas stājas spēkā [06.07.2017.](https://likumi.lv/ta/id/253635-eku-energoefektivitates-likums/redakcijas-datums/2017/07/06))
 
-Pārejas noteikumi
+## Pārejas noteikumi
 
-1\. Ar šā likuma spēkā stāšanos spēku zaudē Ēku [energoefektivitātes likums](https://likumi.lv/ta/id/280932-energoefektivitates-likums) (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2008, 9.nr.; Latvijas Vēstnesis, 2010, 43.nr.).
+1. Ar šā likuma spēkā stāšanos spēku zaudē Ēku [energoefektivitātes likums](https://likumi.lv/ta/id/280932-energoefektivitates-likums) (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2008, 9.nr.; Latvijas Vēstnesis, 2010, 43.nr.).
 
-2\. Līdz 2015.gada 9.jūlijam šā likuma [7.panta](https://likumi.lv/ta/id/253635#p7) pirmās daļas 5.punktā noteikto ēku energosertifikāciju veic ekspluatējamām valstij vai pašvaldībai piederošām publiskām ēkām, kuru apkurināmā platība pārsniedz 500 kvadrātmetrus.
+2. Līdz 2015.gada 9.jūlijam šā likuma [7.panta](https://likumi.lv/ta/id/253635#p7) pirmās daļas 5.punktā noteikto ēku energosertifikāciju veic ekspluatējamām valstij vai pašvaldībai piederošām publiskām ēkām, kuru apkurināmā platība pārsniedz 500 kvadrātmetrus.
 
-3\. Līdz 2015.gada 31.decembrim šā likuma [7.panta](https://likumi.lv/ta/id/253635#p7) pirmās daļas 4.punktā noteikto ēkas daļas energosertifikāciju nepiemēro, ja attiecīgo ēkas daļu izīrē vai iznomā.
+3. Līdz 2015.gada 31.decembrim šā likuma [7.panta](https://likumi.lv/ta/id/253635#p7) pirmās daļas 4.punktā noteikto ēkas daļas energosertifikāciju nepiemēro, ja attiecīgo ēkas daļu izīrē vai iznomā.
 
-4\. Līdz 2015.gada 31.decembrim šā likuma [7.panta](https://likumi.lv/ta/id/253635#p7) pirmās daļas 4.punktā noteikto ēkas daļas energosertifikāciju nepiemēro attiecīgās ēkas daļai, ja tā ir izīrēta vai iznomāta līdz šā likuma spēkā stāšanās dienai.
+4. Līdz 2015.gada 31.decembrim šā likuma [7.panta](https://likumi.lv/ta/id/253635#p7) pirmās daļas 4.punktā noteikto ēkas daļas energosertifikāciju nepiemēro attiecīgās ēkas daļai, ja tā ir izīrēta vai iznomāta līdz šā likuma spēkā stāšanās dienai.
 
-7\. Ēkās, kuras tiek nodotas lietošanā tiešās pārvaldes iestādei, sākot ar 2016.gada 1.aprīli, un kuras neatbilst energoefektivitātes minimālajām prasībām, triju gadu laikā no nomas līguma noslēgšanas dienas ievieš vismaz trīs attiecīgās ēkas energosertifikāta pārskatā norādītos energoefektivitāti uzlabojošos pasākumus, kuru izmaksas ir rentablas paredzamajā (plānotajā) kalpošanas laikā.
+7. Ēkās, kuras tiek nodotas lietošanā tiešās pārvaldes iestādei, sākot ar 2016.gada 1.aprīli, un kuras neatbilst energoefektivitātes minimālajām prasībām, triju gadu laikā no nomas līguma noslēgšanas dienas ievieš vismaz trīs attiecīgās ēkas energosertifikāta pārskatā norādītos energoefektivitāti uzlabojošos pasākumus, kuru izmaksas ir rentablas paredzamajā (plānotajā) kalpošanas laikā.
 
 ([10.03.2016](https://likumi.lv/ta/id/281087-grozijumi-eku-energoefektivitates-likuma). likuma redakcijā, kas stājas spēkā [05.04.2016.](https://likumi.lv/ta/id/253635-eku-energoefektivitates-likums/redakcijas-datums/2016/04/05))
 
-8\. Ēkām, kuras nodotas lietošanā tiešās pārvaldes iestādei līdz 2016.gada 31.martam, nomas līguma darbības laikā nav piemērojama šā likuma [13.panta](https://likumi.lv/ta/id/253635#p13) pirmās daļas 2.punktā noteiktā prasība.
+8. Ēkām, kuras nodotas lietošanā tiešās pārvaldes iestādei līdz 2016.gada 31.martam, nomas līguma darbības laikā nav piemērojama šā likuma [13.panta](https://likumi.lv/ta/id/253635#p13) pirmās daļas 2.punktā noteiktā prasība.
 
 ([10.03.2016](https://likumi.lv/ta/id/281087-grozijumi-eku-energoefektivitates-likuma). likuma redakcijā, kas stājas spēkā [05.04.2016.](https://likumi.lv/ta/id/253635-eku-energoefektivitates-likums/redakcijas-datums/2016/04/05))
 
@@ -354,7 +356,7 @@ Pārejas noteikumi
 
 ([08.10.2020](https://likumi.lv/ta/id/318033-grozijumi-eku-energoefektivitates-likuma). likuma redakcijā, kas stājas spēkā [02.11.2020.](https://likumi.lv/ta/id/253635-eku-energoefektivitates-likums/redakcijas-datums/2020/11/02))
 
-Informatīva atsauce uz Eiropas Savienības direktīvām
+## Informatīva atsauce uz Eiropas Savienības direktīvām
 
 ([10.03.2016](https://likumi.lv/ta/id/281087-grozijumi-eku-energoefektivitates-likuma). likuma redakcijā ar grozījumiem, kas izdarīti ar [08.10.2020](https://likumi.lv/ta/id/318033-grozijumi-eku-energoefektivitates-likuma). likumu, kas stājas spēkā [02.11.2020.](https://likumi.lv/ta/id/253635-eku-energoefektivitates-likums/redakcijas-datums/2020/11/02))
 
