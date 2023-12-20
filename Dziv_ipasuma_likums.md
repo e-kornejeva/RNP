@@ -1,4 +1,5 @@
 # Dzīvokļa īpašuma likums
+#### URL:https://likumi.lv/doc.php?id=221382
 Grozījumi:
 
 17.11.2016. likums / LV, 239, 08.12.2016. / Stājas spēkā 01.01.2017. 22.06.2017. likums / LV, 128, 29.06.2017. / Stājas spēkā 13.07.2017. 21.01.2021. likums / LV, 22, 02.02.2021. / Stājas spēkā 03.02.2021. 06.07.2021. likums / LV, 139, 22.07.2021. / Stājas spēkā 05.08.2021. 16.12.2021. likums / LV, 244B, 17.12.2021. / Stājas spēkā 01.01.2022. 17.03.2022. likums / LV, 63, 30.03.2022. / Stājas spēkā 13.04.2022. 31.03.2022. likums / LV, 75A, 19.04.2022. / Stājas spēkā 03.05.2022.
@@ -8,8 +9,7 @@ prezidents izsludina šādu likumu:
 
 Dzīvokļa īpašuma likums
 
-I nodaļa  
-Dzīvokļa īpašums
+## I nodaļa  Dzīvokļa īpašums
 
 **1.pants. Likuma uzdevums**
 
@@ -87,8 +87,7 @@ Likuma uzdevums ir noteikt dzīvokļa īpašuma statusu, dzīvokļa īpašnieka 
 
 Dzīvokļa īpašums tiek izbeigts, ja tas gājis bojā vai tiek pārveidots par citu īpašumu uz likuma, tiesas sprieduma, darījuma, tai skaitā dzīvokļu īpašnieku lēmuma vai testamenta pamata.
 
-II nodaļa  
-Dzīvokļa īpašnieks, viņa tiesības, pienākumi un atbildība
+## II nodaļa  Dzīvokļa īpašnieks, viņa tiesības, pienākumi un atbildība
 
 **8.pants. Dzīvokļa īpašnieks**
 
@@ -170,7 +169,7 @@ Dzīvokļa īpašniekam attiecībā uz dzīvokļa īpašumu ir pilnīgas varas t
 
 ([06.07.2021](https://likumi.lv/ta/id/324922-grozijumi-dzivokla-ipasuma-likuma). likuma redakcijā, kas stājas spēkā [05.08.2021.](https://likumi.lv/ta/id/221382-dzivokla-ipasuma-likums/redakcijas-datums/2021/08/05))
 
-**11.1 pants. Atsevišķas dzīvojamās mājas dzīvokļu īpašnieku tiesības ierosināt būvniecību un veikt remontdarbus**
+**11.<sup>1</sup> pants. Atsevišķas dzīvojamās mājas dzīvokļu īpašnieku tiesības ierosināt būvniecību un veikt remontdarbus**
 
 Ja uz dzīvokļu īpašnieku kopīpašumā esoša zemesgabala atrodas vairākas dzīvojamās mājas, atsevišķā dzīvojamā mājā veikt remontdarbus vai ierosināt būvniecību, ciktāl tā neskar citu atsevišķo dzīvojamo māju vai zemesgabalu un nemaina kopīpašumā esošo domājamo daļu, var tie dzīvokļu īpašnieki, kuriem piederošie atsevišķie īpašumi atrodas šajā dzīvojamā mājā.
 
@@ -194,9 +193,9 @@ Ja uz dzīvokļu īpašnieku kopīpašumā esoša zemesgabala atrodas vairākas 
 
 3) pasākumiem, kuru rezultātā tiek veicināta vides pieejamības prasību izpilde.
 
-(21) Dzīvokļa īpašnieks atbilstoši viņa dzīvokļa īpašumā ietilpstošās kopīpašuma domājamās daļas apmēram veic uz dzīvokļu īpašnieku kopības lēmuma pamata noteiktos naudas maksājumus uzkrājumu fondā šā panta pirmajā un otrajā daļā paredzēto dzīvojamās mājas pārvaldīšanas darbību veikšanai. Pieņemot minēto lēmumu, dzīvokļu īpašnieku kopība izvērtē dokumentus, kas pamato attiecīgo darbību veikšanu un to izmaksas.
+(2<sup>1</sup>) Dzīvokļa īpašnieks atbilstoši viņa dzīvokļa īpašumā ietilpstošās kopīpašuma domājamās daļas apmēram veic uz dzīvokļu īpašnieku kopības lēmuma pamata noteiktos naudas maksājumus uzkrājumu fondā šā panta pirmajā un otrajā daļā paredzēto dzīvojamās mājas pārvaldīšanas darbību veikšanai. Pieņemot minēto lēmumu, dzīvokļu īpašnieku kopība izvērtē dokumentus, kas pamato attiecīgo darbību veikšanu un to izmaksas.
 
-(22) Šā panta 2.1 daļā minēto naudas maksājumu veikšanas un izmantošanas kārtību nosaka dzīvokļu īpašnieku kopība.
+(2<sup>2</sup>) Šā panta 2.<sup>1</sup> daļā minēto naudas maksājumu veikšanas un izmantošanas kārtību nosaka dzīvokļu īpašnieku kopība.
 
 (3) Pieņemot šā panta otrajā daļā minēto lēmumu, dzīvokļu īpašnieku kopība izvērtē dokumentus, kas pamato attiecīgo darbību izmaksu efektivitāti atbilstoši šā panta otrās daļas 1. un 2.punktā noteiktajam.
 
@@ -216,8 +215,7 @@ Ja uz dzīvokļu īpašnieku kopīpašumā esoša zemesgabala atrodas vairākas 
 
 (Ar grozījumiem, kas izdarīti ar [17.03.2022](https://likumi.lv/ta/id/331195-grozijumi-dzivokla-ipasuma-likuma). likumu, kas stājas spēkā [13.04.2022.](https://likumi.lv/ta/id/221382-dzivokla-ipasuma-likums/redakcijas-datums/2022/04/13))
 
-III nodaļa  
-Dzīvokļu īpašnieku kopība
+## III nodaļa  Dzīvokļu īpašnieku kopība
 
 **15. pants. Dzīvokļu īpašnieku kopība**
 
@@ -231,7 +229,7 @@ Dzīvokļu īpašnieku kopība
 
 ([17.03.2022](https://likumi.lv/ta/id/331195-grozijumi-dzivokla-ipasuma-likuma). likuma redakcijā, kas stājas spēkā [13.04.2022.](https://likumi.lv/ta/id/221382-dzivokla-ipasuma-likums/redakcijas-datums/2022/04/13))
 
-**15.1 pants. Dzīvokļu īpašnieku kopības pārstāvji**
+**15.<sup>1</sup> pants. Dzīvokļu īpašnieku kopības pārstāvji**
 
 (1) Dzīvokļu īpašnieku kopību attiecībās ar trešām personām un tiesā, ciktāl tas nepieciešams dzīvokļu īpašnieku kopības uzdoto pārvaldīšanas darbību īstenošanai, pārstāv pārvaldnieks, ja vien dzīvokļu īpašnieku kopības pārstāvību konkrētajā gadījumā neīsteno tās pilnvarotā persona. Ārpus uzdotajām pārvaldīšanas darbībām vai gadījumā, kad ir noslēgts aizdevuma līgums, pārvaldnieks ir tiesīgs pārstāvēt dzīvokļu īpašnieku kopību tikai uz atsevišķa kopības lēmuma pamata.
 
@@ -247,7 +245,7 @@ Dzīvokļu īpašnieku kopība
 
 ([17.03.2022](https://likumi.lv/ta/id/331195-grozijumi-dzivokla-ipasuma-likuma). likuma redakcijā, kas stājas spēkā [13.04.2022.](https://likumi.lv/ta/id/221382-dzivokla-ipasuma-likums/redakcijas-datums/2022/04/13))
 
-**15.2 pants. Dzīvokļu īpašnieku kopības manta**
+**15.<sup>2</sup> pants. Dzīvokļu īpašnieku kopības manta**
 
 (1) Dzīvokļu īpašnieku kopības manta ir:
 
@@ -275,7 +273,7 @@ Dzīvokļu īpašnieku kopība
 
 ([17.03.2022](https://likumi.lv/ta/id/331195-grozijumi-dzivokla-ipasuma-likuma). likuma redakcijā, kas stājas spēkā [13.04.2022.](https://likumi.lv/ta/id/221382-dzivokla-ipasuma-likums/redakcijas-datums/2022/04/13))
 
-**15.3 pants. Dzīvokļu īpašnieku kopības tiesības un pienākumi, veicot saimniecisko darbību vai nodarbinot fizisko personu**
+**15.<sup>3</sup> pants. Dzīvokļu īpašnieku kopības tiesības un pienākumi, veicot saimniecisko darbību vai nodarbinot fizisko personu**
 
 (1) Dzīvokļu īpašnieku kopībai tās kompetences ietvaros ir tiesības veikt saimniecisko darbību (piemēram, iznomāt kopīpašumā esošo daļu), ievērojot šajā likumā un citos, tostarp grāmatvedību jomu un nodokļu jomu regulējošos, normatīvajos aktos noteiktos pienākumus un īstenojot tajos noteiktās tiesības.
 
@@ -305,7 +303,7 @@ Dzīvokļu īpašnieku kopība
 
 2) kopīpašumā esošās daļas lietošanas kārtības noteikšanu dzīvokļu īpašnieku starpā;
 
-21) atsevišķā īpašuma robežās esošo dzīvojamās mājas kopīpašuma elementu pārbūves un restaurācijas kārtību;
+2</sup>1</sup>) atsevišķā īpašuma robežās esošo dzīvojamās mājas kopīpašuma elementu pārbūves un restaurācijas kārtību;
 
 3) dzīvokļu īpašnieku pirmpirkuma tiesību nodibināšanu un atcelšanu;
 
@@ -341,7 +339,7 @@ Dzīvokļu īpašnieku kopība
 
 (4) Dzīvokļa īpašnieks, pilnvarojot citu personu pārstāvēt viņa intereses dzīvokļu īpašnieku kopībā, noformē par to rakstveida pilnvarojumu.
 
-(41) Dzīvokļa īpašnieks, izmantojot Būvniecības informācijas sistēmā šim mērķim izveidotu elektronisko pakalpojumu, var pilnvarot citu personu pārstāvēt viņa intereses dzīvokļu īpašnieku kopības lēmumu pieņemšanā vai atsaukt Būvniecības informācijas sistēmā izdoto pilnvarojumu. Dzīvokļa īpašnieks pilnvaru paraksta ar drošu elektronisko parakstu vai izmanto Būvniecības informācijas sistēmas elektroniskajā pakalpojumā pieejamo elektroniskās parakstīšanas rīku.
+(4<sup>1</sup>) Dzīvokļa īpašnieks, izmantojot Būvniecības informācijas sistēmā šim mērķim izveidotu elektronisko pakalpojumu, var pilnvarot citu personu pārstāvēt viņa intereses dzīvokļu īpašnieku kopības lēmumu pieņemšanā vai atsaukt Būvniecības informācijas sistēmā izdoto pilnvarojumu. Dzīvokļa īpašnieks pilnvaru paraksta ar drošu elektronisko parakstu vai izmanto Būvniecības informācijas sistēmas elektroniskajā pakalpojumā pieejamo elektroniskās parakstīšanas rīku.
 
 (42) Ja dzīvokļa īpašnieks ir izdevis pilnvaru, neizmantojot Būvniecības informācijas sistēmu, persona, kas ved mājas lietu, pēc dzīvokļa īpašnieka pieprasījuma reģistrē pilnvaru Būvniecības informācijas sistēmā un atspoguļo pilnvarojuma apjomu. Reģistrējot pilnvaru, persona, kas ved mājas lietu, to augšupielādē Būvniecības informācijas sistēmā.
 
@@ -351,7 +349,7 @@ Dzīvokļu īpašnieku kopība
 
 (7) (Izslēgta ar [21.01.2021](https://likumi.lv/ta/id/320675-grozijumi-dzivokla-ipasuma-likuma). likumu)
 
-(71) Lai pieņemtu lēmumu par šā likuma [16.panta](https://likumi.lv/ta/id/221382#p16) otrās daļas 2.punktā minētajiem jautājumiem, nepieciešams, lai "par" nobalso dzīvokļu īpašnieki, kuri pārstāv vismaz trīs ceturtdaļas no visiem dzīvokļu īpašumiem. Lai pieņemtu lēmumu par ceļa zīmes izvietošanu, autostāvvietas izveidi personām ar invaliditāti vai autostāvvietas izveidi elektromobiļiem, ja vienlaikus tiek izveidots elektrotransportlīdzekļu uzlādes punkts, nepieciešams, lai "par" nobalso dzīvokļu īpašnieki, kuri pārstāv vairāk nekā pusi no visiem dzīvokļu īpašumiem.
+(7<sup>1</sup>) Lai pieņemtu lēmumu par šā likuma [16.panta](https://likumi.lv/ta/id/221382#p16) otrās daļas 2.punktā minētajiem jautājumiem, nepieciešams, lai "par" nobalso dzīvokļu īpašnieki, kuri pārstāv vismaz trīs ceturtdaļas no visiem dzīvokļu īpašumiem. Lai pieņemtu lēmumu par ceļa zīmes izvietošanu, autostāvvietas izveidi personām ar invaliditāti vai autostāvvietas izveidi elektromobiļiem, ja vienlaikus tiek izveidots elektrotransportlīdzekļu uzlādes punkts, nepieciešams, lai "par" nobalso dzīvokļu īpašnieki, kuri pārstāv vairāk nekā pusi no visiem dzīvokļu īpašumiem.
 
 (8) (Izslēgta ar [17.11.2016](https://likumi.lv/ta/id/287165-grozijumi-dzivokla-ipasuma-likuma). likumu)
 
@@ -437,7 +435,7 @@ Dzīvokļu īpašnieku kopība
 
 (Ar grozījumiem, kas izdarīti ar [17.11.2016.](https://likumi.lv/ta/id/287165-grozijumi-dzivokla-ipasuma-likuma) un [31.03.2022](https://likumi.lv/ta/id/331728-grozijumi-dzivokla-ipasuma-likuma). likumu, kas stājas spēkā [03.05.2022.](https://likumi.lv/ta/id/221382-dzivokla-ipasuma-likums/redakcijas-datums/2022/05/03))
 
-**20.1 pants. Dzīvokļu īpašnieku kopības lēmumu pieņemšanas procesā nepieciešamie dzīvokļu īpašnieku dati**
+**20.<sup>1</sup> pants. Dzīvokļu īpašnieku kopības lēmumu pieņemšanas procesā nepieciešamie dzīvokļu īpašnieku dati**
 
 Dzīvokļa īpašnieku identificējošos datus (fiziskajai personai — vārdu, uzvārdu, personas kodu; juridiskajai personai — nosaukumu, reģistrācijas numuru), kā arī datus par dzīvokļa īpašniekam piederošā dzīvokļa īpašuma atsevišķā īpašuma adresi un domājamām daļām un kadastra numuru dzīvokļu īpašnieku kopības lēmumu pieņemšanai Būvniecības informācijas sistēmā nodrošina bez maksas, izmantojot valsts informācijas sistēmas.
 
@@ -455,23 +453,26 @@ Dzīvokļa īpašnieku identificējošos datus (fiziskajai personai — vārdu, 
 
 **22. pants. Lēmumu pieņemšanas kārtība atsevišķā dzīvojamā mājā**
 
-Ja uz dzīvokļu īpašnieku kopīpašumā esoša zemesgabala atrodas vairākas dzīvojamās mājas, šā likuma [11.](https://likumi.lv/ta/id/221382#p11) panta trešajā daļā un [11.1](https://likumi.lv/ta/id/221382#p11_1) pantā minētos jautājumus izlemj, ievērojot šā likuma [17.](https://likumi.lv/ta/id/221382#p17), [18.](https://likumi.lv/ta/id/221382#p18), [19.](https://likumi.lv/ta/id/221382#p19), [20\.](https://likumi.lv/ta/id/221382#p20) un [21.](https://likumi.lv/ta/id/221382#p21) panta noteikumus. Lēmuma pieņemšanai nepieciešamo balsu skaitu aprēķina, ņemot vērā atsevišķā dzīvojamā mājā esošo dzīvokļu īpašumu skaitu.
+Ja uz dzīvokļu īpašnieku kopīpašumā esoša zemesgabala atrodas vairākas dzīvojamās mājas, šā likuma [11.](https://likumi.lv/ta/id/221382#p11) panta trešajā daļā un [11.<sup>1</sup>](https://likumi.lv/ta/id/221382#p11_1) pantā minētos jautājumus izlemj, ievērojot šā likuma [17.](https://likumi.lv/ta/id/221382#p17), [18.](https://likumi.lv/ta/id/221382#p18), [19.](https://likumi.lv/ta/id/221382#p19), [20\.](https://likumi.lv/ta/id/221382#p20) un [21.](https://likumi.lv/ta/id/221382#p21) panta noteikumus. Lēmuma pieņemšanai nepieciešamo balsu skaitu aprēķina, ņemot vērā atsevišķā dzīvojamā mājā esošo dzīvokļu īpašumu skaitu.
 
 ([06.07.2021](https://likumi.lv/ta/id/324922-grozijumi-dzivokla-ipasuma-likuma). likuma redakcijā, kas stājas spēkā [05.08.2021.](https://likumi.lv/ta/id/221382-dzivokla-ipasuma-likums/redakcijas-datums/2021/08/05))
 
-1\. Ar šā likuma spēkā stāšanos spēku zaudē likums “[Par dzīvokļa īpašumu](https://likumi.lv/ta/id/37270-par-dzivokla-ipasumu)” (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 1.nr.; 1997, 4.nr.; 1998, 23.nr.; 2001, 24.nr.; 2004, 9.nr.; 2009, 24.nr.).
+## Pārejas noteikumi
+(Nodaļas nosaukums 17.11.2016. likuma redakcijā, kas stājas spēkā 01.01.2017.)
+
+1. Ar šā likuma spēkā stāšanos spēku zaudē likums “[Par dzīvokļa īpašumu](https://likumi.lv/ta/id/37270-par-dzivokla-ipasumu)” (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 1.nr.; 1997, 4.nr.; 1998, 23.nr.; 2001, 24.nr.; 2004, 9.nr.; 2009, 24.nr.).
 
 (Punkta numerācija grozīta ar [17.11.2016](https://likumi.lv/ta/id/287165-grozijumi-dzivokla-ipasuma-likuma). likumu, kas stājas spēkā [01.01.2017.](https://likumi.lv/ta/id/221382-dzivokla-ipasuma-likums/redakcijas-datums/2017/01/01))
 
-2\. Grozījums šā likuma [5.pantā](https://likumi.lv/ta/id/221382#p5) par tā papildināšanu ar sesto daļu (par dzīvokļa īpašuma atsevišķā īpašuma un kopīpašuma domājamo daļu pārrēķināšanu, ja dzīvojamās mājas privatizācijas procesā kopīpašuma domājamās daļas aprēķinātas neatbilstoši šā likuma [5.panta](https://likumi.lv/ta/id/221382#p5) pirmajai daļai) stājas spēkā vienlaikus ar [Nekustamā īpašuma valsts kadastra likumā](https://likumi.lv/ta/id/124247-nekustama-ipasuma-valsts-kadastra-likums) un [Zemesgrāmatu likumā](https://likumi.lv/ta/id/60460-zemesgramatu-likums) izdarītajiem grozījumiem, kas nosaka pārrēķināto dzīvokļa īpašuma atsevišķā īpašuma un kopīpašuma domājamo daļu aktualizēšanu zemesgrāmatā.
+2. Grozījums šā likuma [5.pantā](https://likumi.lv/ta/id/221382#p5) par tā papildināšanu ar sesto daļu (par dzīvokļa īpašuma atsevišķā īpašuma un kopīpašuma domājamo daļu pārrēķināšanu, ja dzīvojamās mājas privatizācijas procesā kopīpašuma domājamās daļas aprēķinātas neatbilstoši šā likuma [5.panta](https://likumi.lv/ta/id/221382#p5) pirmajai daļai) stājas spēkā vienlaikus ar [Nekustamā īpašuma valsts kadastra likumā](https://likumi.lv/ta/id/124247-nekustama-ipasuma-valsts-kadastra-likums) un [Zemesgrāmatu likumā](https://likumi.lv/ta/id/60460-zemesgramatu-likums) izdarītajiem grozījumiem, kas nosaka pārrēķināto dzīvokļa īpašuma atsevišķā īpašuma un kopīpašuma domājamo daļu aktualizēšanu zemesgrāmatā.
 
 ([17.11.2016](https://likumi.lv/ta/id/287165-grozijumi-dzivokla-ipasuma-likuma). likuma redakcijā, kas stājas spēkā [01.01.2017.](https://likumi.lv/ta/id/221382-dzivokla-ipasuma-likums/redakcijas-datums/2017/01/01))
 
-3\. Šā likuma [3.](https://likumi.lv/ta/id/221382#p3) panta pirmās daļas jaunā redakcija (par atsevišķā īpašuma kā telpu grupas reģistrēšanu Nekustamā īpašuma valsts kadastra informācijas sistēmā) neattiecas uz tiem dzīvokļu īpašumiem, kuri Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēti līdz 2016. gada 31. decembrim.
+3. Šā likuma [3.](https://likumi.lv/ta/id/221382#p3) panta pirmās daļas jaunā redakcija (par atsevišķā īpašuma kā telpu grupas reģistrēšanu Nekustamā īpašuma valsts kadastra informācijas sistēmā) neattiecas uz tiem dzīvokļu īpašumiem, kuri Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēti līdz 2016. gada 31. decembrim.
 
 ([22.06.2017](https://likumi.lv/ta/id/291862-grozijumi-dzivokla-ipasuma-likuma). likuma redakcijā, kas stājas spēkā [13.07.2017.](https://likumi.lv/ta/id/221382-dzivokla-ipasuma-likums/redakcijas-datums/2017/07/13))
 
-4\. Grozījums šā likuma [4.](https://likumi.lv/ta/id/221382#p4) panta pirmās daļas 1. punktā (par vārdu "dzīvojamā māja" aizstāšanu ar vārdiem "atsevišķa dzīvojamā māja") neattiecas uz tiem dzīvokļu īpašumiem, kuri Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēti līdz 2016. gada 31. decembrim, kā arī uz tām dzīvojamām mājām, kuras ierakstītas zemesgrāmatā vai arī kuru būvniecībai būvatļauja izdota līdz 2016. gada 31. decembrim.
+4. Grozījums šā likuma [4.](https://likumi.lv/ta/id/221382#p4) panta pirmās daļas 1. punktā (par vārdu "dzīvojamā māja" aizstāšanu ar vārdiem "atsevišķa dzīvojamā māja") neattiecas uz tiem dzīvokļu īpašumiem, kuri Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēti līdz 2016. gada 31. decembrim, kā arī uz tām dzīvojamām mājām, kuras ierakstītas zemesgrāmatā vai arī kuru būvniecībai būvatļauja izdota līdz 2016. gada 31. decembrim.
 
 ([22.06.2017](https://likumi.lv/ta/id/291862-grozijumi-dzivokla-ipasuma-likuma). likuma redakcijā, kas stājas spēkā [13.07.2017.](https://likumi.lv/ta/id/221382-dzivokla-ipasuma-likums/redakcijas-datums/2017/07/13))
 
@@ -483,15 +484,15 @@ Ja uz dzīvokļu īpašnieku kopīpašumā esoša zemesgabala atrodas vairākas 
 
 ([16.12.2021](https://likumi.lv/ta/id/328519-grozijumi-dzivokla-ipasuma-likuma). likuma redakcijā, kas stājas spēkā [01.01.2022.](https://likumi.lv/ta/id/221382-dzivokla-ipasuma-likums/redakcijas-datums/2022/01/01))
 
-7\. Dzīvokļu īpašnieku kopībai, kas veic saimniecisko darbību vai nodarbina fizisko personu, kas nav reģistrēta kā saimnieciskās darbības veicējs, ir pienākums sešu mēnešu laikā no šā likuma [15.3](https://likumi.lv/ta/id/221382#p15_3) panta spēkā stāšanās dienas reģistrēties Valsts ieņēmumu dienestā kā nodokļu maksātājam.
+7. Dzīvokļu īpašnieku kopībai, kas veic saimniecisko darbību vai nodarbina fizisko personu, kas nav reģistrēta kā saimnieciskās darbības veicējs, ir pienākums sešu mēnešu laikā no šā likuma [15.3](https://likumi.lv/ta/id/221382#p15_3) panta spēkā stāšanās dienas reģistrēties Valsts ieņēmumu dienestā kā nodokļu maksātājam.
 
 ([17.03.2022](https://likumi.lv/ta/id/331195-grozijumi-dzivokla-ipasuma-likuma). likuma redakcijā, kas stājas spēkā [13.04.2022.](https://likumi.lv/ta/id/221382-dzivokla-ipasuma-likums/redakcijas-datums/2022/04/13))
 
-8\. Līdz brīdim, kad stājas spēkā grozījumi normatīvajos aktos, kas nosaka nodokļu maksātāju reģistrāciju Valsts ieņēmumu dienestā, Valsts ieņēmumu dienests reģistrē dzīvokļu īpašnieku kopības nodokļu maksātāju reģistrā vispārējā kārtībā.
+8. Līdz brīdim, kad stājas spēkā grozījumi normatīvajos aktos, kas nosaka nodokļu maksātāju reģistrāciju Valsts ieņēmumu dienestā, Valsts ieņēmumu dienests reģistrē dzīvokļu īpašnieku kopības nodokļu maksātāju reģistrā vispārējā kārtībā.
 
 ([17.03.2022](https://likumi.lv/ta/id/331195-grozijumi-dzivokla-ipasuma-likuma). likuma redakcijā, kas stājas spēkā [13.04.2022.](https://likumi.lv/ta/id/221382-dzivokla-ipasuma-likums/redakcijas-datums/2022/04/13))
 
-9\. No 2022. gada 1. maija pilnvarojuma dokumentus, kas iesniegti Būvniecības informācijas sistēmā, papildus apliecina ar pamatdarbības informācijas sistēmas izveidotu kvalificētu elektronisko zīmogu regulas Nr. 910/2014 3. panta 27. punkta izpratnē un laika zīmogu regulas Nr. 910/2014 3. panta 33. punkta izpratnē.
+9. No 2022. gada 1. maija pilnvarojuma dokumentus, kas iesniegti Būvniecības informācijas sistēmā, papildus apliecina ar pamatdarbības informācijas sistēmas izveidotu kvalificētu elektronisko zīmogu regulas Nr. 910/2014 3. panta 27. punkta izpratnē un laika zīmogu regulas Nr. 910/2014 3. panta 33. punkta izpratnē.
 
 ([31.03.2022](https://likumi.lv/ta/id/331728-grozijumi-dzivokla-ipasuma-likuma). likuma redakcijā, kas stājas spēkā [03.05.2022.](https://likumi.lv/ta/id/221382-dzivokla-ipasuma-likums/redakcijas-datums/2022/05/03))
 
