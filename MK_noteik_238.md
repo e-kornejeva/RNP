@@ -2335,10 +2335,14 @@ Piezīme. Rīkojuma zīmei ir apļveida forma, balta (piemēram, RAL 9003) pikto
 7\. Ugunsdzēsības transportam paredzētās zīmes
 
 
-|                                    |   |
-|------------------------------------|---|
-|7.4. Vieta ugunsdzēsības transportam|   |
-|                                    |   |
+
+
+| 7.1. Piebrauktuve ugunsdzēsības transportam. Apstāšanās vai stāvēšanas ierobežojums pa labi un pa kreisi no zīmes | 7.2. Piebrauktuve ugunsdzēsības transportam. Apstāšanās vai stāvēšanas ierobežojums pa kreisi no zīmes | 7.3. Piebrauktuve ugunsdzēsības transportam. Apstāšanās vai stāvēšanas ierobežojums pa labi no zīmes |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE030.JPG)                                           | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE031.JPG)                                | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE032.JPG)                              |
+
+
+
 
 
 Piezīme. Ugunsdzēsības transportam paredzētajai zīmei ir taisnstūra forma, melni (piemēram, RAL 9004) vārdi vai piktogramma uz balta (piemēram, RAL 9003) fona ar sarkanu (piemēram, RAL 3001) bultu un apmali.
@@ -2346,88 +2350,32 @@ Piezīme. Ugunsdzēsības transportam paredzētajai zīmei ir taisnstūra forma,
 8\. Ugunsdrošībai lietojamo zīmju minimālie izmēri atkarībā no redzamības attālumā
 
 
-
-* Maksimālais redzamības attālums (m): Līdz 5 m
-  * Aplis(apļa diametrs mm): 50
-  * Kvadrāts(kvadrāta malu garums mm): 50 x 50
-  * Vienādmalu trijstūris(trijstūra malu garums mm): 50
-  * Taisnstūris(taisnstūra malu garums mm): 50 x 100
-* Maksimālais redzamības attālums (m): Līdz 10 m
-  * Aplis(apļa diametrs mm): 100
-  * Kvadrāts(kvadrāta malu garums mm): 100 x 100
-  * Vienādmalu trijstūris(trijstūra malu garums mm): 100
-  * Taisnstūris(taisnstūra malu garums mm): 100 x 200
-* Maksimālais redzamības attālums (m): Līdz 15 m
-  * Aplis(apļa diametrs mm): 150
-  * Kvadrāts(kvadrāta malu garums mm): 150 x 150
-  * Vienādmalu trijstūris(trijstūra malu garums mm): 150
-  * Taisnstūris(taisnstūra malu garums mm): 150 x 300
-* Maksimālais redzamības attālums (m): Līdz 20 m
-  * Aplis(apļa diametrs mm): 200
-  * Kvadrāts(kvadrāta malu garums mm): 200 x 200
-  * Vienādmalu trijstūris(trijstūra malu garums mm): 200
-  * Taisnstūris(taisnstūra malu garums mm): 200 x 400
+| Maksimālais redzamības attālums (m) | Aplis<br>(apļa diametrs mm) | Kvadrāts<br>(kvadrāta malu garums mm) | Vienādmalu trijstūris<br>(trijstūra malu garums mm) | Taisnstūris<br>(taisnstūra malu garums mm) |
+| ----------------------------------- | --------------------------- | ------------------------------------- | --------------------------------------------------- | ------------------------------------------ |
+| Līdz 5 m                            | 50                          | 50 x 50                               | 50                                                  | 50 x 100                                   |
+| Līdz 10 m                           | 100                         | 100 x 100                             | 100                                                 | 100 x 200                                  |
+| Līdz 15 m                           | 150                         | 150 x 150                             | 150                                                 | 150 x 300                                  |
+| Līdz 20 m                           | 200                         | 200 x 200                             | 200                                                 | 200 x 400                                  |
 
 
 Piezīme. Zīmes izmēri, krāsojums un fotometrija nodrošina tās saskatāmību un saprotamību.
 
 9\. Ugunsdzēsības sistēmu cauruļvadu marķējums
 
-
-
-* Cauruļvadi: ūdens ugunsdzēsības sistēmas
-  * Pamatmarķējuma signālkrāsojums,75 mm: sarkans(piemēram, RAL-3001)
-  * Identifikācijas marķējuma signālkrāsojums,100(30 + 40 + 30) mm: zaļš(piemēram, RAL-6010 vai RAL-6032)
-  * Pamatmarķējuma signālkrāsojums,75 mm: sarkans(piemēram, RAL-3001)
-* Cauruļvadi: putu šķīduma ugunsdzēsības sistēmas
-  * Pamatmarķējuma signālkrāsojums,75 mm: sarkans(piemēram, RAL-3001)
-  * Identifikācijas marķējuma signālkrāsojums,100(30 + 40 + 30) mm: violets(piemēram, RAL-4001)
-  * Pamatmarķējuma signālkrāsojums,75 mm: sarkans(piemēram, RAL-3001)
-* Cauruļvadi: Sausās ugunsdzēsības sistēmas
-  * Pamatmarķējuma signālkrāsojums,75 mm:  
-  * Identifikācijas marķējuma signālkrāsojums,100(30 + 40 + 30) mm:  
-  * Pamatmarķējuma signālkrāsojums,75 mm:  
-* Cauruļvadi: - no ievada līdz vadības mezglam
-  * Pamatmarķējuma signālkrāsojums,75 mm: sarkans(piemēram, RAL-3001)
-  * Identifikācijas marķējuma signālkrāsojums,100(30 + 40 + 30) mm: zaļš(piemēram, RAL-6010
-  * Pamatmarķējuma signālkrāsojums,75 mm: sarkans(piemēram, RAL-3001)
-* Cauruļvadi: - aiz vadības mezgla
-  * Pamatmarķējuma signālkrāsojums,75 mm: sarkans(piemēram, RAL-3001)
-  * Identifikācijas marķējuma signālkrāsojums,100(30 + 40 + 30) mm: gaiši zils(piemēram, RAL-5012)
-  * Pamatmarķējuma signālkrāsojums,75 mm: zaļš(piemēram, RAL-6010 vai RAL- 6032)
-  * gaiši zils(piemēram, RAL-5012)
-  * sarkans(piemēram, RAL-3001)
-* Cauruļvadi: Ūdens–gaisa ugunsdzēsības sistēmas
-  * Pamatmarķējuma signālkrāsojums,75 mm:  
-  * Identifikācijas marķējuma signālkrāsojums,100(30 + 40 + 30) mm:  
-  * Pamatmarķējuma signālkrāsojums,75 mm:  
-* Cauruļvadi: - no ievada līdz vadības mezglam
-  * Pamatmarķējuma signālkrāsojums,75 mm: sarkans(piemēram, RAL-3001)
-  * Identifikācijas marķējuma signālkrāsojums,100(30 + 40 + 30) mm: zaļš(piemēram, RAL-6010)
-  * Pamatmarķējuma signālkrāsojums,75 mm: sarkans(piemēram, RAL-3001)
-* Cauruļvadi: - aiz vadības mezgla
-  * Pamatmarķējuma signālkrāsojums,75 mm: sarkans(piemēram, RAL-3001)
-  * Identifikācijas marķējuma signālkrāsojums,100(30 + 40 + 30) mm: zaļš(piemēram, RAL-6010 vai RAL- 6032)
-  * Pamatmarķējuma signālkrāsojums,75 mm: gaiši zils(piemēram, RAL-5012)
-  * zaļš(piemēram, RAL-6010 vai RAL- 6032)
-  * sarkans(piemēram, RAL-3001)
-* Cauruļvadi: gāzes ugunsdzēsības sistēmas
-  * Pamatmarķējuma signālkrāsojums,75 mm: sarkans(piemēram, RAL-3001)
-  * Identifikācijas marķējuma signālkrāsojums,100(30 + 40 + 30) mm: oranžs(piemēram, RAL-2003)
-  * Pamatmarķējuma signālkrāsojums,75 mm: sarkans(piemēram, RAL-3001)
-* Cauruļvadi: ķīmisko šķīdumu ugunsdzēsības sistēmas
-  * Pamatmarķējuma signālkrāsojums,75 mm: sarkans(piemēram, RAL-3001)
-  * Identifikācijas marķējuma signālkrāsojums,100(30 + 40 + 30) mm: violets(piemēram, RAL-4001)
-  * Pamatmarķējuma signālkrāsojums,75 mm: sarkans(piemēram, RAL-3001)
-* Cauruļvadi: tvaika ugunsdzēsības sistēmas
-  * Pamatmarķējuma signālkrāsojums,75 mm: sarkans(piemēram, RAL-3001)
-  * Identifikācijas marķējuma signālkrāsojums,100(30 + 40 + 30) mm: sudrabpelēks(piemēram, RAL-9006)
-  * Pamatmarķējuma signālkrāsojums,75 mm: sarkans(piemēram, RAL-3001)
-* Cauruļvadi: pulvera ugunsdzēsības sistēmas
-  * Pamatmarķējuma signālkrāsojums,75 mm: sarkans(piemēram, RAL-3001)
-  * Identifikācijas marķējuma signālkrāsojums,100(30 + 40 + 30) mm: melns(piemēram, RAL-9005)
-  * Pamatmarķējuma signālkrāsojums,75 mm: sarkans(piemēram, RAL-3001)
-
+| Cauruļvadi                             | Pamatmarķējuma signālkrāsojums,<br>75 mm | Identifikācijas marķējuma signālkrāsojums,<br>100<br>(30 + 40 + 30) mm | Pamatmarķējuma signālkrāsojums,<br>75 mm   |
+| -------------------------------------- | ---------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------ |
+| ūdens ugunsdzēsības sistēmas           | sarkans<br>(piemēram, RAL-3001)          | zaļš<br>(piemēram, RAL-6010 vai RAL-6032)                              | sarkans<br>(piemēram, RAL-3001)            |
+| putu šķīduma ugunsdzēsības sistēmas    | sarkans<br>(piemēram, RAL-3001)          | violets<br>(piemēram, RAL-4001)                                        | sarkans<br>(piemēram, RAL-3001)            |
+| Sausās ugunsdzēsības sistēmas          |                                          |                                                                        |                                            |
+| \- no ievada līdz vadības mezglam      | sarkans<br>(piemēram, RAL-3001)          | zaļš<br>(piemēram, RAL-6010                                            | sarkans<br>(piemēram, RAL-3001)            |
+| \- aiz vadības mezgla                  | sarkans<br>(piemēram, RAL-3001)          | gaiši zils<br>(piemēram, RAL-5012)                                     | zaļš<br>(piemēram, RAL-6010 vai RAL- 6032) | gaiši zils<br>(piemēram, RAL-5012) | sarkans<br>(piemēram, RAL-3001) |
+| Ūdens–gaisa ugunsdzēsības sistēmas     |                                          |                                                                        |                                            |
+| \- no ievada līdz vadības mezglam      | sarkans<br>(piemēram, RAL-3001)          | zaļš<br>(piemēram, RAL-6010)                                           | sarkans<br>(piemēram, RAL-3001)            |
+| \- aiz vadības mezgla                  | sarkans<br>(piemēram, RAL-3001)          | zaļš<br>(piemēram, RAL-6010 vai RAL- 6032)                             | gaiši zils<br>(piemēram, RAL-5012)         | zaļš<br>(piemēram, RAL-6010 vai RAL- 6032) | sarkans<br>(piemēram, RAL-3001) |
+| gāzes ugunsdzēsības sistēmas           | sarkans<br>(piemēram, RAL-3001)          | oranžs<br>(piemēram, RAL-2003)                                         | sarkans<br>(piemēram, RAL-3001)            |
+| ķīmisko šķīdumu ugunsdzēsības sistēmas | sarkans<br>(piemēram, RAL-3001)          | violets<br>(piemēram, RAL-4001)                                        | sarkans<br>(piemēram, RAL-3001)            |
+| tvaika ugunsdzēsības sistēmas          | sarkans<br>(piemēram, RAL-3001)          | sudrabpelēks<br>(piemēram, RAL-9006)                                   | sarkans<br>(piemēram, RAL-3001)            |
+| pulvera ugunsdzēsības sistēmas         | sarkans<br>(piemēram, RAL-3001)          | melns<br>(piemēram, RAL-9005)                                          | sarkans<br>(piemēram, RAL-3001)            |
 
 [1.1 pielikums](https://m.likumi.lv/wwwraksti/2016/078/238/P1.1_19.09.2020.DOCX "Atvērt citā formātā")  
 Ministru kabineta  
