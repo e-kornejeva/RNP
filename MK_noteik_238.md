@@ -2486,7 +2486,19 @@ Iekšlietu ministrs Rihards Kozlovskis
 
 
 
+3. pielikums
+Ministru kabineta
+2016. gada 19. aprīļa
+noteikumiem Nr. 238
+Uzlīme par ugunsdzēsības aparāta tehniskā stāvokļa vizuālo apskati (novērtējumu)
+Datums, kurā veikta ugunsdzēsības aparāta tehniskā stāvokļa vizuālā apskate (novērtējums)
 
+| Datums, kurā veikta ugunsdzēsības aparāta tehniskā stāvokļa vizuālā apskate (novērtējums) | Ir vai nav konstatēts bojājums | Personas vārds, uzvārds un paraksts |
+| ----------------------------------------------------------------------------------------- | ------------------------------ | ----------------------------------- |
+|                                                                                           |                                |                                     |
+|                                                                                           |                                |                                     |
+ 	 	 
+Iekšlietu ministrs Rihards Kozlovskis
 
 
 
