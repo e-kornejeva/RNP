@@ -1,4 +1,5 @@
 # Dzīvesvietas deklarēšanas likums
+#### URL:https://likumi.lv/doc.php?id=64328
 Grozījumi:
 
 03.04.2003. likums / LV, 60, 17.04.2003.; Ziņotājs, 9, 08.05.2003. / Stājas spēkā 01.05.2003. 23.03.2006. likums / LV, 60, 13.04.2006.; Ziņotājs, 9, 11.05.2006. / Stājas spēkā 27.04.2006. 06.09.2007. likums / LV, 155, 26.09.2007.; Ziņotājs, 20, 25.10.2007. / Stājas spēkā 10.10.2007. 04.12.2008. likums / LV, 200, 23.12.2008.; Ziņotājs, 2, 29.01.2009. / Stājas spēkā 06.01.2009. 11.06.2009. likums / LV, 100, 30.06.2009.; Ziņotājs, 15, 13.08.2009. / Stājas spēkā 01.07.2009. 29.10.2009. likums / LV, 182, 17.11.2009. / Stājas spēkā 01.01.2010. 01.12.2009. likums / LV, 196, 15.12.2009. / Stājas spēkā 01.01.2010. 20.01.2011. likums / LV, 19, 03.02.2011. / Stājas spēkā 04.02.2011. 23.10.2014. likums / LV, 220, 05.11.2014. / Stājas spēkā 19.11.2014. 08.10.2015. likums / LV, 208, 23.10.2015. / Stājas spēkā 01.07.2016. 25.04.2019. likums / LV, 91, 09.05.2019. / Stājas spēkā 01.09.2019. 28.11.2019. likums / LV, 248A, 10.12.2019. / Stājas spēkā 24.12.2019. 17.06.2020. likums / LV, 123, 30.06.2020. / Stājas spēkā 01.07.2021.
@@ -90,7 +91,7 @@ Likuma mērķis ir panākt, lai ikviena persona būtu sasniedzama tiesiskajās a
 
 (3) Iestāde šajā likumā noteiktajos gadījumos pārbauda deklarēto ziņu patiesumu, kā arī pēc savas iniciatīvas veic dzīvesvietas reģistrāciju.
 
-(4) Pārvalde reģistrē ziņas par deklarēto dzīvesvietu, ja dzīvesvietas deklarētājs deklarāciju iesniedz elektroniski vai ja dzīvesvietu deklarē šā likuma [6\. panta](https://likumi.lv/ta/id/64328#p6) pirmās daļas 3., 4. vai 5. punktā minētā persona vai persona, attiecībā uz kuru Pārvalde pieņēmusi lēmumu par uzturēšanās atļaujas, reģistrācijas apliecības vai pastāvīgās uzturēšanās apliecības izsniegšanu vai tiesiskā statusa noteikšanu, kā arī ziņas par papildu adresi.
+(4) Pārvalde reģistrē ziņas par deklarēto dzīvesvietu, ja dzīvesvietas deklarētājs deklarāciju iesniedz elektroniski vai ja dzīvesvietu deklarē šā likuma [6. panta](https://likumi.lv/ta/id/64328#p6) pirmās daļas 3., 4. vai 5. punktā minētā persona vai persona, attiecībā uz kuru Pārvalde pieņēmusi lēmumu par uzturēšanās atļaujas, reģistrācijas apliecības vai pastāvīgās uzturēšanās apliecības izsniegšanu vai tiesiskā statusa noteikšanu, kā arī ziņas par papildu adresi.
 
 (5) Pēc ziņu reģistrēšanas un aktualizēšanas Iedzīvotāju reģistrā Pārvalde informāciju par deklarēto dzīvesvietu vai saņemto deklarāciju nosūta pašvaldībai, kuras darbības teritorijā atrodas attiecīgā dzīvesvieta.
 
@@ -118,9 +119,9 @@ Likuma mērķis ir panākt, lai ikviena persona būtu sasniedzama tiesiskajās a
 
 (4) Dzīvesvietas deklarētājam vai viņa likumiskajam pārstāvim, vai personai, kuru dzīvesvietas deklarētājs vai viņa likumiskais pārstāvis rakstveidā pilnvarojis, ir tiesības deklarācijā norādīt vienu papildu adresi Latvijā vai ārvalstī, kā arī laikposmu, kurā viņš tajā ir sasniedzams.
 
-(41) Ja šā likuma [6.](https://likumi.lv/ta/id/64328#p6) panta pirmajā daļā minētajai personai ir deklarētā dzīvesvieta un ziņas par to nemainās, šai personai ir tiesības norādīt vai mainīt ziņas par papildu adresi, neiesniedzot jaunu deklarāciju.
+(4<sup>1</sup>) Ja šā likuma [6.](https://likumi.lv/ta/id/64328#p6) panta pirmajā daļā minētajai personai ir deklarētā dzīvesvieta un ziņas par to nemainās, šai personai ir tiesības norādīt vai mainīt ziņas par papildu adresi, neiesniedzot jaunu deklarāciju.
 
-(42) Ja šā likuma [6.](https://likumi.lv/ta/id/64328#p6) panta pirmajā daļā minētajai personai ir norādīta dzīvesvieta ārvalstī, šai personai ir tiesības norādīt vai mainīt ziņas par papildu adresi Latvijā vai ārvalstī.
+(4<sup>2</sup>) Ja šā likuma [6.](https://likumi.lv/ta/id/64328#p6) panta pirmajā daļā minētajai personai ir norādīta dzīvesvieta ārvalstī, šai personai ir tiesības norādīt vai mainīt ziņas par papildu adresi Latvijā vai ārvalstī.
 
 (5) (Izslēgta ar [25.04.2019](https://likumi.lv/ta/id/306712-grozijumi-dzivesvietas-deklaresanas-likuma). likumu)
 
@@ -138,7 +139,7 @@ Likuma mērķis ir panākt, lai ikviena persona būtu sasniedzama tiesiskajās a
 
 ([23.03.2006](https://likumi.lv/ta/id/132853-grozijumi-dzivesvietas-deklaresanas-likuma). likuma redakcijā ar grozījumiem, kas izdarīti ar [04.12.2008.](https://likumi.lv/ta/id/185650-grozijumi-dzivesvietas-deklaresanas-likuma), [29.10.2009.](https://likumi.lv/ta/id/200699-grozijumi-dzivesvietas-deklaresanas-likuma), [23.10.2014.](https://likumi.lv/ta/id/270023-grozijumi-dzivesvietas-deklaresanas-likuma), [08.10.2015.](https://likumi.lv/ta/id/277316-grozijumi-dzivesvietas-deklaresanas-likuma), [25.04.2019.](https://likumi.lv/ta/id/306712-grozijumi-dzivesvietas-deklaresanas-likuma) un [17.06.2020](https://likumi.lv/ta/id/315737-grozijumi-dzivesvietas-deklaresanas-likuma). likumu, kas stājas spēkā [01.07.2021.](https://likumi.lv/ta/id/64328-dzivesvietas-deklaresanas-likums/redakcijas-datums/2021/07/01))
 
-**8.1 pants. Dzīvesvietas deklarēšana pa pastu**
+**8.<sup>1</sup> pants. Dzīvesvietas deklarēšana pa pastu**
 
 (Izslēgts ar [29.10.2009](https://likumi.lv/ta/id/200699-grozijumi-dzivesvietas-deklaresanas-likuma). likumu, kas stājas spēkā [01.01.2010.](https://likumi.lv/ta/id/64328-dzivesvietas-deklaresanas-likums/redakcijas-datums/2010/01/01))
 
@@ -184,11 +185,11 @@ Likuma mērķis ir panākt, lai ikviena persona būtu sasniedzama tiesiskajās a
 
 (5) Personai, kurai pieder vai nodots turējumā nekustamais īpašums, ir pienākums pēc iestādes pieprasījuma sniegt Ministru kabineta noteikumos paredzētās ziņas par personām, kuras dzīvo minētajā īpašumā.
 
-**11.1 pants. Ziņu par papildu adresi aktualizēšana**
+**11.<sup>1</sup> pants. Ziņu par papildu adresi aktualizēšana**
 
-(1) Lai aktualizētu ziņas par papildu adresi šā likuma [5\. panta](https://likumi.lv/ta/id/64328#p5) trešajā vai ceturtajā daļā minētajos gadījumos, persona vēršas attiecīgajā ieslodzījuma vietā vai ārstniecības iestādē ar rakstveida iesniegumu, kurā norāda savu vārdu, uzvārdu un personas kodu un lūdz ieslodzījuma vietu vai ārstniecības iestādi aktualizēt Iedzīvotāju reģistrā iekļautās ziņas par šīs personas papildu adresi, norādot attiecīgās ieslodzījuma vietas vai ārstniecības iestādes adresi kā personas papildu adresi.
+(1) Lai aktualizētu ziņas par papildu adresi šā likuma [5. panta](https://likumi.lv/ta/id/64328#p5) trešajā vai ceturtajā daļā minētajos gadījumos, persona vēršas attiecīgajā ieslodzījuma vietā vai ārstniecības iestādē ar rakstveida iesniegumu, kurā norāda savu vārdu, uzvārdu un personas kodu un lūdz ieslodzījuma vietu vai ārstniecības iestādi aktualizēt Iedzīvotāju reģistrā iekļautās ziņas par šīs personas papildu adresi, norādot attiecīgās ieslodzījuma vietas vai ārstniecības iestādes adresi kā personas papildu adresi.
 
-(2) Ieslodzījuma vieta vai ārstniecības iestāde aktualizē Iedzīvotāju reģistrā iekļautās ziņas par personas papildu adresi triju darba dienu laikā pēc šā panta pirmajā daļā minētā personas iesnieguma saņemšanas, vienlaikus pārliecinoties par iesniegumā norādīto ziņu pareizību un personas identitāti, vai triju darba dienu laikā pēc personas atbrīvošanas no ieslodzījuma vietas vai izrakstīšanas no ārstniecības iestādes, vai pēc šā likuma [5\. panta](https://likumi.lv/ta/id/64328#p5) trešajā daļā minētā termiņa beigām.
+(2) Ieslodzījuma vieta vai ārstniecības iestāde aktualizē Iedzīvotāju reģistrā iekļautās ziņas par personas papildu adresi triju darba dienu laikā pēc šā panta pirmajā daļā minētā personas iesnieguma saņemšanas, vienlaikus pārliecinoties par iesniegumā norādīto ziņu pareizību un personas identitāti, vai triju darba dienu laikā pēc personas atbrīvošanas no ieslodzījuma vietas vai izrakstīšanas no ārstniecības iestādes, vai pēc šā likuma [5. panta](https://likumi.lv/ta/id/64328#p5) trešajā daļā minētā termiņa beigām.
 
 (3) Ja persona tiek pārvietota uz citu ieslodzījuma vietu, tā ieslodzījuma vieta, kurā persona atrodas, triju darba dienu laikā aktualizē Iedzīvotāju reģistrā iekļautās ziņas, norādot attiecīgās ieslodzījuma vietas adresi kā personas papildu adresi.
 
@@ -220,7 +221,7 @@ Likuma mērķis ir panākt, lai ikviena persona būtu sasniedzama tiesiskajās a
 
 (8) Ja dzīvesvietas deklarētājam anulēta izsniegtā reģistrācijas apliecība, pastāvīgās uzturēšanās apliecība vai uzturēšanās atļauja vai beidzies tās derīguma termiņš un mēneša laikā viņam nav noteikts cits tiesiskais statuss Latvijas Republikā vai dzīvesvietas deklarētājs nav saņēmis reģistrācijas apliecību, pastāvīgās uzturēšanās apliecību vai uzturēšanās atļauju, ziņas par viņa deklarēto dzīvesvietu un norādīto papildu adresi uzskatāmas par anulētām ar reģistrācijas apliecības, pastāvīgās uzturēšanās apliecības vai uzturēšanās atļaujas anulēšanas vai derīguma termiņa beigšanās dienu.
 
-(Ar grozījumiem, kas izdarīti ar [03.04.2003.](https://likumi.lv/ta/id/73964-grozijumi-dzivesvietas-deklaresanas-likuma), [04.12.2008.](https://likumi.lv/ta/id/185650-grozijumi-dzivesvietas-deklaresanas-likuma), [29.10.2009.](https://likumi.lv/ta/id/200699-grozijumi-dzivesvietas-deklaresanas-likuma) un [17.06.2020](https://likumi.lv/ta/id/315737-grozijumi-dzivesvietas-deklaresanas-likuma). likumu, kas stājas spēkā [01.07.2021.](https://likumi.lv/ta/id/64328-dzivesvietas-deklaresanas-likums/redakcijas-datums/2021/07/01) [2.1 daļas](https://likumi.lv/ta/id/64328#n2_1) otrajā teikumā paredzētās nekustamā īpašuma īpašnieka tiesības lūgt papildu adresi anulēt, izmantojot speciālu tiešsaistes formu, piemēro no [01.07.2022.](https://likumi.lv/ta/id/64328-dzivesvietas-deklaresanas-likums/redakcijas-datums/2022/07/01) Sk. pārejas noteikumu 18. punktu)
+(Ar grozījumiem, kas izdarīti ar [03.04.2003.](https://likumi.lv/ta/id/73964-grozijumi-dzivesvietas-deklaresanas-likuma), [04.12.2008.](https://likumi.lv/ta/id/185650-grozijumi-dzivesvietas-deklaresanas-likuma), [29.10.2009.](https://likumi.lv/ta/id/200699-grozijumi-dzivesvietas-deklaresanas-likuma) un [17.06.2020](https://likumi.lv/ta/id/315737-grozijumi-dzivesvietas-deklaresanas-likuma). likumu, kas stājas spēkā [01.07.2021.](https://likumi.lv/ta/id/64328-dzivesvietas-deklaresanas-likums/redakcijas-datums/2021/07/01) [2.<sup>1</sup> daļas](https://likumi.lv/ta/id/64328#n2_1) otrajā teikumā paredzētās nekustamā īpašuma īpašnieka tiesības lūgt papildu adresi anulēt, izmantojot speciālu tiešsaistes formu, piemēro no [01.07.2022.](https://likumi.lv/ta/id/64328-dzivesvietas-deklaresanas-likums/redakcijas-datums/2022/07/01) Sk. pārejas noteikumu 18. punktu)
 
 **13.pants. Informācijas sniegšana**
 
@@ -236,11 +237,11 @@ Likuma mērķis ir panākt, lai ikviena persona būtu sasniedzama tiesiskajās a
 
 (Izslēgts ar [23.03.2006](https://likumi.lv/ta/id/132853-grozijumi-dzivesvietas-deklaresanas-likuma). likumu, kas stājas spēkā [27.04.2006.](https://likumi.lv/ta/id/64328-dzivesvietas-deklaresanas-likums/redakcijas-datums/2006/04/27))
 
-**14.1 pants. Izdevumi par dzīvesvietas reģistrēšanu**
+**14.<sup>1</sup> pants. Izdevumi par dzīvesvietas reģistrēšanu**
 
 (Izslēgts ar [11.06.2009](https://likumi.lv/ta/id/194034-grozijumi-dzivesvietas-deklaresanas-likuma). likumu, kas stājas spēkā [01.07.2009.](https://likumi.lv/ta/id/64328-dzivesvietas-deklaresanas-likums/redakcijas-datums/2009/07/01))
 
-**14.2 pants. Valsts nodeva par ziņu par deklarēto dzīvesvietu reģistrāciju**
+**14.<sup>2</sup> pants. Valsts nodeva par ziņu par deklarēto dzīvesvietu reģistrāciju**
 
 Par ziņu par deklarēto dzīvesvietu reģistrāciju maksājama valsts nodeva, kuras apmēru, samaksas kārtību un atvieglojumus nosaka Ministru kabinets.
 
@@ -268,15 +269,17 @@ Administratīvā pārkāpuma procesu par šā likuma [16.](https://likumi.lv/ta/
 
 ([28.11.2019](https://likumi.lv/ta/id/311256-grozijumi-dzivesvietas-deklaresanas-likuma). likuma redakcijā, kas stājas spēkā [24.12.2019.](https://likumi.lv/ta/id/64328-dzivesvietas-deklaresanas-likums/redakcijas-datums/2019/12/24) Pants stājas spēkā [01.07.2020.](https://likumi.lv/ta/id/64328-dzivesvietas-deklaresanas-likums/redakcijas-datums/2020/07/01) Sk. pārejas noteikumu 16. punktu)
 
-Pārejas noteikumi
+## Pārejas noteikumi
 
-1\. Atzīme, kas par personas reģistrāciju dzīvesvietā līdz šā likuma spēkā stāšanās dienai izdarīta Latvijas pilsoņa pasē, Latvijas nepilsoņa pasē, bezvalstnieka personu apliecinošā dokumentā, bēgļa personu apliecinošā dokumentā vai citā Latvijā derīgā personu apliecinošā dokumentā un reģistrēta Iedzīvotāju reģistrā, uzskatāma par dzīvesvietas pirmreizējo deklarāciju līdz laikam, kad persona deklarē citu dzīvesvietu šajā likumā noteiktajā kārtībā.
+1. Atzīme, kas par personas reģistrāciju dzīvesvietā līdz šā likuma spēkā stāšanās dienai izdarīta Latvijas pilsoņa pasē, Latvijas nepilsoņa pasē, bezvalstnieka personu apliecinošā dokumentā, bēgļa personu apliecinošā dokumentā vai citā Latvijā derīgā personu apliecinošā dokumentā un reģistrēta Iedzīvotāju reģistrā, uzskatāma par dzīvesvietas pirmreizējo deklarāciju līdz laikam, kad persona deklarē citu dzīvesvietu šajā likumā noteiktajā kārtībā.
 
-2\. Personai, kuras faktiskā dzīvesvieta šā likuma spēkā stāšanās dienā nesakrīt ar pieraksta vietu, ir tiesības sešu mēnešu laikā pēc šā likuma spēkā stāšanās vienu reizi bez valsts nodevas iemaksāšanas deklarēt dzīvesvietu saskaņā ar šā likuma [3.panta](https://likumi.lv/ta/id/64328#p3) noteikumiem.
+2. Personai, kuras faktiskā dzīvesvieta šā likuma spēkā stāšanās dienā nesakrīt ar pieraksta vietu, ir tiesības sešu mēnešu laikā pēc šā likuma spēkā stāšanās vienu reizi bez valsts nodevas iemaksāšanas deklarēt dzīvesvietu saskaņā ar šā likuma [3.panta](https://likumi.lv/ta/id/64328#p3) noteikumiem.
 
-3\. Ziņas par to personu dzīvesvietu, kuras šā likuma spēkā stāšanās dienā nekur nav pierakstītas un kurām nav tiesiska pamata deklarēt savu dzīvesvietu kādā nekustamajā īpašumā (ar adresi), reģistrē atbilstoši šā likuma [10.panta](https://likumi.lv/ta/id/64328#p10) noteikumiem. Līdz dzīvesvietas reģistrācijai uz šīm personām attiecināmi šā likuma [12.panta](https://likumi.lv/ta/id/64328#p12) piektās daļas noteikumi.
+3. Ziņas par to personu dzīvesvietu, kuras šā likuma spēkā stāšanās dienā nekur nav pierakstītas un kurām nav tiesiska pamata deklarēt savu dzīvesvietu kādā nekustamajā īpašumā (ar adresi), reģistrē atbilstoši šā likuma [10.panta](https://likumi.lv/ta/id/64328#p10) noteikumiem. Līdz dzīvesvietas reģistrācijai uz šīm personām attiecināmi šā likuma [12.panta](https://likumi.lv/ta/id/64328#p12) piektās daļas noteikumi.
 
-5\. Ministru kabinets līdz 2002.gada 1.oktobrim nosaka:
+4. (Izslēgts ar 23.03.2006. likumu, kas stājas spēkā 27.04.2006.)
+
+5. Ministru kabinets līdz 2002.gada 1.oktobrim nosaka:
 
 1) dzīvesvietas deklarācijas aizpildīšanas un iesniegšanas kārtību un deklarācijā sniegto ziņu pārbaudes kārtību, kā arī apstiprina dzīvesvietas deklarācijas veidlapas paraugu un dzīvesvietas deklarēšanas faktu apliecinošā dokumenta paraugu;
 
@@ -288,47 +291,51 @@ Pārejas noteikumi
 
 5) kārtību un apmēru, kādā iemaksājama valsts nodeva attiecīgās pašvaldības budžetā par deklarētās dzīvesvietas reģistrāciju.
 
-6\. Ministru kabinets līdz 2003.gada 1.jūnijam nosaka kārtību, kādā iestāde, kurai ir tiešsaistes datu pārraide ar Iedzīvotāju reģistru, sniedz informāciju fiziskajām un juridiskajām personām par personas deklarēto dzīvesvietu vai papildu adresi (adresēm).
+6. Ministru kabinets līdz 2003.gada 1.jūnijam nosaka kārtību, kādā iestāde, kurai ir tiešsaistes datu pārraide ar Iedzīvotāju reģistru, sniedz informāciju fiziskajām un juridiskajām personām par personas deklarēto dzīvesvietu vai papildu adresi (adresēm).
 
 ([03.04.2003](https://likumi.lv/ta/id/73964-grozijumi-dzivesvietas-deklaresanas-likuma). likuma redakcijā, kas stājas spēkā [01.05.2003.](https://likumi.lv/ta/id/64328-dzivesvietas-deklaresanas-likums/redakcijas-datums/2003/05/01))
 
-7\. Līdz brīdim, kamēr attiecīgajai pašvaldībai tiek nodrošināta tiešsaistes datu pārraide ar Iedzīvotāju reģistru, pēc pašvaldības pieprasījuma Pārvalde reizi mēnesī datorizēti sagatavo ziņas par personām, kuras ir mainījušas dzīvesvietu, deklarējot to citas pašvaldības administratīvajā teritorijā.
+7. Līdz brīdim, kamēr attiecīgajai pašvaldībai tiek nodrošināta tiešsaistes datu pārraide ar Iedzīvotāju reģistru, pēc pašvaldības pieprasījuma Pārvalde reizi mēnesī datorizēti sagatavo ziņas par personām, kuras ir mainījušas dzīvesvietu, deklarējot to citas pašvaldības administratīvajā teritorijā.
 
 ([03.04.2003](https://likumi.lv/ta/id/73964-grozijumi-dzivesvietas-deklaresanas-likuma). likuma redakcijā, kas stājas spēkā [01.05.2003.](https://likumi.lv/ta/id/64328-dzivesvietas-deklaresanas-likums/redakcijas-datums/2003/05/01))
 
-8\. Grozījumi šā likuma [7.panta](https://likumi.lv/ta/id/64328#p7) pirmajā daļā, kā arī šā likuma [7.panta](https://likumi.lv/ta/id/64328#p7) ceturtās un piektās daļas, [8.panta](https://likumi.lv/ta/id/64328#p8) otrās daļas, [8.1 panta](https://likumi.lv/ta/id/64328#p8.1) un [9.panta](https://likumi.lv/ta/id/64328#p9) trešās un ceturtās daļas jaunā redakcija, kas nosaka Pārvaldi par dzīvesvietas deklarēšanas iestādi un dzīvesvietas deklarēšanu elektroniski un pa pastu, stājas spēkā 2007.gada 1.janvārī.
+8. Grozījumi šā likuma [7.panta](https://likumi.lv/ta/id/64328#p7) pirmajā daļā, kā arī šā likuma [7.panta](https://likumi.lv/ta/id/64328#p7) ceturtās un piektās daļas, [8.panta](https://likumi.lv/ta/id/64328#p8) otrās daļas, [8.1 panta](https://likumi.lv/ta/id/64328#p8.1) un [9.panta](https://likumi.lv/ta/id/64328#p9) trešās un ceturtās daļas jaunā redakcija, kas nosaka Pārvaldi par dzīvesvietas deklarēšanas iestādi un dzīvesvietas deklarēšanu elektroniski un pa pastu, stājas spēkā 2007.gada 1.janvārī.
 
 ([23.03.2006](https://likumi.lv/ta/id/132853-grozijumi-dzivesvietas-deklaresanas-likuma). likuma redakcijā, kas stājas spēkā [27.04.2006.](https://likumi.lv/ta/id/64328-dzivesvietas-deklaresanas-likums/redakcijas-datums/2006/04/27))
 
-9\. Šā likuma [8.panta](https://likumi.lv/ta/id/64328#p8) otrajā daļā minētais nosacījums, ka dzīvesvietas deklarētājs vai viņa likumiskais pārstāvis deklarāciju Pārvaldei var iesniegt elektroniski, izmantojot tikai speciālu tiešsaistes formu, stājas spēkā 2009.gada 1.jūlijā.
+9. Šā likuma [8.panta](https://likumi.lv/ta/id/64328#p8) otrajā daļā minētais nosacījums, ka dzīvesvietas deklarētājs vai viņa likumiskais pārstāvis deklarāciju Pārvaldei var iesniegt elektroniski, izmantojot tikai speciālu tiešsaistes formu, stājas spēkā 2009.gada 1.jūlijā.
+
+10. (Izslēgts ar 20.01.2011. likumu, kas stājas spēkā 04.02.2011.)
+
+11. (Izslēgts ar 01.12.2009. likumu, kas stājas spēkā 01.01.2010.)
 
 ([04.12.2008](https://likumi.lv/ta/id/185650-grozijumi-dzivesvietas-deklaresanas-likuma). likuma redakcijā, kas stājas spēkā [06.01.2009.](https://likumi.lv/ta/id/64328-dzivesvietas-deklaresanas-likums/redakcijas-datums/2009/01/06))
 
-12\. Dzīvesvietas deklarācijas iesniegumus, kas nosūtīti pa pastu līdz 2009.gada 31.decembrim, Pārvalde izskata atbilstoši attiecīgā iesnieguma nosūtīšanas dienā spēkā esošajai dzīvesvietas deklarācijas iesniegumu izskatīšanas kārtībai.
+12. Dzīvesvietas deklarācijas iesniegumus, kas nosūtīti pa pastu līdz 2009.gada 31.decembrim, Pārvalde izskata atbilstoši attiecīgā iesnieguma nosūtīšanas dienā spēkā esošajai dzīvesvietas deklarācijas iesniegumu izskatīšanas kārtībai.
 
 ([29.10.2009](https://likumi.lv/ta/id/200699-grozijumi-dzivesvietas-deklaresanas-likuma). likuma redakcijā, kas stājas spēkā [01.01.2010.](https://likumi.lv/ta/id/64328-dzivesvietas-deklaresanas-likums/redakcijas-datums/2010/01/01))
 
-13\. Adrese, kura līdz 2016.gada 30.jūnijam norādīta Iedzīvotāju reģistrā, reģistrējot bērna dzimšanu vai izsniedzot personai uzturēšanās atļauju, reģistrācijas apliecību, pastāvīgās uzturēšanās apliecību vai nosakot tiesisko statusu, no 2016.gada 1.jūlija uzskatāma par personas deklarēto adresi, un Pārvalde nekavējoties aktualizē attiecīgās ziņas Iedzīvotāju reģistrā, ja minētās personas statuss Iedzīvotāju reģistrā ir aktīvs un tā nav deklarējusi citu adresi.
+13. Adrese, kura līdz 2016.gada 30.jūnijam norādīta Iedzīvotāju reģistrā, reģistrējot bērna dzimšanu vai izsniedzot personai uzturēšanās atļauju, reģistrācijas apliecību, pastāvīgās uzturēšanās apliecību vai nosakot tiesisko statusu, no 2016.gada 1.jūlija uzskatāma par personas deklarēto adresi, un Pārvalde nekavējoties aktualizē attiecīgās ziņas Iedzīvotāju reģistrā, ja minētās personas statuss Iedzīvotāju reģistrā ir aktīvs un tā nav deklarējusi citu adresi.
 
 ([08.10.2015](https://likumi.lv/ta/id/277316-grozijumi-dzivesvietas-deklaresanas-likuma). likuma redakcijā, kas stājas spēkā [01.07.2016.](https://likumi.lv/ta/id/64328-dzivesvietas-deklaresanas-likums/redakcijas-datums/2016/07/01))
 
-14\. Šā likuma [5\. panta](https://likumi.lv/ta/id/64328#p5) trešajā daļā un [11.1 pantā](https://likumi.lv/ta/id/64328#p11_1) noteikto attiecībā uz personām, kuras ievietotas ieslodzījuma vietās, nepiemēro līdz 2020. gada 31. janvārim.
+14. Šā likuma [5. panta](https://likumi.lv/ta/id/64328#p5) trešajā daļā un [11.<sup>1</sup> pantā](https://likumi.lv/ta/id/64328#p11_1) noteikto attiecībā uz personām, kuras ievietotas ieslodzījuma vietās, nepiemēro līdz 2020. gada 31. janvārim.
 
 ([25.04.2019](https://likumi.lv/ta/id/306712-grozijumi-dzivesvietas-deklaresanas-likuma). likuma redakcijā, kas stājas spēkā [01.09.2019.](https://likumi.lv/ta/id/64328-dzivesvietas-deklaresanas-likums/redakcijas-datums/2019/09/01))
 
-15\. Ieslodzījuma vieta ne vēlāk kā līdz 2020. gada 30. aprīlim aktualizē Iedzīvotāju reģistrā iekļautās ziņas par personas, kura ievietota ieslodzījuma vietā līdz 2020. gada 31. janvārim, papildu adresi, ja papildu adreses norādīšanas brīdī persona atrodas ieslodzījuma vietā.
+15. Ieslodzījuma vieta ne vēlāk kā līdz 2020. gada 30. aprīlim aktualizē Iedzīvotāju reģistrā iekļautās ziņas par personas, kura ievietota ieslodzījuma vietā līdz 2020. gada 31. janvārim, papildu adresi, ja papildu adreses norādīšanas brīdī persona atrodas ieslodzījuma vietā.
 
 ([25.04.2019](https://likumi.lv/ta/id/306712-grozijumi-dzivesvietas-deklaresanas-likuma). likuma redakcijā, kas stājas spēkā [01.09.2019.](https://likumi.lv/ta/id/64328-dzivesvietas-deklaresanas-likums/redakcijas-datums/2019/09/01))
 
-16\. Šā likuma [16\.](https://likumi.lv/ta/id/64328#p16) un [17.](https://likumi.lv/ta/id/64328#p17) pants stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
+16. Šā likuma [16\.](https://likumi.lv/ta/id/64328#p16) un [17.](https://likumi.lv/ta/id/64328#p17) pants stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
 
 ([28.11.2019](https://likumi.lv/ta/id/311256-grozijumi-dzivesvietas-deklaresanas-likuma). likuma redakcijā, kas stājas spēkā [24.12.2019.](https://likumi.lv/ta/id/64328-dzivesvietas-deklaresanas-likums/redakcijas-datums/2019/12/24))
 
-17\. Ziņas par vairākām papildu adresēm, kuras persona norādījusi, deklarējot dzīvesvietu, līdz 2021. gada 30. jūnijam, ir spēkā līdz dienai, kad ir anulētas ziņas par attiecīgo papildu adresi vai persona norāda jaunu papildu adresi atbilstoši šā likuma [8.](https://likumi.lv/ta/id/64328#p8) panta nosacījumiem, bet ne ilgāk kā līdz 2022. gada 30. jūnijam.
+17. Ziņas par vairākām papildu adresēm, kuras persona norādījusi, deklarējot dzīvesvietu, līdz 2021. gada 30. jūnijam, ir spēkā līdz dienai, kad ir anulētas ziņas par attiecīgo papildu adresi vai persona norāda jaunu papildu adresi atbilstoši šā likuma [8.](https://likumi.lv/ta/id/64328#p8) panta nosacījumiem, bet ne ilgāk kā līdz 2022. gada 30. jūnijam.
 
 ([17.06.2020](https://likumi.lv/ta/id/315737-grozijumi-dzivesvietas-deklaresanas-likuma). likuma redakcijā, kas stājas spēkā [01.07.2021.](https://likumi.lv/ta/id/64328-dzivesvietas-deklaresanas-likums/redakcijas-datums/2021/07/01))
 
-18\. Šā likuma [12.](https://likumi.lv/ta/id/64328#p12) panta 2.1 daļas otrajā teikumā paredzētās nekustamā īpašuma īpašnieka tiesības lūgt papildu adresi anulēt, izmantojot speciālu tiešsaistes formu, piemēro no 2022. gada 1. jūlija.
+18. Šā likuma [12.](https://likumi.lv/ta/id/64328#p12) panta 2.<sup>1</sup> daļas otrajā teikumā paredzētās nekustamā īpašuma īpašnieka tiesības lūgt papildu adresi anulēt, izmantojot speciālu tiešsaistes formu, piemēro no 2022. gada 1. jūlija.
 
 ([17.06.2020](https://likumi.lv/ta/id/315737-grozijumi-dzivesvietas-deklaresanas-likuma). likuma redakcijā, kas stājas spēkā [01.07.2021.](https://likumi.lv/ta/id/64328-dzivesvietas-deklaresanas-likums/redakcijas-datums/2021/07/01))
 
