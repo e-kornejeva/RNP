@@ -2259,15 +2259,6 @@ Piezīme. Aizlieguma zīmei ir apļveida forma, melna (piemēram, RAL 9004) pikt
 3\. Ugunsdzēsības ūdensņemšanas vietu zīmes
 
 
-|                                      |   |
-|--------------------------------------|---|
-|3.5. Ugunsdzēsības ūdensņemšanas vieta|   |
-|                                      |   |
-
-
-
-
-
 | 3.1. Savienojošo cauruļvadu noslēdzošais aizbīdnis                      | 3.2. Ugunsdzēsības ūdenstilpnes atrašanās vieta                         | 3.3. Ūdens ugunsdzēsības hidrants                                       | 3.4. Putu šķīduma ugunsdzēsības hidrants                                |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE011.JPG) | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE012.JPG) | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE013.JPG) | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE014.JPG) |
