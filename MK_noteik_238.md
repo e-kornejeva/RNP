@@ -2387,82 +2387,109 @@ noteikumiem Nr. 238
 Ugunsdzēsības hidranta pārbaudes akts
 
 
-|                         |   |                          |
-|-------------------------|---|--------------------------|
-|(akta sastādīšanas vieta)|   |(akta sastādīšanas datums)|
+Ugunsdzēsības hidranta pārbaudes akts
+ 	 	 
+(akta sastādīšanas vieta)	 	(akta sastādīšanas datums)
+Atbildīgā persona par ūdensapgādes ārējā inženiertīkla ekspluatāciju:	 
+ 
+(juridiskās personas nosaukums, reģistrācijas numurs un juridiskā adrese vai
+fiziskās personas vārds, uzvārds un informācija, ar kuru var identificēt personu)
+Ugunsdzēsības hidranta atrašanās vieta:	 
+ 
+(norāda tuvākā nekustamā īpašuma (būves) adresi)
+Darbu veicējs:	 
+ 
+(juridiskās personas nosaukums, reģistrācijas numurs un juridiskā adrese vai
+fiziskās personas vārds, uzvārds un informācija, ar kuru var identificēt personu)
+Šis akts sastādīts par to, ka darbu veicējs	 	veica tehniskā stāvokļa un darbspējas
+ 	(pārbaudes veikšanas datums)	 
+pārbaudi, kuras rezultātā konstatēts:
+ 
+| pārbaudi, kuras rezultātā konstatēts: |
+| ------------------------------------- |
+|                                       |
+| Ugunsdzēsības hidranta                | Ūdensapgādes ārējā inženiertīkla | Pazemes hidranta ūdens novades (drenāžas) sistēmas tehniskais stāvoklis | Ugunsdzēsības hidranta caurplūde, l/s | Spiediens ūdensapgādes ārējā inženiertīklā, Bar | Atzinums par ugunsdzēsības hidranta un tā aprīkojuma tehnisko stāvokli<sup>5</sup> |
+| numurs<sup>1</sup>                    | tips<sup>2</sup> | veids<sup>3</sup> | tips<sup>4</sup> | ūdensvada iekšējais diametrs, mm |
+| 1                                     | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|                                       |  |  |  |  |  |  |  |  |
+|                                       |  |  |  |  |  |  |  |  |
+ 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 
+Piezīmes.
+
+1 Ugunsdzēsības hidranta numurs saskaņā ar ārējā ūdensapgādes tīkla plānu (pārbaudes akta pielikums).
+
+2 Rīgas tipa (R), Maskavas tipa (M), Tallinas tipa (T), Ekspo tipa (E) vai ieraksta cita tipa ugunsdzēsības hidrantu.
+
+3 Virszemes vai pazemes veida ugunsdzēsības hidrants.
+
+4 Cilpveida vai strupzara.
+
+5 Ir tehniskā darba kārtībā un derīgs ekspluatācijai vai nav tehniskā darba kārtībā un nav derīgs ekspluatācijai.
+
+Informācija par mērierīcēm, ar kurām tika veikta ugunsdzēsības hidrantu pārbaude	 
+ 
+ 
+Informācija par ugunsdzēsības hidranta akas vāka tehnisko stāvokli, krāsojumu	 
+ 
+ 
+Informācija par ugunsdzēsības hidranta izplūdes caurules aizsargvāciņa tehnisko stāvokli	 
+ 
+Informācija par stendera uzskrūvēšanas iespēju pie ugunsdzēsības hidranta izplūdes caurules	 
+ 
+ 
+Ugunsdzēsības hidranta norādes zīmes esība, apzīmējumu atbilstība, informācijas salasāmība	 
+ 
+ 
+Informācija par ugunsdzēsības hidrantu vietu izvietojuma shēmu	 
+ 
+ 
+Piezīmes par veikto pārbaudi	 
+ 
+ 
+Paraksti
+
+Atbildīgā vai pilnvarotā persona:	 	 	 
+ 	(vārds, uzvārds)	 	(paraksts)
+Darbu veicējs:	 	 	 
+ 	(vārds, uzvārds)	 	(paraksts)
 
 
 
 
-* Atbildīgā persona par ūdensapgādes ārējā inženiertīkla ekspluatāciju::  
-  *  : 
-* Atbildīgā persona par ūdensapgādes ārējā inženiertīkla ekspluatāciju:: (juridiskās personas nosaukums, reģistrācijas numurs un juridiskā adrese vaifiziskās personas vārds, uzvārds un informācija, ar kuru var identificēt personu)
-  *  : 
 
-
-
-|Ugunsdzēsības hidranta atrašanās vieta:         |   |
-|------------------------------------------------|---|
-|                                                |   |
-|(norāda tuvākā nekustamā īpašuma (būves) adresi)|   |
+  
+2. pielikums
 
 
 
 
-* Darbu veicējs::  
-  *  : 
-* Darbu veicējs:: (juridiskās personas nosaukums, reģistrācijas numurs un juridiskā adrese vaifiziskās personas vārds, uzvārds un informācija, ar kuru var identificēt personu)
-  *  : 
+
+Ministru kabineta
+2016. gada 19. aprīļa
+noteikumiem Nr. 238
+(Pielikums grozīts ar MK 15.09.2020. noteikumiem Nr. 585)
+
+Informācija par veikto iekšējā ugunsdzēsības ūdensvada krāna un tā aprīkojuma pārbaudi
+Ugunsdzēsības krāna Nr._________
+
+| Pārbaudes datums | Spiediens (Bar) | Ražība (l/s) | Aprīkojuma stāvoklis | Atbilstība tehniskajam projektam | Pārbaudītāja vārds, uzvārds, paraksts | Piezīmes |
+| ---------------- | --------------- | ------------ | -------------------- | -------------------------------- | ------------------------------------- | -------- |
+|                  |                 |              |                      |                                  |                                       |          |
+|                  |                 |              |                      |                                  |                                       |          |
+
+ 	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+Piezīme. Ja nav pieejama iekšējās ugunsdzēsības ūdensvada sistēmas būvniecības ieceres dokumentācija, iekšējās ugunsdzēsības ūdensvada sistēmas ražībai jāatbilst spēkā esošajos būvnormatīvos noteiktajām minimālajām prasībām.
+
+Iekšlietu ministrs Rihards Kozlovskis
 
 
 
 
-* Šis akts sastādīts par to, ka darbu veicējs:  
-  *  : (pārbaudes veikšanas datums)
-  * veica tehniskā stāvokļa un darbspējas:  
 
 
 
-
-* pārbaudi, kuras rezultātā konstatēts::  
-* pārbaudi, kuras rezultātā konstatēts:: Ugunsdzēsības hidranta
-  * Ūdensapgādes ārējā inženiertīkla
-  * Pazemes hidranta ūdens novades (drenāžas) sistēmas tehniskais stāvoklis
-  * Ugunsdzēsības hidranta caurplūde, l/s
-  * Spiediens ūdensapgādes ārējā inženiertīklā, Bar
-  * Atzinums par ugunsdzēsības hidranta un tā aprīkojuma tehnisko stāvokli5
-* pārbaudi, kuras rezultātā konstatēts:: numurs1
-  * tips2
-  * veids3
-  * tips4
-  * ūdensvada iekšējais diametrs, mm
-* pārbaudi, kuras rezultātā konstatēts:: 1
-  * 2
-  * 3
-  * 4
-  * 5
-  * 6
-  * 7
-  * 8
-  * 9
-* pārbaudi, kuras rezultātā konstatēts::  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-* pārbaudi, kuras rezultātā konstatēts::  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
 
 
 Piezīmes.
