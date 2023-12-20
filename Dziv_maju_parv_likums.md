@@ -1,4 +1,5 @@
 # Dzīvojamo māju pārvaldīšanas likums
+#### URL:https://likumi.lv/doc.php?id=193573
 Grozījumi:
 
 Satversmes tiesas 18.02.2010. spriedums / LV, 30, 23.02.2010. / Stājas spēkā 23.02.2010. 12.07.2010. likums / LV, 112, 16.07.2010. / Stājas spēkā 30.07.2010. 28.10.2010. likums / LV, 183, 17.11.2010. / Stājas spēkā 01.12.2010. 20.06.2013. likums / LV, 126, 02.07.2013. / Stājas spēkā 03.07.2013. 19.12.2013. likums / LV, 6, 09.01.2014. / Stājas spēkā 15.01.2014. 30.11.2015. likums / LV, 248, 18.12.2015. / Stājas spēkā 01.07.2016. 05.12.2019. likums / LV, 253, 17.12.2019. / Stājas spēkā 31.12.2019. 07.01.2021. likums / LV, 12A, 19.01.2021. / Stājas spēkā 20.01.2021. 16.12.2021. likums / LV, 244B, 17.12.2021. / Stājas spēkā 01.01.2022. 31.03.2022. likums / LV, 75A, 19.04.2022. / Stājas spēkā 03.05.2022.
@@ -202,7 +203,7 @@ e) apliecinājumus par tehniskās uzturēšanas darbu izpildi;
 
 ([31.03.2022](https://likumi.lv/ta/id/331729-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [03.05.2022.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2022/05/03))
 
-**8.1 pants. Termiņi dokumentu ietveršanai mājas lietā**
+**8.<sup>1</sup> pants. Termiņi dokumentu ietveršanai mājas lietā**
 
 Mājas lietas kārtotājs 14 dienu laikā no saņemšanas dienas pievieno:
 
@@ -344,7 +345,7 @@ c) atlīdzību par pārvaldīšanu, ja līdzēji par tādu vienojas, kā arī š
 
 (4) Pārvaldnieka pienākums ir savlaicīgi informēt dzīvojamās mājas īpašniekus par atsevišķa dzīvojamās mājas īpašnieka darbību vai bezdarbību (tajā skaitā uz pārvaldīšanas uzdevuma pamata iegūto saistību neizpildi), kas skar vai var skart citu dzīvojamās mājas īpašnieku intereses, kā arī sniegt nepārprotamu un pilnīgu informāciju par šiem jautājumiem pēc atsevišķa dzīvojamās mājas īpašnieka pieprasījuma.
 
-(41) Pārvaldnieka pienākums ir kontrolēt dzīvojamās mājas īpašnieka maksājumus par pārvaldniekam uzdotajām pārvaldīšanas darbībām, tajā skaitā — ja saskaņā ar šā likuma [17.3 panta](https://likumi.lv/ta/id/193573#p17_3) otro daļu dzīvojamās mājas īpašnieks ir pieņēmis lēmumu veikt šos maksājumus ar pārvaldnieka starpniecību — par dzīvojamās mājas uzturēšanai nepieciešamajiem pakalpojumiem. Maksājumu kontrole ietver pienākumu:
+(4<sup>1</sup>) Pārvaldnieka pienākums ir kontrolēt dzīvojamās mājas īpašnieka maksājumus par pārvaldniekam uzdotajām pārvaldīšanas darbībām, tajā skaitā — ja saskaņā ar šā likuma [17.3 panta](https://likumi.lv/ta/id/193573#p17_3) otro daļu dzīvojamās mājas īpašnieks ir pieņēmis lēmumu veikt šos maksājumus ar pārvaldnieka starpniecību — par dzīvojamās mājas uzturēšanai nepieciešamajiem pakalpojumiem. Maksājumu kontrole ietver pienākumu:
 
 1) sagatavot izziņu par dzīvojamās mājas īpašnieka maksājumiem;
 
@@ -352,11 +353,11 @@ c) atlīdzību par pārvaldīšanu, ja līdzēji par tādu vienojas, kā arī š
 
 3) celt tiesā citu dzīvojamās mājas īpašnieku interesēs prasību pret dzīvojamās mājas īpašnieku par maksājumu saistību neizpildi vai nepienācīgu izpildi.
 
-(42) Ja norēķini par dzīvojamās mājas uzturēšanai nepieciešamajiem pakalpojumiem tiek veikti ar pārvaldnieka starpniecību, pārvaldnieka pienākums ir no dzīvojamās mājas īpašnieka saņemto maksājumu nekavējoties pārskaitīt pakalpojuma sniedzējam tieši dzīvojamās mājas īpašnieka samaksātajā apmērā.
+(4<sup>2</sup>) Ja norēķini par dzīvojamās mājas uzturēšanai nepieciešamajiem pakalpojumiem tiek veikti ar pārvaldnieka starpniecību, pārvaldnieka pienākums ir no dzīvojamās mājas īpašnieka saņemto maksājumu nekavējoties pārskaitīt pakalpojuma sniedzējam tieši dzīvojamās mājas īpašnieka samaksātajā apmērā.
 
-(43) Ja konstatēta dzīvojamās mājas īpašnieka maksātnespēja vai dzīvojamās mājas īpašnieks miris un ar obligāto izdevumu vai citu ar mājas pārvaldīšanu saistītu parādu piedziņa nav iespējama, pārvaldnieks paziņo par to pakalpojuma sniedzējam, pievienojot attiecīgo informāciju apliecinošus dokumentus.
+(4<sup>3</sup>) Ja konstatēta dzīvojamās mājas īpašnieka maksātnespēja vai dzīvojamās mājas īpašnieks miris un ar obligāto izdevumu vai citu ar mājas pārvaldīšanu saistītu parādu piedziņa nav iespējama, pārvaldnieks paziņo par to pakalpojuma sniedzējam, pievienojot attiecīgo informāciju apliecinošus dokumentus.
 
-(44) Pārvaldnieka pienākums ir organizēt likumā noteiktajā kārtībā rakstveida aptauju dzīvojamā mājā, ja saņemts dzīvojamās mājas kopīpašnieka vai dzīvokļu īpašumu mājā — dzīvokļa īpašnieka rakstveida pieprasījums un izlemjamais jautājums attiecas uz dzīvojamās mājas pārvaldīšanas darbībām.
+(4<sup>4</sup>) Pārvaldnieka pienākums ir organizēt likumā noteiktajā kārtībā rakstveida aptauju dzīvojamā mājā, ja saņemts dzīvojamās mājas kopīpašnieka vai dzīvokļu īpašumu mājā — dzīvokļa īpašnieka rakstveida pieprasījums un izlemjamais jautājums attiecas uz dzīvojamās mājas pārvaldīšanas darbībām.
 
 (5) Pārvaldnieks ir tiesīgs saņemt viņam dotā pārvaldīšanas uzdevuma izpildei nepieciešamo finansiālo nodrošinājumu.
 
@@ -378,7 +379,7 @@ c) atlīdzību par pārvaldīšanu, ja līdzēji par tādu vienojas, kā arī š
 
 (2) Pārvaldnieka pienākums ir vismaz reizi gadā pārvaldīšanas līgumā noteiktajā kārtībā rakstveidā sniegt pārskatu dzīvojamās mājas īpašniekam par šajā likumā noteiktajiem pārvaldnieka veiktajiem pārvaldīšanas uzdevumiem, tajā skaitā pārskatu par pārvaldniekam nodoto finanšu līdzekļu un mantas izlietošanu. Pārskatā pārvaldnieks atsevišķi norāda:
 
-1) dzīvojamās mājas īpašnieku kopējo parādu par katru attiecīgo dzīvojamās mājas uzturēšanai nepieciešamo pakalpojumu, ja pārvaldnieks organizē maksājumu iekasēšanu no dzīvojamās mājas īpašnieka saskaņā ar šā likuma [17.3 panta](https://likumi.lv/ta/id/193573#p17_3) otro daļu, kā arī kopējo parādu par citām no pārvaldīšanas līguma izrietošajām saistībām;
+1) dzīvojamās mājas īpašnieku kopējo parādu par katru attiecīgo dzīvojamās mājas uzturēšanai nepieciešamo pakalpojumu, ja pārvaldnieks organizē maksājumu iekasēšanu no dzīvojamās mājas īpašnieka saskaņā ar šā likuma [17.<sup>3</sup> panta](https://likumi.lv/ta/id/193573#p17_3) otro daļu, kā arī kopējo parādu par citām no pārvaldīšanas līguma izrietošajām saistībām;
 
 2) datus par maksājumu saistību izpildi iepriekšējā gadā, ja maksājumu saistības izriet no pārvaldīšanas līguma.
 
@@ -398,7 +399,7 @@ c) atlīdzību par pārvaldīšanu, ja līdzēji par tādu vienojas, kā arī š
 
 Pārvaldīšanas uzdevuma tālākdošana citai personai pieļaujama tad, ja to paredz pārvaldīšanas līgums.
 
-**17.1 pants. Pārvaldīšanas uzdevuma atsaukšana**
+**17.<sup>1</sup> pants. Pārvaldīšanas uzdevuma atsaukšana**
 
 (1) Kopīpašumā esošas dzīvojamās mājas kopīpašnieki vai dzīvokļu īpašumu mājā — dzīvokļu īpašnieki pārvaldīšanas uzdevumu atsauc, pamatojoties uz likumā noteiktajā kārtībā pieņemtu dzīvojamās mājas īpašnieku lēmumu.
 
@@ -408,7 +409,7 @@ Pārvaldīšanas uzdevuma tālākdošana citai personai pieļaujama tad, ja to p
 
 ([19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
 
-**17.2 pants. Līgumi par dzīvojamās mājas uzturēšanai nepieciešamo pakalpojumu nodrošināšanu**
+**17.<sup>2</sup> pants. Līgumi par dzīvojamās mājas uzturēšanai nepieciešamo pakalpojumu nodrošināšanu**
 
 (1) Līgumu par dzīvojamās mājas uzturēšanai nepieciešamā pakalpojuma nodrošināšanu (turpmāk — pakalpojuma līgums) slēdz dzīvojamās mājas īpašnieks un attiecīgā pakalpojuma sniedzējs, ņemot vērā šā panta otrās daļas noteikumus.
 
@@ -420,7 +421,7 @@ Pārvaldīšanas uzdevuma tālākdošana citai personai pieļaujama tad, ja to p
 
 2) tās dzīvojamās mājas adrese, kur tiek nodrošināts pakalpojums;
 
-3) kārtība, kādā tiek veikti maksājumi par pakalpojumu, ņemot vērā šā likuma [17.3 panta](https://likumi.lv/ta/id/193573#p17_3) noteikumus;
+3) kārtība, kādā tiek veikti maksājumi par pakalpojumu, ņemot vērā šā likuma [17.<sup>3</sup> panta](https://likumi.lv/ta/id/193573#p17_3) noteikumus;
 
 4) kritēriji un metodika, pēc kādiem tiek noteikta, aprēķināta un uzskaitīta katra dzīvojamās mājas īpašnieka maksājamā daļa par dzīvojamās mājas uzturēšanai nepieciešamo pakalpojumu;
 
@@ -436,7 +437,7 @@ Pārvaldīšanas uzdevuma tālākdošana citai personai pieļaujama tad, ja to p
 
 ([19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
 
-**17.3 pants. Maksājumi par dzīvojamās mājas uzturēšanai nepieciešamajiem pakalpojumiem**
+**17.<sup>3</sup> pants. Maksājumi par dzīvojamās mājas uzturēšanai nepieciešamajiem pakalpojumiem**
 
 (1) Par dzīvojamās mājas uzturēšanai nepieciešamajiem pakalpojumiem dzīvojamās mājas īpašnieks patstāvīgi norēķinās ar attiecīgā pakalpojuma sniedzēju, veicot tiešus maksājumus pakalpojuma sniedzējam, izņemot šā panta otrajā daļā minēto gadījumu.
 
@@ -444,13 +445,13 @@ Pārvaldīšanas uzdevuma tālākdošana citai personai pieļaujama tad, ja to p
 
 ([19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
 
-**17.4 pants. Pakalpojuma sniedzēja kompetence**
+**17.<sup>4</sup> pants. Pakalpojuma sniedzēja kompetence**
 
 (1) Pakalpojuma sniedzēja pienākums ir veikt ekonomiski pamatotus aprēķinus un nodrošināt dzīvojamās mājas īpašniekam iespēju saņemt vispusīgu un pilnīgu informāciju par tā piedāvāto pakalpojumu cenu.
 
-(2) Pakalpojuma sniedzēja pienākums ir noslēgt ar dzīvojamās mājas īpašnieku pakalpojuma līgumu un nodrošināt dzīvojamās mājas īpašniekam iespēju norēķināties par pakalpojumu kārtībā, kādu atbilstoši šā likuma [17.3 panta](https://likumi.lv/ta/id/193573#p17_3) noteikumiem izvēlējies dzīvojamās mājas īpašnieks.
+(2) Pakalpojuma sniedzēja pienākums ir noslēgt ar dzīvojamās mājas īpašnieku pakalpojuma līgumu un nodrošināt dzīvojamās mājas īpašniekam iespēju norēķināties par pakalpojumu kārtībā, kādu atbilstoši šā likuma [17.<sup>3</sup> panta](https://likumi.lv/ta/id/193573#p17_3) noteikumiem izvēlējies dzīvojamās mājas īpašnieks.
 
-(3) Pakalpojuma sniedzējs pats vai noslēdzot vienošanos ar personu, kas normatīvajos aktos noteiktajā kārtībā reģistrēta vai licencēta maksājumu pakalpojumu sniegšanai (turpmāk — maksājumu iestāde), nodrošina dzīvojamās mājas īpašniekam iespēju veikt tiešus maksājumus par pakalpojumu saskaņā ar šā likuma [17.3 panta](https://likumi.lv/ta/id/193573#p17_3) pirmo daļu.
+(3) Pakalpojuma sniedzējs pats vai noslēdzot vienošanos ar personu, kas normatīvajos aktos noteiktajā kārtībā reģistrēta vai licencēta maksājumu pakalpojumu sniegšanai (turpmāk — maksājumu iestāde), nodrošina dzīvojamās mājas īpašniekam iespēju veikt tiešus maksājumus par pakalpojumu saskaņā ar šā likuma [17.<sup>3</sup> panta](https://likumi.lv/ta/id/193573#p17_3) pirmo daļu.
 
 (4) Pakalpojuma sniedzēja pienākums ir kontrolēt dzīvojamās mājas īpašnieka maksājumus par sniegto pakalpojumu. Maksājumu kontrole ietver pienākumu:
 
@@ -462,13 +463,13 @@ Pārvaldīšanas uzdevuma tālākdošana citai personai pieļaujama tad, ja to p
 
 (5) Pakalpojuma sniedzēja pienākums ir savlaicīgi informēt dzīvojamās mājas īpašniekus par atsevišķa dzīvojamās mājas īpašnieka saistību neizpildi, kas skar vai var skart citu dzīvojamās mājas īpašnieku intereses, kā arī pēc dzīvojamās mājas īpašnieka pieprasījuma sniegt nepārprotamu un pilnīgu informāciju par pakalpojumu.
 
-(6) Šā likuma [14.panta](https://likumi.lv/ta/id/193573#p14) 4.3 daļā minētajā gadījumā pakalpojuma sniedzēja pienākums ir samazināt tā uzskaitē esošo parādsaistību apmēru par neatgūstamā parāda summu.
+(6) Šā likuma [14.panta](https://likumi.lv/ta/id/193573#p14) 4.<sup>3</sup> daļā minētajā gadījumā pakalpojuma sniedzēja pienākums ir samazināt tā uzskaitē esošo parādsaistību apmēru par neatgūstamā parāda summu.
 
 ([19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15) Sk. pārejas noteikumu 22.punktu)
 
-**17.5 pants. Izziņa par maksājumiem**
+**17.<sup>5</sup> pants. Izziņa par maksājumiem**
 
-(1) Pakalpojuma sniedzējs vai šā likuma [17.3 panta](https://likumi.lv/ta/id/193573#p17_3) otrajā daļā minētajā gadījumā — dzīvojamās mājas īpašnieka pilnvarota persona (pārvaldnieks) sagatavo izziņu par maksājumiem pēc dzīvojamās mājas īpašnieka rakstveida lūguma.
+(1) Pakalpojuma sniedzējs vai šā likuma [17.<sup>3(/sup> panta](https://likumi.lv/ta/id/193573#p17_3) otrajā daļā minētajā gadījumā — dzīvojamās mājas īpašnieka pilnvarota persona (pārvaldnieks) sagatavo izziņu par maksājumiem pēc dzīvojamās mājas īpašnieka rakstveida lūguma.
 
 (2) Izziņā par maksājumiem norāda, vai ir izpildītas pārvaldīšanas līgumā un pakalpojuma līgumā paredzētās maksājumu saistības. Ja dzīvojamās mājas īpašnieks maksājumu saistības nav izpildījis vai nav izpildījis pienācīgi, izziņā par maksājumiem norāda:
 
@@ -478,7 +479,7 @@ Pārvaldīšanas uzdevuma tālākdošana citai personai pieļaujama tad, ja to p
 
 ([19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
 
-**17.6 pants. Paziņojums par parāda esamību**
+**17.<sup>6</sup> pants. Paziņojums par parāda esamību**
 
 (1) Paziņojumā par parāda esamību norāda:
 
@@ -498,7 +499,7 @@ Pārvaldīšanas uzdevuma tālākdošana citai personai pieļaujama tad, ja to p
 
 ([19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
 
-**17.7 pants. Līgums par piesaistītā zemesgabala lietošanu**
+**17.<sup>7</sup> pants. Līgums par piesaistītā zemesgabala lietošanu**
 
 (Izslēgts ar [16.12.2021](https://likumi.lv/ta/id/328516-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likumu, kas stājas spēkā [01.01.2022.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2022/01/01))
 
@@ -548,7 +549,7 @@ Pārvaldīšanas uzdevuma tālākdošana citai personai pieļaujama tad, ja to p
 
 12) citas ziņas, ja to tieši paredz likums.
 
-(21) Šā panta otrās daļas 6.punktā minētā informācija un informācija par pārvaldnieka deklarēto dzīvesvietu nav pieejama dzīvojamo māju pārvaldnieku reģistra tiešsaistes režīmā.
+(2<sup>1</sup>) Šā panta otrās daļas 6.punktā minētā informācija un informācija par pārvaldnieka deklarēto dzīvesvietu nav pieejama dzīvojamo māju pārvaldnieku reģistra tiešsaistes režīmā.
 
 (3) (Izslēgta ar [31.03.2022](https://likumi.lv/ta/id/331729-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likumu)
 
@@ -574,6 +575,10 @@ Pārvaldīšanas uzdevuma tālākdošana citai personai pieļaujama tad, ja to p
 
 (Ar grozījumiem, kas izdarīti ar [19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likumu, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
 
+**21.pants. Norīkotā pārvaldnieka iecelšana**
+
+(Izslēgts ar 19.12.2013. likumu, kas stājas spēkā 15.01.2014.)
+
 **22.pants. Lēmums par norīkotā pārvaldnieka iecelšanu**
 
 (Izslēgts ar [19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likumu, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
@@ -590,6 +595,10 @@ Pārvaldīšanas uzdevuma tālākdošana citai personai pieļaujama tad, ja to p
 
 (Izslēgts ar [19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likumu, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
 
+**26.pants. Norīkotā pārvaldnieka atcelšana**
+
+(Izslēgts ar 19.12.2013. likumu, kas stājas spēkā 15.01.2014.)
+
 **27.pants. Īpašnieka kompetence norīkotā pārvaldnieka darbības laikā**
 
 (Izslēgts ar [19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likumu, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
@@ -604,41 +613,47 @@ Pārvaldīšanas uzdevuma tālākdošana citai personai pieļaujama tad, ja to p
 
 (Ar grozījumiem, kas izdarīti ar [19.12.2013.](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma) un [31.03.2022](https://likumi.lv/ta/id/331729-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likumu, kas stājas spēkā [03.05.2022.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2022/05/03))
 
-**29\. pants. Administratīvie pārkāpumi dzīvojamās mājas pārvaldīšanas jomā**
+**29. pants. Administratīvie pārkāpumi dzīvojamās mājas pārvaldīšanas jomā**
 
 Par likumā noteiktās obligāti veicamās pārvaldīšanas darbības neveikšanu, kura skar sabiedrības intereses, piemēro brīdinājumu vai naudas sodu dzīvojamās mājas īpašniekam vai pārvaldniekam (ja minēto pārvaldīšanas darbību uzdots veikt pārvaldniekam) no divām līdz divsimt astoņdesmit naudas soda vienībām, bet juridiskajai personai — no divām līdz divtūkstoš astoņsimt naudas soda vienībām.
 
 ([05.12.2019](https://likumi.lv/ta/id/311437-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [31.12.2019.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2019/12/31) Pants stājas spēkā [01.07.2020.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2020/07/01) Sk. pārejas noteikumu 26. punktu)
 
-**30\. pants. Kompetence administratīvo pārkāpumu procesā**
+**30. pants. Kompetence administratīvo pārkāpumu procesā**
 
 Administratīvā pārkāpuma procesu par šā likuma [29\. pantā](https://likumi.lv/ta/id/193573#p29) minēto pārkāpumu līdz administratīvā pārkāpuma lietas izskatīšanai veic Valsts policija, pašvaldības policija vai pašvaldības īres valde. Administratīvā pārkāpuma lietu izskata pašvaldības administratīvā komisija vai apakškomisija.
 
 ([05.12.2019](https://likumi.lv/ta/id/311437-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [31.12.2019.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2019/12/31) Pants stājas spēkā [01.07.2020.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2020/07/01) Sk. pārejas noteikumu 26. punktu)
 
-Pārejas noteikumi
+## Pārejas noteikumi
 
-2\. Dzīvojamās mājas lieta atbilstoši šā likuma [8.panta](https://likumi.lv/ta/id/193573#p8) prasībām iekārtojama līdz 2011.gada 30.jūnijam.
+1. (Izslēgts ar 16.12.2021. likumu, kas stājas spēkā 01.01.2022.)
 
-4\. Pārvaldīšanas līgumi, kas ir spēkā šā likuma spēkā stāšanās dienā, bet neatbilst šā likuma noteikumiem, līdz 2011.gada 31.decembrim saskaņojami ar šā likuma noteikumiem.
+2. Dzīvojamās mājas lieta atbilstoši šā likuma [8.panta](https://likumi.lv/ta/id/193573#p8) prasībām iekārtojama līdz 2011.gada 30.jūnijam.
 
-5\. Līdz 2011.gada 31.decembrim pārvaldīšanas darbības (uzdevumu) daudzdzīvokļu dzīvojamā mājā ir tiesīga veikt ikviena persona, kura ieguvusi dzīvojamās mājas pārvaldīšanai nepieciešamo izglītību un vismaz trešo profesionālās kvalifikācijas līmeni apliecinošu dokumentu, izņemot šo pārejas noteikumu 6. un 6.1 punktā minēto gadījumu.
+3. (Izslēgts ar 31.03.2022. likumu, kas stājas spēkā 03.05.2022.)
+
+4. Pārvaldīšanas līgumi, kas ir spēkā šā likuma spēkā stāšanās dienā, bet neatbilst šā likuma noteikumiem, līdz 2011.gada 31.decembrim saskaņojami ar šā likuma noteikumiem.
+
+5. Līdz 2011.gada 31.decembrim pārvaldīšanas darbības (uzdevumu) daudzdzīvokļu dzīvojamā mājā ir tiesīga veikt ikviena persona, kura ieguvusi dzīvojamās mājas pārvaldīšanai nepieciešamo izglītību un vismaz trešo profesionālās kvalifikācijas līmeni apliecinošu dokumentu, izņemot šo pārejas noteikumu 6. un 6.1 punktā minēto gadījumu.
 
 (Ar grozījumiem, kas izdarīti ar [12.07.2010](https://likumi.lv/ta/id/213371-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likumu, kas stājas spēkā [30.07.2010.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2010/07/30))
 
-6\. Personas, kuras līdz šā likuma spēkā stāšanās dienai ir noslēgušas attiecīgu dzīvojamo māju pārvaldīšanas līgumus, ir tiesīgas turpināt pildīt saskaņā ar līgumu uzņemtās pārvaldnieka saistības neatkarīgi no tā, vai šo personu kvalifikācija atbilst šā likuma [13.panta](https://likumi.lv/ta/id/193573#p13) prasībām, bet ne ilgāk kā līdz 2013.gada 31.augustam.
+6. Personas, kuras līdz šā likuma spēkā stāšanās dienai ir noslēgušas attiecīgu dzīvojamo māju pārvaldīšanas līgumus, ir tiesīgas turpināt pildīt saskaņā ar līgumu uzņemtās pārvaldnieka saistības neatkarīgi no tā, vai šo personu kvalifikācija atbilst šā likuma [13.panta](https://likumi.lv/ta/id/193573#p13) prasībām, bet ne ilgāk kā līdz 2013.gada 31.augustam.
 
 (Ar grozījumiem, kas izdarīti ar [12.07.2010.](https://likumi.lv/ta/id/213371-grozijumi-dzivojamo-maju-parvaldisanas-likuma) un [20.06.2013](https://likumi.lv/ta/id/257941-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likumu, kas stājas spēkā [03.07.2013.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2013/07/03))
 
-6.1 Šā likuma [13.panta](https://likumi.lv/ta/id/193573#p13) piektajā daļā minētā persona ir tiesīga turpināt dzīvojamo māju pārvaldīšanu arī pēc 2013.gada 1.septembra, ja tā profesionālās kompetences novērtēšanas rezultātā līdz 2013.gada 31.augustam likumā noteiktajā kārtībā ir ieguvusi profesionālās kvalifikācijas dokumentu, kas apliecina pārvaldnieka trešo profesionālās kvalifikācijas līmeni.
+6.<sup>1</sup> Šā likuma [13.panta](https://likumi.lv/ta/id/193573#p13) piektajā daļā minētā persona ir tiesīga turpināt dzīvojamo māju pārvaldīšanu arī pēc 2013.gada 1.septembra, ja tā profesionālās kompetences novērtēšanas rezultātā līdz 2013.gada 31.augustam likumā noteiktajā kārtībā ir ieguvusi profesionālās kvalifikācijas dokumentu, kas apliecina pārvaldnieka trešo profesionālās kvalifikācijas līmeni.
 
 ([12.07.2010](https://likumi.lv/ta/id/213371-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā ar grozījumiem, kas izdarīti ar [20.06.2013](https://likumi.lv/ta/id/257941-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likumu, kas stājas spēkā [03.07.2013.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2013/07/03))
 
-7\. Pirms privatizētas valsts vai pašvaldības dzīvojamās mājas pārvaldīšanas tiesības tiek nodotas attiecīgās mājas dzīvokļu īpašnieku sabiedrībai vai ar dzīvokļu īpašnieku savstarpēju līgumu pilnvarotai personai, pārvaldniekam ir tiesības dzīvokļu īpašnieku vārdā slēgt līgumus par attiecīga dzīvojamai mājai nepieciešama pakalpojuma nodrošināšanu, koplietošanas vajadzībām paredzētās elektroenerģijas nodrošināšanu, kā arī par piesaistītā zemesgabala lietošanu.
+6.<sup>2</sup> (Izslēgts ar 19.12.2013. likumu, kas stājas spēkā 15.01.2014.)
+
+7. Pirms privatizētas valsts vai pašvaldības dzīvojamās mājas pārvaldīšanas tiesības tiek nodotas attiecīgās mājas dzīvokļu īpašnieku sabiedrībai vai ar dzīvokļu īpašnieku savstarpēju līgumu pilnvarotai personai, pārvaldniekam ir tiesības dzīvokļu īpašnieku vārdā slēgt līgumus par attiecīga dzīvojamai mājai nepieciešama pakalpojuma nodrošināšanu, koplietošanas vajadzībām paredzētās elektroenerģijas nodrošināšanu, kā arī par piesaistītā zemesgabala lietošanu.
 
 ([19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
 
-8\. Ministru kabinets līdz 2009.gada 31.decembrim izdod:
+8. Ministru kabinets līdz 2009.gada 31.decembrim izdod:
 
 1) [dzīvojamās mājas sanitārās apkopes noteikumu](https://likumi.lv/ta/id/218830-dzivojamas-majas-sanitaras-apkopes-noteikumi)s;
 
@@ -648,23 +663,23 @@ Pārejas noteikumi
 
 4) noteikumus par mājas lietas vešanas un aktualizēšanas kārtību.
 
-9\. Ministru kabinets līdz 2011.gada 30.jūnijam izdod noteikumus, kas regulē minimālās prasības dzīvojamās mājas energoefektivitātes nodrošināšanai.
+9. Ministru kabinets līdz 2011.gada 30.jūnijam izdod noteikumus, kas regulē minimālās prasības dzīvojamās mājas energoefektivitātes nodrošināšanai.
 
 (Ar grozījumiem, kas izdarīti ar [12.07.2010](https://likumi.lv/ta/id/213371-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likumu, kas stājas spēkā [30.07.2010.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2010/07/30))
 
-10\. Ministru kabinets līdz 2011.gada 1.janvārim izdod noteikumus par pārvaldnieku reģistra vešanas un aktualizēšanas kārtību, reģistram iesniedzamajiem dokumentiem, to iesniegšanas termiņiem, kā arī par reģistra vešanu atbildīgo amatpersonu.
+10. Ministru kabinets līdz 2011.gada 1.janvārim izdod noteikumus par pārvaldnieku reģistra vešanas un aktualizēšanas kārtību, reģistram iesniedzamajiem dokumentiem, to iesniegšanas termiņiem, kā arī par reģistra vešanu atbildīgo amatpersonu.
 
-11\. Šā likuma [6.panta](https://likumi.lv/ta/id/193573#p6) otrās daļas 1.punkta “e” apakšpunkts stājas spēkā 2012.gada 1.janvārī.
+11. Šā likuma [6.panta](https://likumi.lv/ta/id/193573#p6) otrās daļas 1.punkta “e” apakšpunkts stājas spēkā 2012.gada 1.janvārī.
 
 (Ar grozījumiem, kas izdarīti ar [12.07.2010](https://likumi.lv/ta/id/213371-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likumu, kas stājas spēkā [30.07.2010.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2010/07/30))
 
-12\. Šā likuma [18.pants](https://likumi.lv/ta/id/193573#p18) stājas spēkā 2012.gada 1.janvārī.
+12. Šā likuma [18.pants](https://likumi.lv/ta/id/193573#p18) stājas spēkā 2012.gada 1.janvārī.
 
-13\. Līdz pārvaldīšanas līguma noslēgšanai ar dzīvokļu īpašniekiem dzīvokļu īpašnieku kooperatīvās sabiedrības, kā arī dzīvokļu īpašnieku izveidotas biedrības, kurām līdz 2014.gada 14.janvārim valsts vai pašvaldības dzīvojamās mājas valdītājs ir nodevis pārvaldīšanas tiesības, nodrošina obligāto pārvaldīšanas darbību veikšanu. Dzīvokļu īpašnieku kooperatīvā sabiedrība vai dzīvokļu īpašnieku izveidota biedrība dzīvokļu īpašnieku vārdā slēdz līgumus par attiecīga dzīvojamai mājai nepieciešama pakalpojuma nodrošināšanu, koplietošanas vajadzībām paredzētās elektroenerģijas nodrošināšanu, kā arī līgumu par piesaistītā zemesgabala lietošanu.
+13. Līdz pārvaldīšanas līguma noslēgšanai ar dzīvokļu īpašniekiem dzīvokļu īpašnieku kooperatīvās sabiedrības, kā arī dzīvokļu īpašnieku izveidotas biedrības, kurām līdz 2014.gada 14.janvārim valsts vai pašvaldības dzīvojamās mājas valdītājs ir nodevis pārvaldīšanas tiesības, nodrošina obligāto pārvaldīšanas darbību veikšanu. Dzīvokļu īpašnieku kooperatīvā sabiedrība vai dzīvokļu īpašnieku izveidota biedrība dzīvokļu īpašnieku vārdā slēdz līgumus par attiecīga dzīvojamai mājai nepieciešama pakalpojuma nodrošināšanu, koplietošanas vajadzībām paredzētās elektroenerģijas nodrošināšanu, kā arī līgumu par piesaistītā zemesgabala lietošanu.
 
 ([19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
 
-14\. Izbeidzoties pārvaldīšanas tiesiskajām attiecībām, gadījumos, kad pārvaldnieks līgumus par šā likuma [6.panta](https://likumi.lv/ta/id/193573#p6) otrās daļas 1.punkta "b" apakšpunktā minēto pakalpojumu un koplietošanas vajadzībām paredzētās elektroenerģijas nodrošināšanu, kā arī par piesaistītā zemesgabala lietošanu ir noslēdzis līdz 2014.gada 14.janvārim savā, nevis dzīvokļu īpašnieku vārdā, ievērojami šādi noteikumi:
+14. Izbeidzoties pārvaldīšanas tiesiskajām attiecībām, gadījumos, kad pārvaldnieks līgumus par šā likuma [6.panta](https://likumi.lv/ta/id/193573#p6) otrās daļas 1.punkta "b" apakšpunktā minēto pakalpojumu un koplietošanas vajadzībām paredzētās elektroenerģijas nodrošināšanu, kā arī par piesaistītā zemesgabala lietošanu ir noslēdzis līdz 2014.gada 14.janvārim savā, nevis dzīvokļu īpašnieku vārdā, ievērojami šādi noteikumi:
 
 1) prasību tiesā pret dzīvokļa īpašnieku par šo maksājumu parādu ceļ pārvaldnieks, kuram dzīvojamās mājas īpašnieks ir devis pārvaldīšanas uzdevumu, ja parādu attiecīgajam pakalpojuma sniedzējam iepriekšējais pārvaldnieks ir sedzis no uzkrājumu fonda līdzekļiem un to izlietošanai bijis saņemts dzīvojamās mājas īpašnieka pilnvarojums;
 
@@ -672,55 +687,59 @@ Pārejas noteikumi
 
 ([19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
 
-15\. Pakalpojuma sniedzējs līdz 2014.gada 31.maijam aprēķina rēķinu apkalpošanas izmaksas, nodrošinot tiešu maksājumu saņemšanu no dzīvojamās mājās īpašniekiem (turpmāk — rēķinu apkalpošanas izmaksas), ievērojot šā likuma [17.4 panta](https://likumi.lv/ta/id/193573#p17_4) pirmajā daļā noteikto, un nosūta minēto informāciju to dzīvojamo māju pārvaldniekiem, kuru īpašnieki par pakalpojumu norēķinās ar pārvaldnieka starpniecību.
+15. Pakalpojuma sniedzējs līdz 2014.gada 31.maijam aprēķina rēķinu apkalpošanas izmaksas, nodrošinot tiešu maksājumu saņemšanu no dzīvojamās mājās īpašniekiem (turpmāk — rēķinu apkalpošanas izmaksas), ievērojot šā likuma [17.4 panta](https://likumi.lv/ta/id/193573#p17_4) pirmajā daļā noteikto, un nosūta minēto informāciju to dzīvojamo māju pārvaldniekiem, kuru īpašnieki par pakalpojumu norēķinās ar pārvaldnieka starpniecību.
 
 ([19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
 
-16\. Ja dzīvojamās mājas īpašnieks 2014.gada 1.maijā par pakalpojumu norēķinās ar pārvaldnieka starpniecību, pārvaldniekam ir pienākums ne vēlāk kā līdz 2014.gada 30.septembrim nosūtīt dzīvojamās mājas īpašniekam:
+16. Ja dzīvojamās mājas īpašnieks 2014.gada 1.maijā par pakalpojumu norēķinās ar pārvaldnieka starpniecību, pārvaldniekam ir pienākums ne vēlāk kā līdz 2014.gada 30.septembrim nosūtīt dzīvojamās mājas īpašniekam:
 
 1) paziņojumu, kurā norāda kopējo parādu par katru dzīvokļu īpašumu mājai piegādāto pakalpojumu un atsevišķi — katra dzīvokļa īpašnieka parādu par katru pakalpojumu, noslēgtos parādu atmaksas grafikus, pakalpojuma sniedzējam pārskaitīto maksājumu apmēru un parādu pakalpojuma sniedzējam par laiku līdz paziņojuma sagatavošanas dienai;
 
 2) informāciju par normatīvajos aktos noteikto dzīvojamās mājas īpašnieka pienākumu pieņemt lēmumu par kārtību, kādā veicami turpmākie maksājumi par dzīvojamās mājas uzturēšanai nepieciešamo pakalpojumu. Informācijā norāda šajā likumā paredzētos maksājumu veidus un kārtību, attiecīgā lēmuma pieņemšanas termiņu;
 
-3) no pakalpojuma sniedzēja saņemto informāciju par rēķina apkalpošanas izmaksām, ja maksājumi par pakalpojumu tiks veikti likuma [17.3 panta](https://likumi.lv/ta/id/193573#p17_3) pirmajā daļā minētajā kārtībā.
+3) no pakalpojuma sniedzēja saņemto informāciju par rēķina apkalpošanas izmaksām, ja maksājumi par pakalpojumu tiks veikti likuma [17.<sup>3</sup> panta](https://likumi.lv/ta/id/193573#p17_3) pirmajā daļā minētajā kārtībā.
 
 ([19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
 
-17\. Dzīvojamās mājas īpašniekam, kurš 2014.gada 1.maijā par pakalpojumu norēķinās ar pārvaldnieka starpniecību, normatīvajos aktos noteiktajā kārtībā jāizlemj jautājums par veidu, kādā tiks veikti turpmākie maksājumi ar pakalpojuma sniedzēju. Pieņemot lēmumu, dzīvojamās mājas īpašnieki izvērtē attiecīgā pakalpojuma sniedzēja sagatavoto informāciju par rēķinu apkalpošanas izmaksām. Lēmumā norāda datumu, ar kuru tiks mainīta maksājumu kārtība, ņemot vērā šo pārejas noteikumu 20. un 21.punktā noteikto, kā arī kritērijus un metodiku, pēc kādiem tiek aprēķināta un uzskaitīta katra dzīvojamās mājas īpašnieka maksājamā daļa par mājas uzturēšanai nepieciešamo pakalpojumu. Par pieņemto lēmumu dzīvojamās mājas īpašnieks rakstveidā paziņo pārvaldniekam un pakalpojuma sniedzējam divu nedēļu laikā no lēmuma pieņemšanas dienas.
+17. Dzīvojamās mājas īpašniekam, kurš 2014.gada 1.maijā par pakalpojumu norēķinās ar pārvaldnieka starpniecību, normatīvajos aktos noteiktajā kārtībā jāizlemj jautājums par veidu, kādā tiks veikti turpmākie maksājumi ar pakalpojuma sniedzēju. Pieņemot lēmumu, dzīvojamās mājas īpašnieki izvērtē attiecīgā pakalpojuma sniedzēja sagatavoto informāciju par rēķinu apkalpošanas izmaksām. Lēmumā norāda datumu, ar kuru tiks mainīta maksājumu kārtība, ņemot vērā šo pārejas noteikumu 20. un 21.punktā noteikto, kā arī kritērijus un metodiku, pēc kādiem tiek aprēķināta un uzskaitīta katra dzīvojamās mājas īpašnieka maksājamā daļa par mājas uzturēšanai nepieciešamo pakalpojumu. Par pieņemto lēmumu dzīvojamās mājas īpašnieks rakstveidā paziņo pārvaldniekam un pakalpojuma sniedzējam divu nedēļu laikā no lēmuma pieņemšanas dienas.
 
 ([19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
 
-18\. Dzīvokļu īpašumu mājās, kurās pārvaldīšanas tiesības nav nodotas attiecīgās mājas dzīvokļu īpašnieku sabiedrībai vai ar dzīvokļu īpašnieku savstarpēju līgumu pilnvarotai personai un kurās dzīvokļu īpašnieku kopība nav pieņēmusi lēmumu, dzīvokļu īpašnieku kopības viedokli noskaidro, nesasaucot kopsapulci — aptaujas veidā normatīvajos aktos noteiktajā kārtībā līdz 2015.gada 31.janvārim, un aptauju organizē pārvaldnieks. Nosūtāmā rakstveida lēmuma projekta saturu nosaka Ministru kabinets.
+18. Dzīvokļu īpašumu mājās, kurās pārvaldīšanas tiesības nav nodotas attiecīgās mājas dzīvokļu īpašnieku sabiedrībai vai ar dzīvokļu īpašnieku savstarpēju līgumu pilnvarotai personai un kurās dzīvokļu īpašnieku kopība nav pieņēmusi lēmumu, dzīvokļu īpašnieku kopības viedokli noskaidro, nesasaucot kopsapulci — aptaujas veidā normatīvajos aktos noteiktajā kārtībā līdz 2015.gada 31.janvārim, un aptauju organizē pārvaldnieks. Nosūtāmā rakstveida lēmuma projekta saturu nosaka Ministru kabinets.
 
 ([19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
 
-19\. Pārvaldnieks par ikvienu dzīvojamo māju, kuras īpašnieki izlēmuši par labu tiešiem maksājumiem, līdz 2015.gada 30.martam sagatavo aptaujas rezultātus un nosūta pakalpojuma sniedzējam informāciju par dzīvokļu īpašumu skaitu, dzīvojamās mājas īpašniekiem, parādu atmaksas grafikiem, kas noslēgti ar dzīvojamās mājas īpašniekiem, par kopējo parādu pakalpojuma sniedzējam. Vienlaikus pārvaldniekam ir pienākums minētajā termiņā nosūtīt dzīvojamās mājas īpašniekam aktualizētu šo pārejas noteikumu 15.punktā minēto informāciju.
+19. Pārvaldnieks par ikvienu dzīvojamo māju, kuras īpašnieki izlēmuši par labu tiešiem maksājumiem, līdz 2015.gada 30.martam sagatavo aptaujas rezultātus un nosūta pakalpojuma sniedzējam informāciju par dzīvokļu īpašumu skaitu, dzīvojamās mājas īpašniekiem, parādu atmaksas grafikiem, kas noslēgti ar dzīvojamās mājas īpašniekiem, par kopējo parādu pakalpojuma sniedzējam. Vienlaikus pārvaldniekam ir pienākums minētajā termiņā nosūtīt dzīvojamās mājas īpašniekam aktualizētu šo pārejas noteikumu 15.punktā minēto informāciju.
 
 ([19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
 
-20\. Pēc tam, kad ir salīdzināta informācija un panākta vienošanās par dzīvojamās mājas īpašnieku kopējo parādu, pārvaldnieks un pakalpojuma sniedzējs var vienoties par to, kurš veiks maksājumu kontroli attiecībā uz parādsaistībām, kas dzīvojamās mājas īpašniekiem izveidojušās līdz tiešo maksājumu uzsākšanai. Ja vienošanās netiek panākta, maksājumu kontroli attiecībā uz parādsaistībām, kas dzīvojamās mājas īpašniekiem izveidojušās līdz tiešo maksājumu uzsākšanai, veic pārvaldnieks.
+20. Pēc tam, kad ir salīdzināta informācija un panākta vienošanās par dzīvojamās mājas īpašnieku kopējo parādu, pārvaldnieks un pakalpojuma sniedzējs var vienoties par to, kurš veiks maksājumu kontroli attiecībā uz parādsaistībām, kas dzīvojamās mājas īpašniekiem izveidojušās līdz tiešo maksājumu uzsākšanai. Ja vienošanās netiek panākta, maksājumu kontroli attiecībā uz parādsaistībām, kas dzīvojamās mājas īpašniekiem izveidojušās līdz tiešo maksājumu uzsākšanai, veic pārvaldnieks.
 
 ([19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
 
-21\. Pakalpojuma sniedzējs no pārvaldnieka saņemto informāciju par dzīvojamās mājas īpašnieku kopējo parādu salīdzina ar tā uzskaitē esošajiem datiem un nosūta pārvaldniekam informāciju par salīdzināšanas rezultātiem.
+21. Pakalpojuma sniedzējs no pārvaldnieka saņemto informāciju par dzīvojamās mājas īpašnieku kopējo parādu salīdzina ar tā uzskaitē esošajiem datiem un nosūta pārvaldniekam informāciju par salīdzināšanas rezultātiem.
 
 ([19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
 
-22\. Šā likuma [17.4 panta](https://likumi.lv/ta/id/193573#p17_4) otrās daļas prasību izpildi pakalpojuma sniedzējs nodrošina ne vēlāk kā līdz 2015.gada 30.septembrim.
+22. Šā likuma [17.<sup>4</sup> panta](https://likumi.lv/ta/id/193573#p17_4) otrās daļas prasību izpildi pakalpojuma sniedzējs nodrošina ne vēlāk kā līdz 2015.gada 30.septembrim.
 
 ([19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
 
-23\. Tiešie maksājumi par pakalpojumiem uzsākami ne agrāk kā 2015.gada 1.oktobrī, izņemot gadījumus, kad dzīvojamās mājas īpašnieks un pakalpojuma sniedzējs jau līdz 2015.gada 30.septembrim vienojušies par tiešajiem maksājumiem pakalpojuma līgumā.
+23. Tiešie maksājumi par pakalpojumiem uzsākami ne agrāk kā 2015.gada 1.oktobrī, izņemot gadījumus, kad dzīvojamās mājas īpašnieks un pakalpojuma sniedzējs jau līdz 2015.gada 30.septembrim vienojušies par tiešajiem maksājumiem pakalpojuma līgumā.
 
 ([19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
 
-24\. Pakalpojuma sniedzējam ir pienākums uzskaitīt un kontrolēt tos maksājumus, kurus dzīvojamās mājas īpašnieks veicis, norēķinoties tieši ar pakalpojuma sniedzēju.
+24. Pakalpojuma sniedzējam ir pienākums uzskaitīt un kontrolēt tos maksājumus, kurus dzīvojamās mājas īpašnieks veicis, norēķinoties tieši ar pakalpojuma sniedzēju.
 
 ([19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
 
-25\. Līguma noteikumus, kas saistīti ar maksājumu veida maiņu, dzīvojamās mājas īpašnieka vārdā groza viņa pilnvarota persona. Dzīvojamās mājās, kurās pārvaldīšanas tiesības nav nodotas attiecīgās mājas dzīvokļu īpašnieku sabiedrībai vai ar dzīvokļu īpašnieku savstarpēju līgumu pilnvarotai personai, attiecīgos grozījumus dzīvojamās mājas īpašnieka vārdā izdara pārvaldnieks.
+25. Līguma noteikumus, kas saistīti ar maksājumu veida maiņu, dzīvojamās mājas īpašnieka vārdā groza viņa pilnvarota persona. Dzīvojamās mājās, kurās pārvaldīšanas tiesības nav nodotas attiecīgās mājas dzīvokļu īpašnieku sabiedrībai vai ar dzīvokļu īpašnieku savstarpēju līgumu pilnvarotai personai, attiecīgos grozījumus dzīvojamās mājas īpašnieka vārdā izdara pārvaldnieks.
 
 ([19.12.2013](https://likumi.lv/ta/id/263637-grozijumi-dzivojamo-maju-parvaldisanas-likuma). likuma redakcijā, kas stājas spēkā [15.01.2014.](https://likumi.lv/ta/id/193573-dzivojamo-maju-parvaldisanas-likums/redakcijas-datums/2014/01/15))
+
+26. Šā likuma 29. un 30. pants stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
+
+(05.12.2019. likuma redakcijā, kas stājas spēkā 31.12.2019.)
 
 27. Mājas lietas kārtotājs mājas lietā ietveramās informācijas, elektronisko dokumentu vai to atvasinājumu pievienošanu Būvniecības informācijas sistēmai, dzīvojamās mājas īpašnieku izsniegto pilnvarojumu, kā arī informācijas sagatavošanu Būvniecības informācijas sistēmā uzsāk līdz 2023. gada 28. februārim. Dokumentus un informāciju, kas radīta līdz 2023. gada 28. februārim, Būvniecības informācijas sistēmai pievieno pēc mājas lietas kārtotāja ieskatiem.
 
