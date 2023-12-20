@@ -2220,13 +2220,39 @@ noteikumiem Nr. 238
 
 Ugunsdrošībai lietojamās zīmes
 
+
+
+
+
+
+
+
+
+
 (Pielikums MK [15.09.2020.](https://m.likumi.lv/ta/id/317397-grozijumi-ministru-kabineta-2016-gada-19-aprila-noteikumos-nr-238-ugunsdrosibas-noteikumi-) noteikumu Nr. 585 redakcijā)
 
 1\. Brīdinājuma zīmes
 
+
+
+| 1.1. Sprādzienbīstams materiāls                                         | 1.2. Oksidējoša viela                                                   | 1.3. Elektrība                                                          | 1.4. Spiediena balons                                                   |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE001.JPG) | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE002.JPG) | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE003.JPG) | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE004.PNG) |
+
+
+
+
+
 Piezīme. Brīdinājuma zīmei ir vienādmalu trīsstūra forma (izņemot 1.5. zīmi, kura ir vienādmalu sešstūris), melna (piemēram, RAL 9004) piktogramma uz dzeltena (piemēram, RAL 1003) fona. Dzeltenajai krāsai jāpārklāj vismaz 50 % no zīmes virsmas platības.
 
 2\. Aizlieguma zīmes
+
+
+| 2.1. Smēķēšana un atklāta liesma aizliegta                              | 2.2. Smēķēt aizliegts                                                   | 2.3. Kurināt ugunskuru aizliegts                                        | 2.4. Nedzēst ar ūdeni                                                   |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE007.JPG) | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE008.JPG) | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE009.PNG) | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE010.PNG) |
+
+
 
 Piezīme. Aizlieguma zīmei ir apļveida forma, melna (piemēram, RAL 9004) piktogramma uz balta (piemēram, RAL 9003) fona ar sarkanu (piemēram, RAL 3001) apmali un joslu, kas 45 % leņķī šķērso piktogrammu no kreisās puses uz labo. Sarkanajai krāsai jāaizņem vismaz 35 % no zīmes virsmas platības.
 
