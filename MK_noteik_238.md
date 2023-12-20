@@ -2323,10 +2323,10 @@ Piezīme. Cilvēku kustības virziena zīmei ir taisnstūra vai kvadrātveida fo
 
 6\. Rīkojuma zīmes
 
-
 | 6.1. Sazemēt                                                            | 6.2. Jālieto antistatiski apavi                                         |  |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |  |
-| ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE028.JPG) | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE029.JPG) |
+| ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE028.JPG) | ![](https://www.likumi.lv/wwwraksti/2020/181/BILDES/N_585/IMAGE029.JPG) |  |
+
 
 
 
