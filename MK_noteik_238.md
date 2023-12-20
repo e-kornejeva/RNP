@@ -5,6 +5,8 @@ Attēlotā redakcija: 01.09.2023. - ... / Spēkā esošā
 
 **Ministru kabineta noteikumi Nr. 238**
 
+#### URL:https://m.likumi.lv/doc.php?id=281646
+
 Rīgā 2016. gada 19. aprīlī (prot. Nr. 19 10. §)
 
 Ugunsdrošības noteikumi
