@@ -11,7 +11,8 @@ Par valsts un pašvaldību dzīvojamo māju privatizāciju
 
 ## I nodaļa  Vispārīgie noteikumi
 
-**1.pants. Likumā lietotie termini**
+### **1.pants. Likumā lietotie termini**
+#### URL:https://likumi.lv/ta/id/35770#p1
 
 Likumā ir lietoti šādi termini:
 
@@ -59,12 +60,12 @@ Likumā ir lietoti šādi termini:
 
 (Ar grozījumiem, kas izdarīti ar [22.08.1996.](https://likumi.lv/ta/id/63736-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [28.11.1996.](https://likumi.lv/ta/id/41627-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [11.06.1997.](https://likumi.lv/ta/id/51976-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [07.05.1998.](https://likumi.lv/ta/id/48169-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [26.10.2000.](https://likumi.lv/ta/id/12561-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [07.04.2004.](https://likumi.lv/ta/id/87665-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [18.05.2006.](https://likumi.lv/ta/id/136684-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-) un [19.06.2014](https://likumi.lv/ta/id/267425-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likumu, kas stājas spēkā [01.10.2014.](https://likumi.lv/ta/id/35770-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju/redakcijas-datums/2014/10/01))
 
-**2.pants. Likuma darbība un mērķi**
-
+### **2.pants. Likuma darbība un mērķi**
+#### URL:https://likumi.lv/ta/id/35770#p2
 Šis likums nosaka valsts un pašvaldību dzīvojamo māju privatizācijas kārtību, un tā mērķis ir attīstīt nekustamā īpašuma tirgu un veicināt dzīvojamo māju sakopšanu, aizsargājot iedzīvotāju intereses.
 
-**3.pants. Privatizācijas atklātums un brīvprātība**
-
+### **3.pants. Privatizācijas atklātums un brīvprātība**
+#### URL:https://likumi.lv/ta/id/35770#p3
 (1) Privatizācija tiek veikta atklāti, informējot sabiedrību par privatizācijas objektiem un izskaidrojot privatizācijas nosacījumus un kārtību.
 
 (2) Privatizācijas atklātumu nodrošina privatizācijas komisijas, publicējot informāciju šajā likumā noteiktajos gadījumos un paredzētajā kārtībā.
@@ -73,8 +74,8 @@ Likumā ir lietoti šādi termini:
 
 (4) Valsts un pašvaldību daudzdzīvokļu mājās esošos dzīvokļus, mākslinieku darbnīcas, kā arī viendzīvokļa mājas to īrnieki un nomnieki privatizē brīvprātīgi.
 
-**4.pants. Privatizācijas veidi**
-
+### **4.pants. Privatizācijas veidi**
+#### URL:https://likumi.lv/ta/id/35770#p4
 (1) Privatizācija notiek, izpērkot šā likuma 7.un 8.pantā minēto privatizācijas objektu un noslēdzot pirkuma līgumu vai saņemot privatizācijas objektu īpašumā bez atlīdzības un noslēdzot vienošanos.
 
 (2) Privatizācijas objektu var izpirkt šādi:
@@ -85,16 +86,16 @@ Likumā ir lietoti šādi termini:
 
 3) zemes īpašnieks pērk publiski piedāvāto privatizācijas objektu.
 
-**5.pants. Maksāšanas līdzekļi un kārtība**
-
+### **5.pants. Maksāšanas līdzekļi un kārtība**
+#### URL:https://likumi.lv/ta/id/35770#p5
 (1) Maksājumi par privatizēto objektu izdarāmi privatizācijas sertifikātos un _euro_, ievērojot šā likuma 45. un 46.pantā noteikto.
 
 (2) Ministru kabinets nosaka personu (tā var būt arī privātpersona) (turpmāk — Ministru kabineta noteikta institūcija), kuras kontā, sākot no 2014.gada 1.marta, ieskaita maksājumus par šā likuma 45.panta trešajā daļā, 73.3 panta devītajā daļā un 73.4 panta sestajā daļā minētajiem objektiem.
 
 (Ar grozījumiem, kas izdarīti ar [19.09.2013.](https://likumi.lv/ta/id/260406-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-) un [16.01.2014](https://likumi.lv/ta/id/263965-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likumu, kas stājas spēkā [01.02.2014.](https://likumi.lv/ta/id/35770-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju/redakcijas-datums/2014/02/01))
 
-**6.pants. Personas, kurām ir tiesības privatizēt dzīvokļus, neapdzīvojamās telpas, mākslinieku darbnīcas, kā arī viendzīvokļa un daudzdzīvokļu mājas**
-
+### **6.pants. Personas, kurām ir tiesības privatizēt dzīvokļus, neapdzīvojamās telpas, mākslinieku darbnīcas, kā arī viendzīvokļa un daudzdzīvokļu mājas**
+#### URL:https://likumi.lv/ta/id/35770#p6
 Privatizēt šā likuma 7. un 8. pantā minētos privatizācijas objektus šajā likumā noteiktajā kārtībā ir tiesības:
 
 1) privatizācijas sertifikātu īpašniekiem — Latvijas pilsoņiem, nepilsoņiem un personām, kuras saņēmušas pastāvīgās uzturēšanās atļauju;
@@ -147,8 +148,8 @@ Ja viendzīvokļa vai daudzdzīvokļu māja atrodas uz fiziskās vai juridiskās
 
 ## III nodaļa  Nosacījumi, kas jāievēro, piedāvājot privatizācijai atsevišķu dzīvokli,  neapdzīvojamo telpu, mākslinieka darbnīcu, viendzīvokļa vai daudzdzīvokļu māju
 
-**9.pants. Privatizācijas nosacījumi, ja dzīvojamā māja ir kopīpašums**
-
+### **9.pants. Privatizācijas nosacījumi, ja dzīvojamā māja ir kopīpašums**
+#### URL:https://likumi.lv/ta/id/35770#p9
 (1) Ja dzīvojamā māja ir valsts vai pašvaldības un kādas citas personas kopīpašumā, valstij vai pašvaldībai piederošo kopīpašuma daļu privatizē kā dzīvokļus, mākslinieku darbnīcas vai neapdzīvojamās telpas, ja iepriekš, ievērojot šā likuma noteikumus, ir noteiktas valsts vai pašvaldības īpašuma tiesības uz atsevišķiem dzīvokļiem, mākslinieku darbnīcām vai neapdzīvojamām telpām. Veicot kopīpašuma sadali, nav piemērojami Civillikuma 1075.panta noteikumi.
 
 (2) Ja starp kopīpašniekiem nav panākta vienošanās par kopīpašuma — dzīvokļu, neapdzīvojamo telpu un mākslinieku darbnīcu — sadali saskaņā ar šā likuma pārejas noteikumu 20.punktu, valsts vai pašvaldība pārdod sev piederošo kopīpašuma domājamo daļu izsolē saskaņā ar attiecīgu Ministru kabineta rīkojumu vai attiecīgās pašvaldības domes lēmumu, Publiskas personas mantas atsavināšanas likumu un šo likumu.
