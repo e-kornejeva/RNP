@@ -1,4 +1,7 @@
 # Par palīdzību dzīvokļa jautājumu risināšanā
+
+#### URL:https://likumi.lv/doc.php?id=56812
+
 Grozījumi:
 
 11.09.2003. likums / LV, 133, 26.09.2003.; Ziņotājs, 20, 23.10.2003. / Stājas spēkā 10.10.2003. 22.12.2004. likums / LV, 5, 11.01.2005.; Ziņotājs, 9, 12.05.2005. / Stājas spēkā 25.01.2005. 10.05.2007. likums / LV, 86, 30.05.2007.; Ziņotājs, 12, 28.06.2007. / Stājas spēkā 01.07.2007. 15.11.2007. likums / LV, 188, 22.11.2007.; Ziņotājs, 24, 27.12.2007. / Stājas spēkā 23.11.2007. 30.04.2009. likums / LV, 78, 20.05.2009.; Ziņotājs, 12, 25.06.2009. / Stājas spēkā 03.06.2009. 03.12.2009. likums / LV, 196, 15.12.2009. / Stājas spēkā 29.12.2009. 16.09.2010. likums / LV, 157, 05.10.2010. / Stājas spēkā 19.10.2010. 06.11.2013. likums / LV, 232, 27.11.2013. / Stājas spēkā 01.01.2014. 19.06.2014. likums / LV, 131, 08.07.2014. / Stājas spēkā 22.07.2014. 30.11.2015. likums / LV, 248, 18.12.2015. / Stājas spēkā 01.01.2016. 17.03.2016. likums / LV, 64, 04.04.2016. / Stājas spēkā 18.04.2016. 30.03.2017. likums / LV, 75, 12.04.2017. / Stājas spēkā 26.04.2017. 22.11.2017. likums / LV, 242, 06.12.2017. / Stājas spēkā 01.01.2018. 24.11.2020. likums / LV, 240A, 11.12.2020. / Stājas spēkā 01.01.2021. 18.03.2021. likums / LV, 55A, 19.03.2021. / Stājas spēkā 20.03.2021. 08.12.2021. likums / LV, 246, 21.12.2021. / Stājas spēkā 01.01.2022. 13.01.2022. likums / LV, 10A, 14.01.2022. / Stājas spēkā 15.01.2022.
