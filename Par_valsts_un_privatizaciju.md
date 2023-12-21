@@ -1235,7 +1235,7 @@ Dzīvokļu, neapdzīvojamo telpu, mākslinieku darbnīcu, viendzīvokļa māju v
 
 (Ar grozījumiem, kas izdarīti ar [16.12.1999](https://likumi.lv/ta/id/14942-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likumu, kas stājas spēkā [01.01.2000.](https://likumi.lv/ta/id/35770-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju/redakcijas-datums/2000/01/01))
 
- XV<sup>1</sup> nodaļa  Dzīvokļu, mākslinieku darbnīcu un neapdzīvojamo telpu nodošana īpašumā līdz dzīvojamās mājas privatizācijai
+ XV^1^ nodaļa  Dzīvokļu, mākslinieku darbnīcu un neapdzīvojamo telpu nodošana īpašumā līdz dzīvojamās mājas privatizācijai
 
 (Nodaļa [11.06.1997](https://likumi.lv/ta/id/51976-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likuma redakcijā, kas stājas spēkā [11.07.1997.](https://likumi.lv/ta/id/35770-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju/redakcijas-datums/1997/07/11))
 
