@@ -2502,6 +2502,176 @@ Iekšlietu ministrs Rihards Kozlovskis
 
 
 
+3. pielikums
+Ministru kabineta
+2016. gada 19. aprīļa
+noteikumiem Nr. 238
+Uzlīme par ugunsdzēsības aparāta tehniskā stāvokļa vizuālo apskati (novērtējumu)
+
+
+| Datums, kurā veikta ugunsdzēsības aparāta tehniskā stāvokļa vizuālā apskate (novērtējums) | Ir vai nav konstatēts bojājums | Personas vārds, uzvārds un paraksts |
+| ----------------------------------------------------------------------------------------- | ------------------------------ | ----------------------------------- |
+|                                                                                           |                                |                                     |
+|                                                                                           |                                |                                     |
+
+
+4. pielikums
+Ministru kabineta
+2016. gada 19. aprīļa
+noteikumiem Nr. 238
+
+(Pielikums MK 15.09.2020. noteikumu Nr. 585 redakcijā)
+Uzlīme par veikto ugunsdzēsības aparāta tehnisko apkopi
+
+
+
+| Uzlīmes kārtas numurs                                                    | Ugunsdzēsības aparāta ražotāja nosaukums, reģistrētais komercnosaukums vai reģistrētā preču zīme un kontaktadrese | Ugunsdzēsības aparāta ražošanas gads |
+| ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| Tehniskās apkopes veicēja nosaukums, reģistrācijas numurs, kontaktadrese | Tehniskās apkopes datums                                                                                          | Nākamās tehniskās apkopes datums     |
+| Ugunsdzēsības aparāta ražotāja noteiktais tehniskās apkopes periodiskums |
+
+
+
+
+5. pielikums
+Ministru kabineta
+2016. gada 19. aprīļa
+noteikumiem Nr. 238
+Ugunsdzēsības līdzekļu aprēķins
+
+(Pielikums grozīts ar MK 15.09.2020. noteikumiem Nr. 585)
+
+1. tabula
+
+Objektu ugunsbīstamības līmenis ugunsdzēsības aparātu skaita aprēķināšanai A un B klases ugunsgrēkiem
+
+
+| Objekta ugunsbīstamības līmenis                                                                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| mazs                                                                                                                                                                                                                                                                                                   | vidējs | liels |
+| I. Publisks vai saimnieciskās darbības objekts                                                                                                                                                                                                                                                         |
+| Objekts, kas tiek izmantots visu diennakti un kurā cilvēku brīva kustība ir ierobežota vai kontrolēta, piemēram, ārstniecības stacionārā iestāde (tai skaitā dzemdību nams), bērnunams, patversme, sociālās aprūpes vai rehabilitācijas iestāde, ar brīvības atņemšanu saistīta vieta vai cits objekts | 1\. Objekts, kas var tikt izmantots visu diennakti un kurā cilvēku kustība nav ierobežota, piemēram, viesnīca, dienesta viesnīca, hostelis, motelis, viesu māja, sanatorija, kempings, atpūtas bāze, atpūtas nometne, kazarmas, cits izmitināšanas objekts, restorāns, kafejnīca, bārs vai cits tirdzniecības un pakalpojumu objekts.<br>2\. Objekts, kas galvenokārt tiek izmantots dienā un kurā pastāvīgi atrodas nodarbinātais, kas pārzina objektu, piemēram, administratīvs objekts (tai skaitā tiesa, pasts, arhīvs, banka, birojs), izglītības iestādes objekts (universitāte, augstskola, zinātnes un pētniecības objekts, interešu izglītības iestāde, pirmsskolas izglītības iestāde, pamatskola, ģimnāzija, amatniecības skola), veikals, frizētava, ambulatorās ārstniecības objekts vai cits administratīvs, tirdzniecības un pakalpojumu objekts.<br>3\. Mehānisko transportlīdzekļu, dzelzceļa ritošā sastāva, gaisa kuģu, kuģošanas līdzekļu novietošanas objekts | 1\. Objekts, kas tiek izmantots publiskiem pasākumiem, piemēram, teātris, kinoteātris, koncertzāle, cirks, konferenču, izstāžu objekts, klubs, kultūras nams, muzejs, reliģiskās darbības objekts, bibliotēka vai cits objekts.<br>2\. Tirdzniecības objekts, tirgus, dzelzceļa stacija, lidosta, autoosta, pasažieru osta, sporta būve vai cits objekts, kurā vienlaikus var atrasties vairāk par 100 cilvēkiem.<br>3\. Mehānisko transportlīdzekļu, dzelzceļa ritošā sastāva, gaisa kuģu, kuģošanas līdzekļu tehniskās apkopes un remonta objekts.<br>4\. (Svītrots ar MK [15.09.2020.](https://m.likumi.lv/ta/id/317397-grozijumi-ministru-kabineta-2016-gada-19-aprila-noteikumos-nr-238-ugunsdrosibas-noteikumi-) noteikumiem Nr. 585) |
+| II. Ražošanas, vielu un materiālu uzglabāšanas objekts                                                                                                                                                                                                                                                 |
+| Ugunsslodze nepārsniedz 300 MJ/m<sup>2</sup>                                                                                                                                                                                                                                                           | Ugunsslodze no 300 MJ/m<sup>2</sup> līdz 600 MJ/m<sup>2</sup> | Ugunsslodze virs 600 MJ/m<sup>2</sup> |
+
+
+
+
+
+
+
+2. tabula
+
+Ugunsdzēsības aparātu dzēstspēja A un B klases ugunsgrēkiem un to nodrošinājums objektā
+
+
+| Objekta platība (m<sup>2</sup>)                        | Objekta ugunsbīstamības līmenis |
+| ------------------------------------------------------ | ------------------------------- |
+| mazs                                                   | vidējs                          | liels |
+| Līdz 50                                                | 21A 113B                        | 27A 144B | 64A 296B |
+| 51–75                                                  | 24A 129B                        | 46A 220B | 78A 368B |
+| 76–100                                                 | 27A 144B                        | 64A 296B | 91A 440B |
+| 101–150                                                | 35A 164B                        | 75A 339B | 105A 512B |
+| 151–200                                                | 43A 183B                        | 85A 382B | 118A 584B |
+| 201–250                                                | 49A 208B                        | 96A 439B | 132A 656B |
+| 251–300                                                | 55A 233B                        | 106A 495B | 145A 728B |
+| 301–350                                                | 60A 265B                        | 117A 556B | 160A 800B |
+| 351–400                                                | 64A 296B                        | 127A 608B | 172A 872B |
+| 401–450                                                | 67A 312B                        | 138A 665B | 186A 944B |
+| 451–500                                                | 70A 327B                        | 148A 721B | 199A 1016B |
+| 501–550                                                | 78A 355B                        | 159A 776B | 213A 1088B |
+| 551–600                                                | 85A 382B                        | 169A 834B | 226A 1160B |
+| 601–650                                                | 88A 411B                        | 180A 891B | 240A 1232B |
+| 651–700                                                | 91A 440B                        | 190A 947B | 254A 1304B |
+| 701–750                                                | 99A 468B                        | 201A 1004B | 267A 1376B |
+| 751–800                                                | 106A 495B                       | 211A 1060B | 280A 1448B |
+| 801–850                                                | 112A 540B                       | 222A 1117B | 294A 1520B |
+| 851–900                                                | 118A 584B                       | 232A 1173B | 307A 1592B |
+| 901–950                                                | 123A 596B                       | 243A 1230B | 321A 1664B |
+| 951–1000                                               | 127A 608B                       | 253A 1286B | 334A 1736B |
+| Katrus nākamos 250 m<sup>2</sup> papildus nodrošina ar | 21A 113B                        | 27A 144B | 64A 296B |
+
+
+
+
+
+
+3. tabula
+
+Pārvietojamo ugunsdzēsības aparātu nodrošinājums objektā
+
+
+| Nr.<br>p.k. | Objekts                                                                                | Aprēķina mērvienība              | Minimālā dzēstspēja uz aprēķina mērvienību |
+| ----------- | -------------------------------------------------------------------------------------- | -------------------------------- | ------------------------------------------ |
+| 1.          | Publisks objekts ar skatuvi, kurā apmeklētāju skaits var būt lielāks par 800 cilvēkiem | 1 skatuve                        | 50A 233B<br>vai A IIB                      |
+| 2.          | Saimnieciskās darbības objekts ar sprādzienbīstamu vidi                                | 800 m<sup>2</sup>                | 50A 233B<br>vai A IIB                      |
+| 3.          | Dzelzceļa estakāde, kurā notiek darbība ar ugunsbīstamo vielu                          | 4 uzpildes vai noliešanas vietas | 50A 233B<br>vai A IIB                      |
+| 4.          | Bīstamo vielu rezervuāri:                                                              |                                  |                                            |
+| 4.1.        | rezervuāru kopējais tilpums nepārsniedz 5000 m<sup>3</sup>                             | rezervuāru laukums               | 25A 233B<br>vai A IB                       |
+| 4.2.        | rezervuāru kopējais tilpums virs 5000 m<sup>3</sup>                                    | rezervuāru laukums               | 50A 233B<br>vai A IIB                      |
+| 5.          | Bīstamu vielu autocisternu uzpildes vai noliešanas vietas                              | 2 uzpildes vai noliešanas vietas | 50A 233B<br>vai A IIB                      |
+| 6.          | Kuģošanas līdzekļu piestātnes un tehnoloģiskais laukums                                | 50 m<sup>2</sup>                 | 50A 233B<br>vai A IIB                      |
+| 7.          | Mehānisko transportlīdzekļu novietošanas objekts:                                      |                                  |                                            |
+| 7.1.        | vieglajiem automobiļiem                                                                | 75 vietas                        | 25A 233B<br>vai A IB                       |
+| 7.2.        | kravas automobiļiem                                                                    | 50 vietas                        | 50A 233B<br>vai A IIB                      |
+| 8.          | Degvielas un gāzu uzpildes stacijas                                                    | 1 stacija                        | 25A 233B<br>vai A IB                       |
+| 9.          | Gaisa kuģu stāvvietas (ja objektā nav patstāvīga ugunsdzēsības dienesta)               | 1 gaisa kuģis                    | 50A 233B<br>vai A IIB                      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Piezīmes.
