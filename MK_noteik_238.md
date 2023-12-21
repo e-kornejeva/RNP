@@ -3082,1401 +3082,237 @@ Nosacījumi sistēmas tehniskajai apkopei un uzturēšanai
 
 
 
+Piezīmes.
+
+1 Norāda plānotos tehniskās apkopes darbus atbilstoši šo noteikumu 130. punktam (piemēram, ikdienas darbi, ikmēneša darbi, darbi, kas jāveic reizi ceturksnī, reizi sešos mēnešos, reizi gadā utt.).
+
+2 Gada laikā pārbauda visu ugunsaizsardzības sistēmas elementu darbspēju un ugunsaizsardzības sistēmas darbspēju kopumā. Ceturksnī pārbauda vismaz 25 % no automātiskās ugunsaizsardzības sistēmas elementu kopskaita.
+
+3 Norāda personu, kura ir atbildīga par darba veikšanu noteiktā periodā.
+Nosacījumi ugunsaizsardzības sistēmas tehniskajai apkopei un uzturēšanai izstrādāti saskaņā ar	 
+ 
+(norāda normatīvā akta un piemērojamā standarta nosaukumu, numuru un datumu, sistēmas ierīču ražotāju dokumentācijas nosaukumu)
+ 
+Veikto tehniskās apkopes un remonta darbu uzskaite, iedarbošanās un bojājumu gadījumu uzskaite
 
 
 
-
-
-
-
-
-
-
-
-
-
-
----------------------------------------------------------------
-
-Inese_kas_ir_šis?
+| Nr. p. k.         | Sistēmas nosaukums | Datums            | Laiks (plkst.) | Notikums<sup>1</sup> | Veikto darbību/darbu apraksts<sup>2</sup> | Atzīme par sistēmas tehnisko<br>stāvokli<sup>3</sup> | Personas, kas veica ierakstu žurnālā | Atbildīgās personas<br>vai tās pilnvarotās personas | Piezīmes |
+| ----------------- | ------------------ | ----------------- | -------------- | -------------------- | ----------------------------------------- | ---------------------------------------------------- | ------------------------------------ | --------------------------------------------------- | -------- |
+| vārds,<br>uzvārds | paraksts           | vārds,<br>uzvārds | paraksts       |
+|                   |                    |                   |                |                      |                                           |                                                      |                                      |                                                     |          |  |  |
+|                   |                    |                   |                |                      |                                           |                                                      |                                      |                                                     |          |  |  |
+|                   |                    |                   |                |                      |                                           |                                                      |                                      |                                                     |          |  |  |
 
 
 
 
 Piezīmes.
 
-1 Ugunsdzēsības hidranta numurs saskaņā ar ārējā ūdensapgādes tīkla plānu (pārbaudes akta pielikums).
+1 Norāda notikuma būtību (piemēram, ugunsaizsardzības sistēmas tehniskā apkope, remonts, iedarbošanās, bojājums, darbspējas pārbaude).
 
-2 Rīgas tipa (R), Maskavas tipa (M), Tallinas tipa (T), Ekspo tipa (E) vai ieraksta cita tipa ugunsdzēsības hidrantu.
-
-3 Virszemes vai pazemes veida ugunsdzēsības hidrants.
-
-4 Cilpveida vai strupzara.
-
-5 Ir tehniskā darba kārtībā un derīgs ekspluatācijai vai nav tehniskā darba kārtībā un nav derīgs ekspluatācijai.
-
-
-|Informācija par mērierīcēm, ar kurām tika veikta ugunsdzēsības hidrantu pārbaude|   |
-|--------------------------------------------------------------------------------|---|
-|                                                                                |   |
-|                                                                                |   |
-
-
-
-|Informācija par ugunsdzēsības hidranta akas vāka tehnisko stāvokli, krāsojumu|   |
-|-----------------------------------------------------------------------------|---|
-|                                                                             |   |
-|                                                                             |   |
-
-
-
-|Informācija par ugunsdzēsības hidranta izplūdes caurules aizsargvāciņa tehnisko stāvokli|   |
-|----------------------------------------------------------------------------------------|---|
-|                                                                                        |   |
-
-
-
-|Informācija par stendera uzskrūvēšanas iespēju pie ugunsdzēsības hidranta izplūdes caurules|   |
-|-------------------------------------------------------------------------------------------|---|
-|                                                                                           |   |
-|                                                                                           |   |
-
-
-
-|Ugunsdzēsības hidranta norādes zīmes esība, apzīmējumu atbilstība, informācijas salasāmība|   |
-|------------------------------------------------------------------------------------------|---|
-|                                                                                          |   |
-|                                                                                          |   |
-
-
-
-|Informācija par ugunsdzēsības hidrantu vietu izvietojuma shēmu|   |
-|--------------------------------------------------------------|---|
-|                                                              |   |
-|                                                              |   |
-
-
-
-|Piezīmes par veikto pārbaudi|   |
-|----------------------------|---|
-|                            |   |
-|                            |   |
-
-
-Paraksti
-
-
-|Atbildīgā vai pilnvarotā persona:|                |   |          |
-|---------------------------------|----------------|---|----------|
-|                                 |(vārds, uzvārds)|   |(paraksts)|
-
-
-
-|Darbu veicējs:|                |   |          |
-|--------------|----------------|---|----------|
-|              |(vārds, uzvārds)|   |(paraksts)|
-
-
-[2\. pielikums](https://m.likumi.lv/wwwraksti/2016/078/238/P2_19.09.2020.DOCX "Atvērt citā formātā")  
-Ministru kabineta  
-2016\. gada 19. aprīļa  
-noteikumiem Nr. 238
-
-(Pielikums grozīts ar MK [15.09.2020.](https://m.likumi.lv/ta/id/317397-grozijumi-ministru-kabineta-2016-gada-19-aprila-noteikumos-nr-238-ugunsdrosibas-noteikumi-) noteikumiem Nr. 585)
-
-Informācija par veikto iekšējā ugunsdzēsības ūdensvada krāna un tā aprīkojuma pārbaudi
-
-Ugunsdzēsības krāna Nr.\_\_\_\_\_\_\_\_\_
-
-
-
-* Pārbaudes datums:  
-  * Spiediens (Bar):  
-  * Ražība (l/s):  
-  * Aprīkojuma stāvoklis:  
-  * Atbilstība tehniskajam projektam:  
-  * Pārbaudītāja vārds, uzvārds, paraksts:  
-  * Piezīmes:  
-* Pārbaudes datums:  
-  * Spiediens (Bar):  
-  * Ražība (l/s):  
-  * Aprīkojuma stāvoklis:  
-  * Atbilstība tehniskajam projektam:  
-  * Pārbaudītāja vārds, uzvārds, paraksts:  
-  * Piezīmes:  
-
-
-Piezīme. Ja nav pieejama iekšējās ugunsdzēsības ūdensvada sistēmas būvniecības ieceres dokumentācija, iekšējās ugunsdzēsības ūdensvada sistēmas ražībai jāatbilst spēkā esošajos būvnormatīvos noteiktajām minimālajām prasībām.
-
-Iekšlietu ministrs Rihards Kozlovskis
-
-[3\. pielikums](https://m.likumi.lv/wwwraksti/2016/078/238/P3.DOCX "Atvērt citā formātā")  
-Ministru kabineta  
-2016\. gada 19. aprīļa  
-noteikumiem Nr. 238
-
-Uzlīme par ugunsdzēsības aparāta tehniskā stāvokļa vizuālo apskati (novērtējumu)
-
-
-
-* Datums, kurā veikta ugunsdzēsības aparāta tehniskā stāvokļa vizuālā apskate (novērtējums):  
-  * Ir vai nav konstatēts bojājums:  
-  * Personas vārds, uzvārds un paraksts:  
-* Datums, kurā veikta ugunsdzēsības aparāta tehniskā stāvokļa vizuālā apskate (novērtējums):  
-  * Ir vai nav konstatēts bojājums:  
-  * Personas vārds, uzvārds un paraksts:  
-
-
-Iekšlietu ministrs Rihards Kozlovskis
-
-[4\. pielikums](https://m.likumi.lv/wwwraksti/2016/078/238/P4_19.09.2020.DOCX "Atvērt citā formātā")  
-Ministru kabineta  
-2016\. gada 19. aprīļa  
-noteikumiem Nr. 238
-
-(Pielikums MK [15.09.2020.](https://m.likumi.lv/ta/id/317397-grozijumi-ministru-kabineta-2016-gada-19-aprila-noteikumos-nr-238-ugunsdrosibas-noteikumi-) noteikumu Nr. 585 redakcijā)
-
-Uzlīme par veikto ugunsdzēsības aparāta tehnisko apkopi
-
-
-
-* Uzlīmes kārtas numurs: Tehniskās apkopes veicēja nosaukums, reģistrācijas numurs, kontaktadrese
-  * Ugunsdzēsības aparāta ražotāja nosaukums, reģistrētais komercnosaukums vai reģistrētā preču zīme un kontaktadrese: Tehniskās apkopes datums
-  * Ugunsdzēsības aparāta ražošanas gads: Nākamās tehniskās apkopes datums
-* Uzlīmes kārtas numurs: Ugunsdzēsības aparāta ražotāja noteiktais tehniskās apkopes periodiskums
-  * Ugunsdzēsības aparāta ražotāja nosaukums, reģistrētais komercnosaukums vai reģistrētā preču zīme un kontaktadrese: 
-  * Ugunsdzēsības aparāta ražošanas gads: 
-
-
-5\. pielikums  
-Ministru kabineta  
-2016\. gada 19. aprīļa  
-noteikumiem Nr. 238
-
-Ugunsdzēsības līdzekļu aprēķins
-
-(Pielikums grozīts ar MK [15.09.2020.](https://m.likumi.lv/ta/id/317397-grozijumi-ministru-kabineta-2016-gada-19-aprila-noteikumos-nr-238-ugunsdrosibas-noteikumi-) noteikumiem Nr. 585)
-
-1\. tabula
-
-Objektu ugunsbīstamības līmenis ugunsdzēsības aparātu skaita aprēķināšanai A un B klases ugunsgrēkiem
-
-
-
-* Objekta ugunsbīstamības līmenis: mazs
-  * vidējs
-  * liels
-* Objekta ugunsbīstamības līmenis: I. Publisks vai saimnieciskās darbības objekts
-* Objekta ugunsbīstamības līmenis: Objekts, kas tiek izmantots visu diennakti un kurā cilvēku brīva kustība ir ierobežota vai kontrolēta, piemēram, ārstniecības stacionārā iestāde (tai skaitā dzemdību nams), bērnunams, patversme, sociālās aprūpes vai rehabilitācijas iestāde, ar brīvības atņemšanu saistīta vieta vai cits objekts
-  * 1. Objekts, kas var tikt izmantots visu diennakti un kurā cilvēku kustība nav ierobežota, piemēram, viesnīca, dienesta viesnīca, hostelis, motelis, viesu māja, sanatorija, kempings, atpūtas bāze, atpūtas nometne, kazarmas, cits izmitināšanas objekts, restorāns, kafejnīca, bārs vai cits tirdzniecības un pakalpojumu objekts.2. Objekts, kas galvenokārt tiek izmantots dienā un kurā pastāvīgi atrodas nodarbinātais, kas pārzina objektu, piemēram, administratīvs objekts (tai skaitā tiesa, pasts, arhīvs, banka, birojs), izglītības iestādes objekts (universitāte, augstskola, zinātnes un pētniecības objekts, interešu izglītības iestāde, pirmsskolas izglītības iestāde, pamatskola, ģimnāzija, amatniecības skola), veikals, frizētava, ambulatorās ārstniecības objekts vai cits administratīvs, tirdzniecības un pakalpojumu objekts.3. Mehānisko transportlīdzekļu, dzelzceļa ritošā sastāva, gaisa kuģu, kuģošanas līdzekļu novietošanas objekts
-  * 1. Objekts, kas tiek izmantots publiskiem pasākumiem, piemēram, teātris, kinoteātris, koncertzāle, cirks, konferenču, izstāžu objekts, klubs, kultūras nams, muzejs, reliģiskās darbības objekts, bibliotēka vai cits objekts.2. Tirdzniecības objekts, tirgus, dzelzceļa stacija, lidosta, autoosta, pasažieru osta, sporta būve vai cits objekts, kurā vienlaikus var atrasties vairāk par 100 cilvēkiem.3. Mehānisko transportlīdzekļu, dzelzceļa ritošā sastāva, gaisa kuģu, kuģošanas līdzekļu tehniskās apkopes un remonta objekts.4. (Svītrots ar MK 15.09.2020. noteikumiem Nr. 585)
-* Objekta ugunsbīstamības līmenis: II. Ražošanas, vielu un materiālu uzglabāšanas objekts
-* Objekta ugunsbīstamības līmenis: Ugunsslodze nepārsniedz 300 MJ/m2
-  * Ugunsslodze no 300 MJ/m2 līdz 600 MJ/m2
-  * Ugunsslodze virs 600 MJ/m2
-
-
-2\. tabula
-
-Ugunsdzēsības aparātu dzēstspēja A un B klases ugunsgrēkiem un to nodrošinājums objektā
-
-
-|Objekta platība (m2)                       |Objekta ugunsbīstamības līmenis|          |          |
-|-------------------------------------------|-------------------------------|----------|----------|
-|mazs                                       |vidējs                         |liels     |          |
-|Līdz 50                                    |21A 113B                       |27A 144B  |64A 296B  |
-|51–75                                      |24A 129B                       |46A 220B  |78A 368B  |
-|76–100                                     |27A 144B                       |64A 296B  |91A 440B  |
-|101–150                                    |35A 164B                       |75A 339B  |105A 512B |
-|151–200                                    |43A 183B                       |85A 382B  |118A 584B |
-|201–250                                    |49A 208B                       |96A 439B  |132A 656B |
-|251–300                                    |55A 233B                       |106A 495B |145A 728B |
-|301–350                                    |60A 265B                       |117A 556B |160A 800B |
-|351–400                                    |64A 296B                       |127A 608B |172A 872B |
-|401–450                                    |67A 312B                       |138A 665B |186A 944B |
-|451–500                                    |70A 327B                       |148A 721B |199A 1016B|
-|501–550                                    |78A 355B                       |159A 776B |213A 1088B|
-|551–600                                    |85A 382B                       |169A 834B |226A 1160B|
-|601–650                                    |88A 411B                       |180A 891B |240A 1232B|
-|651–700                                    |91A 440B                       |190A 947B |254A 1304B|
-|701–750                                    |99A 468B                       |201A 1004B|267A 1376B|
-|751–800                                    |106A 495B                      |211A 1060B|280A 1448B|
-|801–850                                    |112A 540B                      |222A 1117B|294A 1520B|
-|851–900                                    |118A 584B                      |232A 1173B|307A 1592B|
-|901–950                                    |123A 596B                      |243A 1230B|321A 1664B|
-|951–1000                                   |127A 608B                      |253A 1286B|334A 1736B|
-|Katrus nākamos 250 m2 papildus nodrošina ar|21A 113B                       |27A 144B  |64A 296B  |
-
-
-3\. tabula
-
-Pārvietojamo ugunsdzēsības aparātu nodrošinājums objektā
-
-
-
-* Nr.p.k.: 1.
-  * Objekts: Publisks objekts ar skatuvi, kurā apmeklētāju skaits var būt lielāks par 800 cilvēkiem
-  * Aprēķina mērvienība: 1 skatuve
-  * Minimālā dzēstspēja uz aprēķina mērvienību: 50A 233Bvai A IIB
-* Nr.p.k.: 2.
-  * Objekts: Saimnieciskās darbības objekts ar sprādzienbīstamu vidi
-  * Aprēķina mērvienība: 800 m2
-  * Minimālā dzēstspēja uz aprēķina mērvienību: 50A 233Bvai A IIB
-* Nr.p.k.: 3.
-  * Objekts: Dzelzceļa estakāde, kurā notiek darbība ar ugunsbīstamo vielu
-  * Aprēķina mērvienība: 4 uzpildes vai noliešanas vietas
-  * Minimālā dzēstspēja uz aprēķina mērvienību: 50A 233Bvai A IIB
-* Nr.p.k.: 4.
-  * Objekts: Bīstamo vielu rezervuāri:
-  * Aprēķina mērvienība:  
-  * Minimālā dzēstspēja uz aprēķina mērvienību:  
-* Nr.p.k.: 4.1.
-  * Objekts: rezervuāru kopējais tilpums nepārsniedz 5000 m3
-  * Aprēķina mērvienība: rezervuāru laukums
-  * Minimālā dzēstspēja uz aprēķina mērvienību: 25A 233Bvai A IB
-* Nr.p.k.: 4.2.
-  * Objekts: rezervuāru kopējais tilpums virs 5000 m3
-  * Aprēķina mērvienība: rezervuāru laukums
-  * Minimālā dzēstspēja uz aprēķina mērvienību: 50A 233Bvai A IIB
-* Nr.p.k.: 5.
-  * Objekts: Bīstamu vielu autocisternu uzpildes vai noliešanas vietas
-  * Aprēķina mērvienība: 2 uzpildes vai noliešanas vietas
-  * Minimālā dzēstspēja uz aprēķina mērvienību: 50A 233Bvai A IIB
-* Nr.p.k.: 6.
-  * Objekts: Kuģošanas līdzekļu piestātnes un tehnoloģiskais laukums
-  * Aprēķina mērvienība: 50 m2
-  * Minimālā dzēstspēja uz aprēķina mērvienību: 50A 233Bvai A IIB
-* Nr.p.k.: 7.
-  * Objekts: Mehānisko transportlīdzekļu novietošanas objekts:
-  * Aprēķina mērvienība:  
-  * Minimālā dzēstspēja uz aprēķina mērvienību:  
-* Nr.p.k.: 7.1.
-  * Objekts: vieglajiem automobiļiem
-  * Aprēķina mērvienība: 75 vietas
-  * Minimālā dzēstspēja uz aprēķina mērvienību: 25A 233Bvai A IB
-* Nr.p.k.: 7.2.
-  * Objekts: kravas automobiļiem
-  * Aprēķina mērvienība: 50 vietas
-  * Minimālā dzēstspēja uz aprēķina mērvienību: 50A 233Bvai A IIB
-* Nr.p.k.: 8.
-  * Objekts: Degvielas un gāzu uzpildes stacijas
-  * Aprēķina mērvienība: 1 stacija
-  * Minimālā dzēstspēja uz aprēķina mērvienību: 25A 233Bvai A IB
-* Nr.p.k.: 9.
-  * Objekts: Gaisa kuģu stāvvietas (ja objektā nav patstāvīga ugunsdzēsības dienesta)
-  * Aprēķina mērvienība: 1 gaisa kuģis
-  * Minimālā dzēstspēja uz aprēķina mērvienību: 50A 233Bvai A IIB
-
-
-4\. tabula
-
-F klases ugunsdzēsības aparātu nodrošinājums objektā
-
-
-
-* Augu vai dzīvnieku izcelsmes eļļas vai tauku tilpums litros vienā ēdiena pagatavošanas ierīcē vai iekārtā: No 4 līdz 6
-  * Ugunsdzēsības aparāta dzēstspēja: 5F
-* Augu vai dzīvnieku izcelsmes eļļas vai tauku tilpums litros vienā ēdiena pagatavošanas ierīcē vai iekārtā: Virs 6 līdz 11
-  * Ugunsdzēsības aparāta dzēstspēja: 10F
-* Augu vai dzīvnieku izcelsmes eļļas vai tauku tilpums litros vienā ēdiena pagatavošanas ierīcē vai iekārtā: Virs 11 līdz 16
-  * Ugunsdzēsības aparāta dzēstspēja: 15F
-* Augu vai dzīvnieku izcelsmes eļļas vai tauku tilpums litros vienā ēdiena pagatavošanas ierīcē vai iekārtā: Virs 16 līdz 21
-  * Ugunsdzēsības aparāta dzēstspēja: 20F
-* Augu vai dzīvnieku izcelsmes eļļas vai tauku tilpums litros vienā ēdiena pagatavošanas ierīcē vai iekārtā: Virs 21 līdz 26
-  * Ugunsdzēsības aparāta dzēstspēja: 25F
-* Augu vai dzīvnieku izcelsmes eļļas vai tauku tilpums litros vienā ēdiena pagatavošanas ierīcē vai iekārtā: Virs 26 līdz 31
-  * Ugunsdzēsības aparāta dzēstspēja: 30F
-* Augu vai dzīvnieku izcelsmes eļļas vai tauku tilpums litros vienā ēdiena pagatavošanas ierīcē vai iekārtā: Virs 31 līdz 36
-  * Ugunsdzēsības aparāta dzēstspēja: 35F
-* Augu vai dzīvnieku izcelsmes eļļas vai tauku tilpums litros vienā ēdiena pagatavošanas ierīcē vai iekārtā: Virs 36 līdz 41
-  * Ugunsdzēsības aparāta dzēstspēja: 40F
-* Augu vai dzīvnieku izcelsmes eļļas vai tauku tilpums litros vienā ēdiena pagatavošanas ierīcē vai iekārtā: Virs 41 līdz 46
-  * Ugunsdzēsības aparāta dzēstspēja: 45F
-* Augu vai dzīvnieku izcelsmes eļļas vai tauku tilpums litros vienā ēdiena pagatavošanas ierīcē vai iekārtā: Virs 46 līdz 51
-  * Ugunsdzēsības aparāta dzēstspēja: 50F
-* Augu vai dzīvnieku izcelsmes eļļas vai tauku tilpums litros vienā ēdiena pagatavošanas ierīcē vai iekārtā: Virs 51 līdz 56
-  * Ugunsdzēsības aparāta dzēstspēja: 55F
-* Augu vai dzīvnieku izcelsmes eļļas vai tauku tilpums litros vienā ēdiena pagatavošanas ierīcē vai iekārtā: Virs 56 līdz 61
-  * Ugunsdzēsības aparāta dzēstspēja: 60F
-* Augu vai dzīvnieku izcelsmes eļļas vai tauku tilpums litros vienā ēdiena pagatavošanas ierīcē vai iekārtā: Virs 61 līdz 66
-  * Ugunsdzēsības aparāta dzēstspēja: 65F
-* Augu vai dzīvnieku izcelsmes eļļas vai tauku tilpums litros vienā ēdiena pagatavošanas ierīcē vai iekārtā: Virs 66
-  * Ugunsdzēsības aparāta dzēstspēja: 70F
-
-
-5\. tabula
-
-Ugunsdzēsības pārklāju skaita aprēķina tabula
-
-
-
-* Nr.p.k.: 1,2 m x 1,2 m
-  * Ugunsdzēsības pārklāja atrašanās vieta: 1,75 m x 1,85 m
-  * Pārklāju skaits: 
-  * Ugunsdzēsības pārklāja minimālais izmērs: 
-* Nr.p.k.: 1.
-  * Ugunsdzēsības pārklāja atrašanās vieta: Publisks vai saimnieciskās darbības objekts:
-  * Pārklāju skaits:  
-  * Ugunsdzēsības pārklāja minimālais izmērs:  
-  *  
-* Nr.p.k.: 1.1.
-  * Ugunsdzēsības pārklāja atrašanās vieta: sabiedriskās ēdināšanas virtuve
-  * Pārklāju skaits: 1
-  * Ugunsdzēsības pārklāja minimālais izmērs: x
-  * –
-* Nr.p.k.: 1.2.
-  * Ugunsdzēsības pārklāja atrašanās vieta: laboratorija
-  * Pārklāju skaits: 2
-  * Ugunsdzēsības pārklāja minimālais izmērs: x
-  * –
-* Nr.p.k.: 2.
-  * Ugunsdzēsības pārklāja atrašanās vieta: Degvielas uzpildes stacija, uz katru degvielas sūkni
-  * Pārklāju skaits: 1
-  * Ugunsdzēsības pārklāja minimālais izmērs: –
-  * x
-* Nr.p.k.: 3.
-  * Ugunsdzēsības pārklāja atrašanās vieta: Transportlīdzekļu novietošanas objekts vai objekta teritorija, uz katrām 50 vietām
-  * Pārklāju skaits: 2
-  * Ugunsdzēsības pārklāja minimālais izmērs: –
-  * x
-
-
-Apzīmējumi:  
-x – jānodrošina;  
-– – nav jānodrošina.
-
-Piezīmes.  
-1\. Atbilstoši degošajam materiālam ugunsgrēkus iedala šādās klasēs:  
-1.1. A klase – ugunsgrēki, kuros deg cieti materiāli (parasti organiskas izcelsmes), kas sadegot veido kvēlojošas ogles;  
-1.2. B klase – ugunsgrēki, kuros deg šķidrumi vai kūstoši cieti materiāli;  
-1.3. C klase – ugunsgrēki, kuros deg gāzes;  
-1.4. D klase – ugunsgrēki, kuros deg metāli;  
-1.5. F klase – ugunsgrēki, kuros deg ēdiena pagatavošanas ierīcēs vai iekārtās izmantojamās augu vai dzīvnieku eļļas un tauki.  
-2\. Uz ugunsdzēsības aparāta informatīvās uzlīmes norādītais ugunsgrēka klases burts kopā ar skaitli vai bez tā norāda dzēstspēju.
-
-Iekšlietu ministrs Rihards Kozlovskis
-
-[6\. pielikums](https://m.likumi.lv/wwwraksti/2016/078/238/P6_19.09.2020.DOCX "Atvērt citā formātā")  
-Ministru kabineta  
-2016\. gada 19. aprīļa  
-noteikumiem Nr. 238
-
-(Pielikums MK [15.09.2020.](https://m.likumi.lv/ta/id/317397-grozijumi-ministru-kabineta-2016-gada-19-aprila-noteikumos-nr-238-ugunsdrosibas-noteikumi-) noteikumu Nr. 585 redakcijā)
-
-Elektroinstalācijas izolācijas pretestības, cilpas "fāze–nulle" pilnās pretestības, zemējumietaises pretestības, zemējumvada nepārtrauktības saites un zibensaizsardzības sistēmas pārbaudes akts
-
-
-|                         |   |                          |
-|-------------------------|---|--------------------------|
-|(akta sastādīšanas vieta)|   |(akta sastādīšanas datums)|
-
-
-
-
-*  : Objekta atbildīgā persona
-  *  :  
-*  :  
-  *  : (norāda juridiskās personas nosaukumu, reģistrācijas numuru, juridisko adresi vaifiziskās personas vārdu, uzvārdu un informāciju, ar kuru var identificēt personu)
-
-
-
-|                         |   |
-|-------------------------|---|
-|Objekta nosaukums, adrese|   |
-|                         |   |
-
-
-
-|                   |                                                                            |
-|-------------------|----------------------------------------------------------------------------|
-|Darba norises vieta|                                                                            |
-|                   |(norāda, vai pārbaudes veiktas visā objektā/teritorijā vai atsevišķās daļās)|
-
-
-
-
-*  : Darba pasūtītājs
-  *  :  
-*  :  
-  *  : (norāda juridiskās personas nosaukumu, reģistrācijas numuru un juridisko adresi vaifiziskās personas vārdu, uzvārdu un informāciju, ar kuru var identificēt personu)
-
-
-
-
-*  : Darba veicējs
-  *  :  
-*  :  
-  *  : (norāda juridiskās personas nosaukumu, reģistrācijas numuru, juridisko adresi vaifiziskās personas vārdu, uzvārdu un informāciju, ar kuru var identificēt personu)
-
-
-Mēraparāta tehniskie dati
-
-
-|Nosaukums|Tips|Numurs|Mērdiapazons|Kalibrēšanas vai verificēšanas sertifikāta numurs|
-|---------|----|------|------------|-------------------------------------------------|
-|         |    |      |            |                                                 |
-|         |    |      |            |                                                 |
-
-
-Klimatiskie apstākļi mērījumu veikšanas gaitā
-
-
-|Darba veikšanas datums|Gaisa temperatūra, °C|Gaisa mitrums, %|
-|----------------------|---------------------|----------------|
-|                      |                     |                |
-|                      |                     |                |
-
-
-Akts sastādīts par to, ka darba veicējs objektā veica _(atzīmēt ar X)_:
-
-
-|   |   |elektroinstalācijas izolācijas pretestības mērījumus      |
-|---|---|----------------------------------------------------------|
-|   |   |cilpas "fāze–nulle" pilnās pretestības mērījumus          |
-|   |   |zemējumietaises pretestības mērījumus                     |
-|   |   |zemējumvada nepārtrauktības saites pretestības mērījumus  |
-|   |   |zibensaizsardzības sistēmas elementu pretestības mērījumus|
-
-
-**1\. Elektroinstalācijas izolācijas pretestības mērījumu rezultāti**:
-
-
-
-* Nr. p. k.: L1 - PE
-  * Tīkla tips, elektroinstalācijas atrašanās vieta1: L2 - PE
-  * Kabeļa marka, dzīslu skaits, dzīslas materiāls, dzīslas šķērsgriezums, mm2: L3 - PE
-  * Pārbaudes spriegums, V: N - PE
-  * Izolācijas pretestība, MΩ: L1 - N
-  * Atzinums2: L2 - N
-  * L3 - N
-  * L1 - L2
-  * L1 - L3
-  * L2 - L3
-* Nr. p. k.: 1
-  * Tīkla tips, elektroinstalācijas atrašanās vieta1: 2
-  * Kabeļa marka, dzīslu skaits, dzīslas materiāls, dzīslas šķērsgriezums, mm2: 3
-  * Pārbaudes spriegums, V: 4
-  * Izolācijas pretestība, MΩ: 5
-  * Atzinums2: 6
-  * 7
-  * 8
-  * 9
-  * 10
-  * 11
-  * 12
-  * 13
-  * 14
-  * 15
-* Nr. p. k.:  
-  * Tīkla tips, elektroinstalācijas atrašanās vieta1:  
-  * Kabeļa marka, dzīslu skaits, dzīslas materiāls, dzīslas šķērsgriezums, mm2:  
-  * Pārbaudes spriegums, V:  
-  * Izolācijas pretestība, MΩ:  
-  * Atzinums2:  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-* Nr. p. k.:  
-  * Tīkla tips, elektroinstalācijas atrašanās vieta1:  
-  * Kabeļa marka, dzīslu skaits, dzīslas materiāls, dzīslas šķērsgriezums, mm2:  
-  * Pārbaudes spriegums, V:  
-  * Izolācijas pretestība, MΩ:  
-  * Atzinums2:  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-
-
-Piezīmes.
-
-1 Ierakstus veic saskaņā ar elektroinstalācijas shēmu.
-
-2 Norāda atbilstību turpmākai ekspluatācijai ar "atbilst" vai "neatbilst".
-
-
-|Norādījumi par turpmāko ekspluatāciju|   |
-|-------------------------------------|---|
-|                                     |   |
-
-
-**2\. Cilpas "****fāze–nulle" pilnās pretestības mērījumu rezultāti:**
-
-
-
-* Nr. p. k.: 1
-  * Tīkla tips, elektroinstalācijas atrašanās vieta1: 2
-  * Sadalnes numurs: 3
-  * Tīkla spriegums, V: 4
-  * Aizsardzības aparāta tips, grupa, nominālā strāva/ kūstošā ieliktņa nominālā strāva (Inom), A: 5
-  * Vienfāzes īsslēguma strāva (Iīss), A(L1/L2/L3): 6
-  * Cilpas"fāze–nulle" pilnā pretestība, Ω: 7
-  * Atzinums2: 8
-* Nr. p. k.:  
-  * Tīkla tips, elektroinstalācijas atrašanās vieta1:  
-  * Sadalnes numurs:  
-  * Tīkla spriegums, V:  
-  * Aizsardzības aparāta tips, grupa, nominālā strāva/ kūstošā ieliktņa nominālā strāva (Inom), A:  
-  * Vienfāzes īsslēguma strāva (Iīss), A(L1/L2/L3):  
-  * Cilpas"fāze–nulle" pilnā pretestība, Ω:  
-  * Atzinums2:  
-* Nr. p. k.:  
-  * Tīkla tips, elektroinstalācijas atrašanās vieta1:  
-  * Sadalnes numurs:  
-  * Tīkla spriegums, V:  
-  * Aizsardzības aparāta tips, grupa, nominālā strāva/ kūstošā ieliktņa nominālā strāva (Inom), A:  
-  * Vienfāzes īsslēguma strāva (Iīss), A(L1/L2/L3):  
-  * Cilpas"fāze–nulle" pilnā pretestība, Ω:  
-  * Atzinums2:  
-
-
-Piezīmes.
-
-1 Ierakstus veic saskaņā ar elektroinstalācijas shēmu.
-
-2 Norāda atbilstību turpmākai ekspluatācijai ar "atbilst" vai "neatbilst".
-
-
-|Norādījumi par turpmāko ekspluatāciju|   |
-|-------------------------------------|---|
-|                                     |   |
-
-
-3\. Zemējumietaises pretestības mērījumu rezultāti
-
-
-
-* Nr. p. k.: 1
-  * Zemējumietaises elementu atrašanās vieta un pārbaudes vieta1: 2
-  * Grunts raksturojums: 3
-  * Pretestība, Ω: 4
-  * Atzinums2: 5
-* Nr. p. k.:  
-  * Zemējumietaises elementu atrašanās vieta un pārbaudes vieta1:  
-  * Grunts raksturojums:  
-  * Pretestība, Ω:  
-  * Atzinums2:  
-* Nr. p. k.:  
-  * Zemējumietaises elementu atrašanās vieta un pārbaudes vieta1:  
-  * Grunts raksturojums:  
-  * Pretestība, Ω:  
-  * Atzinums2:  
-
-
-Piezīmes.
-
-1 Ierakstus veic saskaņā ar zemējumietaises shēmu.
-
-2 Norāda atbilstību turpmākai ekspluatācijai ar "atbilst" vai "neatbilst".
-
-
-|Norādījumi par turpmāko ekspluatāciju|   |
-|-------------------------------------|---|
-|                                     |   |
-
-
-4\. Zemējumvadu nepārtrauktības saites pretestības mērījumu rezultāti
-
-
-|Nr. p. k.|Elektroiekārtas atrašanās vieta un pārbaudes vieta1|Pretestība, Ω|Atzinums2|
-|---------|---------------------------------------------------|-------------|---------|
-|1        |2                                                  |3            |4        |
-|         |                                                   |             |         |
-|         |                                                   |             |         |
-
-
-Piezīmes.
-
-1 Ierakstus veic saskaņā ar elektroinstalācijas shēmu.
-
-2 Norāda atbilstību turpmākai ekspluatācijai ar "atbilst" vai "neatbilst".
-
-
-|Norādījumi par turpmāko ekspluatāciju|   |
-|-------------------------------------|---|
-|                                     |   |
-
-
-5\. Zibensaizsardzības sistēmas pretestības mērījumu rezultāti
-
-
-
-* Nr. p. k.: kopskaits
-  * Zibensaizsardzības sistēmas klase: atrašanās vieta1
-  * Zibensuztvērēju un zibensnovedēju skaits: 
-  * Pretestība, Ω2: 
-  * Atzinums3: 
-* Nr. p. k.: 1
-  * Zibensaizsardzības sistēmas klase: 2
-  * Zibensuztvērēju un zibensnovedēju skaits: 3
-  * Pretestība, Ω2: 4
-  * Atzinums3: 5
-  * 6
-* Nr. p. k.:  
-  * Zibensaizsardzības sistēmas klase:  
-  * Zibensuztvērēju un zibensnovedēju skaits:  
-  * Pretestība, Ω2:  
-  * Atzinums3:  
-  *  
-* Nr. p. k.:  
-  * Zibensaizsardzības sistēmas klase:  
-  * Zibensuztvērēju un zibensnovedēju skaits:  
-  * Pretestība, Ω2:  
-  * Atzinums3:  
-  *  
-
-
-Piezīmes.
-
-1 Ierakstus veic saskaņā ar zibensaizsardzības sistēmas shēmu.
-
-2 Zibensaizsardzības sistēmas pretestību mēra no zibensuztvērēja līdz mērsavienojumam pie zemējumietaises.
-
-3 Norāda atbilstību turpmākai ekspluatācijai ar "atbilst" vai "neatbilst".
-
-
-|Norādījumi par turpmāko ekspluatāciju|   |
-|-------------------------------------|---|
-|                                     |   |
-
-
-
-|Piezīmes par veiktajiem mērījumiem|   |
-|----------------------------------|---|
-|                                  |   |
-|                                  |   |
-
-
-Paraksti
-
-
-|Darba veicējs:                  |          |   |                |
-|--------------------------------|----------|---|----------------|
-|                                |(paraksts)|   |(vārds, uzvārds)|
-|                                |          |   |                |
-|Darba pasūtītājs(akta saņēmējs):|          |   |                |
-|                                |(paraksts)|   |(vārds, uzvārds)|
-
-
-Piezīmes.
-
-1\. Aktam pievieno:
-
-1.1. darba veikšanas tiesības apliecinošu dokumentu kopijas (elektrospeciālista apliecības kopija par elektrodrošības grupas piešķiršanu);
-
-1.2. mēraparāta kalibrēšanas vai verificēšanas sertifikāta kopiju;
-
-1.3. elektroinstalācijas shēmu, kurā norādītas aizsardzības aparātu nominālās vērtības un aizejošo kabeļu vai vadu markas un šķērsgriezumi.
-
-2\. Zemējuma kontūra pretestība nedrīkst pārsniegt 10 Ω.
-
-3\. Aizsardzības aparāta nostrādes spējas atbilst īsslēguma strāvai un laikam.
-
-4\. Atbildīgās personas nodrošina pārbaudes veikšanu elektroietaišu piederības robežās.
-
-5\. Zemējumvadu nepārtrauktības pretestība nedrīkst pārsniegt 0,4 Ω.
-
-6\. Elektroinstalācijas izolācijas pretestības minimālās vērtības:
-
-
-
-* Nominālais spriegums, V: Drošības un aizsardzības mazsprieguma ķēdēs (līdz 50 V)
-  * Pārbaudes līdzspriegums, V: 250
-  * Izolācijas pretestība, MΩ: ≥ 0,5
-* Nominālais spriegums, V: Līdz 500 V (ieskaitot), tai skaitā funkcionālā mazsprieguma ķēdēs
-  * Pārbaudes līdzspriegums, V: 500
-  * Izolācijas pretestība, MΩ: ≥ 1,0
-* Nominālais spriegums, V: Virs 500 V
-  * Pārbaudes līdzspriegums, V: 1000
-  * Izolācijas pretestība, MΩ: ≥ 1,0
-
-
-[7\. pielikums](https://m.likumi.lv/wwwraksti/2016/078/238/P7_19.09.2020.DOCX "Atvērt citā formātā")  
-Ministru kabineta  
-2016\. gada 19. aprīļa  
-noteikumiem Nr. 238
-
-(Pielikums grozīts ar MK [15.09.2020.](https://m.likumi.lv/ta/id/317397-grozijumi-ministru-kabineta-2016-gada-19-aprila-noteikumos-nr-238-ugunsdrosibas-noteikumi-) noteikumiem Nr. 585)
-
-Elektroinstalācijas kontaktsavienojumu pārbaudes akts
-
-
-|                          |   |
-|--------------------------|---|
-|(akta sastādīšanas datums)|   |
-
-
- 
-
-
-|Objekta nosaukums un adrese|   |
-|---------------------------|---|
-|                           |   |
-
-
- 
-
-
-|Darba norises vieta                                                    |   |
-|-----------------------------------------------------------------------|---|
-|(norāda, vai mērījumi veikti visā objektā vai atsevišķās objekta daļās)|   |
-
-
- 
-
-
-
-* Darba pasūtītājs: (norāda juridiskās personas nosaukumu, reģistrācijas numuru un juridisko adresi vai fiziskās personas vārdu, uzvārdu un informāciju, ar kuru var identificēt personu)
-  *  : 
-
-
- 
-
-
-
-* Darba veicējs: (norāda juridiskās personas nosaukumu, reģistrācijas numuru un juridisko adresi vai fiziskās personas vārdu, uzvārdu un informāciju, ar kuru var identificēt personu)
-  *  : 
-
-
-Termokameras tehniskie dati
-
-
-|Nosaukums|Tips|Numurs|Kalibrēšanas sertifikāta numurs|
-|---------|----|------|-------------------------------|
-|         |    |      |                               |
-
-
-Klimatiskie apstākļi mērījumu veikšanas gaitā
-
-
-|Darba veikšanas datums|Gaisa temperatūra (°C)|Gaisa mitrums (%)|
-|----------------------|----------------------|-----------------|
-|                      |                      |                 |
-
-
-Šis akts sastādīts par to, ka darba veicējs veica elektroinstalācijas kontaktsavienojumu pārbaudi, kuras rezultātā konstatēts:
-
-
-
-* Tīkla tips, elektroinstalācijas atrašanās vieta*: 1
-  * Mērījuma vieta – grupa un nosaukums: 2
-  * Caur kontaktu plūstošā strāva (A): 3
-  * Mēraparāta rādījumu vizualizācija: 4
-  * Attēls dabā ar norādi uz problemātisko vietu: 5
-  * Atzinums**: 6
-* Tīkla tips, elektroinstalācijas atrašanās vieta*:  
-  * Mērījuma vieta – grupa un nosaukums:  
-  * Caur kontaktu plūstošā strāva (A):  
-  * Mēraparāta rādījumu vizualizācija:  
-  * Attēls dabā ar norādi uz problemātisko vietu:  
-  * Atzinums**:  
-* Tīkla tips, elektroinstalācijas atrašanās vieta*:  
-  * Mērījuma vieta – grupa un nosaukums:  
-  * Caur kontaktu plūstošā strāva (A):  
-  * Mēraparāta rādījumu vizualizācija:  
-  * Attēls dabā ar norādi uz problemātisko vietu:  
-  * Atzinums**:  
-
-
-\* Ierakstus veic saskaņā ar elektroinstalācijas shēmu.  
-\*\* Norāda atbilstību pievienoto elektroiekārtu ekspluatācijai – "atbilst" vai "neatbilst".
-
-
-|Norādījumi par turpmāko ekspluatāciju|   |
-|-------------------------------------|---|
-|                                     |   |
-
-
-Paraksti:
-
-
-|Darba veicējs:|                          |
-|--------------|--------------------------|
-|              |(vārds, uzvārds, paraksts)|
-
-
- 
-
-
-|Akta eksemplāru saņēma:|                                           |
-|-----------------------|-------------------------------------------|
-|                       |(darba pasūtītāja vārds, uzvārds, paraksts)|
-
-
-Piezīme. Aktam pievieno mēraparāta kalibrēšanas sertifikāta kopiju un elektroinstalācijas shēmu.
-
-Iekšlietu ministrs Rihards Kozlovskis
-
-[8\. pielikums](https://m.likumi.lv/wwwraksti/2016/078/238/P8_13.05.2023.DOCX "Atvērt citā formātā")  
-Ministru kabineta  
-2016\. gada 19. aprīļa  
-noteikumiem Nr. 238
-
-(Pielikums MK [09.05.2023.](https://m.likumi.lv/ta/id/341810-grozijums-ministru-kabineta-2016-gada-19-aprila-noteikumos-nr-238-ugunsdrosibas-noteikumi-) noteikumu Nr. 222 redakcijā)
-
-Apkures ierīces, iekārtas, dūmvadu un dabiskās ventilācijas kanālu  
-tehniskā stāvokļa pārbaudes akts
-
-
-|                         |   |                          |
-|-------------------------|---|--------------------------|
-|(akta sastādīšanas vieta)|   |(akta sastādīšanas datums)|
-|                         |   |                          |
-
-
-
-|Objekta nosaukums un adrese|   |
-|---------------------------|---|
-|                           |   |
-
-
-
-
-* Atbildīgā persona: (norāda juridiskās personas nosaukumu, reģistrācijas numuru un juridisko adresi vai fiziskās personas vārdu, uzvārdu un informāciju, ar kuru var identificēt personu)
-  *  : 
-
-
-
-
-* Pakalpojuma veicējs: (norāda juridiskās personas nosaukumu, reģistrācijas numuru un juridisko adresi vai fiziskās personas vārdu, uzvārdu un informāciju, ar kuru var identificēt personu)
-  *  : 
-
-
-Šis akts sastādīts par to, ka pakalpojuma veicējs veica tehniskā stāvokļa pārbaudi un konstatēja:
-
-
-
-* Nr. p. k.:  
-  * Pārbaudītās apkures ierīces, iekārtas, dūmvada vai dabiskās ventilācijas kanāla nosaukums, tā atrašanās vieta un numurs saskaņā ar aktā norādīto grafisko attēlojumu:  
-  * Atbilstība normatīvo aktu prasībām(vajadzīgo atzīmēt ar X):  
-  * Ekspluatācija(vajadzīgo atzīmēt ar X): atbilst
-  *  
-  * neatbilst
-  *  
-  * atļauta
-  *  
-  * nav atļauta
-* Nr. p. k.:  
-  * Pārbaudītās apkures ierīces, iekārtas, dūmvada vai dabiskās ventilācijas kanāla nosaukums, tā atrašanās vieta un numurs saskaņā ar aktā norādīto grafisko attēlojumu:  
-  * Atbilstība normatīvo aktu prasībām(vajadzīgo atzīmēt ar X):  
-  * Ekspluatācija(vajadzīgo atzīmēt ar X): atbilst
-  *  
-  * neatbilst
-  *  
-  * atļauta
-  *  
-  * nav atļauta
-* Nr. p. k.:  
-  * Pārbaudītās apkures ierīces, iekārtas, dūmvada vai dabiskās ventilācijas kanāla nosaukums, tā atrašanās vieta un numurs saskaņā ar aktā norādīto grafisko attēlojumu:  
-  * Atbilstība normatīvo aktu prasībām(vajadzīgo atzīmēt ar X):  
-  * Ekspluatācija(vajadzīgo atzīmēt ar X): atbilst
-  *  
-  * neatbilst
-  *  
-  * atļauta
-  *  
-  * nav atļauta
-* Nr. p. k.:  
-  * Pārbaudītās apkures ierīces, iekārtas, dūmvada vai dabiskās ventilācijas kanāla nosaukums, tā atrašanās vieta un numurs saskaņā ar aktā norādīto grafisko attēlojumu:  
-  * Atbilstība normatīvo aktu prasībām(vajadzīgo atzīmēt ar X):  
-  * Ekspluatācija(vajadzīgo atzīmēt ar X): atbilst
-  *  
-  * neatbilst
-  *  
-  * atļauta
-  *  
-  * nav atļauta
-
-
-
-|Piezīmes|                                                                    |
-|--------|--------------------------------------------------------------------|
-|        |(dūmvada šķērsgriezuma laukums un materiāli, no kā izbūvēts dūmvads)|
-|        |                                                                    |
-
-
-Grafiskais attēlojums
-
-
-|Pakalpojuma veicējs       |   |
-|--------------------------|---|
-|(vārds, uzvārds, paraksts)|   |
-
-
-
-|Akta eksemplāru saņēma                        |   |
-|----------------------------------------------|---|
-|(atbildīgās personas vārds, uzvārds, paraksts)|   |
-
-
-Piezīmes.
-
-1. Aktu aizpilda drukātiem burtiem.
-
-2. Sadaļā "Grafiskais attēlojums" lieto šādus apzīmējumus:
-
-2.1.  ![](https://www.likumi.lv/wwwraksti/2023/090/BILDES/N_222_FILES/IMAGE001.JPG) – apkures ierīce;
-
-2.2.  ![](https://www.likumi.lv/wwwraksti/2023/090/BILDES/N_222_FILES/IMAGE002.JPG) – cietā kurināmā dūmvads;
-
-2.3.  ![](https://www.likumi.lv/wwwraksti/2023/090/BILDES/N_222_FILES/IMAGE003.JPG) – gāzes apkures ierīces dūmvads;
-
-2.4.  ![](https://www.likumi.lv/wwwraksti/2023/090/BILDES/N_222_FILES/IMAGE004.JPG) – oderēts dūmvads;
-
-2.5.  ![](https://www.likumi.lv/wwwraksti/2023/090/BILDES/N_222_FILES/IMAGE005.JPG) – šķidrā kurināmā dūmvads;
-
-2.6.  ![](https://www.likumi.lv/wwwraksti/2023/090/BILDES/N_222_FILES/IMAGE006.JPG) – dabiskās ventilācijas kanāls;
-
-2.7.  ![](https://www.likumi.lv/wwwraksti/2023/090/BILDES/N_222_FILES/IMAGE007.JPG) – mehāniskās ventilācijas kanāls.
-
-3\. Aktam pievieno darba veikšanas tiesības apliecinoša dokumenta kopiju (skursteņslauķa vai krāšņu un kamīna mūrnieka profesionālo kvalifikāciju vai amatnieka kvalifikāciju apliecinoša dokumenta kopiju, attiecīgās jomas būvspeciālista sertifikāta kopiju vai ugunsdrošības un civilās aizsardzības inženiera kvalifikāciju apliecinoša dokumenta kopiju).
-
-[9\. pielikums](https://m.likumi.lv/wwwraksti/2016/078/238/P9_19.09.2020.DOCX "Atvērt citā formātā")  
-Ministru kabineta  
-2016\. gada 19. aprīļa  
-noteikumiem Nr. 238
-
-(Pielikums MK [15.09.2020.](https://m.likumi.lv/ta/id/317397-grozijumi-ministru-kabineta-2016-gada-19-aprila-noteikumos-nr-238-ugunsdrosibas-noteikumi-) noteikumu Nr. 585 redakcijā)
-
-Ugunsaizsardzības sistēmas iedarbošanās gadījumu un bojājumu uzskaites žurnāls
-
-
-
-* Atbildīgā persona:  
-  *  : 
-* Atbildīgā persona: (norāda juridiskās personas nosaukumu, reģistrācijas numuru, juridisko adresi un apkopes veicēja sertifikāta numuru vai fiziskās personas vārdu, uzvārdu un informāciju, ar kuru var identificēt personu)
-  *  : 
-
-
-
-|Objekta vai teritorijas nosaukums un adrese|   |
-|-------------------------------------------|---|
-|                                           |   |
-
-
-
-
-* Sistēmas(-u) tehniskās apkopes veicējs:  
-  *  : 
-* Sistēmas(-u) tehniskās apkopes veicējs: (norāda juridiskās personas nosaukumu, reģistrācijas numuru, juridisko adresi un apkopes veicēja sertifikāta numuru vai fiziskās personas vārdu, uzvārdu, sertifikāta numuru)
-  *  : 
-
-
-
-
-*  : Nosacījumi sistēmas tehniskajai apkopei un uzturēšanai
-*  :  
-*  : Nr. p. k.
-  * Darbu nosaukums1
-  * Darbu izpildes periodiskums2
-  * Par darbu izpildi atbildīgā persona3
-*  : 1
-  * 2
-  * 3
-  * 4
-*  :  
-  *  
-  *  
-  *  
-*  :  
-  *  
-  *  
-  *  
-
-
-Piezīmes.
-
-1 Norāda plānotos tehniskās apkopes darbus atbilstoši šo noteikumu [130.](https://m.likumi.lv/ta/id/281646#p130) punktam (piemēram, ikdienas darbi, ikmēneša darbi, darbi, kas jāveic reizi ceturksnī, reizi sešos mēnešos, reizi gadā utt.).
-
-2 Gada laikā pārbauda visu ugunsaizsardzības sistēmas elementu darbspēju un ugunsaizsardzības sistēmas darbspēju kopumā. Ceturksnī pārbauda vismaz 25 % no automātiskās ugunsaizsardzības sistēmas elementu kopskaita.
-
-3 Norāda personu, kura ir atbildīga par darba veikšanu noteiktā periodā.
-
-
-
-* Nosacījumi ugunsaizsardzības sistēmas tehniskajai apkopei un uzturēšanai izstrādāti saskaņā ar:  
-  *  : 
-* Nosacījumi ugunsaizsardzības sistēmas tehniskajai apkopei un uzturēšanai izstrādāti saskaņā ar: (norāda normatīvā akta un piemērojamā standarta nosaukumu, numuru un datumu, sistēmas ierīču ražotāju dokumentācijas nosaukumu)
-  *  : 
-
-
-
-
-*  : Veikto tehniskās apkopes un remonta darbu uzskaite, iedarbošanās un bojājumu gadījumu uzskaite
-*  :  
-*  : Nr. p. k.
-  * Sistēmas nosaukums
-  * Datums
-  * Laiks (plkst.)
-  * Notikums1
-  * Veikto darbību/darbu apraksts2
-  * Atzīme par sistēmas tehniskostāvokli3
-  * Personas, kas veica ierakstu žurnālā
-  * Atbildīgās personasvai tās pilnvarotās personas
-  * Piezīmes
-*  : vārds,uzvārds
-  * paraksts
-  * vārds,uzvārds
-  * paraksts
-*  :  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-*  :  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-*  :  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-
-
-Piezīmes.
-
-1 Norāda notikuma būtību (piemēram, ugunsaizsardzības sistēmas tehniskā apkope, remonts, iedarbošanās, bojājums, darbspējas pārbaude).
-
-2 Norāda, kādas darbības vai darbi tika veikti (piemēram, ieraksta personu, kurai paziņots par ugunsaizsardzības sistēmas iedarbošanos vai bojājumu, uzskaita izpildītos ugunsaizsardzības sistēmas tehniskās apkopes vai remonta darbus).
+2 Norāda, kādas darbības vai darbi tika veikti (piemēram, ieraksta personu, kurai paziņots par ugunsaizsardzības sistēmas iedarbošanos vai bojājumu, uzskaita izpildītos ugunsaizsardzības sistēmas tehniskās apkopes vai remonta darbus).
 
 3 Norāda, vai ugunsaizsardzības sistēmas ir vai nav darba (tehniskā) kārtībā.
-
-[10\. pielikums](https://m.likumi.lv/wwwraksti/2016/078/238/P10_19.09.2020.DOCX "Atvērt citā formātā")  
-Ministru kabineta  
-2016\. gada 19. aprīļa  
+10. pielikums
+Ministru kabineta
+2016. gada 19. aprīļa
 noteikumiem Nr. 238
 
-(Pielikums MK [15.09.2020.](https://m.likumi.lv/ta/id/317397-grozijumi-ministru-kabineta-2016-gada-19-aprila-noteikumos-nr-238-ugunsdrosibas-noteikumi-) noteikumu Nr. 585 redakcijā)
-
+(Pielikums MK 15.09.2020. noteikumu Nr. 585 redakcijā)
 Ugunsdrošības instruktāžas uzskaites žurnāls
 
 
 
-* Nr.p. k.: vārds, uzvārds
-  * Datums: informācija, ar kuru var identificēt personu
-  * Instruējamais vainodarbinātais, kas piedalījās praktiskajās nodarbībās : paraksts
-  * Ugunsdrošības instrukcijas nosaukums vai numurs: vārds, uzvārds
-  * Persona, kas veic instruktāžu, vaipraktisko nodarbību novērotājs : informācija, ar kuru var identificēt personu
-  * paraksts
-* Nr.p. k.: 1
-  * Datums: 2
-  * Instruējamais vainodarbinātais, kas piedalījās praktiskajās nodarbībās : 3
-  * Ugunsdrošības instrukcijas nosaukums vai numurs: 4
-  * Persona, kas veic instruktāžu, vaipraktisko nodarbību novērotājs : 5
-  * 6
-  * 7
-  * 8
-  * 9
-* Nr.p. k.:  
-  * Datums:  
-  * Instruējamais vainodarbinātais, kas piedalījās praktiskajās nodarbībās :  
-  * Ugunsdrošības instrukcijas nosaukums vai numurs:  
-  * Persona, kas veic instruktāžu, vaipraktisko nodarbību novērotājs :  
-  *  
-  *  
-  *  
-  *  
-* Nr.p. k.:  
-  * Datums:  
-  * Instruējamais vainodarbinātais, kas piedalījās praktiskajās nodarbībās :  
-  * Ugunsdrošības instrukcijas nosaukums vai numurs:  
-  * Persona, kas veic instruktāžu, vaipraktisko nodarbību novērotājs :  
-  *  
-  *  
-  *  
-  *  
+
+| Nr.<br>p. k.   | Datums                                       | Instruējamais vai<br>nodarbinātais, kas piedalījās praktiskajās nodarbībās | Ugunsdrošības instrukcijas nosaukums vai numurs | Persona, kas veic instruktāžu, vai<br>praktisko nodarbību novērotājs |
+| -------------- | -------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------- |
+| vārds, uzvārds | informācija, ar kuru var identificēt personu | paraksts                                                                   | vārds, uzvārds                                  | informācija, ar kuru var identificēt personu                         | paraksts |
+| 1              | 2                                            | 3                                                                          | 4                                               | 5                                                                    | 6 | 7 | 8 | 9 |
+|                |                                              |                                                                            |                                                 |                                                                      |  |  |  |  |
+|                |                                              |                                                                            |                                                 |                                                                      |  |  |  |  |
+
+
+
+
+
 
 
 Piezīme. Ja 6. ailē norāda instrukcijas numuru, ugunsdrošības instruktāžas uzskaites žurnālam pievieno sarakstu ar ugunsdrošības instrukciju numuru atšifrējumiem.
-
-[11\. pielikums](https://m.likumi.lv/wwwraksti/2016/078/238/P11_19.09.2020.DOCX "Atvērt citā formātā")  
-Ministru kabineta  
-2016\. gada 19. aprīļa  
+11. pielikums
+Ministru kabineta
+2016. gada 19. aprīļa
 noteikumiem Nr. 238
 
-(Pielikums grozīts ar MK [15.09.2020.](https://m.likumi.lv/ta/id/317397-grozijumi-ministru-kabineta-2016-gada-19-aprila-noteikumos-nr-238-ugunsdrosibas-noteikumi-) noteikumiem Nr. 585)
-
+(Pielikums grozīts ar MK 15.09.2020. noteikumiem Nr. 585)
 Norīkojums ugunsbīstamā darba veikšanai
+ 	 	 
 
+(norīkojuma sastādīšanas vieta)
+	 	
 
-|                               |   |                                |
-|-------------------------------|---|--------------------------------|
-|(norīkojuma sastādīšanas vieta)|   |(norīkojuma sastādīšanas datums)|
+(norīkojuma sastādīšanas datums)
+ 
 
+I daļa
+(aizpilda pirms ugunsbīstamā darba veikšanas)
+1. Objekta vai objekta teritorijas nosaukums un adrese	 
+ 
+2. Darba veikšanas vieta	 
 
- 
+(norāda ugunsbīstamā darba veikšanas vietu)
+ 
+3. Darba veids	 
 
+(norāda ugunsbīstamā darba veidu)
+ 
+4. Objekta atbildīgā vai pilnvarotā persona	 
 
+(norāda juridiskās personas nosaukumu, reģistrācijas numuru, juridisko adresi, pilnvarotās personas vārdu, uzvārdu vai fiziskās personas vārdu, uzvārdu, informāciju, ar kuru var identificēt personu)
+ 
+5. Darba veicējs un pilnvarotā persona	 
 
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas): 1. Objekta vai objekta teritorijas nosaukums un adrese
-  *  
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas):  
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas): 2. Darba veikšanas vieta
-  *  
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas): (norāda ugunsbīstamā darba veikšanas vietu)
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas):  
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas): 3. Darba veids
-  *  
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas): (norāda ugunsbīstamā darba veidu)
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas):  
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas): 4. Objekta atbildīgā vai pilnvarotā persona
-  *  
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas): (norāda juridiskās personas nosaukumu, reģistrācijas numuru, juridisko adresi, pilnvarotās personas vārdu, uzvārdu vai fiziskās personas vārdu, uzvārdu, informāciju, ar kuru var identificēt personu)
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas):  
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas): 5. Darba veicējs un pilnvarotā persona
-  *  
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas): (norāda juridiskās personas nosaukumu, reģistrācijas numuru, juridisko adresi un fiziskās personas vārdu, uzvārdu, informāciju, ar kuru var identificēt personu)
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas):  
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas): 6. Darba uzsākšanas datums, laiks
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  * plkst.
-  *  
-  *  
-  *  
-  *  
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas): (diena, mēnesis, gads)
-  *  
-  * (stundas, minūtes)
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas):  
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas): 7. Darba beigšanas datums, laiks
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  * plkst.
-  *  
-  *  
-  *  
-  *  
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas): (diena, mēnesis, gads)
-  *  
-  * (stundas, minūtes)
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas):  
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas): 8. Par sagatavošanas darbiem atbildīgā persona
-  *  
-* I daļa(aizpilda pirms ugunsbīstamā darba veikšanas): (norāda juridiskās personas nosaukumu, reģistrācijas numuru, juridisko adresi vai fiziskās personas vārdu, uzvārdu, informāciju, ar kuru var identificēt personu)
+(norāda juridiskās personas nosaukumu, reģistrācijas numuru, juridisko adresi un fiziskās personas vārdu, uzvārdu, informāciju, ar kuru var identificēt personu)
+ 
+6. Darba uzsākšanas datums, laiks	 	 	 	 	 	 	 	 	
 
+plkst.
+	 	 	 	 
+
+(diena, mēnesis, gads)
+	 	
+
+(stundas, minūtes)
+ 
+7. Darba beigšanas datums, laiks	 	 	 	 	 	 	 	 	
+
+plkst.
+	 	 	 	 
+
+(diena, mēnesis, gads)
+	 	
+
+(stundas, minūtes)
+ 
+8. Par sagatavošanas darbiem atbildīgā persona	 
+
+(norāda juridiskās personas nosaukumu, reģistrācijas numuru, juridisko adresi vai fiziskās personas vārdu, uzvārdu, informāciju, ar kuru var identificēt personu)
 
 Paraksti:
+Objekta atbildīgā vai pilnvarotā persona	 
 
+(vārds, uzvārds, paraksts)
+ 
+Darba veicējs vai pilnvarotā persona	 
 
-|Objekta atbildīgā vai pilnvarotā persona|   |
-|----------------------------------------|---|
-|(vārds, uzvārds, paraksts)              |   |
+(atbildīgās personas vārds, uzvārds, paraksts)
+ 
 
+II daļa
+(aizpilda pēc ugunsbīstamā darba izpildes)
+9. Darbs pabeigts un darba izpildes vieta sakārtota	 	 	 	 	 	 	 	 	
 
- 
+plkst.
+	 	 	 	 
 
+(diena, mēnesis, gads)
+	 	
 
-|Darba veicējs vai pilnvarotā persona          |   |
-|----------------------------------------------|---|
-|(atbildīgās personas vārds, uzvārds, paraksts)|   |
+(stundas, minūtes)
+ 
+10. Persona, kas atbild par darba vietas uzraudzību četru stundu laikā pēc darba izpildes beigām	 
 
-
- 
-
-
-
-* II daļa(aizpilda pēc ugunsbīstamā darba izpildes): 9. Darbs pabeigts un darba izpildes vieta sakārtota
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  * plkst.
-  *  
-  *  
-  *  
-  *  
-* II daļa(aizpilda pēc ugunsbīstamā darba izpildes): (diena, mēnesis, gads)
-  *  
-  * (stundas, minūtes)
-* II daļa(aizpilda pēc ugunsbīstamā darba izpildes):  
-* II daļa(aizpilda pēc ugunsbīstamā darba izpildes): 10. Persona, kas atbild par darba vietas uzraudzību četru stundu laikā pēc darba izpildes beigām
-  *  
-* II daļa(aizpilda pēc ugunsbīstamā darba izpildes): (norāda juridiskās personas nosaukumu, reģistrācijas numuru, juridisko adresi un fiziskās personas vārdu, uzvārdu, informāciju, ar kuru var identificēt personu)
-
+(norāda juridiskās personas nosaukumu, reģistrācijas numuru, juridisko adresi un fiziskās personas vārdu, uzvārdu, informāciju, ar kuru var identificēt personu)
 
 Paraksti:
+Objekta atbildīgā vai pilnvarotā persona	 
 
+(vārds, uzvārds, paraksts)
+ 
+Darba veicējs vai pilnvarotā persona	 
 
-|Objekta atbildīgā vai pilnvarotā persona|   |
-|----------------------------------------|---|
-|(vārds, uzvārds, paraksts)              |   |
+(atbildīgās personas vārds, uzvārds, paraksts)
+ 
 
+III daļa
+(aizpilda četras stundas pēc ugunsbīstamā darba pabeigšanas)
+11. Darba vietas uzraudzība pabeigta un ugunsgrēka apdraudējuma nav	 	 	 	 	 	 	 	 	
 
- 
+plkst.
+	 	 	 	 
 
+(diena, mēnesis, gads)
+	 	
 
-|Darba veicējs vai pilnvarotā persona          |   |
-|----------------------------------------------|---|
-|(atbildīgās personas vārds, uzvārds, paraksts)|   |
+(stundas, minūtes)
+ 
+12. Par darba vietas uzraudzību atbildīgā persona	 
 
-
- 
-
-
-
-* III daļa(aizpilda četras stundas pēc ugunsbīstamā darba pabeigšanas): 11. Darba vietas uzraudzība pabeigta un ugunsgrēka apdraudējuma nav
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  *  
-  * plkst.
-  *  
-  *  
-  *  
-  *  
-* III daļa(aizpilda četras stundas pēc ugunsbīstamā darba pabeigšanas): (diena, mēnesis, gads)
-  *  
-  * (stundas, minūtes)
-* III daļa(aizpilda četras stundas pēc ugunsbīstamā darba pabeigšanas):  
-* III daļa(aizpilda četras stundas pēc ugunsbīstamā darba pabeigšanas): 12. Par darba vietas uzraudzību atbildīgā persona
-  *  
-* III daļa(aizpilda četras stundas pēc ugunsbīstamā darba pabeigšanas): (norāda juridiskās personas nosaukumu, reģistrācijas numuru, juridisko adresi un fiziskās personas vārdu, uzvārdu, informāciju, ar kuru var identificēt personu)
-
+(norāda juridiskās personas nosaukumu, reģistrācijas numuru, juridisko adresi un fiziskās personas vārdu, uzvārdu, informāciju, ar kuru var identificēt personu)
 
 Paraksti:
+Objekta atbildīgā vai pilnvarotā persona	 
 
+(vārds, uzvārds, paraksts)
+ 
+Darba veicējs vai pilnvarotā persona	 
 
-|Objekta atbildīgā vai pilnvarotā persona|   |
-|----------------------------------------|---|
-|(vārds, uzvārds, paraksts)              |   |
-
-
- 
-
-
-|Darba veicējs vai pilnvarotā persona          |   |
-|----------------------------------------------|---|
-|(atbildīgās personas vārds, uzvārds, paraksts)|   |
-
+(atbildīgās personas vārds, uzvārds, paraksts)
 
 Piezīme. Norīkojumu var apvienot ar cita veida bīstamo darbu veikšanai paredzētu dokumentu, ja tā saturs atbilst šā pielikuma prasībām.
-
 Iekšlietu ministrs Rihards Kozlovskis
 
-12\. pielikums  
-Ministru kabineta  
-2016\. gada 19. aprīļa  
-noteikumiem Nr. 238
 
+
+
+
+12. pielikums
+Ministru kabineta
+2016. gada 19. aprīļa
+noteikumiem Nr. 238
 Ugunsdzēsības līdzekļi kūdras ieguves objektos
 
 
 
-* Nr.p.k.: 1.
-  * Kūdras ieguves objekta platība (ha): 10–250
-  * Motorsūkņi (gab.): 2
-  * Pārvietojamās tvertnes ar tilpumu ne mazāk kā 2 m3: 1
-* Nr.p.k.: 2.
-  * Kūdras ieguves objekta platība (ha): 250–500
-  * Motorsūkņi (gab.): 3
-  * Pārvietojamās tvertnes ar tilpumu ne mazāk kā 2 m3: 2
-* Nr.p.k.: 3.
-  * Kūdras ieguves objekta platība (ha): 501–750
-  * Motorsūkņi (gab.): 4
-  * Pārvietojamās tvertnes ar tilpumu ne mazāk kā 2 m3: 2
-* Nr.p.k.: 4.
-  * Kūdras ieguves objekta platība (ha): 751–1000
-  * Motorsūkņi (gab.): 5
-  * Pārvietojamās tvertnes ar tilpumu ne mazāk kā 2 m3: 2
-* Nr.p.k.: 5.
-  * Kūdras ieguves objekta platība (ha): 1001–2000
-  * Motorsūkņi (gab.): 6
-  * Pārvietojamās tvertnes ar tilpumu ne mazāk kā 2 m3: 3
-* Nr.p.k.: 6.
-  * Kūdras ieguves objekta platība (ha): 2001–3000
-  * Motorsūkņi (gab.): 7
-  * Pārvietojamās tvertnes ar tilpumu ne mazāk kā 2 m3: 4
-* Nr.p.k.: 7.
-  * Kūdras ieguves objekta platība (ha): 3001–4000
-  * Motorsūkņi (gab.): 8
-  * Pārvietojamās tvertnes ar tilpumu ne mazāk kā 2 m3: 5
-* Nr.p.k.: 8.
-  * Kūdras ieguves objekta platība (ha): 4001–5000
-  * Motorsūkņi (gab.): 9
-  * Pārvietojamās tvertnes ar tilpumu ne mazāk kā 2 m3: 6
-* Nr.p.k.: 9.
-  * Kūdras ieguves objekta platība (ha): 5001–6000
-  * Motorsūkņi (gab.): 10
-  * Pārvietojamās tvertnes ar tilpumu ne mazāk kā 2 m3: 7
+
+| Nr.<br>p.k. | Kūdras ieguves objekta platība (ha) | Motorsūkņi (gab.) | Pārvietojamās tvertnes ar tilpumu ne mazāk kā 2 m<sup>3</sup> |
+| ----------- | ----------------------------------- | ----------------- | ------------------------------------------------------------- |
+| 1.          | 10–250                              | 2                 | 1                                                             |
+| 2.          | 250–500                             | 3                 | 2                                                             |
+| 3.          | 501–750                             | 4                 | 2                                                             |
+| 4.          | 751–1000                            | 5                 | 2                                                             |
+| 5.          | 1001–2000                           | 6                 | 3                                                             |
+| 6.          | 2001–3000                           | 7                 | 4                                                             |
+| 7.          | 3001–4000                           | 8                 | 5                                                             |
+| 8.          | 4001–5000                           | 9                 | 6                                                             |
+| 9.          | 5001–6000                           | 10                | 7                                                             |
+
 
 
 Iekšlietu ministrs Rihards Kozlovskis
-
-13\. pielikums  
-Ministru kabineta  
-2016\. gada 19. aprīļa  
+13. pielikums
+Ministru kabineta
+2016. gada 19. aprīļa
 noteikumiem Nr. 238
-
 Mežaudžu un izcirtumu iedalījums ugunsbīstamības klasēs un prasības apzīmējumiem
 
-(Pielikums MK [15.09.2020.](https://m.likumi.lv/ta/id/317397-grozijumi-ministru-kabineta-2016-gada-19-aprila-noteikumos-nr-238-ugunsdrosibas-noteikumi-) noteikumu Nr. 585 redakcijā)
+(Pielikums MK 15.09.2020. noteikumu Nr. 585 redakcijā)
 
 
 
-* Nr.p. k.: 1.
-  * Ugunsbīstamības klase: I klase – augstaugunsbīstamība
-  * Mežaudzes vai izcirtuma apraksts: Skuju koku audzes un izcirtumi meža tipos silā, mētrājā, lānā, vērī (līdz 40 gadus vecas audzes), damaksnī, šaurlapju ārenī, šaurlapju kūdrenī, viršu ārenī, mētru ārenī, mētru kūdrenī, viršu kūdrenī un grīnī
-  * Krāsa ugunsbīstamības apzīmēšanai meža objekta ugunsdrošības preventīvo pasākumu plānā: sarkana
-* Nr.p. k.: 2.
-  * Ugunsbīstamības klase: II klase –vidēja ugunsbīstamība
-  * Mežaudzes vai izcirtuma apraksts: Lapu koku mežaudzes meža tipos damaksnī, vērī, gāršā, šaurlapju ārenī, šaurlapju kūdrenī, mētru kūdrenī, viršu kūdrenī un skuju koku mežaudzes vērī (vecākas par 40 gadiem).Mežaudzes un izcirtumi slapjajā damaksnī, slapjajā vērī, slapjajā mētrājā, platlapju ārenī, platlapju kūdrenī, gāršā, slapjajā gāršā
-  * Krāsa ugunsbīstamības apzīmēšanai meža objekta ugunsdrošības preventīvo pasākumu plānā: dzeltena
-* Nr.p. k.: 3.
-  * Ugunsbīstamības klase: III klase – zema ugunsbīstamība
-  * Mežaudzes vai izcirtuma apraksts: Mežaudzes un izcirtumi purvājā, niedrājā, dumbrājā un liekņā
-  * Krāsa ugunsbīstamības apzīmēšanai meža objekta ugunsdrošības preventīvo pasākumu plānā: zaļa
+
+
+
+| Nr.<br>p. k. | Ugunsbīstamības klase               | Mežaudzes vai izcirtuma apraksts                                                                                                                                                                                                                                                                                   | Krāsa ugunsbīstamības apzīmēšanai meža objekta ugunsdrošības preventīvo pasākumu plānā |
+| ------------ | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| 1.           | I klase – augsta<br>ugunsbīstamība  | Skuju koku audzes un izcirtumi meža tipos silā, mētrājā, lānā, vērī (līdz 40 gadus vecas audzes), damaksnī, šaurlapju ārenī, šaurlapju kūdrenī, viršu ārenī, mētru ārenī, mētru kūdrenī, viršu kūdrenī un grīnī                                                                                                    | sarkana                                                                                |
+| 2.           | II klase –<br>vidēja ugunsbīstamība | Lapu koku mežaudzes meža tipos damaksnī, vērī, gāršā, šaurlapju ārenī, šaurlapju kūdrenī, mētru kūdrenī, viršu kūdrenī un skuju koku mežaudzes vērī (vecākas par 40 gadiem).
+
+Mežaudzes un izcirtumi slapjajā damaksnī, slapjajā vērī, slapjajā mētrājā, platlapju ārenī, platlapju kūdrenī, gāršā, slapjajā gāršā | dzeltena                                                                               |
+| 3.           | III klase – zema ugunsbīstamība     | Mežaudzes un izcirtumi purvājā, niedrājā, dumbrājā un liekņā                                                                                                                                                                                                                                                       | zaļa                                                                                   |
+
+
+
+
+
+
