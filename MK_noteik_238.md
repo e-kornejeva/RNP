@@ -3,7 +3,9 @@ Tiesību akts: spēkā esošs
 
 Attēlotā redakcija: 01.09.2023. - ... / Spēkā esošā
 
+
 **Ministru kabineta noteikumi Nr. 238**
+
 
 #### URL:https://m.likumi.lv/doc.php?id=281646
 
