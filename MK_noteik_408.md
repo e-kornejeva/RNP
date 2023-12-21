@@ -1,11 +1,14 @@
 # Dzīvojamās mājas pārvaldīšanas un apsaimniekošanas maksas aprēķināšanas noteikumi
+
+#### URL:https://likumi.lv/ta/id/292334-dzivojamas-majas-parvaldisanas-un-apsaimniekosanas-maksas-aprekinasanas-noteikumi
+
 **Ministru kabineta noteikumi Nr. 408**
 
 Rīgā 2017. gada 11. jūlijā (prot. Nr. 35 4. §)
 
 Dzīvojamās mājas pārvaldīšanas un apsaimniekošanas maksas aprēķināšanas noteikumi
 
-1\. Noteikumi nosaka kārtību, kādā dzīvojamās mājas pārvaldnieks (turpmāk – pārvaldnieks):
+1. Noteikumi nosaka kārtību, kādā dzīvojamās mājas pārvaldnieks (turpmāk – pārvaldnieks):
 
 1.1. sastāda dzīvojamās mājas uzturēšanas un apsaimniekošanas darbu tāmi (turpmāk – tāme) kalendāra gadam (1. pielikums);
 
@@ -17,7 +20,7 @@ Dzīvojamās mājas pārvaldīšanas un apsaimniekošanas maksas aprēķināšan
 
 1.5. sagatavo dzīvokļu īpašniekiem pārskatu par pārvaldīšanas maksājumu izlietošanu kārtējā gadā.
 
-2\. Pārvaldnieks tāmē ietver šo noteikumu [1.](https://likumi.lv/ta/id/292334#piel1) pielikumā norādīto informāciju, tai skaitā:
+2. Pārvaldnieks tāmē ietver šo noteikumu [1.](https://likumi.lv/ta/id/292334#piel1) pielikumā norādīto informāciju, tai skaitā:
 
 2.1. maksājumu par pārvaldīšanas pakalpojumu, kas ietver:
 
@@ -27,15 +30,15 @@ Dzīvojamās mājas pārvaldīšanas un apsaimniekošanas maksas aprēķināšan
 
 2.2. maksājumu par turpmākajos periodos obligāto pārvaldīšanas darbību ietvaros veicamo dzīvojamās mājas remontu, atjaunošanu vai pārbūvi (turpmāk  – uzturēšanas darbi).
 
-3\. Obligātos izdevumus ietver katras pārvaldnieka pārvaldītās dzīvojamās mājas tāmē, atsevišķi norādot katra pakalpojuma cenu, kā arī pakalpojuma tiešās izmaksas. Tāmes pozīcijās ietverto izdevumu aprēķināšanas kārtību nosaka pārvaldnieks.
+3. Obligātos izdevumus ietver katras pārvaldnieka pārvaldītās dzīvojamās mājas tāmē, atsevišķi norādot katra pakalpojuma cenu, kā arī pakalpojuma tiešās izmaksas. Tāmes pozīcijās ietverto izdevumu aprēķināšanas kārtību nosaka pārvaldnieks.
 
-4\. Pakalpojuma cenu veido pakalpojuma tiešās izmaksas, pakalpojuma netiešās izmaksas un atlīdzība par pārvaldīšanu, ja tā tāmē nav ietverta kā atsevišķa pozīcija.
+4. Pakalpojuma cenu veido pakalpojuma tiešās izmaksas, pakalpojuma netiešās izmaksas un atlīdzība par pārvaldīšanu, ja tā tāmē nav ietverta kā atsevišķa pozīcija.
 
-5\. Obligātos izdevumus par dzīvojamās mājas remontu, kā arī maksājumu par turpmākajos periodos obligāto pārvaldīšanas darbību ietvaros veicamajiem dzīvojamās mājas remonta darbiem tāmē ietver, ja vizuālajā pārbaudē vai tehniskajā apsekošanā ir konstatēti dzīvojamās mājas bojājumi.
+5. Obligātos izdevumus par dzīvojamās mājas remontu, kā arī maksājumu par turpmākajos periodos obligāto pārvaldīšanas darbību ietvaros veicamajiem dzīvojamās mājas remonta darbiem tāmē ietver, ja vizuālajā pārbaudē vai tehniskajā apsekošanā ir konstatēti dzīvojamās mājas bojājumi.
 
-6\. Obligātos izdevumus par dzīvojamās mājas atjaunošanu vai pārbūvi, kā arī maksājumu par turpmākajos periodos obligāto pārvaldīšanas darbību ietvaros veicamo dzīvojamās mājas atjaunošanu vai pārbūvi tāmē ietver, ja tehniskās apsekošanas atzinumā ir secināts, ka dzīvojamās mājas turpmākās ekspluatācijas priekšnoteikums ir dzīvojamās mājas atjaunošana vai pārbūve.
+6. Obligātos izdevumus par dzīvojamās mājas atjaunošanu vai pārbūvi, kā arī maksājumu par turpmākajos periodos obligāto pārvaldīšanas darbību ietvaros veicamo dzīvojamās mājas atjaunošanu vai pārbūvi tāmē ietver, ja tehniskās apsekošanas atzinumā ir secināts, ka dzīvojamās mājas turpmākās ekspluatācijas priekšnoteikums ir dzīvojamās mājas atjaunošana vai pārbūve.
 
-7\. Obligātos izdevumus par dzīvojamās mājas atjaunošanu vai pārbūvi, kā arī maksājumu par turpmākajos periodos obligāto pārvaldīšanas darbību ietvaros veicamo dzīvojamās mājas atjaunošanu vai pārbūvi pārvaldnieks tāmē var neietvert, ja dzīvojamās mājas konstrukcijas vai to elementi ir avārijas vai pirmsavārijas stāvoklī un dzīvojamās mājas tehniskie ekspluatācijas rādītāji un ar tiem saistītie citi ekspluatācijas rādītāji ir tiktāl pasliktinājušies, ka dzīvojamās mājas atjaunošana vai pārbūve ir ekonomiski nepamatota.
+7. Obligātos izdevumus par dzīvojamās mājas atjaunošanu vai pārbūvi, kā arī maksājumu par turpmākajos periodos obligāto pārvaldīšanas darbību ietvaros veicamo dzīvojamās mājas atjaunošanu vai pārbūvi pārvaldnieks tāmē var neietvert, ja dzīvojamās mājas konstrukcijas vai to elementi ir avārijas vai pirmsavārijas stāvoklī un dzīvojamās mājas tehniskie ekspluatācijas rādītāji un ar tiem saistītie citi ekspluatācijas rādītāji ir tiktāl pasliktinājušies, ka dzīvojamās mājas atjaunošana vai pārbūve ir ekonomiski nepamatota.
 
 8. Pārvaldīšanas maksājumus aprēķina, izmantojot šādu formulu:  
  
@@ -53,15 +56,15 @@ U – maksājums par turpmākajos periodos obligāto pārvaldīšanas darbību i
 
 Pl – dzīvojamās mājas kadastrālās uzmērīšanas lietā norādītā dzīvojamās mājas lietderīgā platība kvadrātmetros.
 
-9\. Ja pārvaldnieka rīcībā nav aktuālas dzīvojamās mājas kadastrālās uzmērīšanas lietas, pārvaldīšanas maksājumus aprēķina, izmantojot šo noteikumu [8.](https://likumi.lv/ta/id/292334#p8) punktā norādīto formulu, aizstājot tajā dzīvojamās mājas lietderīgo platību ar dzīvojamās mājas inventarizācijas lietā norādīto dzīvojamās mājas kopējo platību (m2), kas precizēta, ņemot vērā lodžiju platībai piemērojamo koeficientu 0,5 un balkonu un segto terašu platībai – koeficientu 0,3.
+9. Ja pārvaldnieka rīcībā nav aktuālas dzīvojamās mājas kadastrālās uzmērīšanas lietas, pārvaldīšanas maksājumus aprēķina, izmantojot šo noteikumu [8.](https://likumi.lv/ta/id/292334#p8) punktā norādīto formulu, aizstājot tajā dzīvojamās mājas lietderīgo platību ar dzīvojamās mājas inventarizācijas lietā norādīto dzīvojamās mājas kopējo platību (m2), kas precizēta, ņemot vērā lodžiju platībai piemērojamo koeficientu 0,5 un balkonu un segto terašu platībai – koeficientu 0,3.
 
-10\. Par aprēķinātajiem pārvaldīšanas maksājumiem nākamajam kalendāra gadam pārvaldnieks rakstiski paziņo dzīvokļa īpašniekam līdz attiecīgā gada 15. oktobrim. Paziņojumā norāda laiku un vietu (piemēram, mājas lieta, interneta mājaslapa, informatīvs stends), kur dzīvokļa īpašnieks var iepazīties ar tāmi, kā arī dzīvojamās mājas uzturēšanas darbu plānu ([2.](https://likumi.lv/ta/id/292334#piel2) pielikums).
+10. Par aprēķinātajiem pārvaldīšanas maksājumiem nākamajam kalendāra gadam pārvaldnieks rakstiski paziņo dzīvokļa īpašniekam līdz attiecīgā gada 15. oktobrim. Paziņojumā norāda laiku un vietu (piemēram, mājas lieta, interneta mājaslapa, informatīvs stends), kur dzīvokļa īpašnieks var iepazīties ar tāmi, kā arī dzīvojamās mājas uzturēšanas darbu plānu ([2.](https://likumi.lv/ta/id/292334#piel2) pielikums).
 
-11\. Pārvaldnieks vienas nedēļas laikā nosūta tāmi un dzīvojamās mājas uzturēšanas darbu plānu dzīvokļa īpašniekam pēc dzīvokļa īpašnieka rakstiska pieprasījuma saņemšanas.
+11. Pārvaldnieks vienas nedēļas laikā nosūta tāmi un dzīvojamās mājas uzturēšanas darbu plānu dzīvokļa īpašniekam pēc dzīvokļa īpašnieka rakstiska pieprasījuma saņemšanas.
 
-12\. Ja saskaņā ar šo noteikumu [7.](https://likumi.lv/ta/id/292334#p7) punktu pārvaldnieks tāmē nav iekļāvis obligātos izdevumus par dzīvojamās mājas atjaunošanu vai pārbūvi, kā arī maksājumu par turpmākajos periodos obligāto pārvaldīšanas darbību ietvaros veicamo dzīvojamās mājas atjaunošanu vai pārbūvi, pārvaldnieks vienlaikus ar šo noteikumu [10.](https://likumi.lv/ta/id/292334#p10) punktā minēto paziņojumu par aprēķinātajiem pārvaldīšanas maksājumiem nākamajam kalendāra gadam katram dzīvokļa īpašniekam nosūta uzaicinājumu uz dzīvokļu īpašnieku kopsapulci, kas sasaucama [Dzīvokļa īpašuma likumā](https://likumi.lv/ta/id/221382-dzivokla-ipasuma-likums) noteiktajā kārtībā, bet ne ātrāk kā vienu nedēļu pēc uzaicinājuma nosūtīšanas.
+12. Ja saskaņā ar šo noteikumu [7.](https://likumi.lv/ta/id/292334#p7) punktu pārvaldnieks tāmē nav iekļāvis obligātos izdevumus par dzīvojamās mājas atjaunošanu vai pārbūvi, kā arī maksājumu par turpmākajos periodos obligāto pārvaldīšanas darbību ietvaros veicamo dzīvojamās mājas atjaunošanu vai pārbūvi, pārvaldnieks vienlaikus ar šo noteikumu [10.](https://likumi.lv/ta/id/292334#p10) punktā minēto paziņojumu par aprēķinātajiem pārvaldīšanas maksājumiem nākamajam kalendāra gadam katram dzīvokļa īpašniekam nosūta uzaicinājumu uz dzīvokļu īpašnieku kopsapulci, kas sasaucama [Dzīvokļa īpašuma likumā](https://likumi.lv/ta/id/221382-dzivokla-ipasuma-likums) noteiktajā kārtībā, bet ne ātrāk kā vienu nedēļu pēc uzaicinājuma nosūtīšanas.
 
-13\. Dzīvokļu īpašnieku kopsapulcē, kas sasaukta saskaņā ar šo noteikumu [12.](https://likumi.lv/ta/id/292334#p12) punktu, dzīvokļu īpašnieku kopība var pieņemt lēmumu par:
+13. Dzīvokļu īpašnieku kopsapulcē, kas sasaukta saskaņā ar šo noteikumu [12.](https://likumi.lv/ta/id/292334#p12) punktu, dzīvokļu īpašnieku kopība var pieņemt lēmumu par:
 
 13.1. pārvaldnieka sagatavotā uzturēšanas darbu plāna un aprēķināto pārvaldīšanas maksājumu apstiprināšanu;
 
@@ -77,9 +80,9 @@ Pl – dzīvojamās mājas kadastrālās uzmērīšanas lietā norādītā dzī
 
 13.7. personas pilnvarošanu dzīvokļu īpašnieku kopības saziņai ar pārvaldnieku.
 
-14\. Ne vēlāk kā sešu nedēļu laikā pēc šo noteikumu [10.](https://likumi.lv/ta/id/292334#p10) punktā minētajā paziņojumā norādītās dienas dzīvokļu īpašnieku kopība pieņem lēmumu par pārvaldnieka sagatavotā dzīvojamās mājas uzturēšanas darbu plāna un aprēķināto pārvaldīšanas maksājumu apstiprināšanu vai noraidīšanu.
+14. Ne vēlāk kā sešu nedēļu laikā pēc šo noteikumu [10.](https://likumi.lv/ta/id/292334#p10) punktā minētajā paziņojumā norādītās dienas dzīvokļu īpašnieku kopība pieņem lēmumu par pārvaldnieka sagatavotā dzīvojamās mājas uzturēšanas darbu plāna un aprēķināto pārvaldīšanas maksājumu apstiprināšanu vai noraidīšanu.
 
-15\. Pieņemot lēmumu par uzturēšanas darbu plāna un pārvaldīšanas maksājumu apstiprināšanu vai noraidīšanu saskaņā ar šo noteikumu [14.](https://likumi.lv/ta/id/292334#p14) punktu, dzīvokļu īpašnieku kopība:
+15. Pieņemot lēmumu par uzturēšanas darbu plāna un pārvaldīšanas maksājumu apstiprināšanu vai noraidīšanu saskaņā ar šo noteikumu [14.](https://likumi.lv/ta/id/292334#p14) punktu, dzīvokļu īpašnieku kopība:
 
 15.1. nevar atteikties no obligāto pārvaldīšanas darbību nodrošināšanas;
 
@@ -99,11 +102,11 @@ Pl – dzīvojamās mājas kadastrālās uzmērīšanas lietā norādītā dzī
 
 15.9. var pieņemt lēmumu par personas pilnvarošanu dzīvokļu īpašnieku kopības saziņai ar pārvaldnieku.
 
-16\. Ja pārvaldnieks nevar nodrošināt, ka tiek īstenoti dzīvokļu īpašnieku kopības pieņemtie lēmumi par šo noteikumu 15.4. un 15.5. apakšpunktā minētajiem jautājumiem, un iesniedz dzīvokļu īpašniekiem attiecīgu pamatojumu, dzīvokļu īpašnieku kopība ne vēlāk kā divu mēnešu laikā pēc minētā pamatojuma saņemšanas dienas lemj par dzīvojamās mājas pārvaldīšanas tiesību pārņemšanu.
+16. Ja pārvaldnieks nevar nodrošināt, ka tiek īstenoti dzīvokļu īpašnieku kopības pieņemtie lēmumi par šo noteikumu 15.4. un 15.5. apakšpunktā minētajiem jautājumiem, un iesniedz dzīvokļu īpašniekiem attiecīgu pamatojumu, dzīvokļu īpašnieku kopība ne vēlāk kā divu mēnešu laikā pēc minētā pamatojuma saņemšanas dienas lemj par dzīvojamās mājas pārvaldīšanas tiesību pārņemšanu.
 
-17\. Šo noteikumu [14.](https://likumi.lv/ta/id/292334#p14) punktā minēto dzīvokļu īpašnieku kopības lēmumu dzīvokļu īpašnieku pilnvarotā persona iesniedz pārvaldniekam vienas nedēļas laikā pēc tā pieņemšanas.
+17. Šo noteikumu [14.](https://likumi.lv/ta/id/292334#p14) punktā minēto dzīvokļu īpašnieku kopības lēmumu dzīvokļu īpašnieku pilnvarotā persona iesniedz pārvaldniekam vienas nedēļas laikā pēc tā pieņemšanas.
 
-18\. Pārvaldnieka sastādītais uzturēšanas darbu plāns un aprēķinātie pārvaldīšanas maksājumi stājas spēkā nākamā gada 1. janvārī vai citā pārvaldnieka noteiktajā termiņā, ja:
+18. Pārvaldnieka sastādītais uzturēšanas darbu plāns un aprēķinātie pārvaldīšanas maksājumi stājas spēkā nākamā gada 1. janvārī vai citā pārvaldnieka noteiktajā termiņā, ja:
 
 18.1. saskaņā ar šo noteikumu [12.](https://likumi.lv/ta/id/292334#p12) punktu sasauktā dzīvokļu īpašnieku kopsapulce nav bijusi lemttiesīga vai tajā nav pieņemts lēmums;
 
@@ -111,11 +114,11 @@ Pl – dzīvojamās mājas kadastrālās uzmērīšanas lietā norādītā dzī
 
 18.3. dzīvokļu īpašnieku kopība šo noteikumu [16.](https://likumi.lv/ta/id/292334#p16) punktā minētajā termiņā nav pieņēmusi lēmumu par dzīvojamās mājas pārvaldīšanas tiesību pārņemšanu.
 
-19\. Pārvaldniekam ir pienākums divu nedēļu laikā sniegt dzīvokļu īpašnieku kopības pilnvarotajai personai vai dzīvokļu īpašniekiem rakstisku atbildi par iespējām nodrošināt obligātās uzturēšanas darbības, ievērojot dzīvokļu īpašnieku kopības lēmumā noteikto. Ja dzīvokļu īpašnieku kopība ir lēmusi par atšķirīgu remonta, atjaunošanas vai pārbūves veikšanas laiku, pārvaldnieks atbildē norāda, vai uzturēšanas darbu veikšana dzīvokļu īpašnieku kopības piedāvātajā termiņā neapdraudēs dzīvojamās mājas turpmāku ekspluatāciju.
+19. Pārvaldniekam ir pienākums divu nedēļu laikā sniegt dzīvokļu īpašnieku kopības pilnvarotajai personai vai dzīvokļu īpašniekiem rakstisku atbildi par iespējām nodrošināt obligātās uzturēšanas darbības, ievērojot dzīvokļu īpašnieku kopības lēmumā noteikto. Ja dzīvokļu īpašnieku kopība ir lēmusi par atšķirīgu remonta, atjaunošanas vai pārbūves veikšanas laiku, pārvaldnieks atbildē norāda, vai uzturēšanas darbu veikšana dzīvokļu īpašnieku kopības piedāvātajā termiņā neapdraudēs dzīvojamās mājas turpmāku ekspluatāciju.
 
-20\. Ja pārvaldnieks ir noraidījis iespēju nodrošināt obligātās uzturēšanas darbības saskaņā ar dzīvokļu īpašnieku kopības apstiprināto priekšlikumu un dzīvokļu īpašnieku kopība nav pieņēmusi lēmumu par dzīvojamās mājas pārvaldīšanas tiesību pārņemšanu, pārvaldnieka sastādītais uzturēšanas darbu plāns un aprēķinātie pārvaldīšanas maksājumi stājas spēkā nākamā gada 1. janvārī vai citā pārvaldnieka noteiktajā termiņā.
+20. Ja pārvaldnieks ir noraidījis iespēju nodrošināt obligātās uzturēšanas darbības saskaņā ar dzīvokļu īpašnieku kopības apstiprināto priekšlikumu un dzīvokļu īpašnieku kopība nav pieņēmusi lēmumu par dzīvojamās mājas pārvaldīšanas tiesību pārņemšanu, pārvaldnieka sastādītais uzturēšanas darbu plāns un aprēķinātie pārvaldīšanas maksājumi stājas spēkā nākamā gada 1. janvārī vai citā pārvaldnieka noteiktajā termiņā.
 
-21\. Pārvaldniekam ir tiesības papildus noteiktajiem pārvaldīšanas maksājumiem pieprasīt un dzīvokļu īpašniekiem ir pienākums segt par ārpuskārtas remontu iztērētos līdzekļus šādos gadījumos:
+21. Pārvaldniekam ir tiesības papildus noteiktajiem pārvaldīšanas maksājumiem pieprasīt un dzīvokļu īpašniekiem ir pienākums segt par ārpuskārtas remontu iztērētos līdzekļus šādos gadījumos:
 
 21.1. ar ārpuskārtas remontu jānovērš tādi bojājumi, kuru rašanos nevarēja paredzēt un novēršanai nepieciešamos uzturēšanas darbus nevarēja ietvert dzīvojamās mājas uzturēšanas darbu plānā;
 
@@ -123,23 +126,23 @@ Pl – dzīvojamās mājas kadastrālās uzmērīšanas lietā norādītā dzī
 
 21.3. pārvaldnieks ir konstatējis bojājumu, kas rada avārijas situāciju un var apdraudēt personu dzīvību, veselību vai īpašumu, un tā novēršanai paredzēto darbu ietvēris dzīvojamās mājas uzturēšanas darbu plānā un izmaksas tāmē, bet bojājuma novēršanai paredzētie līdzekļi nav pietiekami, lai segtu uzturēšanas darba izmaksas.
 
-22\. Informāciju par ārpuskārtas remonta veikšanu pārvaldnieks izvieto dzīvokļu īpašniekiem redzamā vietā dzīvojamā mājā.
+22. Informāciju par ārpuskārtas remonta veikšanu pārvaldnieks izvieto dzīvokļu īpašniekiem redzamā vietā dzīvojamā mājā.
 
-23\. Pēc ārpuskārtas remonta veikšanas pārvaldnieks:
+23. Pēc ārpuskārtas remonta veikšanas pārvaldnieks:
 
 23.1. rakstiski uzaicina dzīvokļu īpašnieku kopības pilnvaroto personu, ja tāda ir noteikta, piedalīties veikto darbu pieņemšanā;
 
 23.2. divu nedēļu laikā pēc remonta veikšanas rakstiski paziņo pilnvarotai personai par ārpuskārtas remonta izmaksām, kā arī norāda ārpuskārtas remonta veikšanas pamatojumu, bet, ja pilnvarotā persona nav noteikta, pārvaldnieks minēto informāciju izvieto dzīvokļu īpašniekiem redzamā vietā dzīvojamā mājā.
 
-24\. Katru gadu līdz 1. aprīlim pārvaldnieks rakstiski paziņo dzīvokļu īpašniekiem, kur (piemēram, mājas lieta, interneta vietne) dzīvokļa īpašnieks var iepazīties ar dzīvojamās mājas pārvaldīšanas un apsaimniekošanas ieņēmumu un izdevumu pārskatu par iepriekšējo kalendāra gadu ([3.](https://likumi.lv/ta/id/292334#piel3) pielikums).
+24. Katru gadu līdz 1. aprīlim pārvaldnieks rakstiski paziņo dzīvokļu īpašniekiem, kur (piemēram, mājas lieta, interneta vietne) dzīvokļa īpašnieks var iepazīties ar dzīvojamās mājas pārvaldīšanas un apsaimniekošanas ieņēmumu un izdevumu pārskatu par iepriekšējo kalendāra gadu ([3.](https://likumi.lv/ta/id/292334#piel3) pielikums).
 
-25\. Ja pārvaldnieks bez dzīvojamo māju pārvaldīšanas veic arī citu saimniecisko darbību, pārvaldnieks nodrošina ar dzīvojamo māju pārvaldīšanu saistītās saimnieciskās darbības atsevišķu uzskaiti.
+25. Ja pārvaldnieks bez dzīvojamo māju pārvaldīšanas veic arī citu saimniecisko darbību, pārvaldnieks nodrošina ar dzīvojamo māju pārvaldīšanu saistītās saimnieciskās darbības atsevišķu uzskaiti.
 
-26\. Pārvaldniekam ir pienākums savā grāmatvedības politikas aprakstā norādīt pārvaldīšanas darbību ietvaros nodrošināto pakalpojumu veidojošo izmaksu (tai skaitā netiešo izmaksu) veidošanas metodes.
+26. Pārvaldniekam ir pienākums savā grāmatvedības politikas aprakstā norādīt pārvaldīšanas darbību ietvaros nodrošināto pakalpojumu veidojošo izmaksu (tai skaitā netiešo izmaksu) veidošanas metodes.
 
-27\. Pārvaldnieks četru nedēļu laikā pēc dzīvokļa īpašnieka rakstiska lūguma saņemšanas izsniedz dzīvokļa īpašniekam informāciju par ieņēmumiem un izdevumiem, kas attiecināmi uz dzīvojamo māju, tai skaitā informāciju par izmaksu veidošanas metodēm.
+27. Pārvaldnieks četru nedēļu laikā pēc dzīvokļa īpašnieka rakstiska lūguma saņemšanas izsniedz dzīvokļa īpašniekam informāciju par ieņēmumiem un izdevumiem, kas attiecināmi uz dzīvojamo māju, tai skaitā informāciju par izmaksu veidošanas metodēm.
 
-28\. Ja dzīvojamās mājas pārvaldīšanas tiesības pārņem dzīvokļu īpašnieki:
+28. Ja dzīvojamās mājas pārvaldīšanas tiesības pārņem dzīvokļu īpašnieki:
 
 28.1. pārvaldnieks nodod dzīvokļu īpašniekiem:
 
@@ -155,9 +158,9 @@ Ministru prezidenta biedra,
 ekonomikas ministra vietā –  
 izglītības un zinātnes ministrs _Kārlis Šadurskis_
 
-[1\. pielikums](https://likumi.lv/wwwraksti/2023/184/BILDES/MK_NOT_408/8692AF69FCB0_PIEL_1.DOC)  
+[1. pielikums](https://likumi.lv/wwwraksti/2023/184/BILDES/MK_NOT_408/8692AF69FCB0_PIEL_1.DOC)  
 Ministru kabineta  
-2017\. gada 11. jūlija  
+2017. gada 11. jūlija  
 noteikumiem Nr. 408
 
 (Pielikums MK [19.09.2023.](https://likumi.lv/ta/id/345672-grozijumi-ministru-kabineta-2017-gada-11-julija-noteikumos-nr-408-dzivojamas-majas-parvaldisanas-un-apsaimniekosanas-maksas-apr...) noteikumu Nr. 533 redakcijā)
@@ -355,15 +358,15 @@ Piezīmes.
 
 1. Ja pārvaldnieks izmanto cita parauga tāmi, tāmē norādāmajām pozīcijām jāatbilst šā pielikuma prasībām. Tāmē norādītās pozīcijas pārvaldnieks var izvērst.
 
-2\. 1 Norāda informāciju, kas var paskaidrot plānotās izdevumu pozīcijas.
+2. 1 Norāda informāciju, kas var paskaidrot plānotās izdevumu pozīcijas.
 
-3\. 2 Ja atlīdzība par pārvaldīšanu nav iekļauta obligāto pārvaldīšanas darbību ietvaros sniegto pakalpojumu cenā, pakalpojuma cena ir vienāda ar pārvaldīšanas izmaksām.
+3. 2 Ja atlīdzība par pārvaldīšanu nav iekļauta obligāto pārvaldīšanas darbību ietvaros sniegto pakalpojumu cenā, pakalpojuma cena ir vienāda ar pārvaldīšanas izmaksām.
 
-4\. 3 Atlīdzību par pārvaldīšanu izdala atsevišķi, ja tā nav iekļauta obligāto pārvaldīšanas darbību ietvaros sniegto pakalpojumu cenā.
+4. 3 Atlīdzību par pārvaldīšanu izdala atsevišķi, ja tā nav iekļauta obligāto pārvaldīšanas darbību ietvaros sniegto pakalpojumu cenā.
 
-5\. 4 Tāmē ietver, ja dzīvokļu īpašnieku kopība ir par to lēmusi.
+5. 4 Tāmē ietver, ja dzīvokļu īpašnieku kopība ir par to lēmusi.
 
-6\. 5 Norāda plānotos darbus.
+6. 5 Norāda plānotos darbus.
 
 
 |Sastādīja|                |   |          |   |        |
@@ -378,7 +381,7 @@ Piezīmes.
 |            |(vārds, uzvārds)|   |(paraksts)|   |(datums)|
 
 
-[2\. pielikums](https://likumi.lv/wwwraksti/2017/143/BILDES/N_408/P2.DOC "Atvērt citā formātā")  
+[2. pielikums](https://likumi.lv/wwwraksti/2017/143/BILDES/N_408/P2.DOC "Atvērt citā formātā")  
 Ministru kabineta  
 2017. gada 11. jūlija  
 noteikumiem Nr. 408
@@ -483,9 +486,9 @@ Piezīmes.
 
 1.  Ja pārvaldnieks izmanto cita parauga plānu, plānā norādāmajām pozīcijām jāatbilst šā pielikuma prasībām. Plānā norādītās pozīcijas pārvaldnieks var izvērst.
 
-2\. Dzīvojamās mājas uzturēšanas darbu plānu sastāda vismaz turpmākajiem trim gadiem. Nosakot dzīvojamās mājas uzturēšanas darbu plānā ietverto darbu izpildes termiņu, pārvaldnieks ņem vērā dzīvojamās mājas tehnisko stāvokli.
+2. Dzīvojamās mājas uzturēšanas darbu plānu sastāda vismaz turpmākajiem trim gadiem. Nosakot dzīvojamās mājas uzturēšanas darbu plānā ietverto darbu izpildes termiņu, pārvaldnieks ņem vērā dzīvojamās mājas tehnisko stāvokli.
 
-3\. 1 Summas norādītas orientējoši pēc \_\_\_\_. gada vidējām tirgus cenām un var mainīties pēc visu saistīto izmaksu aprēķināšanas un atkarībā no darbu veikšanas laika.
+3. 1 Summas norādītas orientējoši pēc \_\_\_\_. gada vidējām tirgus cenām un var mainīties pēc visu saistīto izmaksu aprēķināšanas un atkarībā no darbu veikšanas laika.
 
 
 |Sastādīja|                |   |          |   |        |
@@ -503,9 +506,9 @@ Ministru prezidenta biedra,
 ekonomikas ministra vietā –  
 izglītības un zinātnes ministrs _Kārlis Šadurskis_
 
-[3\. pielikums](https://likumi.lv/wwwraksti/2023/184/BILDES/MK_NOT_408/3F15E13643D0_PIEL_3.DOC)  
+[3. pielikums](https://likumi.lv/wwwraksti/2023/184/BILDES/MK_NOT_408/3F15E13643D0_PIEL_3.DOC)  
 Ministru kabineta  
-2017\. gada 11. jūlija  
+2017. gada 11. jūlija  
 noteikumiem Nr. 408
 
 (Pielikums MK [19.09.2023.](https://likumi.lv/ta/id/345672-grozijumi-ministru-kabineta-2017-gada-11-julija-noteikumos-nr-408-dzivojamas-majas-parvaldisanas-un-apsaimniekosanas-maksas-apr...) noteikumu Nr. 533 redakcijā)
@@ -634,8 +637,8 @@ Dzīvojamās mājas pārvaldīšanas un apsaimniekošanas ieņēmumu un izdevumu
 
 Piezīmes.
 
-1\. Ja pārvaldnieks izmanto cita parauga pārskatu, pārskatā norādāmajām pozīcijām jāatbilst šā pielikuma prasībām. Pārskatā norādītās pozīcijas pārvaldnieks var izvērst.
+1. Ja pārvaldnieks izmanto cita parauga pārskatu, pārskatā norādāmajām pozīcijām jāatbilst šā pielikuma prasībām. Pārskatā norādītās pozīcijas pārvaldnieks var izvērst.
 
-2\. 1 Atlīdzību par pārvaldīšanu atsevišķi izdala, ja tā nav iekļauta obligāto pārvaldīšanas darbību ietvaros sniegto pakalpojumu cenā.
+2. 1 Atlīdzību par pārvaldīšanu atsevišķi izdala, ja tā nav iekļauta obligāto pārvaldīšanas darbību ietvaros sniegto pakalpojumu cenā.
 
-3\. 2 Norāda gan kalendāra gadā, gan iepriekšējos periodos uzkrāto, bet neizmantoto līdzekļu apmēru dzīvojamās mājas uzturēšanas darbiem.
+3. 2 Norāda gan kalendāra gadā, gan iepriekšējos periodos uzkrāto, bet neizmantoto līdzekļu apmēru dzīvojamās mājas uzturēšanas darbiem.
