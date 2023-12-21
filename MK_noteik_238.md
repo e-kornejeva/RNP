@@ -2776,6 +2776,320 @@ Norādījumi par turpmāko ekspluatāciju
 
 
 
+Piezīmes.
+
+1 Ierakstus veic saskaņā ar elektroinstalācijas shēmu.
+
+2 Norāda atbilstību turpmākai ekspluatācijai ar "atbilst" vai "neatbilst".
+Norādījumi par turpmāko ekspluatāciju	 
+ 
+
+3. Zemējumietaises pretestības mērījumu rezultāti
+
+| Nr. p. k. | Zemējumietaises elementu atrašanās vieta un pārbaudes vieta<sup>1</sup> | Grunts raksturojums | Pretestība, Ω | Atzinums<sup>2</sup> |
+| --------- | ----------------------------------------------------------------------- | ------------------- | ------------- | -------------------- |
+| 1         | 2                                                                       | 3                   | 4             | 5                    |
+|           |                                                                         |                     |               |                      |
+|           |                                                                         |                     |               |                      |
+
+
+
+Piezīmes.
+
+1 Ierakstus veic saskaņā ar zemējumietaises shēmu.
+
+2 Norāda atbilstību turpmākai ekspluatācijai ar "atbilst" vai "neatbilst".
+Norādījumi par turpmāko ekspluatāciju	 
+ 
+
+4. Zemējumvadu nepārtrauktības saites pretestības mērījumu rezultāti
+
+| Nr. p. k. | Elektroiekārtas atrašanās vieta un pārbaudes vieta<sup>1</sup> | Pretestība, Ω | Atzinums<sup>2</sup> |
+| --------- | -------------------------------------------------------------- | ------------- | -------------------- |
+| 1         | 2                                                              | 3             | 4                    |
+|           |                                                                |               |                      |
+|           |                                                                |               |                      |
+
+
+
+Piezīmes.
+
+1 Ierakstus veic saskaņā ar elektroinstalācijas shēmu.
+
+2 Norāda atbilstību turpmākai ekspluatācijai ar "atbilst" vai "neatbilst".
+Norādījumi par turpmāko ekspluatāciju	 
+ 
+
+5. Zibensaizsardzības sistēmas pretestības mērījumu rezultāti
+
+
+| Nr. p. k. | Zibensaizsardzības sistēmas klase | Zibensuztvērēju un zibensnovedēju skaits | Pretestība, Ω<sup>2</sup> | Atzinums<sup>3</sup> |
+| --------- | --------------------------------- | ---------------------------------------- | ------------------------- | -------------------- |
+| kopskaits | atrašanās vieta<sup>1</sup>       |
+| 1         | 2                                 | 3                                        | 4                         | 5                    | 6 |
+|           |                                   |                                          |                           |                      |  |
+|           |                                   |                                          |                           |                      |  |
+
+
+
+
+
+Piezīmes.
+
+1 Ierakstus veic saskaņā ar zibensaizsardzības sistēmas shēmu.
+
+2 Zibensaizsardzības sistēmas pretestību mēra no zibensuztvērēja līdz mērsavienojumam pie zemējumietaises.
+
+3 Norāda atbilstību turpmākai ekspluatācijai ar "atbilst" vai "neatbilst".
+Norādījumi par turpmāko ekspluatāciju	 
+ 
+Piezīmes par veiktajiem mērījumiem	 
+ 
+ 
+
+Paraksti
+Darba veicējs:	 	 	 
+ 	(paraksts)	 	(vārds, uzvārds)
+ 	 	 	 
+Darba pasūtītājs
+(akta saņēmējs):	 	 	 
+ 	(paraksts)	 	(vārds, uzvārds)
+
+Piezīmes.
+
+1. Aktam pievieno:
+
+1.1. darba veikšanas tiesības apliecinošu dokumentu kopijas (elektrospeciālista apliecības kopija par elektrodrošības grupas piešķiršanu);
+
+1.2. mēraparāta kalibrēšanas vai verificēšanas sertifikāta kopiju;
+
+1.3. elektroinstalācijas shēmu, kurā norādītas aizsardzības aparātu nominālās vērtības un aizejošo kabeļu vai vadu markas un šķērsgriezumi.
+
+2. Zemējuma kontūra pretestība nedrīkst pārsniegt 10 Ω.
+
+3. Aizsardzības aparāta nostrādes spējas atbilst īsslēguma strāvai un laikam.
+
+4. Atbildīgās personas nodrošina pārbaudes veikšanu elektroietaišu piederības robežās.
+
+5. Zemējumvadu nepārtrauktības pretestība nedrīkst pārsniegt 0,4 Ω.
+
+6. Elektroinstalācijas izolācijas pretestības minimālās vērtības:
+
+
+| Nominālais spriegums, V                                           | Pārbaudes līdzspriegums, V | Izolācijas pretestība, MΩ |
+| ----------------------------------------------------------------- | -------------------------- | ------------------------- |
+| Drošības un aizsardzības mazsprieguma ķēdēs (līdz 50 V)           | 250                        | ≥ 0,5                     |
+| Līdz 500 V (ieskaitot), tai skaitā funkcionālā mazsprieguma ķēdēs | 500                        | ≥ 1,0                     |
+| Virs 500 V                                                        | 1000                       | ≥ 1,0                     |
+
+
+
+
+
+7. pielikums
+Ministru kabineta
+2016. gada 19. aprīļa
+noteikumiem Nr. 238
+
+(Pielikums grozīts ar MK 15.09.2020. noteikumiem Nr. 585)
+Elektroinstalācijas kontaktsavienojumu pārbaudes akts
+
+
+(akta sastādīšanas datums)
+	 
+ 
+Objekta nosaukums un adrese	 
+ 
+ 
+Darba norises vieta	 
+
+(norāda, vai mērījumi veikti visā objektā vai atsevišķās objekta daļās)
+ 
+Darba pasūtītājs	 
+
+(norāda juridiskās personas nosaukumu, reģistrācijas numuru un juridisko adresi vai fiziskās personas vārdu, uzvārdu un informāciju, ar kuru var identificēt personu)
+ 
+Darba veicējs	 
+
+(norāda juridiskās personas nosaukumu, reģistrācijas numuru un juridisko adresi vai fiziskās personas vārdu, uzvārdu un informāciju, ar kuru var identificēt personu)
+
+Termokameras tehniskie dati
+
+Nosaukums
+	
+
+Tips
+	
+
+Numurs
+	
+
+Kalibrēšanas sertifikāta numurs
+ 	 	 	 
+
+Klimatiskie apstākļi mērījumu veikšanas gaitā
+
+Darba veikšanas datums
+	
+
+Gaisa temperatūra (°C)
+	
+
+Gaisa mitrums (%)
+ 	 	 
+
+Šis akts sastādīts par to, ka darba veicējs veica elektroinstalācijas kontaktsavienojumu pārbaudi, kuras rezultātā konstatēts:
+
+
+| Tīkla tips, elektroinstalācijas atrašanās vieta\* | Mērījuma vieta – grupa un nosaukums | Caur kontaktu plūstošā strāva (A) | Mēraparāta rādījumu vizualizācija | Attēls dabā ar norādi uz problemātisko vietu | Atzinums\*\* |
+| ------------------------------------------------- | ----------------------------------- | --------------------------------- | --------------------------------- | -------------------------------------------- | ------------ |
+| 1                                                 | 2                                   | 3                                 | 4                                 | 5                                            | 6            |
+|                                                   |                                     |                                   |                                   |                                              |              |
+|                                                   |                                     |                                   |                                   |                                              |              |
+
+
+
+* Ierakstus veic saskaņā ar elektroinstalācijas shēmu.
+** Norāda atbilstību pievienoto elektroiekārtu ekspluatācijai – "atbilst" vai "neatbilst".
+Norādījumi par turpmāko ekspluatāciju	 
+ 
+
+Paraksti:
+Darba veicējs:	 
+ 	
+
+(vārds, uzvārds, paraksts)
+ 
+Akta eksemplāru saņēma:	 
+ 	
+
+(darba pasūtītāja vārds, uzvārds, paraksts)
+
+Piezīme. Aktam pievieno mēraparāta kalibrēšanas sertifikāta kopiju un elektroinstalācijas shēmu.
+Iekšlietu ministrs Rihards Kozlovskis
+8. pielikums
+Ministru kabineta
+2016. gada 19. aprīļa
+noteikumiem Nr. 238
+
+(Pielikums MK 09.05.2023. noteikumu Nr. 222 redakcijā)
+Apkures ierīces, iekārtas, dūmvadu un dabiskās ventilācijas kanālu
+tehniskā stāvokļa pārbaudes akts
+
+
+
+(akta sastādīšanas vieta)
+	 	
+
+(akta sastādīšanas datums)
+ 	 	 
+Objekta nosaukums un adrese	 
+ 
+ 	 	 
+Atbildīgā persona	 
+
+(norāda juridiskās personas nosaukumu, reģistrācijas numuru un juridisko adresi vai fiziskās personas vārdu, uzvārdu un informāciju, ar kuru var identificēt personu)
+ 	 	 
+Pakalpojuma veicējs	 
+
+(norāda juridiskās personas nosaukumu, reģistrācijas numuru un juridisko adresi vai fiziskās personas vārdu, uzvārdu un informāciju, ar kuru var identificēt personu)
+
+Šis akts sastādīts par to, ka pakalpojuma veicējs veica tehniskā stāvokļa pārbaudi un konstatēja:
+
+| Nr. p. k. | Pārbaudītās apkures ierīces, iekārtas, dūmvada vai dabiskās ventilācijas kanāla nosaukums, tā atrašanās vieta un numurs saskaņā ar aktā norādīto grafisko attēlojumu | Atbilstība normatīvo aktu prasībām<br>(_vajadzīgo atzīmēt ar X_) | Ekspluatācija<br>(_vajadzīgo atzīmēt ar X_) |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------- |
+|           |                                                                                                                                                                      |                                                                  | atbilst                                     |  | neatbilst |  | atļauta |  | nav atļauta |
+|           |                                                                                                                                                                      |                                                                  | atbilst                                     |  | neatbilst |  | atļauta |  | nav atļauta |
+|           |                                                                                                                                                                      |                                                                  | atbilst                                     |  | neatbilst |  | atļauta |  | nav atļauta |
+|           |                                                                                                                                                                      |                                                                  | atbilst                                     |  | neatbilst |  | atļauta |  | nav atļauta |
+
+
+
+Piezīmes	 
+ 	
+
+(dūmvada šķērsgriezuma laukums un materiāli, no kā izbūvēts dūmvads)
+ 
+
+Grafiskais attēlojums
+ 
+
+ 
+ 	 	 
+Pakalpojuma veicējs	 
+
+(vārds, uzvārds, paraksts)
+ 	 	 
+Akta eksemplāru saņēma	 
+
+(atbildīgās personas vārds, uzvārds, paraksts)
+
+Piezīmes.
+
+1. Aktu aizpilda drukātiem burtiem.
+
+2. Sadaļā "Grafiskais attēlojums" lieto šādus apzīmējumus:
+
+2.1.   – apkures ierīce;
+
+2.2.   – cietā kurināmā dūmvads;
+
+2.3.   – gāzes apkures ierīces dūmvads;
+
+2.4.   – oderēts dūmvads;
+
+2.5.   – šķidrā kurināmā dūmvads;
+
+2.6.   – dabiskās ventilācijas kanāls;
+
+2.7.   – mehāniskās ventilācijas kanāls.
+
+3. Aktam pievieno darba veikšanas tiesības apliecinoša dokumenta kopiju (skursteņslauķa vai krāšņu un kamīna mūrnieka profesionālo kvalifikāciju vai amatnieka kvalifikāciju apliecinoša dokumenta kopiju, attiecīgās jomas būvspeciālista sertifikāta kopiju vai ugunsdrošības un civilās aizsardzības inženiera kvalifikāciju apliecinoša dokumenta kopiju).
+
+
+
+
+
+
+
+9. pielikums
+Ministru kabineta
+2016. gada 19. aprīļa
+noteikumiem Nr. 238
+
+(Pielikums MK 15.09.2020. noteikumu Nr. 585 redakcijā)
+Ugunsaizsardzības sistēmas iedarbošanās gadījumu un bojājumu uzskaites žurnāls
+Atbildīgā persona	 
+ 
+(norāda juridiskās personas nosaukumu, reģistrācijas numuru, juridisko adresi un apkopes veicēja sertifikāta numuru vai fiziskās personas vārdu, uzvārdu un informāciju, ar kuru var identificēt personu)
+Objekta vai teritorijas nosaukums un adrese	 
+ 
+Sistēmas(-u) tehniskās apkopes veicējs	 
+ 
+(norāda juridiskās personas nosaukumu, reģistrācijas numuru, juridisko adresi un apkopes veicēja sertifikāta numuru vai fiziskās personas vārdu, uzvārdu, sertifikāta numuru)
+ 
+Nosacījumi sistēmas tehniskajai apkopei un uzturēšanai
+
+
+
+| Nr. p. k. | Darbu nosaukums<sup>1</sup> | Darbu izpildes periodiskums<sup>2</sup> | Par darbu izpildi atbildīgā persona<sup>3</sup> |
+| --------- | --------------------------- | --------------------------------------- | ----------------------------------------------- |
+| 1         | 2                           | 3                                       | 4                                               |
+|           |                             |                                         |                                                 |
+|           |                             |                                         |                                                 |
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
