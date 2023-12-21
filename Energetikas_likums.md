@@ -11,7 +11,7 @@ prezidents izsludina šādu likumu:
 
 Enerģētikas likums
 
-## I nodaļa  Vispārīgie noteikumi
+ I nodaļa  Vispārīgie noteikumi
 
 **1.pants**
 
@@ -187,7 +187,7 @@ Enerģētikas politika ir valsts tautsaimniecības politikas sastāvdaļa, un t�
 
 ([05.06.2008](https://likumi.lv/ta/id/177092-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [04.07.2008.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2008/07/04))
 
-## II nodaļa  Energoapgādes komersantu licencēšana, reģistrēšana un to darbība
+ II nodaļa  Energoapgādes komersantu licencēšana, reģistrēšana un to darbība
 
 (Nodaļas nosaukums [22.09.2011](https://likumi.lv/ta/id/237476-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [26.10.2011.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2011/10/26))
 
@@ -387,7 +387,7 @@ Energoapgādes komersanti reizi gadā sniedz regulatoram pārskatu par paveikto 
 
 (Ar grozījumiem, kas izdarīti ar [26.05.2005](https://likumi.lv/ta/id/110445-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [29.06.2005.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2005/06/29))
 
-## II(1) nodaļa Energokopienas
+ II(1) nodaļa Energokopienas
 (Nodaļa 14.07.2022. likuma redakcijā, kas stājas spēkā 01.01.2023.)
 
 **17.1 pants**
@@ -588,19 +588,19 @@ Ja atbilstoši likumam "Par ietekmes uz vidi novērtējumu" ir veikts ietekmes u
 
 ([13.03.2014](https://likumi.lv/ta/id/265208-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [26.03.2014.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2014/03/26))
 
-## IV nodaļa  Elektroenerģijas ražošana un pārvade
+ IV nodaļa  Elektroenerģijas ražošana un pārvade
 
 (Nodaļa izslēgta ar [17.03.2005](https://likumi.lv/ta/id/104823-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [15.04.2005.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2005/04/15) Sk. pārejas noteikumus.)
 
-## V nodaļa  Elektroenerģijas sadale
+ V nodaļa  Elektroenerģijas sadale
 
 (Nodaļa izslēgta ar [17.03.2005](https://likumi.lv/ta/id/104823-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [15.04.2005.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2005/04/15) Sk. pārejas noteikumus.)
 
-## VI nodaļa  Piekļūšana elektroenerģijas  pārvades un sadales sistēmām
+ VI nodaļa  Piekļūšana elektroenerģijas  pārvades un sadales sistēmām
 
 (Nodaļa izslēgta ar [17.03.2005](https://likumi.lv/ta/id/104823-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [15.04.2005.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2005/04/15) Sk. pārejas noteikumus.)
 
-## VII nodaļa  Elektroenerģijas realizācija
+ VII nodaļa  Elektroenerģijas realizācija
 
 (Nodaļa izslēgta ar [17.03.2005](https://likumi.lv/ta/id/104823-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [15.04.2005.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2005/04/15) Sk. pārejas noteikumus.)
 
@@ -778,7 +778,7 @@ Ja atbilstoši likumam "Par ietekmes uz vidi novērtējumu" ir veikts ietekmes u
 
 (Ar grozījumiem, kas izdarīti ar [22.09.2011.](https://likumi.lv/ta/id/237476-grozijumi-energetikas-likuma), [11.02.2016.](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma) un [21.01.2021](https://likumi.lv/ta/id/320676-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [16.02.2021.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2021/02/16))
 
-## IX nodaļa  Siltumapgādes un aukstumapgādes sistēma
+ IX nodaļa  Siltumapgādes un aukstumapgādes sistēma
 
 (Nodaļas nosaukums [03.03.2016](https://likumi.lv/ta/id/280931-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [29.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/29))
 
@@ -858,7 +858,7 @@ Siltumenerģijas apgādes sistēmas operators savā licences darbības zonā iep
 
 ([05.06.2008](https://likumi.lv/ta/id/177092-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [04.07.2008.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2008/07/04))
 
-## X nodaļa  Energoefektivitātes paaugstināšana
+ X nodaļa  Energoefektivitātes paaugstināšana
 
 **54.pants**
 
@@ -878,7 +878,7 @@ Enerģijas lietotāji ierīko vai uzstāda tādas enerģiju patērējošās iek�
 
 (3) Enerģiju patērējošo iekārtu energoefektivitātes atbilstību prasībām apliecina to atbilstības sertifikāts.
 
-## XI nodaļa  Enerģētiskā krīze
+ XI nodaļa  Enerģētiskā krīze
 
 **59.pants**
 
@@ -1022,7 +1022,7 @@ Ministru kabinets nosaka kārtību, kādā tiek veikta nepieciešamās informāc
 
 Kārtību, kādā enerģijas lietotāju apgāde ar enerģiju tiek veikta izņēmuma stāvoklī vai ārkārtējās situācijās, nosaka citi likumi.
 
-## XII nodaļa  Enerģētikas pārvalde
+ XII nodaļa  Enerģētikas pārvalde
 
 **76.pants**
 
@@ -1090,7 +1090,7 @@ Pašvaldības, plānojot energoapgādes attīstību savās administratīvajās t
 
 ([21.04.2022](https://likumi.lv/ta/id/331865-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [23.04.2022.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2022/04/23))
 
-## XIII nodaļa  Energoapgādes regulēšana
+ XIII nodaļa  Energoapgādes regulēšana
 
 **83.pants**
 
@@ -1188,7 +1188,7 @@ Tarifus nosaka saskaņā ar likumu "Par sabiedrisko pakalpojumu regulatoriem".
 
 ([10.05.2001](https://likumi.lv/ta/id/24850-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [01.06.2001.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2001/06/01))
 
-## XIV nodaļa  Atbildība par prasību neievērošanu dabasgāzes apgādē
+ XIV nodaļa  Atbildība par prasību neievērošanu dabasgāzes apgādē
 
 (Nodaļa [13.03.2014](https://likumi.lv/ta/id/265208-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [26.03.2014.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2014/03/26) Nodaļa stājas spēkā [03.07.2014.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2014/07/03), Sk. pārejas noteikumu 39.punktu)
 
@@ -1318,7 +1318,7 @@ Regulators ir tiesīgs tirgus dalībniekam uzlikt soda naudu līdz 10 procentiem
 
 (Ar grozījumiem, kas izdarīti ar [11.02.2016](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
 
-## XV nodaļa Dabasgāzes tirgus
+ XV nodaļa Dabasgāzes tirgus
 
 (Nodaļa 11.02.2016. likuma redakcijā, kas stājas spēkā 08.03.2016.)
 
@@ -1656,7 +1656,7 @@ Dabasgāzes pārvades sistēmas operatoram papildus šā likuma 15.pantā noteik
 
 ([17.10.2019](https://likumi.lv/ta/id/310132-grozijumi-energetikas-likuma). likuma redakcijā ar grozījumiem, kas izdarīti ar [14.07.2022.](https://likumi.lv/doc.php?id=%20334353) likumu, kas stājas spēkā [11.08.2022.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2022/08/11))
 
-## XV1 nodaļa  Gāzes izcelsmes apliecinājums gāzes ražotājam, kas ražo biogāzi, biometānu vai sintēzes gāzi no atjaunojamiem energoresursiem
+ XV1 nodaļa  Gāzes izcelsmes apliecinājums gāzes ražotājam, kas ražo biogāzi, biometānu vai sintēzes gāzi no atjaunojamiem energoresursiem
 
 ([14.07.2022.](https://likumi.lv/doc.php?id=%20334353) likuma redakcijā, kas stājas spēkā [11.08.2022.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2022/08/11) Nodaļa stājas spēkā [01.07.2023.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2023/07/01) Sk. pārejas noteikumu 73. punktu)
 
@@ -1762,7 +1762,7 @@ Neatkarīgais akreditētais auditors — juridiskā persona, kura ir akreditēta
 
 ([03.10.2019](https://likumi.lv/ta/id/310058-grozijumi-energetikas-likuma). likuma redakcijā ar grozījumiem, kas izdarīti ar [14.11.2019](https://likumi.lv/ta/id/310988-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [01.01.2020.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2020/01/01) Pants stājas spēkā [01.07.2020.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2020/07/01) Sk. pārejas noteikumu 57. un 58. punktu)
 
-## XVII nodaļa Enerģētiskā nabadzība
+ XVII nodaļa Enerģētiskā nabadzība
 
 (Nodaļa 21.01.2021. likuma redakcijā, kas stājas spēkā 16.02.2021.)
 
@@ -1786,7 +1786,7 @@ Enerģētiskās nabadzības skarta mājsaimniecība ir mājsaimniecība Sociālo
 
 ([21.01.2021](https://likumi.lv/ta/id/320676-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [16.02.2021.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2021/02/16))
 
-## Pārejas noteikumi
+ Pārejas noteikumi
 
 1. Ministru kabinets:
 
