@@ -1,4 +1,5 @@
 # Dzīvojamo telpu īres likums
+
 #### URL:https://likumi.lv/ta/id/322216-dzivojamo-telpu-ires-likums
 
 Saeima ir pieņēmusi un Valsts  
