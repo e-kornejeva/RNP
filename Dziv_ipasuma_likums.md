@@ -11,7 +11,7 @@ prezidents izsludina šādu likumu:
 
 Dzīvokļa īpašuma likums
 
-## I nodaļa  Dzīvokļa īpašums
+ I nodaļa  Dzīvokļa īpašums
 
 **1.pants. Likuma uzdevums**
 
@@ -89,7 +89,7 @@ Likuma uzdevums ir noteikt dzīvokļa īpašuma statusu, dzīvokļa īpašnieka 
 
 Dzīvokļa īpašums tiek izbeigts, ja tas gājis bojā vai tiek pārveidots par citu īpašumu uz likuma, tiesas sprieduma, darījuma, tai skaitā dzīvokļu īpašnieku lēmuma vai testamenta pamata.
 
-## II nodaļa  Dzīvokļa īpašnieks, viņa tiesības, pienākumi un atbildība
+ II nodaļa  Dzīvokļa īpašnieks, viņa tiesības, pienākumi un atbildība
 
 **8.pants. Dzīvokļa īpašnieks**
 
@@ -217,7 +217,7 @@ Ja uz dzīvokļu īpašnieku kopīpašumā esoša zemesgabala atrodas vairākas 
 
 (Ar grozījumiem, kas izdarīti ar [17.03.2022](https://likumi.lv/ta/id/331195-grozijumi-dzivokla-ipasuma-likuma). likumu, kas stājas spēkā [13.04.2022.](https://likumi.lv/ta/id/221382-dzivokla-ipasuma-likums/redakcijas-datums/2022/04/13))
 
-## III nodaļa  Dzīvokļu īpašnieku kopība
+ III nodaļa  Dzīvokļu īpašnieku kopība
 
 **15. pants. Dzīvokļu īpašnieku kopība**
 
@@ -459,7 +459,7 @@ Ja uz dzīvokļu īpašnieku kopīpašumā esoša zemesgabala atrodas vairākas 
 
 ([06.07.2021](https://likumi.lv/ta/id/324922-grozijumi-dzivokla-ipasuma-likuma). likuma redakcijā, kas stājas spēkā [05.08.2021.](https://likumi.lv/ta/id/221382-dzivokla-ipasuma-likums/redakcijas-datums/2021/08/05))
 
-## Pārejas noteikumi
+ Pārejas noteikumi
 (Nodaļas nosaukums 17.11.2016. likuma redakcijā, kas stājas spēkā 01.01.2017.)
 
 1. Ar šā likuma spēkā stāšanos spēku zaudē likums “[Par dzīvokļa īpašumu](https://likumi.lv/ta/id/37270-par-dzivokla-ipasumu)” (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 1.nr.; 1997, 4.nr.; 1998, 23.nr.; 2001, 24.nr.; 2004, 9.nr.; 2009, 24.nr.).
