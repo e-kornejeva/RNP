@@ -1361,7 +1361,7 @@ Valsts viendzīvokļa vai daudzdzīvokļu mājā esošu izīrētu dzīvokli, izn
 
 (Ar grozījumiem, kas izdarīti ar [07.05.1998.](https://likumi.lv/ta/id/48169-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [20.11.2003.](https://likumi.lv/ta/id/81445-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [21.02.2008.](https://likumi.lv/ta/id/172362-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [12.06.2009.](https://likumi.lv/ta/id/194049-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-) un [13.06.2019](https://likumi.lv/ta/id/307808-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likumu, kas stājas spēkā [12.07.2019.](https://likumi.lv/ta/id/35770-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju/redakcijas-datums/2019/07/12))
 
-**73.<sup>9</sup> pants. Rīcība ar īpašumā nodoto dzīvokli, mākslinieka darbnīcu un neapdzīvojamo telpu līdz dzīvojamās mājas privatizācijai**
+**73.^9^ pants. Rīcība ar īpašumā nodoto dzīvokli, mākslinieka darbnīcu un neapdzīvojamo telpu līdz dzīvojamās mājas privatizācijai**
 
 (1) Persona, kura ieguvusi dzīvokli, mākslinieka darbnīcu vai neapdzīvojamo telpu īpašumā līdz dzīvojamās mājas privatizācijai, atzīstama par īpašnieku no brīža, kad dzīvoklis, mākslinieka darbnīca, neapdzīvojamā telpa un to īpašnieki reģistrēti Kadastra reģistrā.
 
