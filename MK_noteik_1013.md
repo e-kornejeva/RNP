@@ -1,11 +1,14 @@
 # Kārtība, kādā dzīvokļa īpašnieks daudzdzīvokļu dzīvojamā mājā norēķinās par pakalpojumiem, kas saistīti ar dzīvokļa īpašuma lietošanu
+
+#### URL:https://likumi.lv/doc.php?id=185342
+
 **Ministru kabineta noteikumi Nr.1013**
 
 Rīgā 2008.gada 9.decembrī (prot. Nr.89 12.§)
 
 Kārtība, kādā dzīvokļa īpašnieks daudzdzīvokļu dzīvojamā mājā norēķinās par pakalpojumiem, kas saistīti ar dzīvokļa īpašuma lietošanu
 
-1\. Noteikumi nosaka:
+1. Noteikumi nosaka:
 
 1.1. kārtību, kādā tiek veikta samaksa par daudzdzīvokļu dzīvojamās mājas (turpmāk – dzīvojamā māja) uzturēšanai nepieciešamajiem siltumenerģijas, ūdensapgādes, kanalizācijas, asenizācijas, sadzīves atkritumu apsaimniekošanas pakalpojumiem (turpmāk – pakalpojumi), ja pakalpojums tiek sniegts ar valsts dzīvojamās mājas valdītāja vai pašvaldības (turpmāk – pārvaldnieks) starpniecību;
 
@@ -13,15 +16,15 @@ Kārtība, kādā dzīvokļa īpašnieks daudzdzīvokļu dzīvojamā mājā nor�
 
 (Grozīts ar MK [17.09.2013.](https://likumi.lv/ta/id/260111-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumiem Nr. 817; MK [19.11.2019.](https://likumi.lv/ta/id/310765-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumiem Nr. 524)
 
-2\. Noteikumi piemērojami līdz dienai, kamēr dzīvokļu īpašnieku sabiedrība vai ar dzīvokļu īpašnieku savstarpēju līgumu pilnvarota persona ar nodošanas un pieņemšanas aktu pārņem dzīvojamās mājas pārvaldīšanas tiesības un dzīvokļu īpašnieki nav savstarpēji vienojušies par to, kā tiek noteikta katra īpašnieka apmaksājamā daļa par saņemto pakalpojumu un tā sniegšanas kārtība.
+2. Noteikumi piemērojami līdz dienai, kamēr dzīvokļu īpašnieku sabiedrība vai ar dzīvokļu īpašnieku savstarpēju līgumu pilnvarota persona ar nodošanas un pieņemšanas aktu pārņem dzīvojamās mājas pārvaldīšanas tiesības un dzīvokļu īpašnieki nav savstarpēji vienojušies par to, kā tiek noteikta katra īpašnieka apmaksājamā daļa par saņemto pakalpojumu un tā sniegšanas kārtība.
 
 2.1 Saskaņā ar likuma "[Par valsts un pašvaldību dzīvojamo māju privatizāciju](https://likumi.lv/ta/id/35770-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju)" [50.](https://likumi.lv/ta/id/35770-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju#p50) panta trešās daļas 2. punktu dzīvokļu īpašnieku kopība, pieņemot attiecīgu lēmumu, ir tiesīga mainīt gan šajos noteikumos, gan pārvaldnieka noteiktos kritērijus apmaksājamās daļas aprēķināšanai par dzīvojamās mājas uzturēšanai nepieciešamo pakalpojumu (piemēram, šo noteikumu [17.4](https://likumi.lv/ta/id/185342#p17.4)., [17.5](https://likumi.lv/ta/id/185342#p17.5)., [17.5](https://likumi.lv/ta/id/185342#p17.5).1, [17.6](https://likumi.lv/ta/id/185342#p17.6). apakšpunkts, [17.1](https://likumi.lv/ta/id/185342#p17_1) un [19.](https://likumi.lv/ta/id/185342#p19) punkts) un šī pakalpojuma sniegšanas kārtību, kā arī nosacījumus, kuri saistīti ar šajos noteikumos noteikto pienākumu izpildi (piemēram, šo noteikumu [14.2](https://likumi.lv/ta/id/185342#p14_2), [28.](https://likumi.lv/ta/id/185342#p28), [29.1](https://likumi.lv/ta/id/185342#p29_1), [30\.](https://likumi.lv/ta/id/185342#p30) un [30.1](https://likumi.lv/ta/id/185342#p30_1) punkts).
 
 (MK [19.11.2019.](https://likumi.lv/ta/id/310765-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumu Nr. 524 redakcijā)
 
-3\. Pakalpojumu nodrošināšanu dzīvojamai mājai organizē pārvaldnieks, dzīvokļu īpašnieku vārdā noslēdzot līgumu par pakalpojumu piegādi un lietošanu.
+3. Pakalpojumu nodrošināšanu dzīvojamai mājai organizē pārvaldnieks, dzīvokļu īpašnieku vārdā noslēdzot līgumu par pakalpojumu piegādi un lietošanu.
 
-4\. Pārvaldniekam ir pienākums:
+4. Pārvaldniekam ir pienākums:
 
 4.1. iepazīstināt katru dzīvokļa īpašnieku ar noslēgto pakalpojumu līgumu nosacījumiem par pakalpojumu piegādi attiecīgai dzīvojamai mājai, rakstiski norādot attiecīgās informācijas sniegšanas laiku un vietu;
 
@@ -33,11 +36,11 @@ Kārtība, kādā dzīvokļa īpašnieks daudzdzīvokļu dzīvojamā mājā nor�
 
 4.2.3. kārtība, kādā tiek pārrēķināta samaksa par pakalpojumu, kas nav nodrošināts vai nav nodrošināts līgumā noteiktajā kvalitātē vai daudzumā.
 
-5\. Kārtību, kādā notiek savstarpējie norēķini starp dzīvokļa īpašnieku un pārvaldnieku, nosaka pārvaldīšanas un apsaimniekošanas līgumā (turpmāk – pārvaldīšanas līgums). Minētā kārtība ir vienota visā dzīvojamā mājā.
+5. Kārtību, kādā notiek savstarpējie norēķini starp dzīvokļa īpašnieku un pārvaldnieku, nosaka pārvaldīšanas un apsaimniekošanas līgumā (turpmāk – pārvaldīšanas līgums). Minētā kārtība ir vienota visā dzīvojamā mājā.
 
-6\. Sniegto pakalpojumu apjoma uzskaiti un norēķinus ar pakalpojumu sniedzēju pārvaldnieks veic par katru dzīvojamo māju atsevišķi.
+6. Sniegto pakalpojumu apjoma uzskaiti un norēķinus ar pakalpojumu sniedzēju pārvaldnieks veic par katru dzīvojamo māju atsevišķi.
 
-7\. Dzīvokļa īpašnieks var vienoties ar pārvaldnieku par avansa maksājumiem un maksājumu atlikšanu, kā arī par citiem pakalpojumu piegādes līguma nosacījumiem.
+7. Dzīvokļa īpašnieks var vienoties ar pārvaldnieku par avansa maksājumiem un maksājumu atlikšanu, kā arī par citiem pakalpojumu piegādes līguma nosacījumiem.
 
 7.1 Pārvaldniekam ir pienākums rēķinos par patērēto siltumenerģiju:
 
@@ -51,7 +54,7 @@ Kārtība, kādā dzīvokļa īpašnieks daudzdzīvokļu dzīvojamā mājā nor�
 
 (MK [17.09.2013.](https://likumi.lv/ta/id/260111-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumu Nr. 817 redakcijā, kas grozīta ar MK [19.11.2019.](https://likumi.lv/ta/id/310765-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumiem Nr. 524)
 
-8\. Dzīvokļa īpašniekam ir tiesības pieprasīt:
+8. Dzīvokļa īpašniekam ir tiesības pieprasīt:
 
 8.1. informāciju par dzīvojamā mājā uzstādīto skaitītāju rādījumiem, ar kuriem saskaņā katra norēķinu perioda beigās tiek noteikta maksa par attiecīgo pakalpojumu;
 
@@ -59,13 +62,13 @@ Kārtība, kādā dzīvokļa īpašnieks daudzdzīvokļu dzīvojamā mājā nor�
 
 8.3. citu ar maksājumiem saistītu informāciju.
 
-9\. Pārvaldniekam ir pienākums septiņu darbdienu laikā sniegt rakstisku atbildi uz šo noteikumu [8.punktā](https://likumi.lv/ta/id/185342#p8) minēto pieprasījumu.
+9. Pārvaldniekam ir pienākums septiņu darbdienu laikā sniegt rakstisku atbildi uz šo noteikumu [8.punktā](https://likumi.lv/ta/id/185342#p8) minēto pieprasījumu.
 
-10\. Pārvaldniekam vai tā pilnvarotai personai, vai saskaņā ar dzīvokļu īpašnieku kopības lēmumu citai pilnvarotai personai ir tiesības pārbaudīt atsevišķajā īpašumā uzstādīto ūdens patēriņa skaitītāju rādījumus, darbību un plombu tehnisko stāvokli.
+10. Pārvaldniekam vai tā pilnvarotai personai, vai saskaņā ar dzīvokļu īpašnieku kopības lēmumu citai pilnvarotai personai ir tiesības pārbaudīt atsevišķajā īpašumā uzstādīto ūdens patēriņa skaitītāju rādījumus, darbību un plombu tehnisko stāvokli.
 
 (MK [19.11.2019.](https://likumi.lv/ta/id/310765-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumu Nr. 524 redakcijā)
 
-14\. Ūdens patēriņu uzskaita, izmantojot skaitītājus, kas atbilst šādām prasībām:
+14. Ūdens patēriņu uzskaita, izmantojot skaitītājus, kas atbilst šādām prasībām:
 
 14.1. tiem ir veikta atbilstības novērtēšana saskaņā ar normatīvajiem aktiem par metroloģiskajām prasībām ūdens patēriņa skaitītājiem un mērīšanas līdzekļiem un to metroloģiskās kontroles kārtību;
 
@@ -93,7 +96,7 @@ Kārtība, kādā dzīvokļa īpašnieks daudzdzīvokļu dzīvojamā mājā nor�
 
 (MK [19.11.2019.](https://likumi.lv/ta/id/310765-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumu Nr. 524 redakcijā)
 
-17\. Par pakalpojumiem, kuri nav mērāmi vai kuru patēriņa noteikšanai nav uzstādīti skaitītāji, aprēķinu veic šādi:
+17. Par pakalpojumiem, kuri nav mērāmi vai kuru patēriņa noteikšanai nav uzstādīti skaitītāji, aprēķinu veic šādi:
 
 17.1. (svītrots ar MK [19.11.2019.](https://likumi.lv/ta/id/310765-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumiem Nr. 524);
 
@@ -123,13 +126,13 @@ Kārtība, kādā dzīvokļa īpašnieks daudzdzīvokļu dzīvojamā mājā nor�
 
 (MK [19.11.2019.](https://likumi.lv/ta/id/310765-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumu Nr. 524 redakcijā)
 
-18\. Ja atsevišķajam īpašumam ir ierīkota autonoma apkure vai ja atsevišķā īpašumā nelieto centralizēti sagatavoto karsto ūdeni, īpašnieks maksā par mājas koplietošanas vajadzībām patērēto siltumenerģijas daļu, kas attiecināma uz atsevišķo īpašumu, atbilstoši siltumapgādes speciālista izstrādātajam un ar pārvaldnieku saskaņotajam aprēķinam.
+18. Ja atsevišķajam īpašumam ir ierīkota autonoma apkure vai ja atsevišķā īpašumā nelieto centralizēti sagatavoto karsto ūdeni, īpašnieks maksā par mājas koplietošanas vajadzībām patērēto siltumenerģijas daļu, kas attiecināma uz atsevišķo īpašumu, atbilstoši siltumapgādes speciālista izstrādātajam un ar pārvaldnieku saskaņotajam aprēķinam.
 
 18.1 Pārvaldniekam ir pienākums rēķinos par patērēto ūdeni norādīt kopējo dzīvojamai mājai piegādāto ūdens apjomu, kā arī starpību starp mājas kopējā ūdens skaitītāja (komercuzskaites mēraparāta) rādījumu un atsevišķajos īpašumos ar skaitītājiem noteikto ūdens patēriņu (turpmāk – ūdens patēriņa starpība).
 
 (MK [19.11.2019.](https://likumi.lv/ta/id/310765-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumu Nr. 524 redakcijā)
 
-19\. Ja veidojas ūdens patēriņa starpība, veic ūdens patēriņa pārrēķinu. Dzīvokļu īpašnieki ūdens patēriņa starpību sedz atbilstoši vienam no šādiem aprēķina veidiem, kuru izvēlas pārvaldnieks:
+19. Ja veidojas ūdens patēriņa starpība, veic ūdens patēriņa pārrēķinu. Dzīvokļu īpašnieki ūdens patēriņa starpību sedz atbilstoši vienam no šādiem aprēķina veidiem, kuru izvēlas pārvaldnieks:
 
 19.1. atbilstoši dzīvojamā mājā esošo atsevišķo īpašumu skaitam;
 
@@ -177,9 +180,9 @@ Vpers.norma – ūdens patēriņa norma vienam iedzīvotājam mēnesī (personai
 
 (MK [19.11.2019.](https://likumi.lv/ta/id/310765-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumu Nr. 524 redakcijā)
 
-22\. Dzīvokļu īpašniekiem aprēķinātais ūdens patēriņš nedrīkst pārsniegt dzīvojamai mājai piegādātā ūdens apjomu.
+22. Dzīvokļu īpašniekiem aprēķinātais ūdens patēriņš nedrīkst pārsniegt dzīvojamai mājai piegādātā ūdens apjomu.
 
-23\. Pārvaldniekam ir tiesības par saviem līdzekļiem veikt ūdens patēriņa skaitītāja verificēšanu, kā arī pieprasīt, lai dzīvokļa īpašnieks nodrošina piekļuvi skaitītājam pirmstermiņa verificēšanas veikšanai. Ja dzīvokļa īpašnieks nepiekrīt skaitītāja verificēšanai, pārvaldnieks ūdens patēriņu dzīvokļa īpašniekam aprēķina saskaņā ar šo noteikumu [19.1](https://likumi.lv/ta/id/185342#p19_1) punktu.
+23. Pārvaldniekam ir tiesības par saviem līdzekļiem veikt ūdens patēriņa skaitītāja verificēšanu, kā arī pieprasīt, lai dzīvokļa īpašnieks nodrošina piekļuvi skaitītājam pirmstermiņa verificēšanas veikšanai. Ja dzīvokļa īpašnieks nepiekrīt skaitītāja verificēšanai, pārvaldnieks ūdens patēriņu dzīvokļa īpašniekam aprēķina saskaņā ar šo noteikumu [19.1](https://likumi.lv/ta/id/185342#p19_1) punktu.
 
 (MK [17.09.2013.](https://likumi.lv/ta/id/260111-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumu Nr. 817 redakcijā, kas grozīta ar MK [19.11.2019.](https://likumi.lv/ta/id/310765-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumiem Nr. 524)
 
@@ -187,11 +190,11 @@ Vpers.norma – ūdens patēriņa norma vienam iedzīvotājam mēnesī (personai
 
 (MK [17.09.2013.](https://likumi.lv/ta/id/260111-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumu Nr. 817 redakcijā, kas grozīta ar MK [19.11.2019.](https://likumi.lv/ta/id/310765-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumiem Nr. 524)
 
-24\. Ja skaitītājs ir uzstādīts, neievērojot normatīvajos aktos ūdens patēriņa skaitītājiem noteiktās prasības, vai arī skaitītājs neatbilst noteiktajām prasībām, izdevumus, kas saistīti ar skaitītāja atkārtotu verificēšanu agrāk par verificēšanas sertifikātā noteikto termiņu vai pareizu uzstādīšanu, sedz attiecīgi dzīvokļa īpašnieks, pārvaldnieks vai pakalpojuma sniedzējs.
+24. Ja skaitītājs ir uzstādīts, neievērojot normatīvajos aktos ūdens patēriņa skaitītājiem noteiktās prasības, vai arī skaitītājs neatbilst noteiktajām prasībām, izdevumus, kas saistīti ar skaitītāja atkārtotu verificēšanu agrāk par verificēšanas sertifikātā noteikto termiņu vai pareizu uzstādīšanu, sedz attiecīgi dzīvokļa īpašnieks, pārvaldnieks vai pakalpojuma sniedzējs.
 
 (Grozīts ar MK [17.09.2013.](https://likumi.lv/ta/id/260111-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumiem Nr.817; grozījumi punktā stājas spēkā [01.10.2013.](https://likumi.lv/ta/id/185342-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maja-norekinas-par-pakalpojumiem-kas-saistiti-ar-dzivokla-ipasuma-lieto.../redakcijas-datums/2013/10/01), sk. [grozījumu](https://likumi.lv/doc.php?id=%20260111) [2.punktu](https://likumi.lv/ta/id/185342#p2))
 
-27\. Dzīvokļa īpašnieks pārvaldnieka noteiktajā kārtībā un termiņā katru mēnesi nolasa ūdens patēriņa skaitītāja rādījumu un nodod to pārvaldniekam aprēķinu veikšanai. Skaitītāja rādījumu nolasa pārvaldnieks vai cita dzīvokļu īpašnieku kopības pilnvarota persona, ja dzīvojamā mājā ir ierīkota attālinātā rādījumu nolasīšanas sistēma vai piekļuve ūdens patēriņa skaitītājiem ir no dzīvojamās mājas koplietošanas telpām.
+27. Dzīvokļa īpašnieks pārvaldnieka noteiktajā kārtībā un termiņā katru mēnesi nolasa ūdens patēriņa skaitītāja rādījumu un nodod to pārvaldniekam aprēķinu veikšanai. Skaitītāja rādījumu nolasa pārvaldnieks vai cita dzīvokļu īpašnieku kopības pilnvarota persona, ja dzīvojamā mājā ir ierīkota attālinātā rādījumu nolasīšanas sistēma vai piekļuve ūdens patēriņa skaitītājiem ir no dzīvojamās mājas koplietošanas telpām.
 
 (MK [19.11.2019.](https://likumi.lv/ta/id/310765-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumu Nr. 524 redakcijā)
 
@@ -199,7 +202,7 @@ Vpers.norma – ūdens patēriņa norma vienam iedzīvotājam mēnesī (personai
 
 (MK [19.11.2019.](https://likumi.lv/ta/id/310765-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumu Nr. 524 redakcijā)
 
-29\. Ja dzīvokļa īpašnieks nav iesniedzis informāciju par ūdens patēriņa skaitītāja rādījumu, kā arī šo noteikumu [28.](https://likumi.lv/ta/id/185342#p28) punktā noteiktajā kārtībā nav informējis par prombūtni, tad ūdens patēriņu aprēķina, ņemot vērā konkrētā atsevišķā īpašuma vidējo ūdens patēriņu par pēdējiem trim mēnešiem, bet ne ilgāk kā trīs mēnešus pēc kārtas.
+29. Ja dzīvokļa īpašnieks nav iesniedzis informāciju par ūdens patēriņa skaitītāja rādījumu, kā arī šo noteikumu [28.](https://likumi.lv/ta/id/185342#p28) punktā noteiktajā kārtībā nav informējis par prombūtni, tad ūdens patēriņu aprēķina, ņemot vērā konkrētā atsevišķā īpašuma vidējo ūdens patēriņu par pēdējiem trim mēnešiem, bet ne ilgāk kā trīs mēnešus pēc kārtas.
 
 (MK [19.11.2019.](https://likumi.lv/ta/id/310765-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumu Nr. 524 redakcijā)
 
@@ -211,7 +214,7 @@ Vpers.norma – ūdens patēriņa norma vienam iedzīvotājam mēnesī (personai
 
 (MK [19.11.2019.](https://likumi.lv/ta/id/310765-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumu Nr. 524 redakcijā)
 
-30\. Ja ūdens patēriņa sadales aprēķinā trīs mēnešus pēc kārtas veidojas ūdens patēriņa starpība, kas ir lielāka par 20 %, pārvaldniekam ir pienākums divu mēnešu laikā noskaidrot ūdens patēriņa starpības rašanās iemeslus, rakstiski informēt dzīvokļu īpašniekus par nepieciešamajiem pasākumiem ūdens patēriņa starpības samazināšanai un kopā ar dzīvokļu īpašniekiem izvērtēt iespēju tos īstenot. Ja pārvaldnieks šajā punktā noteiktos pienākumus nevar veikt divu mēnešu laikā, par to rakstiski informē dzīvokļu īpašniekus, norādot plānoto termiņu.
+30. Ja ūdens patēriņa sadales aprēķinā trīs mēnešus pēc kārtas veidojas ūdens patēriņa starpība, kas ir lielāka par 20 %, pārvaldniekam ir pienākums divu mēnešu laikā noskaidrot ūdens patēriņa starpības rašanās iemeslus, rakstiski informēt dzīvokļu īpašniekus par nepieciešamajiem pasākumiem ūdens patēriņa starpības samazināšanai un kopā ar dzīvokļu īpašniekiem izvērtēt iespēju tos īstenot. Ja pārvaldnieks šajā punktā noteiktos pienākumus nevar veikt divu mēnešu laikā, par to rakstiski informē dzīvokļu īpašniekus, norādot plānoto termiņu.
 
 (MK [19.11.2019.](https://likumi.lv/ta/id/310765-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumu Nr. 524 redakcijā)
 
@@ -223,11 +226,11 @@ Vpers.norma – ūdens patēriņa norma vienam iedzīvotājam mēnesī (personai
 
 (MK [19.11.2019.](https://likumi.lv/ta/id/310765-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumu Nr. 524 redakcijā)
 
-31\. Lai efektīvāk izmantotu siltumenerģiju, kā arī atvieglotu norēķinus, dzīvokļu īpašnieki var ievēlēt pārstāvi, kas uzrauga siltumenerģijas režīmu, nolasa skaitītāju rādījumus un veic citus līgumā paredzētos pienākumus (turpmāk – energopārvaldnieks).
+31. Lai efektīvāk izmantotu siltumenerģiju, kā arī atvieglotu norēķinus, dzīvokļu īpašnieki var ievēlēt pārstāvi, kas uzrauga siltumenerģijas režīmu, nolasa skaitītāju rādījumus un veic citus līgumā paredzētos pienākumus (turpmāk – energopārvaldnieks).
 
-32\. Dzīvokļu īpašnieki slēdz līgumu ar energopārvaldnieku par šo noteikumu [31.punktā](https://likumi.lv/ta/id/185342#p31) minēto pienākumu veikšanu. Energopārvaldnieka tiesības, pienākumus un atbildību nosaka attiecīgajā līgumā.
+32. Dzīvokļu īpašnieki slēdz līgumu ar energopārvaldnieku par šo noteikumu [31.punktā](https://likumi.lv/ta/id/185342#p31) minēto pienākumu veikšanu. Energopārvaldnieka tiesības, pienākumus un atbildību nosaka attiecīgajā līgumā.
 
-33\. Ar energopārvaldnieka pakalpojumiem saistītos izdevumus sedz dzīvokļu īpašnieki.
+33. Ar energopārvaldnieka pakalpojumiem saistītos izdevumus sedz dzīvokļu īpašnieki.
 
 33.3 Ja pārvaldnieks šo noteikumu [30.2](https://likumi.lv/ta/id/185342#p30_2) punktā minētajā gadījumā pieņem lēmumu par vienotām prasībām ūdens patēriņa skaitītājiem un to uzstādīšanai un turpmāk uzņemas nodrošināt atsevišķajos īpašumos ūdens patēriņa skaitītāju uzstādīšanu, nomaiņu un atkārtoto verificēšanu, saskaņā ar kuru turpmāk veiks visiem dzīvokļu īpašniekiem kopīgi piederošu ūdens patēriņa skaitītāju iegādi, attiecīgās izmaksas pārvaldnieks ietver dzīvojamās mājas uzturēšanas un apsaimniekošanas izdevumos.
 
@@ -257,19 +260,19 @@ Vpers.norma – ūdens patēriņa norma vienam iedzīvotājam mēnesī (personai
 
 (MK [17.09.2013.](https://likumi.lv/ta/id/260111-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumu Nr.817 redakcijā; punkts stājas spēkā [01.10.2013.](https://likumi.lv/ta/id/185342-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maja-norekinas-par-pakalpojumiem-kas-saistiti-ar-dzivokla-ipasuma-lieto.../redakcijas-datums/2013/10/01), sk. [grozījumu](https://likumi.lv/doc.php?id=%20260111) [2.punktu](https://likumi.lv/ta/id/185342#p2))
 
-34\. Ja atsevišķajā īpašumā līdz šo noteikumu spēkā stāšanās dienai ir ierīkota autonoma siltumapgāde, līdz šo noteikumu [18.punktā](https://likumi.lv/ta/id/185342#p18) paredzētā aprēķina izstrādei dzīvokļa īpašnieks maksā par mājas koplietošanas vajadzībām patērēto siltumenerģijas daļu, kas proporcionāla atsevišķā īpašuma kopējai platībai.
+34. Ja atsevišķajā īpašumā līdz šo noteikumu spēkā stāšanās dienai ir ierīkota autonoma siltumapgāde, līdz šo noteikumu [18.punktā](https://likumi.lv/ta/id/185342#p18) paredzētā aprēķina izstrādei dzīvokļa īpašnieks maksā par mājas koplietošanas vajadzībām patērēto siltumenerģijas daļu, kas proporcionāla atsevišķā īpašuma kopējai platībai.
 
 (Grozīts ar MK [19.11.2019.](https://likumi.lv/ta/id/310765-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumiem Nr. 524)
 
-35\. Šajos noteikumos noteiktās tiesības pārbaudīt atsevišķajā īpašumā uzstādīto ūdens patēriņa skaitītāju rādījumus, darbību un plombu tehnisko stāvokli, pieprasīt pirmstermiņa verificēšanas veikšanu, kā arī no šiem noteikumiem izrietošos pienākumus veikt ūdens patēriņa skaitītāju uzstādīšanu, nomaiņu un to atkārtoto verificēšanu atsevišķajos īpašumos, kā arī pienākumu pārvaldniekam noskaidrot ūdens patēriņa starpības rašanās iemeslus, ja pārbaudes paredzēts veikt atsevišķajos īpašumos, nepiemēro ārkārtējā situācijā, kuru Ministru kabinets izsludinājis saistībā ar epidēmiju vai pandēmiju.
+35. Šajos noteikumos noteiktās tiesības pārbaudīt atsevišķajā īpašumā uzstādīto ūdens patēriņa skaitītāju rādījumus, darbību un plombu tehnisko stāvokli, pieprasīt pirmstermiņa verificēšanas veikšanu, kā arī no šiem noteikumiem izrietošos pienākumus veikt ūdens patēriņa skaitītāju uzstādīšanu, nomaiņu un to atkārtoto verificēšanu atsevišķajos īpašumos, kā arī pienākumu pārvaldniekam noskaidrot ūdens patēriņa starpības rašanās iemeslus, ja pārbaudes paredzēts veikt atsevišķajos īpašumos, nepiemēro ārkārtējā situācijā, kuru Ministru kabinets izsludinājis saistībā ar epidēmiju vai pandēmiju.
 
 (MK [31.03.2020.](https://likumi.lv/ta/id/313610-grozijums-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumu Nr. 167 redakcijā)
 
-36\. Ja atsevišķajā īpašumā ūdens patēriņa skaitītāja verificēšanas termiņš ir beidzies, pirms Ministru kabinets izsludinājis ārkārtējo situāciju saistībā ar epidēmiju vai pandēmiju, vai tas beidzas ārkārtējās situācijas laikā, šo ūdens patēriņa skaitītāju verificēšana veicama triju mēnešu laikā pēc ārkārtējās situācijas beigām. Ja minētais termiņš beidzas nepilnu triju mēnešu laikā pēc ārkārtējās situācijas beigām, šo ūdens patēriņa skaitītāju atkārtotās verificēšanas veikšanas termiņš attiecīgi tiek pagarināts, lai verificēšanu varētu nodrošināt triju mēnešu laikā. Aprēķinot apmaksājamo daļu par pakalpojumu, kas saņemts līdz verificēšanai, ņem vērā arī šo ūdens patēriņa skaitītāju rādījumus.
+36. Ja atsevišķajā īpašumā ūdens patēriņa skaitītāja verificēšanas termiņš ir beidzies, pirms Ministru kabinets izsludinājis ārkārtējo situāciju saistībā ar epidēmiju vai pandēmiju, vai tas beidzas ārkārtējās situācijas laikā, šo ūdens patēriņa skaitītāju verificēšana veicama triju mēnešu laikā pēc ārkārtējās situācijas beigām. Ja minētais termiņš beidzas nepilnu triju mēnešu laikā pēc ārkārtējās situācijas beigām, šo ūdens patēriņa skaitītāju atkārtotās verificēšanas veikšanas termiņš attiecīgi tiek pagarināts, lai verificēšanu varētu nodrošināt triju mēnešu laikā. Aprēķinot apmaksājamo daļu par pakalpojumu, kas saņemts līdz verificēšanai, ņem vērā arī šo ūdens patēriņa skaitītāju rādījumus.
 
 (MK [21.04.2020.](https://likumi.lv/ta/id/314173-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumu Nr. 223 redakcijā)
 
-37\. Ja ar dzīvokļu īpašnieku kopības vai pārvaldnieka lēmumu ir noteikta kārtība, kādā nodrošina ūdens patēriņa skaitītāju uzstādīšanu, nomaiņu un atkārtoto verificēšanu atsevišķajā īpašumā, to piemēro, ciktāl tā nav pretrunā ar šo noteikumu [35\.](https://likumi.lv/ta/id/185342#p35) un [36.](https://likumi.lv/ta/id/185342#p36) punktu.
+37. Ja ar dzīvokļu īpašnieku kopības vai pārvaldnieka lēmumu ir noteikta kārtība, kādā nodrošina ūdens patēriņa skaitītāju uzstādīšanu, nomaiņu un atkārtoto verificēšanu atsevišķajā īpašumā, to piemēro, ciktāl tā nav pretrunā ar šo noteikumu [35\.](https://likumi.lv/ta/id/185342#p35) un [36.](https://likumi.lv/ta/id/185342#p36) punktu.
 
 (MK [31.03.2020.](https://likumi.lv/ta/id/313610-grozijums-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumu Nr. 167 redakcijā)
 
@@ -277,7 +280,7 @@ Vpers.norma – ūdens patēriņa norma vienam iedzīvotājam mēnesī (personai
 
 (MK [21.04.2020.](https://likumi.lv/ta/id/314173-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumu Nr. 223 redakcijā)
 
-39\. Šo noteikumu [19.1 punktu](https://likumi.lv/ta/id/185342#p19_1) nepiemēro, ciktāl tas attiecas uz šo noteikumu [35.](https://likumi.lv/ta/id/185342#p35), [36\.](https://likumi.lv/ta/id/185342#p36) un [38.](https://likumi.lv/ta/id/185342#p38) punktā minētajiem gadījumiem.
+39. Šo noteikumu [19.1 punktu](https://likumi.lv/ta/id/185342#p19_1) nepiemēro, ciktāl tas attiecas uz šo noteikumu [35.](https://likumi.lv/ta/id/185342#p35), [36\.](https://likumi.lv/ta/id/185342#p36) un [38.](https://likumi.lv/ta/id/185342#p38) punktā minētajiem gadījumiem.
 
 (MK [21.04.2020.](https://likumi.lv/ta/id/314173-grozijumi-ministru-kabineta-2008-gada-9-decembra-noteikumos-nr-1013-kartiba-kada-dzivokla-ipasnieks-daudzdzivoklu-dzivojama-maj...) noteikumu Nr. 223 redakcijā)
 
