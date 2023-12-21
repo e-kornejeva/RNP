@@ -2620,6 +2620,158 @@ Pārvietojamo ugunsdzēsības aparātu nodrošinājums objektā
 
 
 
+4. tabula
+
+F klases ugunsdzēsības aparātu nodrošinājums objektā
+
+
+
+| Augu vai dzīvnieku izcelsmes eļļas vai tauku tilpums litros vienā ēdiena pagatavošanas ierīcē vai iekārtā | Ugunsdzēsības aparāta dzēstspēja |
+| --------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| No 4 līdz 6                                                                                               | 5F                               |
+| Virs 6 līdz 11                                                                                            | 10F                              |
+| Virs 11 līdz 16                                                                                           | 15F                              |
+| Virs 16 līdz 21                                                                                           | 20F                              |
+| Virs 21 līdz 26                                                                                           | 25F                              |
+| Virs 26 līdz 31                                                                                           | 30F                              |
+| Virs 31 līdz 36                                                                                           | 35F                              |
+| Virs 36 līdz 41                                                                                           | 40F                              |
+| Virs 41 līdz 46                                                                                           | 45F                              |
+| Virs 46 līdz 51                                                                                           | 50F                              |
+| Virs 51 līdz 56                                                                                           | 55F                              |
+| Virs 56 līdz 61                                                                                           | 60F                              |
+| Virs 61 līdz 66                                                                                           | 65F                              |
+| Virs 66                                                                                                   | 70F                              |
+
+
+
+
+5. tabula
+
+Ugunsdzēsības pārklāju skaita aprēķina tabula
+
+
+
+| Nr.<br>p.k.   | Ugunsdzēsības pārklāja atrašanās vieta                                             | Pārklāju skaits | Ugunsdzēsības pārklāja minimālais izmērs |
+| ------------- | ---------------------------------------------------------------------------------- | --------------- | ---------------------------------------- |
+| 1,2 m x 1,2 m | 1,75 m x 1,85 m                                                                    |
+| 1.            | Publisks vai saimnieciskās darbības objekts:                                       |                 |                                          |  |
+| 1.1.          | sabiedriskās ēdināšanas virtuve                                                    | 1               | x                                        | – |
+| 1.2.          | laboratorija                                                                       | 2               | x                                        | – |
+| 2.            | Degvielas uzpildes stacija, uz katru degvielas sūkni                               | 1               | –                                        | x |
+| 3.            | Transportlīdzekļu novietošanas objekts vai objekta teritorija, uz katrām 50 vietām | 2               | –                                        | x |
+
+
+
+Apzīmējumi:
+x – jānodrošina;
+– – nav jānodrošina.
+
+Piezīmes.
+1. Atbilstoši degošajam materiālam ugunsgrēkus iedala šādās klasēs:
+1.1. A klase – ugunsgrēki, kuros deg cieti materiāli (parasti organiskas izcelsmes), kas sadegot veido kvēlojošas ogles;
+1.2. B klase – ugunsgrēki, kuros deg šķidrumi vai kūstoši cieti materiāli;
+1.3. C klase – ugunsgrēki, kuros deg gāzes;
+1.4. D klase – ugunsgrēki, kuros deg metāli;
+1.5. F klase – ugunsgrēki, kuros deg ēdiena pagatavošanas ierīcēs vai iekārtās izmantojamās augu vai dzīvnieku eļļas un tauki.
+2. Uz ugunsdzēsības aparāta informatīvās uzlīmes norādītais ugunsgrēka klases burts kopā ar skaitli vai bez tā norāda dzēstspēju.
+Iekšlietu ministrs Rihards Kozlovskis
+
+
+
+
+
+
+
+6. pielikums
+Ministru kabineta
+2016. gada 19. aprīļa
+noteikumiem Nr. 238
+
+(Pielikums MK 15.09.2020. noteikumu Nr. 585 redakcijā)
+Elektroinstalācijas izolācijas pretestības, cilpas "fāze–nulle" pilnās pretestības, zemējumietaises pretestības, zemējumvada nepārtrauktības saites un zibensaizsardzības sistēmas pārbaudes akts
+ 	 	 
+(akta sastādīšanas vieta)	 	(akta sastādīšanas datums)
+ 	 
+Objekta atbildīgā persona	 
+ 	(norāda juridiskās personas nosaukumu, reģistrācijas numuru, juridisko adresi vai
+fiziskās personas vārdu, uzvārdu un informāciju, ar kuru var identificēt personu)
+ 	 
+Objekta nosaukums, adrese	 
+ 	 
+ 	 
+Darba norises vieta	 
+ 	(norāda, vai pārbaudes veiktas visā objektā/teritorijā vai atsevišķās daļās)
+ 	 
+Darba pasūtītājs	 
+ 	(norāda juridiskās personas nosaukumu, reģistrācijas numuru un juridisko adresi vai
+fiziskās personas vārdu, uzvārdu un informāciju, ar kuru var identificēt personu)
+ 	 
+Darba veicējs	 
+ 	(norāda juridiskās personas nosaukumu, reģistrācijas numuru, juridisko adresi vai
+fiziskās personas vārdu, uzvārdu un informāciju, ar kuru var identificēt personu)
+
+
+
+
+Mēraparāta tehniskie dati
+
+
+| saukums | Tips | Numurs | Mērdiapazons | Kalibrēšanas vai verificēšanas sertifikāta numurs |
+| ------- | ---- | ------ | ------------ | ------------------------------------------------- |
+|         |      |        |              |                                                   |
+|         |      |        |              |                                                   |
+
+
+
+
+Klimatiskie apstākļi mērījumu veikšanas gaitā
+
+| Darba veikšanas datums | Gaisa temperatūra, °C | Gaisa mitrums, % |
+| ---------------------- | --------------------- | ---------------- |
+|                        |                       |                  |
+|                        |                       |                  |
+
+
+
+
+Akts sastādīts par to, ka darba veicējs objektā veica (atzīmēt ar X):
+ 	 	elektroinstalācijas izolācijas pretestības mērījumus
+ 	 	cilpas "fāze–nulle" pilnās pretestības mērījumus
+ 	 	zemējumietaises pretestības mērījumus
+ 	 	zemējumvada nepārtrauktības saites pretestības mērījumus
+ 	 	zibensaizsardzības sistēmas elementu pretestības mērījumus
+
+1. Elektroinstalācijas izolācijas pretestības mērījumu rezultāti:
+
+| Nr. p. k. | Tīkla tips, elektroinstalācijas atrašanās vieta<sup>1</sup> | Kabeļa marka, dzīslu skaits, dzīslas materiāls, dzīslas šķērsgriezums, mm<sup>2</sup> | Pārbaudes spriegums, V | Izolācijas pretestība, MΩ | Atzinums<sup>2</sup> |
+| --------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------- | ------------------------- | -------------------- |
+| L1 - PE   | L2 - PE                                                     | L3 - PE                                                                               | N - PE                 | L1 - N                    | L2 - N               | L3 - N | L1 - L2 | L1 - L3 | L2 - L3 |
+| 1         | 2                                                           | 3                                                                                     | 4                      | 5                         | 6                    | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+|           |                                                             |                                                                                       |                        |                           |                      |  |  |  |  |  |  |  |  |  |
+|           |                                                             |                                                                                       |                        |                           |                      |  |  |  |  |  |  |  |  |  |
+
+
+
+
+
+
+Piezīmes.
+
+1 Ierakstus veic saskaņā ar elektroinstalācijas shēmu.
+
+2 Norāda atbilstību turpmākai ekspluatācijai ar "atbilst" vai "neatbilst".
+Norādījumi par turpmāko ekspluatāciju	 
+ 
+
+2. Cilpas "fāze–nulle" pilnās pretestības mērījumu rezultāti:
+
+
+| Nr. p. k. | Tīkla tips, elektroinstalācijas atrašanās vieta<sup>1</sup> | Sadalnes numurs | Tīkla spriegums, V | Aizsardzības aparāta tips, grupa, nominālā strāva/ kūstošā ieliktņa nominālā strāva (Inom), A | Vienfāzes īsslēguma strāva (Iīss), A<br>(L1/L2/L3) | Cilpas<br>"fāze–nulle" pilnā pretestība, Ω | Atzinums<sup>2</sup> |
+| --------- | ----------------------------------------------------------- | --------------- | ------------------ | --------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------ | -------------------- |
+| 1         | 2                                                           | 3               | 4                  | 5                                                                                             | 6                                                  | 7                                          | 8                    |
+|           |                                                             |                 |                    |                                                                                               |                                                    |                                            |                      |
+|           |                                                             |                 |                    |                                                                                               |                                                    |                                            |                      |
 
 
 
@@ -2630,46 +2782,9 @@ Pārvietojamo ugunsdzēsības aparātu nodrošinājums objektā
 
 
 
+---------------------------------------------------------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Inese_kas_ir_šis?
 
 
 
