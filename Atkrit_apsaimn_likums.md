@@ -1,4 +1,7 @@
 # Atkritumu apsaimniekošanas likums
+
+#### URL:https://likumi.lv/doc.php?id=221378
+
 Grozījumi:
 
 16.12.2010. likums / LV, 205, 29.12.2010. / Stājas spēkā 01.01.2011. 29.03.2012. likums / LV, 59, 17.04.2012. / Stājas spēkā 01.05.2012.Satversmes tiesas 06.12.2012. spriedums / LV, 194, 11.12.2012. / Stājas spēkā 11.12.2012. 19.09.2013. likums / LV, 194, 04.10.2013. / Stājas spēkā 01.01.2014. 06.11.2013. likums / LV, 232, 27.11.2013. / Stājas spēkā 01.01.2014. 27.03.2014. likums / LV, 66, 02.04.2014. / Stājas spēkā 03.04.2014. 30.04.2015. likums / LV, 97, 20.05.2015. / Stājas spēkā 01.06.2015. 17.11.2016. likums / LV, 232, 29.11.2016. / Stājas spēkā 01.01.2017. 08.12.2016. likums / LV, 254, 29.12.2016. / Stājas spēkā 01.01.2017. 07.12.2017. likums / LV, 253, 20.12.2017. / Stājas spēkā 01.01.2018. 25.10.2018. likums / LV, 225, 14.11.2018. / Stājas spēkā 28.11.2018. 05.12.2019. likums / LV, 251, 13.12.2019. / Stājas spēkā 27.12.2019. 30.01.2020. likums / LV, 24, 04.02.2020. / Stājas spēkā 05.02.2020. 09.07.2020. likums / LV, 138, 21.07.2020. / Stājas spēkā 01.08.2020. 09.12.2021. likums / LV, 239A, 10.12.2021. / Stājas spēkā 24.12.2021. 31.03.2022. likums / LV, 75A, 19.04.2022. / Stājas spēkā 20.04.2022. 15.09.2022. likums / LV, 181B, 19.09.2022. / Stājas spēkā 03.10.2022. 16.03.2023. likums / LV, 62, 28.03.2023. / Stājas spēkā 11.04.2023.
@@ -99,7 +102,7 @@ d) veic savu saimniecisko darbību citā Eiropas Savienības dalībvalstī vai t
 
 (Ar grozījumiem, kas izdarīti ar [27.03.2014.](https://likumi.lv/ta/id/265382-grozijumi-atkritumu-apsaimniekosanas-likuma), [30.04.2015.](https://likumi.lv/ta/id/274124-grozijumi-atkritumu-apsaimniekosanas-likuma), [07.12.2017.](https://likumi.lv/ta/id/295965-grozijumi-atkritumu-apsaimniekosanas-likuma), [09.07.2020.](https://likumi.lv/ta/id/316207-grozijumi-atkritumu-apsaimniekosanas-likuma) un [16.03.2023](https://likumi.lv/ta/id/340552-grozijumi-atkritumu-apsaimniekosanas-likuma). likumu, kas stājas spēkā [11.04.2023.](https://likumi.lv/ta/id/221378-atkritumu-apsaimniekosanas-likums/redakcijas-datums/2023/04/11))
 
-**2\. pants.** Šā likuma mērķis ir noteikt atkritumu apsaimniekošanas kārtību, lai aizsargātu vidi, cilvēku dzīvību un veselību, novēršot vai mazinot atkritumu rašanos, nodrošinot Latvijas teritorijā radīto atkritumu dalītu savākšanu, reģenerāciju un apglabājamo atkritumu apjoma samazināšanu, kā arī veicinot dabas resursu efektīvu izmantošanu, lai palielinātu Latvijas konkurētspēju un veicinātu pāreju uz aprites ekonomiku.
+**2. pants.** Šā likuma mērķis ir noteikt atkritumu apsaimniekošanas kārtību, lai aizsargātu vidi, cilvēku dzīvību un veselību, novēršot vai mazinot atkritumu rašanos, nodrošinot Latvijas teritorijā radīto atkritumu dalītu savākšanu, reģenerāciju un apglabājamo atkritumu apjoma samazināšanu, kā arī veicinot dabas resursu efektīvu izmantošanu, lai palielinātu Latvijas konkurētspēju un veicinātu pāreju uz aprites ekonomiku.
 
 ([09.07.2020](https://likumi.lv/ta/id/316207-grozijumi-atkritumu-apsaimniekosanas-likuma). likuma redakcijā, kas stājas spēkā [01.08.2020.](https://likumi.lv/ta/id/221378-atkritumu-apsaimniekosanas-likums/redakcijas-datums/2020/08/01))
 
@@ -1163,7 +1166,7 @@ Pārejas noteikumi
 
 7\. Ministru kabineta 2006.gada 26.septembra noteikumi Nr.797 “Noteikumi par Ziemeļvidzemes reģionālo atkritumu apsaimniekošanas plānu 2006.—2013.gadam” ir spēkā līdz 2013.gada 31.decembrim.
 
-8\. Pašvaldības līdz 2011.gada 1.aprīlim izvērtē spēkā esošo saistošo noteikumu par sadzīves atkritumu apsaimniekošanu atbilstību šā likuma prasībām un atkritumu apsaimniekošanas valsts plānam un reģionālajiem plāniem, kā arī pašvaldību administratīvo teritoriju dalījumu atkritumu apsaimniekošanas zonās un, ja nepieciešams, līdz 2011.gada 1.oktobrim izdod jaunus saistošos noteikumus.
+8. pašvaldības līdz 2011.gada 1.aprīlim izvērtē spēkā esošo saistošo noteikumu par sadzīves atkritumu apsaimniekošanu atbilstību šā likuma prasībām un atkritumu apsaimniekošanas valsts plānam un reģionālajiem plāniem, kā arī pašvaldību administratīvo teritoriju dalījumu atkritumu apsaimniekošanas zonās un, ja nepieciešams, līdz 2011.gada 1.oktobrim izdod jaunus saistošos noteikumus.
 
 9\. Vides aizsardzības un reģionālās attīstības ministrija sadarbībā ar pašvaldībām izstrādā un Ministru kabinets līdz 2013.gada 1.jūlijam izdod šā likuma 10.panta pirmajā daļā minētos noteikumus.
 
@@ -1185,15 +1188,15 @@ Pārejas noteikumi
 
 13\. Līdz līguma par sadzīves atkritumu apsaimniekošanu attiecīgajā zonā noslēgšanai ar komersantu, kurš izraudzīts publisko iepirkumu vai publisko un privāto partnerību regulējošos normatīvajos aktos noteiktajā kārtībā, maksa par sadzīves atkritumu apsaimniekošanu atbilst pēdējam regulatora apstiprinātajam sadzīves atkritumu apsaimniekošanas tarifam, kas noteikts pirms šā likuma spēkā stāšanās. Pašvaldība ir tiesīga pārskatīt minēto sadzīves atkritumu apsaimniekošanas tarifu, ja ir mainījies šā likuma 39.panta pirmās daļas 2. un 3.punktā minētais tarifs vai nodoklis, un precizēt to tādā apmērā, kādā to ietekmē attiecīgās izmaiņas.
 
-14\. Pašvaldības un sadzīves atkritumu apsaimniekotāja noslēgtais līgums par sadzīves atkritumu savākšanu, pārvadāšanu, pārkraušanu un uzglabāšanu, kurā nav noteikts līguma darbības termiņš, izbeidzams ne vēlāk kā līdz 2013.gada 1.jūlijam.
+14. pašvaldības un sadzīves atkritumu apsaimniekotāja noslēgtais līgums par sadzīves atkritumu savākšanu, pārvadāšanu, pārkraušanu un uzglabāšanu, kurā nav noteikts līguma darbības termiņš, izbeidzams ne vēlāk kā līdz 2013.gada 1.jūlijam.
 
-15\. Pašvaldība, kuras noslēgtie līgumi izbeidzami saskaņā ar šā likuma pārejas noteikumu 12. vai 14.punktu, līdz 2013.gada 1.jūlijam izvēlas sadzīves atkritumu apsaimniekotāju šā likuma 18.pantā noteiktajā kārtībā.
+15. pašvaldība, kuras noslēgtie līgumi izbeidzami saskaņā ar šā likuma pārejas noteikumu 12. vai 14.punktu, līdz 2013.gada 1.jūlijam izvēlas sadzīves atkritumu apsaimniekotāju šā likuma 18.pantā noteiktajā kārtībā.
 
 16\. Līdz līgumā noteiktā termiņa beigām, bet ne ilgāk kā līdz 2015.gada 31.decembrim ir spēkā līgums par sadzīves atkritumu apsaimniekošanu, ko slēgusi persona, kura ir publisko iepirkumu pasūtītājs atbilstoši normatīvajiem aktiem par publisko iepirkumu, un kas noslēgts līdz šā likuma spēkā stāšanās dienai.
 
 17\. Līdz līgumā noteiktā termiņa beigām, bet ne ilgāk kā līdz 2015.gada 31.decembrim ir spēkā līgums, ko atkritumu radītājs, kurš atbilstoši normatīvajiem aktiem atbrīvots no dabas resursu nodokļa maksāšanas par atsevišķu veidu atkritumu apsaimniekošanu vai kurš piedalās atsevišķu veidu atkritumu apsaimniekošanas sistēmās, noslēdzis ar paša izraudzītu atkritumu apsaimniekotāju par šķirotu sadzīves atkritumu savākšanu, pārvadāšanu, pārkraušanu un uzglabāšanu un kas noslēgts līdz šā likuma spēkā stāšanās dienai.
 
-18\. Pašvaldības, kuras līdz šā likuma spēkā stāšanās dienai nav noslēgušas līgumu par sadzīves atkritumu savākšanu, pārvadāšanu, pārkraušanu un uzglabāšanu, sadzīves atkritumu apsaimniekotāju izvēlas šā likuma 18.pantā noteiktajā kārtībā līdz 2011.gada 31.decembrim.
+18. pašvaldības, kuras līdz šā likuma spēkā stāšanās dienai nav noslēgušas līgumu par sadzīves atkritumu savākšanu, pārvadāšanu, pārkraušanu un uzglabāšanu, sadzīves atkritumu apsaimniekotāju izvēlas šā likuma 18.pantā noteiktajā kārtībā līdz 2011.gada 31.decembrim.
 
 19\. Šā likuma 27.panta ceturtās daļas nosacījumus attiecībā uz liela izmēra mājsaimniecības elektriskajām un elektroniskajām iekārtām nepiemēro līdz 2013.gada 13.februārim, bet attiecībā uz citām mājsaimniecības elektriskajām un elektroniskajām iekārtām — līdz 2011.gada 13.februārim. Pircējiem norādītās izmaksas par šo iekārtu atkritumu savākšanu, apstrādi un apglabāšanu drošā veidā nedrīkst būt lielākas par elektrisko un elektronisko iekārtu atkritumu apsaimniekošanas faktiskajām izmaksām.
 
@@ -1289,7 +1292,7 @@ Pārejas noteikumi
 
 ([08.12.2016](https://likumi.lv/ta/id/287765-grozijums-atkritumu-apsaimniekosanas-likuma). likuma redakcijā, kas stājas spēkā [01.01.2017.](https://likumi.lv/ta/id/221378-atkritumu-apsaimniekosanas-likums/redakcijas-datums/2017/01/01))
 
-37\. Prasības par finanšu nodrošinājumu attiecībā uz pārvadājumiem, pārstrādi vai reģenerāciju Latvijas teritorijā piemērojamas no 2018. gada 1. jūlija. Šā likuma 12. panta 1.2 daļā minēto finanšu nodrošinājumu atkritumu apsaimniekotājs, kuram atkritumu apsaimniekošanas atļauja izsniegta līdz 2017. gada 30. decembrim vai kurš iesniedzis iesniegumu atļaujas saņemšanai līdz 2018. gada 30. jūnijam, iesniedz Valsts vides dienestam līdz 2018. gada 30. decembrim.
+37. prasības par finanšu nodrošinājumu attiecībā uz pārvadājumiem, pārstrādi vai reģenerāciju Latvijas teritorijā piemērojamas no 2018. gada 1. jūlija. Šā likuma 12. panta 1.2 daļā minēto finanšu nodrošinājumu atkritumu apsaimniekotājs, kuram atkritumu apsaimniekošanas atļauja izsniegta līdz 2017. gada 30. decembrim vai kurš iesniedzis iesniegumu atļaujas saņemšanai līdz 2018. gada 30. jūnijam, iesniedz Valsts vides dienestam līdz 2018. gada 30. decembrim.
 
 ([07.12.2017](https://likumi.lv/ta/id/295965-grozijumi-atkritumu-apsaimniekosanas-likuma). likuma redakcijā, kas stājas spēkā [01.01.2018.](https://likumi.lv/ta/id/221378-atkritumu-apsaimniekosanas-likums/redakcijas-datums/2018/01/01))
 
@@ -1297,11 +1300,11 @@ Pārejas noteikumi
 
 ([07.12.2017](https://likumi.lv/ta/id/295965-grozijumi-atkritumu-apsaimniekosanas-likuma). likuma redakcijā, kas stājas spēkā [01.01.2018.](https://likumi.lv/ta/id/221378-atkritumu-apsaimniekosanas-likums/redakcijas-datums/2018/01/01))
 
-39\. Par šā likuma 17.1 panta pirmajā daļā un 23. panta ceturtajā daļā minētajām darbībām atkritumu valdītāji un apsaimniekotāji, kā arī atkritumu pārstrādes vai reģenerācijas iekārtu operatori un 42. panta četrpadsmitajā daļā minētās personas ar 2018. gada 1. jūliju līdz atkritumu pārvadājumu uzskaites valsts informācijas sistēmas izveidei ziņo Valsts vides dienestam, nosūtot informāciju uz oficiālo elektroniskā pasta adresi, bet pēc atkritumu pārvadājumu uzskaites valsts informācijas sistēmas darbības uzsākšanas — Vides aizsardzības un reģionālās attīstības ministrijas pilnvarotai iestādei vai komersantam, kuram šo uzdevumu deleģējusi Vides aizsardzības un reģionālās attīstības ministrija.
+39. par šā likuma 17.1 panta pirmajā daļā un 23. panta ceturtajā daļā minētajām darbībām atkritumu valdītāji un apsaimniekotāji, kā arī atkritumu pārstrādes vai reģenerācijas iekārtu operatori un 42. panta četrpadsmitajā daļā minētās personas ar 2018. gada 1. jūliju līdz atkritumu pārvadājumu uzskaites valsts informācijas sistēmas izveidei ziņo Valsts vides dienestam, nosūtot informāciju uz oficiālo elektroniskā pasta adresi, bet pēc atkritumu pārvadājumu uzskaites valsts informācijas sistēmas darbības uzsākšanas — Vides aizsardzības un reģionālās attīstības ministrijas pilnvarotai iestādei vai komersantam, kuram šo uzdevumu deleģējusi Vides aizsardzības un reģionālās attīstības ministrija.
 
 ([07.12.2017](https://likumi.lv/ta/id/295965-grozijumi-atkritumu-apsaimniekosanas-likuma). likuma redakcijā, kas stājas spēkā [01.01.2018.](https://likumi.lv/ta/id/221378-atkritumu-apsaimniekosanas-likums/redakcijas-datums/2018/01/01))
 
-40\. Prasības par finanšu nodrošinājumu regulas Nr.  [1013/2006](http://eur-lex.europa.eu/eli/reg/2006/1013/oj/?locale=LV) 3. panta 2. punktā minēto atkritumu pārvadāšanai piemērojamas attiecībā uz atkritumiem, kurus plānots ievest Latvijas teritorijā pārstrādei vai reģenerācijai no 2018. gada 1. jūlija.
+40. prasības par finanšu nodrošinājumu regulas Nr.  [1013/2006](http://eur-lex.europa.eu/eli/reg/2006/1013/oj/?locale=LV) 3. panta 2. punktā minēto atkritumu pārvadāšanai piemērojamas attiecībā uz atkritumiem, kurus plānots ievest Latvijas teritorijā pārstrādei vai reģenerācijai no 2018. gada 1. jūlija.
 
 ([07.12.2017](https://likumi.lv/ta/id/295965-grozijumi-atkritumu-apsaimniekosanas-likuma). likuma redakcijā, kas stājas spēkā [01.01.2018.](https://likumi.lv/ta/id/221378-atkritumu-apsaimniekosanas-likums/redakcijas-datums/2018/01/01))
 
@@ -1373,7 +1376,7 @@ Pārejas noteikumi
 
 ([16.03.2023](https://likumi.lv/ta/id/340552-grozijumi-atkritumu-apsaimniekosanas-likuma). likuma redakcijā, kas stājas spēkā [11.04.2023.](https://likumi.lv/ta/id/221378-atkritumu-apsaimniekosanas-likums/redakcijas-datums/2023/04/11))
 
-56\. Pašvaldības izveido atkritumu apsaimniekošanas reģionālos centrus līdz 2024. gada 30. jūnijam.
+56. pašvaldības izveido atkritumu apsaimniekošanas reģionālos centrus līdz 2024. gada 30. jūnijam.
 
 ([16.03.2023](https://likumi.lv/ta/id/340552-grozijumi-atkritumu-apsaimniekosanas-likuma). likuma redakcijā, kas stājas spēkā [11.04.2023.](https://likumi.lv/ta/id/221378-atkritumu-apsaimniekosanas-likums/redakcijas-datums/2023/04/11))
 
@@ -1393,7 +1396,7 @@ Pārejas noteikumi
 
 ([16.03.2023](https://likumi.lv/ta/id/340552-grozijumi-atkritumu-apsaimniekosanas-likuma). likuma redakcijā, kas stājas spēkā [11.04.2023.](https://likumi.lv/ta/id/221378-atkritumu-apsaimniekosanas-likums/redakcijas-datums/2023/04/11))
 
-61\. Pašvaldības līdz 2023. gada 31. decembrim pārskata un, ja nepieciešams, precizē saistošos noteikumus par atkritumu apsaimniekošanu savā administratīvajā teritorijā atbilstoši šā likuma 8. panta pirmās daļas 3. punktam."
+61. pašvaldības līdz 2023. gada 31. decembrim pārskata un, ja nepieciešams, precizē saistošos noteikumus par atkritumu apsaimniekošanu savā administratīvajā teritorijā atbilstoši šā likuma 8. panta pirmās daļas 3. punktam."
 
 ([16.03.2023](https://likumi.lv/ta/id/340552-grozijumi-atkritumu-apsaimniekosanas-likuma). likuma redakcijā, kas stājas spēkā [11.04.2023.](https://likumi.lv/ta/id/221378-atkritumu-apsaimniekosanas-likums/redakcijas-datums/2023/04/11))
 
