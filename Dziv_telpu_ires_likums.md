@@ -7,7 +7,7 @@ prezidents izsludina šādu likumu:
 
 Dzīvojamo telpu īres likums
 
-## I nodaļa  Vispārīgie noteikumi
+ I nodaļa  Vispārīgie noteikumi
 
 **1. pants. Likuma mērķis**
 
@@ -29,7 +29,7 @@ Dzīvojamo telpu īres likums
 
 4) dzīvojamo telpu īslaicīgu (sezonālu) lietošanu atpūtas un tūrisma vajadzībām.
 
-## II nodaļa  Dzīvojamās telpas īres līgums
+ II nodaļa  Dzīvojamās telpas īres līgums
 
 **3. pants. Dzīvojamās telpas īre**
 
@@ -113,7 +113,7 @@ Ar dzīvojamās telpas lietošanu saistīto maksājumu veikšanas kārtību nosa
 
 (5) Dzīvojamās telpas īres līgumā var paredzēt citus īrnieka saistību pastiprinājumus.
 
-## III nodaļa  Izīrētāja, īrnieka un dzīvojamā telpā iemitināto personu tiesības un pienākumi
+ III nodaļa  Izīrētāja, īrnieka un dzīvojamā telpā iemitināto personu tiesības un pienākumi
 
 **13. pants. Īrnieka tiesības lietot dzīvojamo telpu**
 
@@ -183,7 +183,7 @@ Izīrētājs nedrīkst liegt īrniekam viņa īrēto dzīvojamo telpu deklarēt 
 
 (4) Izīrētājam ir pienākums īrnieka nāves gadījumā noslēgt dzīvojamās telpas īres līgumu ar īrnieka ģimenes locekli, nemainot ar iepriekšējo īrnieku noslēgtā īres līguma nosacījumus.
 
-## IV nodaļa  Dzīvojamās telpas īres līguma izbeigšanās
+ IV nodaļa  Dzīvojamās telpas īres līguma izbeigšanās
 
 **19. pants. Dzīvojamās telpas īres līguma izbeigšanās**
 
@@ -285,7 +285,7 @@ Izīrētājs var izbeigt dzīvojamās telpas īres līgumu, ja bez viņa piekri�
 
 (3) Ja īrnieks, viņa ģimenes locekļi un citas iemitinātās personas, kā arī apakšīrnieks, viņa ģimenes locekļi un citas viņa iemitinātās personas, ja dzīvojamā telpa nodota apakšīrē, līdz dzīvojamās telpas īres līguma izbeigšanās brīdim vai šā likuma [28. panta](https://likumi.lv/ta/id/322216#p28) otrajā vai ceturtajā daļā minētajā gadījumā — pēc ieguvēja paziņojumā norādītā termiņa neatbrīvo dzīvojamo telpu, īrnieks atlīdzina izīrētājam vai ieguvējam zaudējumus, kā arī maksā kompensāciju par dzīvojamās telpas lietošanu.
 
-## V nodaļa  Pašvaldībai piederošu vai tās nomātu dzīvojamo telpu izīrēšana
+ V nodaļa  Pašvaldībai piederošu vai tās nomātu dzīvojamo telpu izīrēšana
 
 **30. pants. Pašvaldībai piederošas vai tās nomātas dzīvojamās telpas izīrēšana**
 
@@ -303,7 +303,7 @@ Pašvaldībai piederošu vai tās nomātu neizīrētu dzīvojamo telpu var izīr
 
 (2) Pašvaldībai piederošas dzīvojamās telpas īrnieka nāves gadījumā vai dzīvesvietas maiņas gadījumā pilngadīga persona, kura kopā ar īrnieku saņēmusi palīdzību atbilstoši normatīvajam aktam [par palīdzību dzīvokļa jautājumu risināšanā](https://likumi.lv/ta/id/334545-par-palidzibu-dzivokla-jautajumu-risinasana), ir tiesīga prasīt, lai ar to tiek noslēgts dzīvojamās telpas īres līgums iepriekšējā īrnieka vietā, ievērojot pašvaldības saistošos noteikumus.
 
-## VI nodaļa  Valstij piederošu dienesta dzīvojamo telpu izīrēšana
+ VI nodaļa  Valstij piederošu dienesta dzīvojamo telpu izīrēšana
 
 **33. pants. Valstij piederošu dienesta dzīvojamo telpu īres noteikumi**
 
@@ -317,7 +317,7 @@ Pašvaldībai piederošu vai tās nomātu neizīrētu dzīvojamo telpu var izīr
 
 Valstij piederošas dienesta dzīvojamās telpas īres līgums izbeidzas vienlaikus ar darba (dienesta) attiecību izbeigšanos.
 
-## VII nodaļa  Īres tiesību nostiprināšana
+ VII nodaļa  Īres tiesību nostiprināšana
 
 **35. pants. Īres tiesību nostiprināšana zemesgrāmatā**
 
@@ -367,7 +367,7 @@ Tiesnesis bez īpaši izteikta lūguma pieņem lēmumu par īres tiesību nostip
 
 4) ja saņemta informācija, ka ieraksts par būvi dzēsts [Zemesgrāmatu likuma](https://likumi.lv/ta/id/60460-zemesgramatu-likums) [56.4 pantā](https://likumi.lv/ta/id/60460-zemesgramatu-likums#p56_4) noteiktajā kārtībā.
 
-## VIII nodaļa  Administratīvie pārkāpumi dzīvojamo telpu izīrēšanas jomā un kompetence administratīvo pārkāpumu procesā
+ VIII nodaļa  Administratīvie pārkāpumi dzīvojamo telpu izīrēšanas jomā un kompetence administratīvo pārkāpumu procesā
 
 **42. pants. Traucējumu radīšana īrētās dzīvojamās telpas lietošanā**
 
@@ -379,7 +379,7 @@ Tiesnesis bez īpaši izteikta lūguma pieņem lēmumu par īres tiesību nostip
 
 Administratīvā pārkāpuma procesu par šā likuma [42. pantā](https://likumi.lv/ta/id/322216#p42) minētajiem pārkāpumiem līdz administratīvā pārkāpuma lietas izskatīšanai veic Valsts policija vai pašvaldības policija, vai pašvaldības īres valde. Administratīvā pārkāpuma lietu izskata pašvaldības administratīvā komisija vai apakškomisija.
 
-## Pārejas noteikumi
+ Pārejas noteikumi
 
 1. Ar šā likuma spēkā stāšanos spēku zaudē likums "[Par dzīvojamo telpu īri](https://likumi.lv/ta/id/56863-par-dzivojamo-telpu-iri)" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 7. nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 4., 20. nr.; 1998, 15., 23. nr.; 2001, 16. nr.; 2005, 2. nr.; 2007, 3. nr.; 2009, 6. nr.; Latvijas Vēstnesis, 2010, 124. nr.; 2020, 117.A, 240.A nr.).
 
