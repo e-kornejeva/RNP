@@ -1,5 +1,7 @@
 # Enerģētikas likums
+
 #### URL:https://likumi.lv/doc.php?id=49833
+
 Grozījumi:
 
 03.08.2000. likums / LV, 298/299, 23.08.2000. / Stājas spēkā 03.08.2000. 10.05.2001. likums / LV, 83, 30.05.2001.; Ziņotājs, 12, 21.06.2001. / Stājas spēkā 01.06.2001. 17.03.2005. likums / LV, 52, 01.04.2005.; Ziņotājs, 8, 28.04.2005. / Stājas spēkā 15.04.2005. 26.05.2005. likums / LV, 94, 15.06.2005.; Ziņotājs, 13, 14.07.2005. / Stājas spēkā 29.06.2005. 05.06.2008. likums / LV, 96, 20.06.2008.; Ziņotājs, 14, 24.07.2008. / Stājas spēkā 04.07.2008. 04.12.2008. likums / LV, 200, 23.12.2008.; Ziņotājs, 2, 29.01.2009. / Stājas spēkā 01.07.2009. 12.06.2009. likums / LV, 96, 19.06.2009.; Ziņotājs, 14, 23.07.2009. / Stājas spēkā 01.07.2009. 13.05.2010. likums / LV, 82, 26.05.2010. / Stājas spēkā 09.06.2010. 17.06.2010. likums / LV, 106, 07.07.2010. / Stājas spēkā 08.07.2010. 17.02.2011. likums / LV, 36, 04.03.2011. / Stājas spēkā 18.03.2011. 22.09.2011. likums / LV, 161, 12.10.2011. / Stājas spēkā 26.10.2011. 08.11.2012. likums / LV, 186, 27.11.2012. / Stājas spēkā 11.12.2012. 13.03.2014. likums / LV, 60, 25.03.2014. / Stājas spēkā 26.03.2014. 11.02.2016. likums / LV, 37, 23.02.2016. / Stājas spēkā 08.03.2016. 11.02.2016. likums / LV, 37, 23.02.2016. / Stājas spēkā 08.03.2016. 03.03.2016. likums / LV, 52, 15.03.2016. / Stājas spēkā 29.03.2016. 12.04.2018. likums / LV, 76, 17.04.2018. / Stājas spēkā 18.04.2018. 03.10.2019. likums / LV, 212, 18.10.2019. / Stājas spēkā 01.11.2019. 17.10.2019. likums / LV, 214, 22.10.2019. / Stājas spēkā 23.10.2019. 14.11.2019. likums / LV, 240, 28.11.2019. / Stājas spēkā 01.01.2020. 21.01.2021. likums / LV, 22, 02.02.2021. / Stājas spēkā 16.02.2021. 21.04.2022. likums / LV, 78A, 22.04.2022. / Stājas spēkā 23.04.2022. 14.07.2022. likums / LV, 137A, 19.07.2022. / Stājas spēkā 01.01.2023. 14.07.2022. likums / LV, 144, 28.07.2022. / Stājas spēkā 11.08.2022. 14.07.2022. likums / LV, 144, 28.07.2022. / Stājas spēkā 11.08.2022.
@@ -385,6 +387,9 @@ Energoapgādes komersanti reizi gadā sniedz regulatoram pārskatu par paveikto 
 
 (Ar grozījumiem, kas izdarīti ar [26.05.2005](https://likumi.lv/ta/id/110445-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [29.06.2005.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2005/06/29))
 
+## II(1) nodaļa Energokopienas
+(Nodaļa 14.07.2022. likuma redakcijā, kas stājas spēkā 01.01.2023.)
+
 **17.1 pants**
 
 (1) Energokopiena ir tiesību subjekts, kurš nodarbojas ar enerģijas — galvenokārt no atjaunojamiem energoresursiem iegūtas elektroenerģijas un cita veida atjaunojamās enerģijas — ražošanu, tirdzniecību, elektroenerģijas kopīgošanu, patēriņu un uzkrāšanu, pieprasījuma reakcijas pakalpojuma nodrošināšanu, elektrisko transportlīdzekļu uzlādes pakalpojuma, energoefektivitātes pakalpojuma vai citu energopakalpojumu sniegšanu.
@@ -441,9 +446,7 @@ Energoapgādes komersanti reizi gadā sniedz regulatoram pārskatu par paveikto 
 
 ([14.07.2022.](https://likumi.lv/doc.php?id=%20334150) likuma redakcijā, kas stājas spēkā [01.01.2023.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2023/01/01))
 
-III nodaļa  
-Nekustamā īpašuma lietošanas tiesību aprobežojumi sakarā ar  
-energoapgādes komersanta objektu atrašanos tajā
+## III nodaļa  Nekustamā īpašuma lietošanas tiesību aprobežojumi sakarā ar  energoapgādes komersanta objektu atrašanos tajā
 
 (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar [26.05.2005](https://likumi.lv/ta/id/110445-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [29.06.2005.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2005/06/29))
 
@@ -585,24 +588,19 @@ Ja atbilstoši likumam "Par ietekmes uz vidi novērtējumu" ir veikts ietekmes u
 
 ([13.03.2014](https://likumi.lv/ta/id/265208-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [26.03.2014.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2014/03/26))
 
-IV nodaļa  
-Elektroenerģijas ražošana un pārvade
+## IV nodaļa  Elektroenerģijas ražošana un pārvade
 
 (Nodaļa izslēgta ar [17.03.2005](https://likumi.lv/ta/id/104823-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [15.04.2005.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2005/04/15) Sk. pārejas noteikumus.)
 
-V nodaļa  
-Elektroenerģijas sadale
+## V nodaļa  Elektroenerģijas sadale
 
 (Nodaļa izslēgta ar [17.03.2005](https://likumi.lv/ta/id/104823-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [15.04.2005.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2005/04/15) Sk. pārejas noteikumus.)
 
-VI nodaļa  
-Piekļūšana elektroenerģijas  
-pārvades un sadales sistēmām
+## VI nodaļa  Piekļūšana elektroenerģijas  pārvades un sadales sistēmām
 
 (Nodaļa izslēgta ar [17.03.2005](https://likumi.lv/ta/id/104823-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [15.04.2005.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2005/04/15) Sk. pārejas noteikumus.)
 
-VII nodaļa  
-Elektroenerģijas realizācija
+## VII nodaļa  Elektroenerģijas realizācija
 
 (Nodaļa izslēgta ar [17.03.2005](https://likumi.lv/ta/id/104823-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [15.04.2005.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2005/04/15) Sk. pārejas noteikumus.)
 
@@ -780,8 +778,7 @@ Elektroenerģijas realizācija
 
 (Ar grozījumiem, kas izdarīti ar [22.09.2011.](https://likumi.lv/ta/id/237476-grozijumi-energetikas-likuma), [11.02.2016.](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma) un [21.01.2021](https://likumi.lv/ta/id/320676-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [16.02.2021.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2021/02/16))
 
-IX nodaļa  
-Siltumapgādes un aukstumapgādes sistēma
+## IX nodaļa  Siltumapgādes un aukstumapgādes sistēma
 
 (Nodaļas nosaukums [03.03.2016](https://likumi.lv/ta/id/280931-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [29.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/29))
 
@@ -861,8 +858,7 @@ Siltumenerģijas apgādes sistēmas operators savā licences darbības zonā iep
 
 ([05.06.2008](https://likumi.lv/ta/id/177092-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [04.07.2008.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2008/07/04))
 
-X nodaļa  
-Energoefektivitātes paaugstināšana
+## X nodaļa  Energoefektivitātes paaugstināšana
 
 **54.pants**
 
@@ -882,8 +878,7 @@ Enerģijas lietotāji ierīko vai uzstāda tādas enerģiju patērējošās iek�
 
 (3) Enerģiju patērējošo iekārtu energoefektivitātes atbilstību prasībām apliecina to atbilstības sertifikāts.
 
-XI nodaļa  
-Enerģētiskā krīze
+## XI nodaļa  Enerģētiskā krīze
 
 **59.pants**
 
@@ -1027,8 +1022,7 @@ Ministru kabinets nosaka kārtību, kādā tiek veikta nepieciešamās informāc
 
 Kārtību, kādā enerģijas lietotāju apgāde ar enerģiju tiek veikta izņēmuma stāvoklī vai ārkārtējās situācijās, nosaka citi likumi.
 
-XII nodaļa  
-Enerģētikas pārvalde
+## XII nodaļa  Enerģētikas pārvalde
 
 **76.pants**
 
@@ -1096,8 +1090,7 @@ Pašvaldības, plānojot energoapgādes attīstību savās administratīvajās t
 
 ([21.04.2022](https://likumi.lv/ta/id/331865-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [23.04.2022.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2022/04/23))
 
-XIII nodaļa  
-Energoapgādes regulēšana
+## XIII nodaļa  Energoapgādes regulēšana
 
 **83.pants**
 
@@ -1195,8 +1188,7 @@ Tarifus nosaka saskaņā ar likumu "Par sabiedrisko pakalpojumu regulatoriem".
 
 ([10.05.2001](https://likumi.lv/ta/id/24850-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [01.06.2001.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2001/06/01))
 
-XIV nodaļa  
-Atbildība par prasību neievērošanu dabasgāzes apgādē
+## XIV nodaļa  Atbildība par prasību neievērošanu dabasgāzes apgādē
 
 (Nodaļa [13.03.2014](https://likumi.lv/ta/id/265208-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [26.03.2014.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2014/03/26) Nodaļa stājas spēkā [03.07.2014.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2014/07/03), Sk. pārejas noteikumu 39.punktu)
 
@@ -1325,6 +1317,10 @@ Regulators ir tiesīgs tirgus dalībniekam uzlikt soda naudu līdz 10 procentiem
 (6) Ministru kabinets izdod noteikumus, kuros nosaka finanšu gada neto apgrozījuma aprēķināšanas kārtību, soda naudas apmēra aprēķināšanas kārtību, ņemot vērā attiecīgā pārkāpuma smagumu un ilgumu, atbildību mīkstinošos un pastiprinošos apstākļus, kā arī gadījumus, kad soda naudu var samazināt.
 
 (Ar grozījumiem, kas izdarīti ar [11.02.2016](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
+
+## XV nodaļa Dabasgāzes tirgus
+
+(Nodaļa 11.02.2016. likuma redakcijā, kas stājas spēkā 08.03.2016.)
 
 **106.pants**
 
@@ -1660,8 +1656,7 @@ Dabasgāzes pārvades sistēmas operatoram papildus šā likuma 15.pantā noteik
 
 ([17.10.2019](https://likumi.lv/ta/id/310132-grozijumi-energetikas-likuma). likuma redakcijā ar grozījumiem, kas izdarīti ar [14.07.2022.](https://likumi.lv/doc.php?id=%20334353) likumu, kas stājas spēkā [11.08.2022.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2022/08/11))
 
-XV1 nodaļa  
-Gāzes izcelsmes apliecinājums gāzes ražotājam, kas ražo biogāzi, biometānu vai sintēzes gāzi no atjaunojamiem energoresursiem
+## XV1 nodaļa  Gāzes izcelsmes apliecinājums gāzes ražotājam, kas ražo biogāzi, biometānu vai sintēzes gāzi no atjaunojamiem energoresursiem
 
 ([14.07.2022.](https://likumi.lv/doc.php?id=%20334353) likuma redakcijā, kas stājas spēkā [11.08.2022.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2022/08/11) Nodaļa stājas spēkā [01.07.2023.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2023/07/01) Sk. pārejas noteikumu 73. punktu)
 
@@ -1743,12 +1738,11 @@ Neatkarīgais akreditētais auditors — juridiskā persona, kura ir akreditēta
 
 ([14.07.2022.](https://likumi.lv/doc.php?id=%20334353) likuma redakcijā, kas stājas spēkā [11.08.2022.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2022/08/11) Pants stājas spēkā [01.07.2023.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2023/07/01) Sk. pārejas noteikumu 73. punktu)
 
-XVI nodaļa  
-Administratīvie pārkāpumi enerģētikas jomā un kompetence administratīvo pārkāpumu procesā
+## XVI nodaļa  Administratīvie pārkāpumi enerģētikas jomā un kompetence administratīvo pārkāpumu procesā
 
 (Nodaļa [03.10.2019](https://likumi.lv/ta/id/310058-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [01.11.2019.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2019/11/01) Nodaļa stājas spēkā [01.07.2020.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2020/07/01) Sk. pārejas noteikumu 57. punktu)
 
-**118\. pants**
+**118. pants**
 
 (1) Par elektroenerģijas, siltumenerģijas vai dabasgāzes piegādes, tirdzniecības un lietošanas noteikumu pārkāpšanu piemēro naudas sodu fiziskajai personai līdz sešdesmit naudas soda vienībām, bet juridiskajai personai — līdz sešsimt naudas soda vienībām.
 
@@ -1760,13 +1754,17 @@ Administratīvie pārkāpumi enerģētikas jomā un kompetence administratīvo p
 
 ([03.10.2019](https://likumi.lv/ta/id/310058-grozijumi-energetikas-likuma). likuma redakcijā ar grozījumiem, kas izdarīti ar [14.11.2019](https://likumi.lv/ta/id/310988-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [01.01.2020.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2020/01/01) Pants stājas spēkā [01.07.2020.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2020/07/01) Sk. pārejas noteikumu 57. un 58. punktu)
 
-**119\. pants**
+**119. pants**
 
 (1) Administratīvā pārkāpuma procesu par šā likuma 118. pantā minētajiem pārkāpumiem līdz administratīvā pārkāpuma lietas izskatīšanai veic pašvaldības policija vai Valsts policija.
 
 (2) Administratīvā pārkāpuma lietu par šā likuma 118. pantā minētajiem pārkāpumiem izskata pašvaldības administratīvā komisija.
 
 ([03.10.2019](https://likumi.lv/ta/id/310058-grozijumi-energetikas-likuma). likuma redakcijā ar grozījumiem, kas izdarīti ar [14.11.2019](https://likumi.lv/ta/id/310988-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [01.01.2020.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2020/01/01) Pants stājas spēkā [01.07.2020.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2020/07/01) Sk. pārejas noteikumu 57. un 58. punktu)
+
+## XVII nodaļa Enerģētiskā nabadzība
+
+(Nodaļa 21.01.2021. likuma redakcijā, kas stājas spēkā 16.02.2021.)
 
 **120. pants**
 
@@ -1788,9 +1786,9 @@ Enerģētiskās nabadzības skarta mājsaimniecība ir mājsaimniecība Sociālo
 
 ([21.01.2021](https://likumi.lv/ta/id/320676-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [16.02.2021.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2021/02/16))
 
-Pārejas noteikumi
+## Pārejas noteikumi
 
-1\. Ministru kabinets:
+1. Ministru kabinets:
 
 1) līdz 2001.gada 1.decembrim nosaka šā likuma 40.panta ceturtajā daļā paredzēto apjomu un teritoriālo izvietojumu, bet līdz 2001.gada 31.decembrim — šā likuma 41.pantā paredzēto kārtību un prasības koģenerācijas stacijām;
 
@@ -1800,67 +1798,67 @@ Pārejas noteikumi
 
 (Ar grozījumiem, kas izdarīti ar [10.05.2001](https://likumi.lv/ta/id/24850-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [01.06.2001.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2001/06/01))
 
-2\. Energoapgādes uzņēmumu licences, kas izsniegtas pirms šā likuma spēkā stāšanās, ir spēkā līdz attiecīgās licences noteiktā darbības termiņa beigām, un nepieciešamos grozījumus energoapgādes uzņēmumu licences nosacījumos var izdarīt vienīgi likumā noteiktajā kārtībā.
+2. Energoapgādes uzņēmumu licences, kas izsniegtas pirms šā likuma spēkā stāšanās, ir spēkā līdz attiecīgās licences noteiktā darbības termiņa beigām, un nepieciešamos grozījumus energoapgādes uzņēmumu licences nosacījumos var izdarīt vienīgi likumā noteiktajā kārtībā.
 
-3\. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par uzņēmējdarbības regulēšanu enerģētikā" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 21.nr.; 1997, 1., 14.nr.).
+3. Ar šā likuma spēkā stāšanos spēku zaudē likums "Par uzņēmējdarbības regulēšanu enerģētikā" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 21.nr.; 1997, 1., 14.nr.).
 
-4\. Likums stājas spēkā tā pieņemšanas dienā, un Ministru kabinets izslēdz akciju sabiedrību "Latvenergo" no privatizējamo uzņēmumu saraksta.
+4. Likums stājas spēkā tā pieņemšanas dienā, un Ministru kabinets izslēdz akciju sabiedrību "Latvenergo" no privatizējamo uzņēmumu saraksta.
 
 ([03.08.2000](https://likumi.lv/ta/id/9979-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [03.08.2000.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2000/08/03))
 
-5\. Energoapgādi valsts regulējamās nozarēs regulē Energoapgādes regulēšanas padome līdz 2001.gada 1.oktobrim, kad tās funkcijas pārņem Sabiedrisko pakalpojumu regulēšanas komisija saskaņā ar likumu "Par sabiedrisko pakalpojumu regulatoriem".
+5. Energoapgādi valsts regulējamās nozarēs regulē Energoapgādes regulēšanas padome līdz 2001.gada 1.oktobrim, kad tās funkcijas pārņem Sabiedrisko pakalpojumu regulēšanas komisija saskaņā ar likumu "Par sabiedrisko pakalpojumu regulatoriem".
 
 ([10.05.2001](https://likumi.lv/ta/id/24850-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [01.06.2001.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2001/06/01))
 
-6\. Energoapgādi pašvaldību regulējamās nozarēs regulē Energoapgādes regulēšanas padome līdz 2001.gada 1.septembrim, kad tās funkcijas pārņem pašvaldību regulatori saskaņā ar likumu "Par sabiedrisko pakalpojumu regulatoriem".
+6. Energoapgādi pašvaldību regulējamās nozarēs regulē Energoapgādes regulēšanas padome līdz 2001.gada 1.septembrim, kad tās funkcijas pārņem pašvaldību regulatori saskaņā ar likumu "Par sabiedrisko pakalpojumu regulatoriem".
 
 ([10.05.2001](https://likumi.lv/ta/id/24850-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [01.06.2001.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2001/06/01))
 
-7\. Energoapgādes regulēšanas padomes saistību pārņēmēja ar 2001.gada 1.oktobri ir Sabiedrisko pakalpojumu regulēšanas komisija.
+7. Energoapgādes regulēšanas padomes saistību pārņēmēja ar 2001.gada 1.oktobri ir Sabiedrisko pakalpojumu regulēšanas komisija.
 
 ([10.05.2001](https://likumi.lv/ta/id/24850-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [01.06.2001.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2001/06/01))
 
-8\. Energoapgādes regulēšanas padomes Licenču birojs līdz 2001.gada 1.oktobrim tiek reorganizēts par Sabiedrisko pakalpojumu regulēšanas komisijas izpildinstitūcijas attiecīgām struktūrvienībām saskaņā ar likumu "Par sabiedrisko pakalpojumu regulatoriem".
+8. Energoapgādes regulēšanas padomes Licenču birojs līdz 2001.gada 1.oktobrim tiek reorganizēts par Sabiedrisko pakalpojumu regulēšanas komisijas izpildinstitūcijas attiecīgām struktūrvienībām saskaņā ar likumu "Par sabiedrisko pakalpojumu regulatoriem".
 
 ([10.05.2001](https://likumi.lv/ta/id/24850-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [01.06.2001.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2001/06/01))
 
-9\. Šā likuma grozījumi, kas attiecas uz vārda "reģeneratīvie" aizstāšanu ar vārdu "atjaunojamie"; grozījumi attiecībā uz 1.panta 7. un 15.punkta, 5.panta otrās daļas, IV, V, VI, VII nodaļas, 77.panta pirmās daļas 2. un 3.punkta, 79. un 80.panta izslēgšanu, kā arī 1.panta 11. un 12.punkta jaunā redakcija (par terminiem "enerģijas pārvade" un "enerģijas sadale") un grozījums attiecībā uz 1.panta papildināšanu ar 24.punktu stājas spēkā vienlaikus ar elektroenerģijas tirgus likuma spēkā stāšanos.
+9. Šā likuma grozījumi, kas attiecas uz vārda "reģeneratīvie" aizstāšanu ar vārdu "atjaunojamie"; grozījumi attiecībā uz 1.panta 7. un 15.punkta, 5.panta otrās daļas, IV, V, VI, VII nodaļas, 77.panta pirmās daļas 2. un 3.punkta, 79. un 80.panta izslēgšanu, kā arī 1.panta 11. un 12.punkta jaunā redakcija (par terminiem "enerģijas pārvade" un "enerģijas sadale") un grozījums attiecībā uz 1.panta papildināšanu ar 24.punktu stājas spēkā vienlaikus ar elektroenerģijas tirgus likuma spēkā stāšanos.
 
 ([17.03.2005](https://likumi.lv/ta/id/104823-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [15.04.2005.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2005/04/15))
 
-10\. Ministru kabinets izdod šā likuma 24.panta 1.2daļā, 42.1panta pirmajā daļā, 43.1panta otrajā daļā un 46.panta pirmajā daļā paredzētos noteikumus līdz 2006.gada 1.janvārim.
+10. Ministru kabinets izdod šā likuma 24.panta 1.2daļā, 42.1panta pirmajā daļā, 43.1panta otrajā daļā un 46.panta pirmajā daļā paredzētos noteikumus līdz 2006.gada 1.janvārim.
 
 ([26.05.2005](https://likumi.lv/ta/id/110445-grozijumi-energetikas-likuma). likuma redakcijā ar grozījumiem, kas izdarīti ar [05.06.2008](https://likumi.lv/ta/id/177092-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [04.07.2008.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2008/07/04))
 
-11\. Regulators izdod šā likuma 12.panta ceturtajā daļā paredzētos noteikumus līdz 2006.gada 1.janvārim.
+11. Regulators izdod šā likuma 12.panta ceturtajā daļā paredzētos noteikumus līdz 2006.gada 1.janvārim.
 
 ([26.05.2005](https://likumi.lv/ta/id/110445-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [29.06.2005.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2005/06/29))
 
-13\. Šā likuma 84.1panta pirmajā daļā minētie pieslēguma noteikumi iesniedzami regulatoram apstiprināšanai piecu mēnešu laikā no šā panta spēkā stāšanās dienas.
+13. Šā likuma 84.1panta pirmajā daļā minētie pieslēguma noteikumi iesniedzami regulatoram apstiprināšanai piecu mēnešu laikā no šā panta spēkā stāšanās dienas.
 
 ([26.05.2005](https://likumi.lv/ta/id/110445-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [29.06.2005.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2005/06/29))
 
-14\. Šā likuma 15.panta septītajā daļā minētie sistēmas lietošanas noteikumi un dabasgāzes krātuves lietošanas noteikumi, 45.2panta trešajā un sestajā daļā minētie balansēšanas aprēķinu noteikumi un garantiju pieprasīšanas kritēriji un kārtība iesniedzami regulatoram apstiprināšanai piecu mēnešu laikā no attiecīgo tiesību normu spēkā stāšanās dienas.
+14. Šā likuma 15.panta septītajā daļā minētie sistēmas lietošanas noteikumi un dabasgāzes krātuves lietošanas noteikumi, 45.2panta trešajā un sestajā daļā minētie balansēšanas aprēķinu noteikumi un garantiju pieprasīšanas kritēriji un kārtība iesniedzami regulatoram apstiprināšanai piecu mēnešu laikā no attiecīgo tiesību normu spēkā stāšanās dienas.
 
 ([26.05.2005](https://likumi.lv/ta/id/110445-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [29.06.2005.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2005/06/29))
 
-15\. Šā likuma 15.panta piektā un septītā daļa, 42.1 panta trešā un ceturtā daļa, 45.2 panta otrā, trešā, ceturtā, piektā un sestā daļa un 45.3 pants stājas spēkā 2014.gada 4.aprīlī.
+15. Šā likuma 15.panta piektā un septītā daļa, 42.1 panta trešā un ceturtā daļa, 45.2 panta otrā, trešā, ceturtā, piektā un sestā daļa un 45.3 pants stājas spēkā 2014.gada 4.aprīlī.
 
 ([13.03.2014](https://likumi.lv/ta/id/265208-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [26.03.2014.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2014/03/26))
 
-17\. Līdz jaunu šā likuma 46.panta pirmajā daļā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 1.oktobrim piemērojami Ministru kabineta 2006.gada 30.novembra noteikumi Nr.971 “Siltumenerģijas piegādes un lietošanas noteikumi”, ciktāl tie nav pretrunā ar šo likumu.
+17. Līdz jaunu šā likuma 46.panta pirmajā daļā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 1.oktobrim piemērojami Ministru kabineta 2006.gada 30.novembra noteikumi Nr.971 “Siltumenerģijas piegādes un lietošanas noteikumi”, ciktāl tie nav pretrunā ar šo likumu.
 
 ([05.06.2008](https://likumi.lv/ta/id/177092-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [04.07.2008.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2008/07/04))
 
-19\. Administratīvās lietas, kuras par maksājuma dokumentiem, energoapgādes komersantu aktiem un citiem dokumentiem, kas sastādīti, lai sagatavotu un pamatotu maksājuma dokumentus, administratīvajā tiesā ierosinātas līdz dienai, kad stājas spēkā šā likuma 6.panta ceturtā daļa, administratīvā tiesa pabeidz izskatīt saskaņā ar Administratīvā procesa likumu.
+19. Administratīvās lietas, kuras par maksājuma dokumentiem, energoapgādes komersantu aktiem un citiem dokumentiem, kas sastādīti, lai sagatavotu un pamatotu maksājuma dokumentus, administratīvajā tiesā ierosinātas līdz dienai, kad stājas spēkā šā likuma 6.panta ceturtā daļa, administratīvā tiesa pabeidz izskatīt saskaņā ar Administratīvā procesa likumu.
 
 ([05.06.2008](https://likumi.lv/ta/id/177092-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [04.07.2008.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2008/07/04))
 
-20\. Grozījums šā likuma 1.panta 20.punktā attiecībā uz vārdu “vai pašvaldības” izslēgšanu stājas spēkā 2009.gada 1.novembrī.
+20. Grozījums šā likuma 1.panta 20.punktā attiecībā uz vārdu “vai pašvaldības” izslēgšanu stājas spēkā 2009.gada 1.novembrī.
 
 ([12.06.2009](https://likumi.lv/ta/id/193582-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [01.07.2009.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2009/07/01))
 
-21\. Ministru kabinets līdz 2010.gada 1.septembrim izdod šā likuma 76.panta otrajā daļā minētos noteikumus, kas paredz kārtību, kādā ierīkojami jauni energoapgādes komersantu objekti. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 1.oktobrim piemērojami Ministru kabineta 2005.gada 8.novembra noteikumi Nr.841 “Elektroapgādes būvju būvniecības kārtība”, ciktāl tie nav pretrunā ar šo likumu.
+21. Ministru kabinets līdz 2010.gada 1.septembrim izdod šā likuma 76.panta otrajā daļā minētos noteikumus, kas paredz kārtību, kādā ierīkojami jauni energoapgādes komersantu objekti. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 1.oktobrim piemērojami Ministru kabineta 2005.gada 8.novembra noteikumi Nr.841 “Elektroapgādes būvju būvniecības kārtība”, ciktāl tie nav pretrunā ar šo likumu.
 
 ([13.05.2010](https://likumi.lv/ta/id/210624-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [09.06.2010.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2010/06/09))
 
@@ -1868,7 +1866,7 @@ Pārejas noteikumi
 
 ([17.06.2010](https://likumi.lv/ta/id/212855-grozijumi-energetikas-likuma). likuma redakcijā ar grozījumiem, kas izdarīti ar [17.02.2011](https://likumi.lv/ta/id/226686-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [18.03.2011.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2011/03/18))
 
-24\. Drošības rezervju pakalpojumu sniegšanu saskaņā ar šā likuma 72.panta otrajā daļā minēto atklāto konkursu rezultātiem komersanti sāk nodrošināt ne vēlāk kā no 2011.gada 1.jūlija.
+24. Drošības rezervju pakalpojumu sniegšanu saskaņā ar šā likuma 72.panta otrajā daļā minēto atklāto konkursu rezultātiem komersanti sāk nodrošināt ne vēlāk kā no 2011.gada 1.jūlija.
 
 ([17.02.2011](https://likumi.lv/ta/id/226686-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [18.03.2011.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2011/03/18))
 
@@ -1876,7 +1874,7 @@ Pārejas noteikumi
 
 ([17.06.2010](https://likumi.lv/ta/id/212855-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [08.07.2010.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2010/07/08))
 
-26\. Grozījumi šā likuma 7.panta otrajā daļā, 12.panta pirmajā un otrajā daļā stājas spēkā 2012.gada 1.janvārī.
+26. Grozījumi šā likuma 7.panta otrajā daļā, 12.panta pirmajā un otrajā daļā stājas spēkā 2012.gada 1.janvārī.
 
 ([22.09.2011](https://likumi.lv/ta/id/237476-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [26.10.2011.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2011/10/26))
 
@@ -1884,11 +1882,11 @@ Pārejas noteikumi
 
 ([22.09.2011](https://likumi.lv/ta/id/237476-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [26.10.2011.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2011/10/26))
 
-28\. Regulators līdz 2012.gada 1.janvārim izdod šā likuma 7.1 panta pirmajā un trešajā daļā minētos normatīvos aktus. Siltumenerģijas ražotāji vai tirgotāji, kuriem 2012.gada 1.janvārī ir spēkā licences siltumenerģijas ražošanai vai tirdzniecībai, reģistrācijas paziņojumu neiesniedz. Šādus siltumenerģijas ražotājus un tirgotājus regulators pēc savas iniciatīvas reģistrē attiecīgajā reģistrā.
+28. Regulators līdz 2012.gada 1.janvārim izdod šā likuma 7.1 panta pirmajā un trešajā daļā minētos normatīvos aktus. Siltumenerģijas ražotāji vai tirgotāji, kuriem 2012.gada 1.janvārī ir spēkā licences siltumenerģijas ražošanai vai tirdzniecībai, reģistrācijas paziņojumu neiesniedz. Šādus siltumenerģijas ražotājus un tirgotājus regulators pēc savas iniciatīvas reģistrē attiecīgajā reģistrā.
 
 ([22.09.2011](https://likumi.lv/ta/id/237476-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [26.10.2011.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2011/10/26))
 
-29\. Ministru kabinets līdz 2012.gada 1.februārim izdod šā likuma 76.panta otrajā daļā minētos noteikumus, kas paredz kārtību, kādā ierīkojami jauni energoapgādes komersantu objekti. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2012.gada 1.martam piemērojami Ministru kabineta 2010.gada 1.novembra noteikumi Nr.1024 “Elektroenerģijas pārvades un sadales būvju būvniecības kārtība”, ciktāl tie nav pretrunā ar šo likumu.
+29. Ministru kabinets līdz 2012.gada 1.februārim izdod šā likuma 76.panta otrajā daļā minētos noteikumus, kas paredz kārtību, kādā ierīkojami jauni energoapgādes komersantu objekti. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2012.gada 1.martam piemērojami Ministru kabineta 2010.gada 1.novembra noteikumi Nr.1024 “Elektroenerģijas pārvades un sadales būvju būvniecības kārtība”, ciktāl tie nav pretrunā ar šo likumu.
 
 ([22.09.2011](https://likumi.lv/ta/id/237476-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [26.10.2011.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2011/10/26))
 
@@ -1896,23 +1894,23 @@ Pārejas noteikumi
 
 ([13.03.2014](https://likumi.lv/ta/id/265208-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [26.03.2014.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2014/03/26))
 
-31\. Šā likuma 45.panta 1.1, otrā, trešā, ceturtā, piektā un sestā daļa stājas spēkā 2018.gada 1.janvārī. Pirmo ziņojumu, kas minēts šā likuma 45.panta trešajā daļā, dabasgāzes sadales sistēmas operators iesniedz regulatoram līdz 2018.gada 1.janvārim.
+31. Šā likuma 45.panta 1.1, otrā, trešā, ceturtā, piektā un sestā daļa stājas spēkā 2018.gada 1.janvārī. Pirmo ziņojumu, kas minēts šā likuma 45.panta trešajā daļā, dabasgāzes sadales sistēmas operators iesniedz regulatoram līdz 2018.gada 1.janvārim.
 
 ([11.02.2016](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
 
-33\. Šā likuma 44.1 pants stājas spēkā tad, kad Latvijā tiek uzsākta dabasgāzes ieguve, un šā panta spēkā stāšanos nosaka ar īpašu likumu.
+33. Šā likuma 44.1 pants stājas spēkā tad, kad Latvijā tiek uzsākta dabasgāzes ieguve, un šā panta spēkā stāšanos nosaka ar īpašu likumu.
 
 ([13.03.2014](https://likumi.lv/ta/id/265208-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [26.03.2014.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2014/03/26))
 
-34\. Šā likuma 107.panta trešajā, piektajā un septītajā daļā un 109.panta ceturtajā daļā paredzētos noteikumus Ministru kabinets izdod līdz 2017.gada 3.aprīlim. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2017.gada 2.aprīlim piemērojami Ministru kabineta 2016.gada 9.februāra noteikumi Nr.85 "Dabasgāzes piegādes un lietošanas noteikumi". Līdz 2017.gada 3.aprīlim dabasgāzes sadales sistēmas lietotājiem, kuri savām vajadzībām iegādājas dabasgāzi ārpus akciju sabiedrības "Latvijas Gāze" licences darbības zonas, ir tiesības pašu apgādei lietot dabasgāzes sadales sistēmu saskaņā ar divpusēju — attiecīgā lietotāja un akciju sabiedrības "Latvijas Gāze" — vienošanos, kurā jāparedz iespēja veikt atsevišķus norēķinus par sadales sistēmas lietošanas pakalpojumu.
+34. Šā likuma 107.panta trešajā, piektajā un septītajā daļā un 109.panta ceturtajā daļā paredzētos noteikumus Ministru kabinets izdod līdz 2017.gada 3.aprīlim. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2017.gada 2.aprīlim piemērojami Ministru kabineta 2016.gada 9.februāra noteikumi Nr.85 "Dabasgāzes piegādes un lietošanas noteikumi". Līdz 2017.gada 3.aprīlim dabasgāzes sadales sistēmas lietotājiem, kuri savām vajadzībām iegādājas dabasgāzi ārpus akciju sabiedrības "Latvijas Gāze" licences darbības zonas, ir tiesības pašu apgādei lietot dabasgāzes sadales sistēmu saskaņā ar divpusēju — attiecīgā lietotāja un akciju sabiedrības "Latvijas Gāze" — vienošanos, kurā jāparedz iespēja veikt atsevišķus norēķinus par sadales sistēmas lietošanas pakalpojumu.
 
 ([11.02.2016.](https://likumi.lv/doc.php?id=280459) likuma redakcijā ar grozījumiem, kas izdarīti ar [11.02.2016.](https://likumi.lv/doc.php?id=280460) likumu, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
 
-36\. Šā likuma 110.panta sestajā daļā paredzētos noteikumus Ministru kabinets izdod līdz 2016.gada 1.decembrim. Līdz šo noteikumu spēkā stāšanās dienai piemērojami Ministru kabineta 2015.gada 13.oktobra noteikumi Nr.580 "Prasības biogāzes un no biomasas ražotās gāzes, kā arī gāzveida stāvoklī pārvērstas sašķidrinātās dabasgāzes ievadīšanai un transportēšanai dabasgāzes pārvades sistēmā.
+36. Šā likuma 110.panta sestajā daļā paredzētos noteikumus Ministru kabinets izdod līdz 2016.gada 1.decembrim. Līdz šo noteikumu spēkā stāšanās dienai piemērojami Ministru kabineta 2015.gada 13.oktobra noteikumi Nr.580 "Prasības biogāzes un no biomasas ražotās gāzes, kā arī gāzveida stāvoklī pārvērstas sašķidrinātās dabasgāzes ievadīšanai un transportēšanai dabasgāzes pārvades sistēmā.
 
 ([11.02.2016](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
 
-38\. Regulators līdz:
+38. Regulators līdz:
 
 1) 2014.gada 1.jūlijam izdod šā likuma 7.1 panta trešajā daļā minēto normatīvo aktu. Līdz šā normatīvā akta spēkā stāšanās dienai, bet ne ilgāk kā līdz 2014.gada 30.jūnijam piemērojams regulatora 2013.gada 11.decembra lēmums Nr. [1/34](http://eur-lex.europa.eu/eli/dec/191/34/oj/?locale=LV) "Enerģijas ražotāju un tirgotāju reģistrācijas noteikumi";
 
@@ -1922,7 +1920,7 @@ Pārejas noteikumi
 
 ([13.03.2014](https://likumi.lv/ta/id/265208-grozijumi-energetikas-likuma). likuma redakcijā ar grozījumiem, kas izdarīti ar [11.02.2016](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma). likumu, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
 
-39\. Šā likuma XIV nodaļa stājas spēkā vienlaikus ar attiecīgiem grozījumiem Latvijas Administratīvo pārkāpumu kodeksā.
+39. Šā likuma XIV nodaļa stājas spēkā vienlaikus ar attiecīgiem grozījumiem Latvijas Administratīvo pārkāpumu kodeksā.
 
 ([13.03.2014](https://likumi.lv/ta/id/265208-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [26.03.2014.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2014/03/26))
 
@@ -1930,79 +1928,79 @@ Pārejas noteikumi
 
 ([13.03.2014](https://likumi.lv/ta/id/265208-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [26.03.2014.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2014/03/26))
 
-41\. Šā likuma 84.1 panta pirmajā daļā minētie sistēmas pieslēguma noteikumi iesniedzami regulatoram apstiprināšanai piecu mēnešu laikā no dienas, kad stājas spēkā grozījumi šā likuma 84.1 pantā par pirmās daļas izteikšanu jaunā redakcijā. Līdz dienai, kad stājas spēkā dabasgāzes pārvades sistēmas pieslēguma noteikumi biometāna ražotājiem, sašķidrinātās dabasgāzes sistēmas operatoriem un dabasgāzes lietotājiem un dabasgāzes sadales sistēmas pieslēguma noteikumi dabasgāzes lietotājiem, piemērojami ar Sabiedrisko pakalpojumu regulēšanas komisijas padomes 2008.gada 16.jūlija lēmumu Nr.233 apstiprinātie "Dabasgāzes sistēmas pieslēguma noteikumi".
+41. Šā likuma 84.1 panta pirmajā daļā minētie sistēmas pieslēguma noteikumi iesniedzami regulatoram apstiprināšanai piecu mēnešu laikā no dienas, kad stājas spēkā grozījumi šā likuma 84.1 pantā par pirmās daļas izteikšanu jaunā redakcijā. Līdz dienai, kad stājas spēkā dabasgāzes pārvades sistēmas pieslēguma noteikumi biometāna ražotājiem, sašķidrinātās dabasgāzes sistēmas operatoriem un dabasgāzes lietotājiem un dabasgāzes sadales sistēmas pieslēguma noteikumi dabasgāzes lietotājiem, piemērojami ar Sabiedrisko pakalpojumu regulēšanas komisijas padomes 2008.gada 16.jūlija lēmumu Nr.233 apstiprinātie "Dabasgāzes sistēmas pieslēguma noteikumi".
 
 ([11.02.2016](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
 
-42\. Šā likuma 20.3, 42.2, 107. un 109.pants, 111.panta pirmā un otrā daļa, 112., 113. un 116.pants stājas spēkā 2017.gada 3.aprīlī.
+42. Šā likuma 20.3, 42.2, 107. un 109.pants, 111.panta pirmā un otrā daļa, 112., 113. un 116.pants stājas spēkā 2017.gada 3.aprīlī.
 
 ([11.02.2016](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
 
-43\. Šā likuma 108.pants stājas spēkā 2017.gada 10.februārī. Dabasgāzes tirgotājiem, kuru licences dabasgāzes tirdzniecībai 2017.gada 10.februārī ir spēkā, nav jāiesniedz paziņojums par reģistrāciju. Šādus dabasgāzes tirgotājus regulators pēc savas iniciatīvas reģistrē attiecīgajā reģistrā. No 2017.gada 10.februāra līdz 2017.gada 3.aprīlim ar dabasgāzes tirdzniecību nodarbojas dabasgāzes tirgotājs, kuram 2017.gada 10.februārī ir spēkā esoša dabasgāzes tirdzniecības licence. Dabasgāzes tirgotāji un publiskais tirgotājs šā likuma 107.panta pirmajā daļā minētos pienākumus ir tiesīgi pildīt no 2017.gada 3.aprīļa.
+43. Šā likuma 108.pants stājas spēkā 2017.gada 10.februārī. Dabasgāzes tirgotājiem, kuru licences dabasgāzes tirdzniecībai 2017.gada 10.februārī ir spēkā, nav jāiesniedz paziņojums par reģistrāciju. Šādus dabasgāzes tirgotājus regulators pēc savas iniciatīvas reģistrē attiecīgajā reģistrā. No 2017.gada 10.februāra līdz 2017.gada 3.aprīlim ar dabasgāzes tirdzniecību nodarbojas dabasgāzes tirgotājs, kuram 2017.gada 10.februārī ir spēkā esoša dabasgāzes tirdzniecības licence. Dabasgāzes tirgotāji un publiskais tirgotājs šā likuma 107.panta pirmajā daļā minētos pienākumus ir tiesīgi pildīt no 2017.gada 3.aprīļa.
 
 ([11.02.2016](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
 
-44\. Šā likuma 111.panta trešā, ceturtā un piektā daļa, 114. un 115.pants stājas spēkā 2017.gada 31.decembrī.
+44. Šā likuma 111.panta trešā, ceturtā un piektā daļa, 114. un 115.pants stājas spēkā 2017.gada 31.decembrī.
 
 ([11.02.2016](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
 
-45\. Līdz brīdim, kad regulators pieņem lēmumu par vienotā dabasgāzes pārvades un uzglabāšanas sistēmas operatora sertificēšanu, dabasgāzes pārvades sistēmas operatora pienākumus pilda dabasgāzes apgādes komersants, kuram izsniegta licence dabasgāzes pārvadei.
+45. Līdz brīdim, kad regulators pieņem lēmumu par vienotā dabasgāzes pārvades un uzglabāšanas sistēmas operatora sertificēšanu, dabasgāzes pārvades sistēmas operatora pienākumus pilda dabasgāzes apgādes komersants, kuram izsniegta licence dabasgāzes pārvadei.
 
 ([11.02.2016](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
 
-46\. Līdz brīdim, kad regulators pieņem lēmumu par tarifu apstiprināšanu dabasgāzes pārvadei, uzglabāšanai un sadalei un lēmumu par dabasgāzes cenas apstiprināšanu saistītajiem lietotājiem, attiecīgie sistēmas operatori un publiskais tirgotājs dabasgāzes apgādes pakalpojumus sniedz par tarifiem, kas noteikti akciju sabiedrībai "Latvijas Gāze".
+46. Līdz brīdim, kad regulators pieņem lēmumu par tarifu apstiprināšanu dabasgāzes pārvadei, uzglabāšanai un sadalei un lēmumu par dabasgāzes cenas apstiprināšanu saistītajiem lietotājiem, attiecīgie sistēmas operatori un publiskais tirgotājs dabasgāzes apgādes pakalpojumus sniedz par tarifiem, kas noteikti akciju sabiedrībai "Latvijas Gāze".
 
 ([11.02.2016](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
 
-47\. Ministru kabinets līdz 2016.gada 31.decembrim izdod šā likuma 44.panta otrajā daļā paredzētos noteikumus.
+47. Ministru kabinets līdz 2016.gada 31.decembrim izdod šā likuma 44.panta otrajā daļā paredzētos noteikumus.
 
 ([11.02.2016](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
 
-48\. Regulators izdod šā likuma 42.2 panta otrajā daļā un 44.panta ceturtajā daļā minētos normatīvos aktus sešu mēnešu laikā no attiecīgo pantu spēkā stāšanās dienas.
+48. Regulators izdod šā likuma 42.2 panta otrajā daļā un 44.panta ceturtajā daļā minētos normatīvos aktus sešu mēnešu laikā no attiecīgo pantu spēkā stāšanās dienas.
 
 ([11.02.2016](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
 
-49\. Līdz vienotajā dabasgāzes pārvades un uzglabāšanas sistēmas operatorā ietilpstošā dabasgāzes pārvades sistēmas operatora apstiprināšanai un norīkošanai dabasgāzes pārvades sistēmas operators darbojas atbilstoši šā likuma 112.pantam.
+49. Līdz vienotajā dabasgāzes pārvades un uzglabāšanas sistēmas operatorā ietilpstošā dabasgāzes pārvades sistēmas operatora apstiprināšanai un norīkošanai dabasgāzes pārvades sistēmas operators darbojas atbilstoši šā likuma 112.pantam.
 
 ([11.02.2016](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
 
-50\. Akciju sabiedrības "Latvijas Gāze" reorganizācijas rezultātā jaunizveidoto subjektu pārreģistrēšana tiešās pārvaldes iestāžu, pašvaldību un autonomu publisko tiesību subjektu administrēto pakalpojumu datubāzēs ir veicama bez maksas. Akciju sabiedrības "Latvijas Gāze" reorganizācijas rezultātā jaunizveidotajiem subjektiem šajā likumā noteiktās licences izsniedz bez maksas.
+50. Akciju sabiedrības "Latvijas Gāze" reorganizācijas rezultātā jaunizveidoto subjektu pārreģistrēšana tiešās pārvaldes iestāžu, pašvaldību un autonomu publisko tiesību subjektu administrēto pakalpojumu datubāzēs ir veicama bez maksas. Akciju sabiedrības "Latvijas Gāze" reorganizācijas rezultātā jaunizveidotajiem subjektiem šajā likumā noteiktās licences izsniedz bez maksas.
 
 ([11.02.2016](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
 
-51\. No 2017.gada 3.aprīļa līdz 2019.gada 1.janvārim publiskā tirgotāja pienākumus pilda komersants, kuram 2017.gada 1.februārī ir spēkā esoša dabasgāzes tirdzniecības licence.
+51. No 2017.gada 3.aprīļa līdz 2019.gada 1.janvārim publiskā tirgotāja pienākumus pilda komersants, kuram 2017.gada 1.februārī ir spēkā esoša dabasgāzes tirdzniecības licence.
 
 ([11.02.2016](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
 
-52\. Vienotais dabasgāzes pārvades un uzglabāšanas sistēmas operators līdz 2018.gada 10.janvārim iesniedz regulatoram iesniegumu tā sertificēšanai saskaņā ar šā likuma 115.pantu.
+52. Vienotais dabasgāzes pārvades un uzglabāšanas sistēmas operators līdz 2018.gada 10.janvārim iesniedz regulatoram iesniegumu tā sertificēšanai saskaņā ar šā likuma 115.pantu.
 
 ([11.02.2016](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
 
-53\. Grozījumi šā likuma 7.pantā par otrās daļas vārdu "dabasgāzes tirdzniecībai — uz pieciem gadiem" izslēgšanu un panta papildināšanu ar piekto daļu, kā arī grozījumi šā likuma 103.pantā par 1.punkta izteikšanu jaunā redakcijā stājas spēkā 2017.gada 10.februārī.
+53. Grozījumi šā likuma 7.pantā par otrās daļas vārdu "dabasgāzes tirdzniecībai — uz pieciem gadiem" izslēgšanu un panta papildināšanu ar piekto daļu, kā arī grozījumi šā likuma 103.pantā par 1.punkta izteikšanu jaunā redakcijā stājas spēkā 2017.gada 10.februārī.
 
 ([11.02.2016](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
 
-54\. Regulators līdz 2017.gada 3.aprīlim no jauna izdod šā likuma 15.panta 1.1 daļā noteiktās dabasgāzes apgādes pakalpojumu tarifu aprēķināšanas metodikas un izdod 107.panta trešajā daļā noteikto dabasgāzes cenas aprēķināšanas metodiku, kas paredz attiecīgo tarifu un cenas noteikšanu enerģijas vienībās izteiktam dabasgāzes apjomam.
+54. Regulators līdz 2017.gada 3.aprīlim no jauna izdod šā likuma 15.panta 1.1 daļā noteiktās dabasgāzes apgādes pakalpojumu tarifu aprēķināšanas metodikas un izdod 107.panta trešajā daļā noteikto dabasgāzes cenas aprēķināšanas metodiku, kas paredz attiecīgo tarifu un cenas noteikšanu enerģijas vienībās izteiktam dabasgāzes apjomam.
 
 ([11.02.2016](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
 
-55\. Šā likuma 6.panta trešā daļa un 43.panta pirmā daļa zaudē spēku 2017.gada 3.aprīlī.
+55. Šā likuma 6.panta trešā daļa un 43.panta pirmā daļa zaudē spēku 2017.gada 3.aprīlī.
 
 ([11.02.2016](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
 
-56\. Akciju sabiedrības "Latvijas Gāze" reorganizācijas rezultātā jaunizveidotajam subjektam, kas ir dabasgāzes pārvades sistēmas operatora pienākumu pārņēmējs, ir saistoši lēmumi par ieguldījumu izmaksu sadali, kuri līdz dabasgāzes pārvades sistēmas operatora nodalīšanai ir pieņemti atbilstoši Eiropas Parlamenta un Padomes regulai Nr. [347/2013](http://eur-lex.europa.eu/eli/reg/2013/347/oj/?locale=LV), ar ko nosaka Eiropas energoinfrastruktūras pamatnostādnes un atceļ lēmumu Nr. [1364/2006/EK](http://eur-lex.europa.eu/eli/dec/1364/2006/oj/?locale=LV), groza regulu (EK) Nr. [713/2009](http://eur-lex.europa.eu/eli/reg/2009/713/oj/?locale=LV), regulu (EK) Nr. [714/2009](http://eur-lex.europa.eu/eli/reg/2009/714/oj/?locale=LV) un regulu (EK) Nr. [715/2009](http://eur-lex.europa.eu/eli/reg/2009/715/oj/?locale=LV).
+56. Akciju sabiedrības "Latvijas Gāze" reorganizācijas rezultātā jaunizveidotajam subjektam, kas ir dabasgāzes pārvades sistēmas operatora pienākumu pārņēmējs, ir saistoši lēmumi par ieguldījumu izmaksu sadali, kuri līdz dabasgāzes pārvades sistēmas operatora nodalīšanai ir pieņemti atbilstoši Eiropas Parlamenta un Padomes regulai Nr. [347/2013](http://eur-lex.europa.eu/eli/reg/2013/347/oj/?locale=LV), ar ko nosaka Eiropas energoinfrastruktūras pamatnostādnes un atceļ lēmumu Nr. [1364/2006/EK](http://eur-lex.europa.eu/eli/dec/1364/2006/oj/?locale=LV), groza regulu (EK) Nr. [713/2009](http://eur-lex.europa.eu/eli/reg/2009/713/oj/?locale=LV), regulu (EK) Nr. [714/2009](http://eur-lex.europa.eu/eli/reg/2009/714/oj/?locale=LV) un regulu (EK) Nr. [715/2009](http://eur-lex.europa.eu/eli/reg/2009/715/oj/?locale=LV).
 
 ([11.02.2016](https://likumi.lv/ta/id/280459-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [08.03.2016.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2016/03/08))
 
-57\. Šā likuma XVI nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
+57. Šā likuma XVI nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
 
 ([03.10.2019](https://likumi.lv/ta/id/310058-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [01.11.2019.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2019/11/01))
 
-58\. Grozījumi šā likuma XVI nodaļā par pantu numerācijas maiņu un atsauces precizēšanu stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
+58. Grozījumi šā likuma XVI nodaļā par pantu numerācijas maiņu un atsauces precizēšanu stājas spēkā vienlaikus ar Administratīvās atbildības likumu.
 
 ([14.11.2019](https://likumi.lv/ta/id/310988-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [01.01.2020.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2020/01/01))
 
-59\. Energoapgādes drošuma rezerves 2023. gadā ir nodrošināmas 1,8—2,2 teravatstundu apjomā atkarībā no pieejamā sašķidrinātās dabasgāzes kuģu piedāvājuma. Energoapgādes drošuma rezervju iegādi un uzglabāšanu Inčukalna pazemes gāzes krātuvē valsts vārdā organizē akciju sabiedrība "Latvenergo" un nodrošina to iesūknēšanu Inčukalna pazemes gāzes krātuvē līdz 2023. gada 1. janvārim.
+59. Energoapgādes drošuma rezerves 2023. gadā ir nodrošināmas 1,8—2,2 teravatstundu apjomā atkarībā no pieejamā sašķidrinātās dabasgāzes kuģu piedāvājuma. Energoapgādes drošuma rezervju iegādi un uzglabāšanu Inčukalna pazemes gāzes krātuvē valsts vārdā organizē akciju sabiedrība "Latvenergo" un nodrošina to iesūknēšanu Inčukalna pazemes gāzes krātuvē līdz 2023. gada 1. janvārim.
 
 ([21.04.2022](https://likumi.lv/ta/id/331865-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [23.04.2022.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2022/04/23))
 
@@ -2022,19 +2020,19 @@ Pārejas noteikumi
 
 ([21.04.2022](https://likumi.lv/ta/id/331865-grozijumi-energetikas-likuma). likuma redakcijā, kas stājas spēkā [23.04.2022.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2022/04/23))
 
-64\. Ministru kabinets līdz 2023. gada 28. februārim izdod šā likuma 17.1 panta vienpadsmitajā daļā, 17.2 panta trešajā daļā un 17.3 panta trešajā daļā minētos noteikumus.
+64. Ministru kabinets līdz 2023. gada 28. februārim izdod šā likuma 17.1 panta vienpadsmitajā daļā, 17.2 panta trešajā daļā un 17.3 panta trešajā daļā minētos noteikumus.
 
 ([14.07.2022.](https://likumi.lv/doc.php?id=%20334150) likuma redakcijā, kas stājas spēkā [01.01.2023.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2023/01/01))
 
-65\. Šā likuma 17.1 panta divpadsmitajā daļā minētās vadlīnijas izstrādā un publicē līdz 2023. gada 30. jūnijam.
+65. Šā likuma 17.1 panta divpadsmitajā daļā minētās vadlīnijas izstrādā un publicē līdz 2023. gada 30. jūnijam.
 
 ([14.07.2022.](https://likumi.lv/doc.php?id=%20334150) likuma redakcijā, kas stājas spēkā [01.01.2023.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2023/01/01))
 
-66\. Akciju sabiedrība "Latvenergo" nodrošina šā likuma 107. panta ceturtās daļas 3. punktā noteiktā dabasgāzes apjoma noglabāšanu Inčukalna pazemes gāzes krātuvē divu mēnešu laikā no brīža, kad tā saskaņā ar šā likuma 107. panta 4.1 daļu sāk pildīt publiskā tirgotāja pienākumus. Līdz šā likuma 107. panta ceturtās daļas 3. punktā noteiktā dabasgāzes apjoma noglabāšanai Inčukalna pazemes gāzes krātuvē akciju sabiedrība "Latvenergo" saskaņā ar Ministru kabineta noteikto kārtību var izmantot šā likuma 64. panta pirmās daļas 3. punktā noteiktās rezerves.
+66. Akciju sabiedrība "Latvenergo" nodrošina šā likuma 107. panta ceturtās daļas 3. punktā noteiktā dabasgāzes apjoma noglabāšanu Inčukalna pazemes gāzes krātuvē divu mēnešu laikā no brīža, kad tā saskaņā ar šā likuma 107. panta 4.1 daļu sāk pildīt publiskā tirgotāja pienākumus. Līdz šā likuma 107. panta ceturtās daļas 3. punktā noteiktā dabasgāzes apjoma noglabāšanai Inčukalna pazemes gāzes krātuvē akciju sabiedrība "Latvenergo" saskaņā ar Ministru kabineta noteikto kārtību var izmantot šā likuma 64. panta pirmās daļas 3. punktā noteiktās rezerves.
 
 ([14.07.2022.](https://likumi.lv/doc.php?id=%20334350) likuma redakcijā, kas stājas spēkā [11.08.2022.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2022/08/11))
 
-67\. Ja iestājas šā likuma 107. panta 4.1 daļā minētie tiesiskie apstākļi un akciju sabiedrība "Latvenergo" pilda publiskā tirgotāja pienākumus:
+67. Ja iestājas šā likuma 107. panta 4.1 daļā minētie tiesiskie apstākļi un akciju sabiedrība "Latvenergo" pilda publiskā tirgotāja pienākumus:
 
 1) dabasgāzes tirgotājs, kurš līdz šā likuma 107. panta 4.1 daļā minēto tiesisko apstākļu iestāšanās dienai pildīja publiskā tirgotāja pienākumus, vienas dienas laikā sniedz akciju sabiedrībai "Latvenergo" informāciju par saistītajiem lietotājiem, kuriem jānodrošina dabasgāzes tirdzniecība;
 
@@ -2044,15 +2042,15 @@ Pārejas noteikumi
 
 ([14.07.2022.](https://likumi.lv/doc.php?id=%20334350) likuma redakcijā, kas stājas spēkā [11.08.2022.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2022/08/11))
 
-68\. Šā likuma 106. panta ceturtā daļa stājas spēkā 2023. gada 1. janvārī.
+68. Šā likuma 106. panta ceturtā daļa stājas spēkā 2023. gada 1. janvārī.
 
 ([14.07.2022.](https://likumi.lv/doc.php?id=%20334350) likuma redakcijā, kas stājas spēkā [11.08.2022.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2022/08/11))
 
-69\. Šā likuma 107. pants zaudē spēku 2023. gada 1. maijā.
+69. Šā likuma 107. pants zaudē spēku 2023. gada 1. maijā.
 
 ([14.07.2022.](https://likumi.lv/doc.php?id=%20334350) likuma redakcijā, kas stājas spēkā [11.08.2022.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2022/08/11))
 
-70\. Grozījumi šā likuma 1. pantā par 34. un 36. punkta izslēgšanu un panta papildināšanu ar 50.1 punktu, grozījums 7. panta piektajā daļā, 107.1 pants un grozījums 109. pantā par piektās un sestās daļas izslēgšanu stājas spēkā 2023. gada 1. maijā. Līdz 2023. gada 30. aprīlim šā likuma 109. panta otrajā daļā noteikto pienākumu nodrošināt pēdējo garantēto piegādi saistītajiem lietotājiem pilda publiskais tirgotājs.
+70. Grozījumi šā likuma 1. pantā par 34. un 36. punkta izslēgšanu un panta papildināšanu ar 50.1 punktu, grozījums 7. panta piektajā daļā, 107.1 pants un grozījums 109. pantā par piektās un sestās daļas izslēgšanu stājas spēkā 2023. gada 1. maijā. Līdz 2023. gada 30. aprīlim šā likuma 109. panta otrajā daļā noteikto pienākumu nodrošināt pēdējo garantēto piegādi saistītajiem lietotājiem pilda publiskais tirgotājs.
 
 ([14.07.2022.](https://likumi.lv/doc.php?id=%20334350) likuma redakcijā, kas stājas spēkā [11.08.2022.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2022/08/11))
 
@@ -2060,23 +2058,23 @@ Pārejas noteikumi
 
 ([14.07.2022.](https://likumi.lv/doc.php?id=%20334350) likuma redakcijā, kas stājas spēkā [11.08.2022.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2022/08/11))
 
-72\. Lai veicinātu Latvijas enerģētisko neatkarību, Ministru kabinets izvērtē un līdz 2023. gada 31. decembrim iesniedz Saeimai ziņojumu par nacionālo kodolenerģijas programmu. Izstrādājot nacionālo kodolenerģijas programmu, ņem vērā ģeopolitisko situāciju, energoresursu izmaksas un pieejamību.
+72. Lai veicinātu Latvijas enerģētisko neatkarību, Ministru kabinets izvērtē un līdz 2023. gada 31. decembrim iesniedz Saeimai ziņojumu par nacionālo kodolenerģijas programmu. Izstrādājot nacionālo kodolenerģijas programmu, ņem vērā ģeopolitisko situāciju, energoresursu izmaksas un pieejamību.
 
 ([14.07.2022.](https://likumi.lv/doc.php?id=%20334350) likuma redakcijā, kas stājas spēkā [11.08.2022.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2022/08/11))
 
-73\. Šā likuma 1. panta 20.1 punkts un XV1 nodaļa stājas spēkā 2023. gada 1. jūlijā.
+73. Šā likuma 1. panta 20.1 punkts un XV1 nodaļa stājas spēkā 2023. gada 1. jūlijā.
 
 ([14.07.2022.](https://likumi.lv/doc.php?id=%20334353) likuma redakcijā, kas stājas spēkā [11.08.2022.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2022/08/11))
 
-74\. Šā likuma 49. panta 1.1 daļa stājas spēkā 2022. gada 1. oktobrī.
+74. Šā likuma 49. panta 1.1 daļa stājas spēkā 2022. gada 1. oktobrī.
 
 ([14.07.2022.](https://likumi.lv/doc.php?id=%20334353) likuma redakcijā, kas stājas spēkā [11.08.2022.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2022/08/11))
 
-75\. Šā likuma 49. panta 1.1 daļā noteiktais neatkarīgais siltumenerģijas ražotājs līdz 2022. gada 14. oktobrim iesniedz regulatoram siltumenerģijas ražošanas pakalpojuma tarifa projektu, ja komersantam nav regulatora noteikta siltumenerģijas ražošanas pakalpojuma tarifa. Neatkarīgais siltumenerģijas ražotājs līdz regulatora noteiktā tarifa spēkā stāšanās brīdim pārdod siltumenerģiju siltumenerģijas apgādes sistēmas operatoram par vienošanās cenu, kura ir saskaņota ar attiecīgo pašvaldību un kurā ietvertā kapitāla atdeves likme nav lielāka par atbilstošo regulatora noteikto kapitāla atdeves likmi siltumenerģijas apgādes pakalpojumiem.
+75. Šā likuma 49. panta 1.1 daļā noteiktais neatkarīgais siltumenerģijas ražotājs līdz 2022. gada 14. oktobrim iesniedz regulatoram siltumenerģijas ražošanas pakalpojuma tarifa projektu, ja komersantam nav regulatora noteikta siltumenerģijas ražošanas pakalpojuma tarifa. Neatkarīgais siltumenerģijas ražotājs līdz regulatora noteiktā tarifa spēkā stāšanās brīdim pārdod siltumenerģiju siltumenerģijas apgādes sistēmas operatoram par vienošanās cenu, kura ir saskaņota ar attiecīgo pašvaldību un kurā ietvertā kapitāla atdeves likme nav lielāka par atbilstošo regulatora noteikto kapitāla atdeves likmi siltumenerģijas apgādes pakalpojumiem.
 
 ([14.07.2022.](https://likumi.lv/doc.php?id=%20334353) likuma redakcijā, kas stājas spēkā [11.08.2022.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2022/08/11))
 
-Informatīva atsauce uz Eiropas Savienības direktīvām
+## Informatīva atsauce uz Eiropas Savienības direktīvām
 
 ([17.06.2010](https://likumi.lv/ta/id/212855-grozijumi-energetikas-likuma). likuma redakcijā ar grozījumiem, kas izdarīti ar 22.09.2011., 11.02.2016., 03.03.2016., 21.01.2021. un [14.07.2022.](https://likumi.lv/doc.php?id=%20334353) likumu, kas stājas spēkā [11.08.2022.](https://likumi.lv/ta/id/49833-energetikas-likums/redakcijas-datums/2022/08/11))
 
