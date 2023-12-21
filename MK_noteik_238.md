@@ -21,6 +21,8 @@ Ugunsdrošības noteikumi
 
 2.1. atbildīgā persona – [Ugunsdrošības un ugunsdzēsības likuma](https://m.likumi.lv/ta/id/68293-ugunsdrosibas-un-ugunsdzesibas-likums) [9\. pantā](https://m.likumi.lv/ta/id/68293-ugunsdrosibas-un-ugunsdzesibas-likums#p9) noteiktais tiesību subjekts;
 
+
+
 2.2. būvobjekts – objekts vai teritorija, kurā notiek būvdarbi;
 
 2.3. daudzdzīvokļu objekts – objekts, kurā ir divi dzīvokļi un vairāk;
