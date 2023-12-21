@@ -1,4 +1,5 @@
 # Par valsts un pašvaldību dzīvojamo māju privatizāciju
+
 #### URL:https://likumi.lv/doc.php?id=35770
 Grozījumi:
 
