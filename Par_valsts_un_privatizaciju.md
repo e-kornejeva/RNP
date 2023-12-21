@@ -9,7 +9,7 @@ prezidents izsludina šādu likumu:
 
 Par valsts un pašvaldību dzīvojamo māju privatizāciju
 
-## I nodaļa  Vispārīgie noteikumi
+ I nodaļa  Vispārīgie noteikumi
 
 **1.pants. Likumā lietotie termini**
 
@@ -102,7 +102,7 @@ Privatizēt šā likuma 7. un 8. pantā minētos privatizācijas objektus šajā
 
 (Ar grozījumiem, kas izdarīti ar [18.05.2006](https://likumi.lv/ta/id/136684-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likumu, kas stājas spēkā [01.07.2006.](https://likumi.lv/ta/id/35770-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju/redakcijas-datums/2006/07/01))
 
-## II nodaļa  Privatizācijas objekts
+ II nodaļa  Privatizācijas objekts
 
 **7.pants. Privatizācijas objekts, ja dzīvojamā māja atrodas uz valsts vai pašvaldības īpašumā esošas zemes**
 
@@ -144,7 +144,7 @@ Ja viendzīvokļa vai daudzdzīvokļu māja atrodas uz fiziskās vai juridiskās
 
 ([11.06.1997](https://likumi.lv/ta/id/51976-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likuma redakcijā ar grozījumiem, kas izdarīti ar [20.11.2003.](https://likumi.lv/ta/id/81445-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [21.02.2008.](https://likumi.lv/ta/id/172362-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [12.06.2009.](https://likumi.lv/ta/id/194049-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-) un [13.06.2019](https://likumi.lv/ta/id/307808-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likumu, kas stājas spēkā [12.07.2019.](https://likumi.lv/ta/id/35770-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju/redakcijas-datums/2019/07/12))
 
-## III nodaļa  Nosacījumi, kas jāievēro, piedāvājot privatizācijai atsevišķu dzīvokli,  neapdzīvojamo telpu, mākslinieka darbnīcu, viendzīvokļa vai daudzdzīvokļu māju
+ III nodaļa  Nosacījumi, kas jāievēro, piedāvājot privatizācijai atsevišķu dzīvokli,  neapdzīvojamo telpu, mākslinieka darbnīcu, viendzīvokļa vai daudzdzīvokļu māju
 
 **9.pants. Privatizācijas nosacījumi, ja dzīvojamā māja ir kopīpašums**
 
@@ -176,7 +176,7 @@ Viendzīvokļa vai daudzdzīvokļu māju, dzīvokli, neapdzīvojamo telpu un mā
 
 Dienesta dzīvokli drīkst privatizēt, ja iepriekš atcelts dienesta dzīvokļa statuss.
 
-## IV nodaļa  Secība, kādā tiek privatizētas viendzīvokļa vai daudzdzīvokļu mājas, dzīvokļi,  neapdzīvojamās telpas un mākslinieku darbnīcas, kas atrodas daudzdzīvokļu mājās, kuras uzceltas uz valsts vai pašvaldības īpašumā esošas zemes
+ IV nodaļa  Secība, kādā tiek privatizētas viendzīvokļa vai daudzdzīvokļu mājas, dzīvokļi,  neapdzīvojamās telpas un mākslinieku darbnīcas, kas atrodas daudzdzīvokļu mājās, kuras uzceltas uz valsts vai pašvaldības īpašumā esošas zemes
 
 **13.pants. Secība, kādā tiek privatizēts dzīvoklis vai viendzīvokļa māja, par kuras lietošanu noslēgts dzīvojamās telpas īres līgums**
 
@@ -312,7 +312,7 @@ Dienesta dzīvokli drīkst privatizēt, ja iepriekš atcelts dienesta dzīvokļa
 
 ([22.08.1996](https://likumi.lv/ta/id/63736-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likuma redakcijā ar grozījumiem, kas izdarīti ar [28.11.1996.](https://likumi.lv/ta/id/41627-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [11.06.1997.](https://likumi.lv/ta/id/51976-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [16.12.1999.](https://likumi.lv/ta/id/14942-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [26.10.2000.](https://likumi.lv/ta/id/12561-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-) un [05.07.2001](https://likumi.lv/ta/id/26315-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likumu, kas stājas spēkā [03.08.2001.](https://likumi.lv/ta/id/35770-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju/redakcijas-datums/2001/08/03))
 
-## V nodaļa  Secība, kādā tiek privatizētas viendzīvokļa vai daudzdzīvokļu mājas,  kā arī dzīvokļi, neapdzīvojamās telpas un mākslinieku darbnīcas, kas atrodas dzīvojamās mājās, kuras uzceltas uz fizisko vai juridisko personu zemes
+ V nodaļa  Secība, kādā tiek privatizētas viendzīvokļa vai daudzdzīvokļu mājas,  kā arī dzīvokļi, neapdzīvojamās telpas un mākslinieku darbnīcas, kas atrodas dzīvojamās mājās, kuras uzceltas uz fizisko vai juridisko personu zemes
 
 **19.pants. Secība, kādā tiek privatizēts izīrēts dzīvoklis vai izīrēta viendzīvokļa māja**
 
@@ -422,7 +422,7 @@ Mākslinieka darbnīcu, kas atrodas daudzdzīvokļu mājā, kura uzcelta uz fizi
 
 Iznomātu un neiznomātu neapdzīvojamo telpu (izņemot mākslinieka darbnīcu), kas atrodas daudzdzīvokļu mājā, kura uzcelta uz fiziskās vai juridiskās personas zemes, privatizē, ievērojot šā likuma 18.pantā noteikto.
 
-## VI nodaļa  Privatizācijas objekta novērtēšana
+ VI nodaļa  Privatizācijas objekta novērtēšana
 
 **25.pants. Privatizācijas objekta novērtēšanas secība**
 
@@ -496,7 +496,7 @@ Vispirms novērtē un piedāvā privatizācijai neizīrētas viendzīvokļa un d
 
 ([19.06.2014](https://likumi.lv/ta/id/267425-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likuma redakcijā ar grozījumiem, kas izdarīti ar [13.06.2019](https://likumi.lv/ta/id/307808-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likumu, kas stājas spēkā [12.07.2019.](https://likumi.lv/ta/id/35770-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju/redakcijas-datums/2019/07/12))
 
-## VII nodaļa  Privatizācijas paziņojums un atbildes sniegšana uz to
+ VII nodaļa  Privatizācijas paziņojums un atbildes sniegšana uz to
 
 **29.pants. Piedāvājums privatizēt konkrēto privatizācijas objektu**
 
@@ -608,7 +608,7 @@ Privatizācijas paziņojumā jānorāda:
 
 ([11.06.1997](https://likumi.lv/ta/id/51976-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likuma redakcijā, kas stājas spēkā [11.07.1997.](https://likumi.lv/ta/id/35770-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju/redakcijas-datums/1997/07/11))
 
-## VIII nodaļa  Objekta privatizācija atklātā izsolē
+ VIII nodaļa  Objekta privatizācija atklātā izsolē
 
 **35.pants. Termiņš, kādā uzsākama objekta privatizācija atklātā izsolē**
 
@@ -676,7 +676,7 @@ Privatizācijas paziņojumā jānorāda:
 
 Privatizācijas komisija izsoli organizē saskaņā ar šo likumu un Ministru kabineta noteikumiem.
 
-## IX nodaļa  Pirkuma līgums
+ IX nodaļa  Pirkuma līgums
 
 **40.pants. Lēmums par pirkuma līguma slēgšanu**
 
@@ -820,7 +820,7 @@ Privatizācijas komisija izsoli organizē saskaņā ar šo likumu un Ministru ka
 
 (Ar grozījumiem, kas izdarīti ar [22.08.1996.](https://likumi.lv/ta/id/63736-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [28.11.1996.](https://likumi.lv/ta/id/41627-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [11.06.1997.](https://likumi.lv/ta/id/51976-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-) un [07.05.1998](https://likumi.lv/ta/id/48169-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likumu, kas stājas spēkā [02.06.1998.](https://likumi.lv/ta/id/35770-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju/redakcijas-datums/1998/06/02))
 
-## X nodaļa  Īpašuma tiesību nostiprināšana
+ X nodaļa  Īpašuma tiesību nostiprināšana
 
 **48.pants. Privatizētā objekta īpašuma tiesību nostiprināšana**
 
@@ -840,7 +840,7 @@ Privatizācijas komisija izsoli organizē saskaņā ar šo likumu un Ministru ka
 
 Ja saskaņā ar šā likuma 47.pantu noslēgta vienošanās par dzīvokļa vai viendzīvokļa mājas nodošanu īpašumā bez atlīdzības, īpašuma tiesības nostiprināmas uz attiecīgas vienošanās pamata.
 
-## XI nodaļa  Privatizētās dzīvojamās mājas pārvaldīšana
+ XI nodaļa  Privatizētās dzīvojamās mājas pārvaldīšana
 
 (Nodaļa [26.10.2000](https://likumi.lv/ta/id/12561-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likuma redakcijā, kas stājas spēkā [01.11.2000.](https://likumi.lv/ta/id/35770-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju/redakcijas-datums/2000/11/01))
 
@@ -986,7 +986,7 @@ Rīcību ar privatizēto objektu, tā lietošanas ierobežojumus, kā arī pārv
 
 (Ar grozījumiem, kas izdarīti ar [18.05.2006](https://likumi.lv/ta/id/136684-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likumu, Satversmes tiesas [15.04.2009.](https://likumi.lv/ta/id/190796-par-likuma-par-zemes-reformu-latvijas-republikas-pilsetas-12-panta-otras-dalas-vardu-daudzdzivoklu-dzivojamas-majas-un-parejas-...) spriedumu, 22.10.2009., 19.06.2014., 01.06.2017., Satversmes tiesas [12.04.2018.](https://likumi.lv/ta/id/298335-par-2017-gada-1-junija-likuma-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-1-panta-un-2017-gada-22-ju...) spriedumu un [13.06.2019](https://likumi.lv/ta/id/307808-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likumu, kas stājas spēkā [12.07.2019.](https://likumi.lv/ta/id/35770-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju/redakcijas-datums/2019/07/12))
 
-## XII nodaļa  Īrnieka un nomnieka sociālās garantijas privatizētajos objektos
+ XII nodaļa  Īrnieka un nomnieka sociālās garantijas privatizētajos objektos
 
 **55.pants. Dzīvokļa īrnieku tiesību aizsardzība**
 
@@ -998,7 +998,7 @@ Rīcību ar privatizēto objektu, tā lietošanas ierobežojumus, kā arī pārv
 
 Privatizētās neapdzīvojamās telpas vai mākslinieka darbnīcas īpašnieks triju gadu laikā pēc privatizētā īpašuma ierakstīšanas zemesgrāmatā nevar prasīt līdzšinējā iznomātāja noslēgtā nomas līguma izbeigšanu pirms termiņa, ja nomnieks pienācīgi pilda savas saistības.
 
-## XIII nodaļa  Privatizācijas komisijas un privatizācijas uzraudzība
+ XIII nodaļa  Privatizācijas komisijas un privatizācijas uzraudzība
 
 **57.pants. Privatizācijas komisijas**
 
@@ -1110,7 +1110,7 @@ Citus pašvaldību dzīvojamo māju privatizācijas komisiju darbības noteikumu
 
 (Ar grozījumiem, kas izdarīti ar [17.06.2021](https://likumi.lv/ta/id/324127-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likumu, kas stājas spēkā [01.07.2021.](https://likumi.lv/ta/id/35770-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju/redakcijas-datums/2021/07/01))
 
-## XIV nodaļa  Privatizācijas rezultātā iegūtie līdzekļi
+ XIV nodaļa  Privatizācijas rezultātā iegūtie līdzekļi
 
 **66.pants. Dzīvojamās mājas privatizācijas tehniskās izpildes apmaksa un nodokļi (nodevas)**
 
@@ -1146,7 +1146,7 @@ Citus pašvaldību dzīvojamo māju privatizācijas komisiju darbības noteikumu
 
 ([07.05.1998](https://likumi.lv/ta/id/48169-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likuma redakcijā ar grozījumiem, kas izdarīti ar [26.10.2000.](https://likumi.lv/ta/id/12561-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [05.07.2001.](https://likumi.lv/ta/id/26315-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [27.06.2002.](https://likumi.lv/ta/id/64329-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [30.10.2003.](https://likumi.lv/ta/id/81058-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [07.04.2004.](https://likumi.lv/ta/id/87665-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [21.02.2008.](https://likumi.lv/ta/id/172362-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [12.06.2009.](https://likumi.lv/ta/id/194049-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [19.09.2013.](https://likumi.lv/ta/id/260406-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [16.01.2014.](https://likumi.lv/ta/id/263965-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-) un [13.06.2019](https://likumi.lv/ta/id/307808-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likumu, kas stājas spēkā [12.07.2019.](https://likumi.lv/ta/id/35770-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju/redakcijas-datums/2019/07/12))
 
-## XV nodaļa  Sūdzību un strīdu izskatīšanas kārtība
+ XV nodaļa  Sūdzību un strīdu izskatīšanas kārtība
 
 **68.pants. Pašvaldības domes kompetence strīdu izskatīšanā**
 
@@ -1232,7 +1232,7 @@ Dzīvokļu, neapdzīvojamo telpu, mākslinieku darbnīcu, viendzīvokļa māju v
 
 (Ar grozījumiem, kas izdarīti ar [16.12.1999](https://likumi.lv/ta/id/14942-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likumu, kas stājas spēkā [01.01.2000.](https://likumi.lv/ta/id/35770-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju/redakcijas-datums/2000/01/01))
 
-## XV<sup>1</sup> nodaļa  Dzīvokļu, mākslinieku darbnīcu un neapdzīvojamo telpu nodošana īpašumā līdz dzīvojamās mājas privatizācijai
+ XV<sup>1</sup> nodaļa  Dzīvokļu, mākslinieku darbnīcu un neapdzīvojamo telpu nodošana īpašumā līdz dzīvojamās mājas privatizācijai
 
 (Nodaļa [11.06.1997](https://likumi.lv/ta/id/51976-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likuma redakcijā, kas stājas spēkā [11.07.1997.](https://likumi.lv/ta/id/35770-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju/redakcijas-datums/1997/07/11))
 
@@ -1380,7 +1380,7 @@ Valsts viendzīvokļa vai daudzdzīvokļu mājā esošu izīrētu dzīvokli, izn
 
 (Ar grozījumiem, kas izdarīti ar [07.05.1998.](https://likumi.lv/ta/id/48169-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [16.12.1999.](https://likumi.lv/ta/id/14942-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-), [21.02.2013.](https://likumi.lv/ta/id/255197-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-) un [01.06.2017](https://likumi.lv/ta/id/291455-grozijumi-likuma-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju-). likumu, kas stājas spēkā [27.06.2017.](https://likumi.lv/ta/id/35770-par-valsts-un-pasvaldibu-dzivojamo-maju-privatizaciju/redakcijas-datums/2017/06/27))
 
-## XVI nodaļa  Nobeiguma noteikumi
+ XVI nodaļa  Nobeiguma noteikumi
 
 **74.pants. Valsts un pašvaldību dzīvojamo māju nodošana privatizācijai**
 
