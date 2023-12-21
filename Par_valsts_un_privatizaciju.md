@@ -899,7 +899,7 @@ Ja saskaņā ar šā likuma 47.pantu noslēgta vienošanās par dzīvokļa vai v
 
 4) dzīvokļu īpašnieku sabiedrības dalībnieki vai arī savstarpēju līgumu noslēgušie dzīvokļu īpašnieki pārstāv vairāk nekā pusi no dzīvojamā mājā esošo privatizācijas objektu skaita. Šis noteikums neattiecas uz šā panta ceturtajā daļā minēto gadījumu.
 
-(5<sup>1</sup>) Ja dzīvojamā mājā privatizēts tikai viens dzīvokļa īpašums un šā dzīvokļa īpašnieks ir iesniedzis pieteikumu par dzīvojamās mājas pārņemšanu, pašvaldība vai valsts dzīvojamās mājas valdītājs var nodot dzīvojamās mājas pārvaldīšanas tiesības šim dzīvokļa īpašniekam, vienojoties ar viņu par dzīvojamās mājas neprivatizēto objektu turpmākās pārvaldīšanas un apsaimniekošanas kārtību.
+(5^1^) Ja dzīvojamā mājā privatizēts tikai viens dzīvokļa īpašums un šā dzīvokļa īpašnieks ir iesniedzis pieteikumu par dzīvojamās mājas pārņemšanu, pašvaldība vai valsts dzīvojamās mājas valdītājs var nodot dzīvojamās mājas pārvaldīšanas tiesības šim dzīvokļa īpašniekam, vienojoties ar viņu par dzīvojamās mājas neprivatizēto objektu turpmākās pārvaldīšanas un apsaimniekošanas kārtību.
 
 (6) Pašvaldība vai valsts dzīvojamās mājas valdītājs nodod dzīvojamās mājas pārvaldīšanas tiesības dzīvokļu īpašnieku sabiedrībai vai ar dzīvokļu īpašnieku savstarpēju līgumu pilnvarotai personai ne vēlāk kā viena mēneša laikā no dienas, kad izpildīti visi šā panta piektajā daļā minētie nosacījumi. Dzīvojamās mājas pārvaldīšanas tiesības nodod, parakstot dzīvojamās mājas nodošanas-pieņemšanas aktu.
 
