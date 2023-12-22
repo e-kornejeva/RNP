@@ -1,25 +1,29 @@
 # Noteikumi par mērīšanas līdzekļu kalibrēšanu
+
+#### URL:https://likumi.lv/doc.php?id=180387
+
+
 **Ministru kabineta noteikumi Nr.693**
 
 Rīgā 2008.gada 25.augustā (prot. Nr.60 50.§)
 
 Noteikumi par mērīšanas līdzekļu kalibrēšanu
 
-1\. Noteikumi nosaka prasības mērīšanas līdzekļiem un mērīšanas līdzekļu metroloģiskās kontroles kārtību, tajā skaitā kārtību, kādā tiek veikta mērīšanas līdzekļu ārpuskārtas kalibrēšana.
+1. Noteikumi nosaka prasības mērīšanas līdzekļiem un mērīšanas līdzekļu metroloģiskās kontroles kārtību, tajā skaitā kārtību, kādā tiek veikta mērīšanas līdzekļu ārpuskārtas kalibrēšana.
 
 (MK [23.12.2014.](https://likumi.lv/ta/id/271249-grozijumi-ministru-kabineta-2008-gada-25-augusta-noteikumos-nr-693-noteikumi-par-merisanas-lidzeklu-kalibresanu-) noteikumu Nr.803 redakcijā)
 
-2\. Šo noteikumu prasības piemērojamas mērīšanas līdzekļiem, ar kuriem veic mērījumus, lai nodrošinātu procesiem vai pakalpojumiem noteikto būtisko prasību ievērošanu ([pielikums](https://likumi.lv/ta/id/180387#piel0)).
+2. Šo noteikumu prasības piemērojamas mērīšanas līdzekļiem, ar kuriem veic mērījumus, lai nodrošinātu procesiem vai pakalpojumiem noteikto būtisko prasību ievērošanu ([pielikums](https://likumi.lv/ta/id/180387#piel0)).
 
-3\. Mērīšanas līdzekli kalibrē, lai nodrošinātu mērīšanas līdzekļa ticamus rādījumus.
+3. Mērīšanas līdzekli kalibrē, lai nodrošinātu mērīšanas līdzekļa ticamus rādījumus.
 
-4\. Mērīšanas līdzekli kalibrē tā lietotāja norādītajā mērīšanas diapazonā. Mērīšanas līdzekļa lietotājs ir atbildīgs par kalibrētā mērīšanas līdzekļa atbilstību paredzētajai lietošanai.
+4. Mērīšanas līdzekli kalibrē tā lietotāja norādītajā mērīšanas diapazonā. Mērīšanas līdzekļa lietotājs ir atbildīgs par kalibrētā mērīšanas līdzekļa atbilstību paredzētajai lietošanai.
 
-5\. Mērīšanas līdzekļus kalibrē laboratorijas, kuras akreditētas nacionālajā akreditācijas institūcijā saskaņā ar normatīvajiem aktiem par atbilstības novērtēšanas institūciju novērtēšanu, akreditāciju un uzraudzību, kā arī citu Eiropas Savienības dalībvalstu vai Eiropas Ekonomikas zonas valstu akreditētas kalibrēšanas laboratorijas (turpmāk – laboratorija).
+5. Mērīšanas līdzekļus kalibrē laboratorijas, kuras akreditētas nacionālajā akreditācijas institūcijā saskaņā ar normatīvajiem aktiem par atbilstības novērtēšanas institūciju novērtēšanu, akreditāciju un uzraudzību, kā arī citu Eiropas Savienības dalībvalstu vai Eiropas Ekonomikas zonas valstu akreditētas kalibrēšanas laboratorijas (turpmāk – laboratorija).
 
 (MK [23.12.2014.](https://likumi.lv/ta/id/271249-grozijumi-ministru-kabineta-2008-gada-25-augusta-noteikumos-nr-693-noteikumi-par-merisanas-lidzeklu-kalibresanu-) noteikumu Nr.803 redakcijā)
 
-6\. Laboratorija:
+6. Laboratorija:
 
 6.1. uz mērīšanas līdzekļa redzamā vietā piestiprina kalibrēšanas uzlīmi. Uzlīme satur šādu informāciju:
 
@@ -97,13 +101,13 @@ Noteikumi par mērīšanas līdzekļu kalibrēšanu
 
 (MK [23.12.2014.](https://likumi.lv/ta/id/271249-grozijumi-ministru-kabineta-2008-gada-25-augusta-noteikumos-nr-693-noteikumi-par-merisanas-lidzeklu-kalibresanu-) noteikumu Nr.803 redakcijā)
 
-8\. Noteikumi stājas spēkā 2008.gada 1.septembrī.
+8. Noteikumi stājas spēkā 2008.gada 1.septembrī.
 
-9\. Šo noteikumu [pielikumā](https://likumi.lv/ta/id/180387#piel0) minētajiem mērīšanas līdzekļiem, kuru lietošana uzsākta līdz šo noteikumu spēkā stāšanās dienai, izņemot šo noteikumu [10.punktā](https://likumi.lv/ta/id/180387#p10) minētos verificētos mērīšanas līdzekļus, šo noteikumu prasības piemēro ar 2009.gada 1.septembri.
+9. Šo noteikumu [pielikumā](https://likumi.lv/ta/id/180387#piel0) minētajiem mērīšanas līdzekļiem, kuru lietošana uzsākta līdz šo noteikumu spēkā stāšanās dienai, izņemot šo noteikumu [10.punktā](https://likumi.lv/ta/id/180387#p10) minētos verificētos mērīšanas līdzekļus, šo noteikumu prasības piemēro ar 2009.gada 1.septembri.
 
 (MK [20.07.2010.](https://likumi.lv/ta/id/213726-grozijumi-ministru-kabineta-2008-gada-25-augusta-noteikumos-nr-693-noteikumi-par-merisanas-lidzeklu-kalibresanu-) noteikumu Nr.637 redakcijā)
 
-10\. Verificētiem mērīšanas līdzekļiem, kuriem ir derīgs verificēšanas sertifikāts, kas izsniegts līdz 2008.gada 1.septembrim, šo noteikumu [pielikumā](https://likumi.lv/ta/id/180387#piel0) minēto prasību kalibrēšanas periodiskumam piemēro ne vēlāk kā ar nākamo dienu pēc minētā verificēšanas sertifikāta derīguma termiņa beigām.
+10. Verificētiem mērīšanas līdzekļiem, kuriem ir derīgs verificēšanas sertifikāts, kas izsniegts līdz 2008.gada 1.septembrim, šo noteikumu [pielikumā](https://likumi.lv/ta/id/180387#piel0) minēto prasību kalibrēšanas periodiskumam piemēro ne vēlāk kā ar nākamo dienu pēc minētā verificēšanas sertifikāta derīguma termiņa beigām.
 
 (MK [20.07.2010.](https://likumi.lv/ta/id/213726-grozijumi-ministru-kabineta-2008-gada-25-augusta-noteikumos-nr-693-noteikumi-par-merisanas-lidzeklu-kalibresanu-) noteikumu Nr.637 redakcijā)
 
@@ -119,96 +123,29 @@ Kalibrējamo mērīšanas līdzekļu saraksts
 
 (Pielikums grozīts ar MK [20.07.2010.](https://likumi.lv/ta/id/213726-grozijumi-ministru-kabineta-2008-gada-25-augusta-noteikumos-nr-693-noteikumi-par-merisanas-lidzeklu-kalibresanu-) noteikumiem Nr.637; MK [06.09.2011.](https://likumi.lv/ta/id/235640-grozijumi-ministru-kabineta-2008-gada-25-augusta-noteikumos-nr-693-noteikumi-par-merisanas-lidzeklu-kalibresanu-) noteikumiem Nr.689)
 
-
-
-* Nr.p.k.: 1
-  * Mērīšanas līdzekļa nosaukums: 2
-  * Kalibrēšanas periodiskums(ne retāk kā): 3
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): 4
-* Nr.p.k.: 1.
-  * Mērīšanas līdzekļa nosaukums: Refraktometri
-  * Kalibrēšanas periodiskums(ne retāk kā): reizi 2 gados
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): (1,3–1,7) nD vai (0–95) masas %; MPK 0,0001nD vai 0,1 masas %
-* Nr.p.k.: 2.
-  * Mērīšanas līdzekļa nosaukums: Spektrofotometri
-  * Kalibrēšanas periodiskums(ne retāk kā): reizi 2 gados
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): (0,1 ÷ 100) % τ; MPK (0,003 ÷ 2,500 ) abs.
-* Nr.p.k.: 3.
-  * Mērīšanas līdzekļa nosaukums: Fotoelektrokolorimetri
-  * Kalibrēšanas periodiskums(ne retāk kā): reizi 2 gados
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): (0,1 ÷ 100) % τ; MPK 1,0 % τ
-* Nr.p.k.: 4.
-  * Mērīšanas līdzekļa nosaukums: Sprādzienbīstamo koncentrāciju signalizatori
-  * Kalibrēšanas periodiskums(ne retāk kā): reizi gadā
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): Tehniskā dokumentācija
-* Nr.p.k.: 5.
-  * Mērīšanas līdzekļa nosaukums: Automātiskie šķidruma līmeņa mērītāji stacionārās tvertnēs
-  * Kalibrēšanas periodiskums(ne retāk kā): reizi 3 gados
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): 2. un 3.klase
-* Nr.p.k.: 6.
-  * Mērīšanas līdzekļa nosaukums: Tvertnes spirta un alkoholisko dzērienu uzglabāšanai
-  * Kalibrēšanas periodiskums(ne retāk kā): reizi 5 gados
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): Precizitāte – tilpuma kalibrēšanas kļūda ± 0,5 %
-* Nr.p.k.: 7.
-  * Mērīšanas līdzekļa nosaukums: Metāla mērtrauki spirta un naftas produktu tilpuma mērīšanai
-  * Kalibrēšanas periodiskums(ne retāk kā): reizi 5 gados
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): ± 1/2000 no mērtrauka nominālā tilpuma
-* Nr.p.k.: 8.
-  * Mērīšanas līdzekļa nosaukums: Tvertnes naftas produktu uzglabāšanai
-  * Kalibrēšanas periodiskums(ne retāk kā): reizi 12 gados
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): Precizitāte – tilpuma kalibrēšanas kļūda ± 0,5 %
-* Nr.p.k.: 9.
-  * Mērīšanas līdzekļa nosaukums: Skaitītāji, kas nav iebūvēti tilpnēs vai mērsistēmās, spirta un naftas produktu uzskaitei
-  * Kalibrēšanas periodiskums(ne retāk kā): reizi gadā
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): 0,5 %
-* Nr.p.k.: 10.
-  * Mērīšanas līdzekļa nosaukums: Termometri spirta temperatūras mērīšanai
-  * Kalibrēšanas periodiskums(ne retāk kā): reizi 2 gados
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): Tehniskā dokumentācija
-* Nr.p.k.: 11.
-  * Mērīšanas līdzekļa nosaukums: Termometri naftas produktu temperatūras noteikšanai
-  * Kalibrēšanas periodiskums(ne retāk kā): reizi 2 gados
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): Tehniskā dokumentācija
-* Nr.p.k.: 12.
-  * Mērīšanas līdzekļa nosaukums: Skaņas līmeņa mērītāji
-  * Kalibrēšanas periodiskums(ne retāk kā): reizi 3 gados
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): 1. un 2.klase(MPK ekspluatācijā ir 1,25 reizes lielāka par kalibrēšanas MPK)
-* Nr.p.k.: 13.
-  * Mērīšanas līdzekļa nosaukums: Audiometri
-  * Kalibrēšanas periodiskums(ne retāk kā): reizi 3 gados
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): Tehniskā dokumentācija
-* Nr.p.k.: 14.
-  * Mērīšanas līdzekļa nosaukums: Vibrometri
-  * Kalibrēšanas periodiskums(ne retāk kā): reizi 3 gados
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): 1. un 2.klase(MPK ekspluatācijā ir 1,25 reizes lielāka par kalibrēšanas MPK)
-* Nr.p.k.: 15.
-  * Mērīšanas līdzekļa nosaukums: Multimetri (ampērmetri, voltmetri, vatmetri)
-  * Kalibrēšanas periodiskums(ne retāk kā): reizi 2 gados
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): Tehniskā dokumentācija
-* Nr.p.k.: 16.
-  * Mērīšanas līdzekļa nosaukums: Augstsprieguma iekārtas izolācijas pārbaudei
-  * Kalibrēšanas periodiskums(ne retāk kā): reizi 2 gados
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): Tehniskā dokumentācija
-* Nr.p.k.: 17.
-  * Mērīšanas līdzekļa nosaukums: Zemējuma mērītāji, ommetri, megaommetri
-  * Kalibrēšanas periodiskums(ne retāk kā): reizi 2 gados
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): Tehniskā dokumentācija
-* Nr.p.k.: 18.
-  * Mērīšanas līdzekļa nosaukums: Strāvas mērknaibles
-  * Kalibrēšanas periodiskums(ne retāk kā): reizi 2 gados
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): Tehniskā dokumentācija
-* Nr.p.k.: 19.
-  * Mērīšanas līdzekļa nosaukums: Dozimetri
-  * Kalibrēšanas periodiskums(ne retāk kā): reizi 2 gados
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): Tehniskā dokumentācija
-* Nr.p.k.: 20.
-  * Mērīšanas līdzekļa nosaukums: Radiometri
-  * Kalibrēšanas periodiskums(ne retāk kā): reizi 2 gados
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): Tehniskā dokumentācija
-* Nr.p.k.: 21.
-  * Mērīšanas līdzekļa nosaukums: Manometri, kas uzstādīti spiedieniekārtu kompleksos, kuri izgatavoti saskaņā ar normatīvajiem aktiem par spiedieniekārtām un to kompleksiem, izņemot manometrus, kuriem veikta verificēšana saskaņā ar normatīvajiem aktiem par valsts metroloģiskajai kontrolei pakļauto mērīšanas līdzekļu sarakstu
-  * Kalibrēšanas periodiskums(ne retāk kā): reizi gadā
-  * Precizitātes klase/Maksimāli pieļaujamā kļūda (MPK): 0,1., 0,25., 0,6., 1., 1,6., 2,5. vai 4.klase atbilstoši tehniskajai dokumentācijai
-
+| Nr. p.k. |                                                                                                                                      Mērīšanas līdzekļa nosaukums                                                                                                                                     | Kalibrēšanas periodiskums (ne retāk kā) |                 Precizitātes klase/ Maksimāli pieļaujamā kļūda (MPK)                |
+|:--------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------:|:-----------------------------------------------------------------------------------:|
+|     1    |                                                                                                                                                   2                                                                                                                                                   |                    3                    |                                          4                                          |
+| 1.       | Refraktometri                                                                                                                                                                                                                                                                                         | reizi 2 gados                           | (1,3–1,7) nD vai (0–95) masas %; MPK 0,0001nD vai 0,1 masas %                       |
+| 2.       | Spektrofotometri                                                                                                                                                                                                                                                                                      | reizi 2 gados                           | (0,1 ÷ 100) % τ; MPK (0,003 ÷ 2,500 ) abs.                                          |
+| 3.       | Fotoelektrokolorimetri                                                                                                                                                                                                                                                                                | reizi 2 gados                           | (0,1 ÷ 100) % τ; MPK 1,0 % τ                                                        |
+| 4.       | Sprādzienbīstamo koncentrāciju signalizatori                                                                                                                                                                                                                                                          | reizi gadā                              | Tehniskā dokumentācija                                                              |
+| 5.       | Automātiskie šķidruma līmeņa mērītāji stacionārās tvertnēs                                                                                                                                                                                                                                            | reizi 3 gados                           | 2. un 3.klase                                                                       |
+| 6.       | Tvertnes spirta un alkoholisko dzērienu uzglabāšanai                                                                                                                                                                                                                                                  | reizi 5 gados                           | Precizitāte – tilpuma kalibrēšanas kļūda ± 0,5 %                                    |
+| 7.       | Metāla mērtrauki spirta un naftas produktu tilpuma mērīšanai                                                                                                                                                                                                                                          | reizi 5 gados                           | ± 1/2000 no mērtrauka nominālā tilpuma                                              |
+| 8.       | Tvertnes naftas produktu uzglabāšanai                                                                                                                                                                                                                                                                 | reizi 12 gados                          | Precizitāte – tilpuma kalibrēšanas kļūda ± 0,5 %                                    |
+| 9.       | Skaitītāji, kas nav iebūvēti tilpnēs vai mērsistēmās, spirta un naftas produktu uzskaitei                                                                                                                                                                                                             | reizi gadā                              | 0,5 %                                                                               |
+| 10.      | Termometri spirta temperatūras mērīšanai                                                                                                                                                                                                                                                              | reizi 2 gados                           | Tehniskā dokumentācija                                                              |
+| 11.      | Termometri naftas produktu temperatūras noteikšanai                                                                                                                                                                                                                                                   | reizi 2 gados                           | Tehniskā dokumentācija                                                              |
+| 12.      | Skaņas līmeņa mērītāji                                                                                                                                                                                                                                                                                | reizi 3 gados                           | 1. un 2.klase (MPK ekspluatācijā ir 1,25 reizes lielāka par kalibrēšanas MPK)       |
+| 13.      | Audiometri                                                                                                                                                                                                                                                                                            | reizi 3 gados                           | Tehniskā dokumentācija                                                              |
+| 14.      | Vibrometri                                                                                                                                                                                                                                                                                            | reizi 3 gados                           | 1. un 2.klase (MPK ekspluatācijā ir 1,25 reizes lielāka par kalibrēšanas MPK)       |
+| 15.      | Multimetri (ampērmetri, voltmetri, vatmetri)                                                                                                                                                                                                                                                          | reizi 2 gados                           | Tehniskā dokumentācija                                                              |
+| 16.      | Augstsprieguma iekārtas izolācijas pārbaudei                                                                                                                                                                                                                                                          | reizi 2 gados                           | Tehniskā dokumentācija                                                              |
+| 17.      | Zemējuma mērītāji, ommetri, megaommetri                                                                                                                                                                                                                                                               | reizi 2 gados                           | Tehniskā dokumentācija                                                              |
+| 18.      | Strāvas mērknaibles                                                                                                                                                                                                                                                                                   | reizi 2 gados                           | Tehniskā dokumentācija                                                              |
+| 19.      | Dozimetri                                                                                                                                                                                                                                                                                             | reizi 2 gados                           | Tehniskā dokumentācija                                                              |
+| 20.      | Radiometri                                                                                                                                                                                                                                                                                            | reizi 2 gados                           | Tehniskā dokumentācija                                                              |
+| 21.      | Manometri, kas uzstādīti spiedieniekārtu kompleksos, kuri izgatavoti saskaņā ar normatīvajiem aktiem par spiedieniekārtām un to kompleksiem, izņemot manometrus, kuriem veikta verificēšana saskaņā ar normatīvajiem aktiem par valsts metroloģiskajai kontrolei pakļauto mērīšanas līdzekļu sarakstu | reizi gadā                              | 0,1., 0,25., 0,6., 1., 1,6., 2,5. vai 4.klase atbilstoši tehniskajai dokumentācijai |
 
 Ekonomikas ministrs K.Gerhards
