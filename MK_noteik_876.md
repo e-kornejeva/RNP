@@ -1,4 +1,7 @@
 # Siltumenerģijas piegādes un lietošanas noteikumi
+
+#### URL:https://likumi.lv/doc.php?id=183035
+
 **Ministru kabineta noteikumi Nr.876**
 
 Rīgā 2008.gada 21.oktobrī (prot. Nr.75 49.§)
@@ -19,7 +22,7 @@ I. Vispārīgie jautājumi
 
 (Grozīts ar MK [01.02.2022.](https://likumi.lv/ta/id/329649-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumiem Nr. 91; MK [20.09.2022.](https://likumi.lv/ta/id/335762-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumiem Nr. 590; MK [04.10.2022.](https://likumi.lv/ta/id/336253-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumiem Nr. 622)
 
-2\. Noteikumos lietoti šādi termini:
+2. Noteikumos lietoti šādi termini:
 
 2.1. siltumapgādes sistēmas piederības robeža – siltumtīklu un siltumapgādes sistēmu piederības un atbildības dalījuma vieta starp piegādātāju un lietotāju;
 
@@ -45,13 +48,13 @@ I. Vispārīgie jautājumi
 
 II. Līgums par siltumenerģijas piegādi
 
-3\. Siltumenerģiju lietotājam piegādā saskaņā ar šiem noteikumiem un piegādātāja un lietotāja noslēgto līgumu par siltumenerģijas piegādi (turpmāk – līgums). Ja līgums nav noslēgts, siltumenerģiju lietot aizliegts.
+3. Siltumenerģiju lietotājam piegādā saskaņā ar šiem noteikumiem un piegādātāja un lietotāja noslēgto līgumu par siltumenerģijas piegādi (turpmāk – līgums). Ja līgums nav noslēgts, siltumenerģiju lietot aizliegts.
 
-4\. Lietotājs brīdina piegādātāju par līguma pārtraukšanu vismaz 30 dienas iepriekš un norēķinās par izlietoto siltumenerģiju.
+4. Lietotājs brīdina piegādātāju par līguma pārtraukšanu vismaz 30 dienas iepriekš un norēķinās par izlietoto siltumenerģiju.
 
 III. Lietotāja siltumapgādes sistēmas pieslēgšanas tehniskie noteikumi
 
-5\. Mēneša laikā pēc attiecīgā iesnieguma saņemšanas piegādātājs izsniedz lietotājam siltumapgādes sistēmas pieslēgšanas tehniskos noteikumus (turpmāk – pieslēgšanas tehniskie noteikumi) šādos gadījumos:
+5. Mēneša laikā pēc attiecīgā iesnieguma saņemšanas piegādātājs izsniedz lietotājam siltumapgādes sistēmas pieslēgšanas tehniskos noteikumus (turpmāk – pieslēgšanas tehniskie noteikumi) šādos gadījumos:
 
 5.1. jaunu siltumizmantošanas iekārtu, ēku vai būvju pieslēgšanas projekta izstrādei;
 
@@ -61,7 +64,7 @@ III. Lietotāja siltumapgādes sistēmas pieslēgšanas tehniskie noteikumi
 
 5.4. ja nepieciešams mainīt siltumapgādes shēmas un siltumnesēja parametrus siltumpunktā, kas tieši pieslēgts piegādātāja siltumtīkliem.
 
-6\. Pieslēgšanas tehniskajos noteikumos nosaka:
+6. Pieslēgšanas tehniskajos noteikumos nosaka:
 
 6.1. siltumavotu, lietotāja siltumtīklu pievienošanas vietu un siltuma piegādes regulēšanas veidu;
 
@@ -85,9 +88,9 @@ III. Lietotāja siltumapgādes sistēmas pieslēgšanas tehniskie noteikumi
 
 IV. Siltumenerģijas skaitītāju uzstādīšana un apkalpošana
 
-7\. Visos siltumavotos uzstāda siltumtīklos nodotās siltumenerģijas daudzuma uzskaites un siltumnesēju parametru kontroles mēraparātus.
+7. Visos siltumavotos uzstāda siltumtīklos nodotās siltumenerģijas daudzuma uzskaites un siltumnesēju parametru kontroles mēraparātus.
 
-8\. Norēķinus starp piegādātāju un lietotāju par piegādāto siltumenerģiju veic, pamatojoties uz siltumenerģijas skaitītāju rādījumiem. Siltumenerģijas skaitītāju iegādi, uzstādīšanu, nomaiņu, remontu un apkopi lietotājam nodrošina piegādātājs (ja piegādātājs un lietotājs nav vienojušies citādi).
+8. Norēķinus starp piegādātāju un lietotāju par piegādāto siltumenerģiju veic, pamatojoties uz siltumenerģijas skaitītāju rādījumiem. Siltumenerģijas skaitītāju iegādi, uzstādīšanu, nomaiņu, remontu un apkopi lietotājam nodrošina piegādātājs (ja piegādātājs un lietotājs nav vienojušies citādi).
 
 (MK [03.11.2015.](https://likumi.lv/ta/id/277661-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumu Nr. 628 redakcijā)
 
@@ -123,23 +126,23 @@ IV. Siltumenerģijas skaitītāju uzstādīšana un apkalpošana
 
 (MK [04.10.2022.](https://likumi.lv/ta/id/336253-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumu Nr. 622 redakcijā)
 
-9\. Piegādātāja pienākums (ja piegādātājs un lietotājs nav vienojušies citādi) ir triju nedēļu laikā pēc siltumenerģijas skaitītāju pārbaudēm, nomaiņas, pārvietošanas vai remonta atjaunot siltumenerģijas uzskaiti ar siltumenerģijas skaitītājiem.
+9. Piegādātāja pienākums (ja piegādātājs un lietotājs nav vienojušies citādi) ir triju nedēļu laikā pēc siltumenerģijas skaitītāju pārbaudēm, nomaiņas, pārvietošanas vai remonta atjaunot siltumenerģijas uzskaiti ar siltumenerģijas skaitītājiem.
 
-10\. Siltumenerģijas skaitītājus uzstāda saskaņā ar pieslēgšanas tehnis­kajiem noteikumiem.
+10. Siltumenerģijas skaitītājus uzstāda saskaņā ar pieslēgšanas tehnis­kajiem noteikumiem.
 
-11\. Siltumenerģijas skaitītājus pēc uzstādīšanas, remonta vai pārbaudes pieņem lietošanai piegādātājs un lietotājs. Piegādātāja pārstāvis pārbauda to uzstādīšanas pareizību un komplektāciju, nosaka un noplombē pieslēgšanas vietas un noformē aktu par siltumenerģijas skaitītāja pieņemšanu lietošanā. Lietotājs nodrošina skaitītāju plombēšanas tehniskās iespējas.
+11. Siltumenerģijas skaitītājus pēc uzstādīšanas, remonta vai pārbaudes pieņem lietošanai piegādātājs un lietotājs. Piegādātāja pārstāvis pārbauda to uzstādīšanas pareizību un komplektāciju, nosaka un noplombē pieslēgšanas vietas un noformē aktu par siltumenerģijas skaitītāja pieņemšanu lietošanā. Lietotājs nodrošina skaitītāju plombēšanas tehniskās iespējas.
 
-12\. Lietotājs ir atbildīgs par siltumenerģijas skaitītāju un plombu saglabāšanu un nekavējoties ziņo piegādātājam par siltumenerģijas skaitītāju bojājumiem.
+12. Lietotājs ir atbildīgs par siltumenerģijas skaitītāju un plombu saglabāšanu un nekavējoties ziņo piegādātājam par siltumenerģijas skaitītāju bojājumiem.
 
-13\. Lietotājs saskaņo ar piegādātāju darbus lietotāja siltumapgādes sistēmā, kuru dēļ mainās siltumenerģijas skaitītāju pieslēgšanas shēma vai siltumenerģijas skaitītāji tiek pārvietoti.
+13. Lietotājs saskaņo ar piegādātāju darbus lietotāja siltumapgādes sistēmā, kuru dēļ mainās siltumenerģijas skaitītāju pieslēgšanas shēma vai siltumenerģijas skaitītāji tiek pārvietoti.
 
-14\. Lietotājs tā siltumapgādes sistēmā papildus siltumenerģijas skaitītājam var uzstādīt kontroles uzskaites mēraparātus, nesaskaņojot ar piegādātāju.
+14. Lietotājs tā siltumapgādes sistēmā papildus siltumenerģijas skaitītājam var uzstādīt kontroles uzskaites mēraparātus, nesaskaņojot ar piegādātāju.
 
-15\. Par siltumenerģijas skaitītājiem izmanto tikai tādus mērīšanas līdzekļus, kas atbilst normatīvajos aktos par metroloģiskajām prasībām siltumenerģijas skaitītājiem un par valsts metroloģiskajai kontrolei pakļauto mērīšanas līdzekļu sarakstu noteiktajām prasībām.
+15. Par siltumenerģijas skaitītājiem izmanto tikai tādus mērīšanas līdzekļus, kas atbilst normatīvajos aktos par metroloģiskajām prasībām siltumenerģijas skaitītājiem un par valsts metroloģiskajai kontrolei pakļauto mērīšanas līdzekļu sarakstu noteiktajām prasībām.
 
 V. Piegādātāja pienākumi un atbildība
 
-16\. Piegādātājs saskaņā ar līgumu uz piederības robežas nodrošina šādus siltumnesēja parametrus:
+16. Piegādātājs saskaņā ar līgumu uz piederības robežas nodrošina šādus siltumnesēja parametrus:
 
 16.1. siltumnesēja turpgaitas vidējo diennakts temperatūru (regulē siltumavotā) atbilstoši līgumā minētajam temperatūras grafikam. Piegādātājs nav atbildīgs par turpgaitas temperatūras pazemināšanos laikposmā, kad lietotājs siltumenerģiju nepatērē vai patērē mazāk par līgumā noteikto minimālo daudzumu;
 
@@ -147,17 +150,17 @@ V. Piegādātāja pienākumi un atbildība
 
 16.3. siltumnesēja spiedienu turpgaitas un atgaitas cauruļvadā atbilstoši pieslēgšanas tehniskajiem noteikumiem un līgumam.
 
-17\. Ja piegādātāja vainas dēļ nav piegādāts noteiktais siltumenerģijas daudzums, piegādātājs samaksā lietotājam kompensāciju, kas atbilst nepiegādātās siltumenerģijas daudzuma vērtībai.
+17. Ja piegādātāja vainas dēļ nav piegādāts noteiktais siltumenerģijas daudzums, piegādātājs samaksā lietotājam kompensāciju, kas atbilst nepiegādātās siltumenerģijas daudzuma vērtībai.
 
-18. Piegādātāja vainas dēļ lietotājam nepiegādātās siltumenerģijas daudzumu aprēķina pa diennaktīm kā starpību starp vidējo diennakts patēriņu trijās dienās pēc siltumapgādes atjaunošanas līgumā noteiktajā apjomā un faktisko diennakts patēriņu. Aprēķinot nepiegādātās siltumenerģijas daudzumu apkurei un ventilācijai, ņem vērā vidējo diennakts āra gaisa temperatūru un lieto koeficientu saskaņā ar šo noteikumu [35\. punktu](#p35).
+18. Piegādātāja vainas dēļ lietotājam nepiegādātās siltumenerģijas daudzumu aprēķina pa diennaktīm kā starpību starp vidējo diennakts patēriņu trijās dienās pēc siltumapgādes atjaunošanas līgumā noteiktajā apjomā un faktisko diennakts patēriņu. Aprēķinot nepiegādātās siltumenerģijas daudzumu apkurei un ventilācijai, ņem vērā vidējo diennakts āra gaisa temperatūru un lieto koeficientu saskaņā ar šo noteikumu [35. punktu](#p35).
 
 (MK [04.10.2022.](https://likumi.lv/ta/id/336253-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumu Nr. 622 redakcijā)
 
-19\. Ierobežotas siltumenerģijas piegādes faktisko laiku un iemeslu reģistrē atbilstoši siltumenerģijas skaitītāju un kontroles mēraparātu rādījumiem un to siltumavotos, siltumtīklos un individuālajos siltumpunktos. Lietotāja iesniegumu par to, ka siltumenerģija netiek piegādāta, piegādātājs izskata 10 dienu laikā.
+19. Ierobežotas siltumenerģijas piegādes faktisko laiku un iemeslu reģistrē atbilstoši siltumenerģijas skaitītāju un kontroles mēraparātu rādījumiem un to siltumavotos, siltumtīklos un individuālajos siltumpunktos. Lietotāja iesniegumu par to, ka siltumenerģija netiek piegādāta, piegādātājs izskata 10 dienu laikā.
 
-20\. Piegādātājs saskaņo lietotāja apkures sistēmu pieslēgšanas nosacījumus vai atvienošanas laiku 10 dienu laikā pēc lietotāja iesnieguma saņemšanas.
+20. Piegādātājs saskaņo lietotāja apkures sistēmu pieslēgšanas nosacījumus vai atvienošanas laiku 10 dienu laikā pēc lietotāja iesnieguma saņemšanas.
 
-21\. Ja notikusi stihiska nelaime (piemēram, ugunsgrēks, negaiss, vētra, zemestrīce, plūdi, ilgstošs sniegputenis un aukstums, kad āra gaisa temperatūra ilgāk par 48 stundām ir par trim un vairāk grādiem pēc Celsija zemāka par temperatūru, kas paredzēta, projektējot siltumapgādes sistēmu), piegādātājs nav atbildīgs par to, ka netiek ievēroti siltumnesēja parametri. Piegādātājs nav atbildīgs par to, ka siltumnesējs netiek piegādāts vai netiek ievēroti siltumnesēja parametri, šādos gadījumos:
+21. Ja notikusi stihiska nelaime (piemēram, ugunsgrēks, negaiss, vētra, zemestrīce, plūdi, ilgstošs sniegputenis un aukstums, kad āra gaisa temperatūra ilgāk par 48 stundām ir par trim un vairāk grādiem pēc Celsija zemāka par temperatūru, kas paredzēta, projektējot siltumapgādes sistēmu), piegādātājs nav atbildīgs par to, ka netiek ievēroti siltumnesēja parametri. Piegādātājs nav atbildīgs par to, ka siltumnesējs netiek piegādāts vai netiek ievēroti siltumnesēja parametri, šādos gadījumos:
 
 21.1. lietotāja personāla vai trešo personu apzinātas vai neapzinātas darbības, kuru dēļ ir traucēta normāla siltumapgāde;
 
@@ -169,9 +172,9 @@ V. Piegādātāja pienākumi un atbildība
 
 VI. Lietotāja pienākumi un atbildība
 
-22\. Lietotājs drīkst mainīt siltuma izmantošanas slodzi atļautās maksimālās slodzes robežās. Apkures sistēmu pieslēgt vai atvienot lietotājs var tam vēlamā laikā pēc saskaņošanas ar piegādātāju.
+22. Lietotājs drīkst mainīt siltuma izmantošanas slodzi atļautās maksimālās slodzes robežās. Apkures sistēmu pieslēgt vai atvienot lietotājs var tam vēlamā laikā pēc saskaņošanas ar piegādātāju.
 
-23\. Lietotāja pienākumi tā siltumapgādes sistēmā ir šādi:
+23. Lietotāja pienākumi tā siltumapgādes sistēmā ir šādi:
 
 23.1. ievērot līgumā noteikto patēriņa režīmu, nepārsniedzot atļauto maksimālo slodzi un siltumnesēja maksimālo caurplūdi;
 
@@ -197,7 +200,7 @@ VI. Lietotāja pienākumi un atbildība
 
 23.12. nodrošināt lietotāja siltumapgādes sistēmas siltumnesēja kvalitātes un spiediena atbilstību pieslēgšanas tehniskajiem noteikumiem un līgumam.
 
-24\. Lietotājs atdod piegādātājam tvaika kondensātu atbilstoši līgumā noteiktajam daudzumam un kvalitātei. Tehniski pamatotus atdotā tvaika kondensāta kvalitātes rādītājus nosaka piegādātājs.
+24. Lietotājs atdod piegādātājam tvaika kondensātu atbilstoši līgumā noteiktajam daudzumam un kvalitātei. Tehniski pamatotus atdotā tvaika kondensāta kvalitātes rādītājus nosaka piegādātājs.
 
 24.1 Ja daudzdzīvokļu dzīvojamajā mājā ir mājsaimniecības, kuras izmanto centralizētās siltumapgādes pakalpojumu, ēkas īpašnieks, dzīvokļu īpašnieku kopība vai tās pilnvarotā persona, kura darbojas visu dzīvojamās mājas īpašnieku vārdā, informē centralizētās siltumapgādes pakalpojuma sniedzēju par daudzdzīvokļu dzīvojamajā mājā esošo mājsaimniecību siltumenerģijas patēriņu.
 
@@ -205,9 +208,9 @@ VI. Lietotāja pienākumi un atbildība
 
 VII. Siltumenerģijas piegādes pārtraukšanas un ierobežošanas nosacījumi
 
-25\. Lietotājs, kuram ražošanas specifikas vai citu iemeslu dēļ nav pieļaujami siltumenerģijas piegādes pārtraukumi bojājumu, avārijas vai remonta dēļ, ierīko autonomus rezerves siltumenerģijas avotus.
+25. Lietotājs, kuram ražošanas specifikas vai citu iemeslu dēļ nav pieļaujami siltumenerģijas piegādes pārtraukumi bojājumu, avārijas vai remonta dēļ, ierīko autonomus rezerves siltumenerģijas avotus.
 
-26\. Piegādātājam ir tiesības, brīdinot trīs dienas iepriekš, pilnīgi vai daļēji pārtraukt siltumenerģijas piegādi lietotājam šādos gadījumos:
+26. Piegādātājam ir tiesības, brīdinot trīs dienas iepriekš, pilnīgi vai daļēji pārtraukt siltumenerģijas piegādi lietotājam šādos gadījumos:
 
 26.1. ja nav noslēgts līgums;
 
@@ -229,35 +232,37 @@ VII. Siltumenerģijas piegādes pārtraukšanas un ierobežošanas nosacījumi
 
 26.1 Siltumenerģijas piegādi lietotājam piegādātājs atjauno triju darbdienu laikā pēc tam, kad konstatējis, ka:
 
-26.11. novērsti šo noteikumu [26\. punktā](#p26) minētie pārkāpumi;
+26.11. novērsti šo noteikumu [26. punktā](#p26) minētie pārkāpumi;
 
 26.12. lietotājs, kurš ir daudzdzīvokļu ēkas īpašnieks, dzīvokļu īpašnieku kopība vai tās pilnvarotā persona, kura darbojas visu daudzdzīvokļu dzīvojamās mājas īpašnieku vārdā, par iepriekšējos 12 kalendāra mēnešos piegādāto siltumenerģiju ir veicis samaksu vairāk nekā 80% apmērā no lietotājam attiecīgajos norēķinu periodos izrakstītajiem rēķiniem un par nesaņemtajiem maksājumiem ir uzsācis parādu piedziņas procesu, kas ietver vismaz paziņojuma par parāda esību nosūtīšanu dzīvokļa, nedzīvojamās telpas vai mākslinieka darbnīcas īpašniekam un prasības pieteikuma par parāda piedziņu iesniegšanu tiesā (attiecas uz piegādātāju, kura triju gadu vidējais lietotājiem piegādātās siltumenerģijas apjoms ir lielāks par 2 000 000 megavatstundām gadā).
 
 (MK [04.10.2022.](https://likumi.lv/ta/id/336253-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumu Nr. 622 redakcijā)
 
-27\. Par siltumenerģijas piegādes pārtraukšanu plānotas un līgumā pare­dzētas siltumapgādes sistēmas atvienošanas dēļ piegādātājs lietotāju brīdina rakstiski vismaz 10 dienas iepriekš. Ja piecu dienu laikā pēc brīdinājuma izteikšanas piegādātājam neizdodas siltumapgādes sistēmas atvienošanas laiku saskaņot ar lietotāju, piegādātājs nosaka šo laiku patstāvīgi un paziņo lietotājam. Par siltumapgādes sistēmas atvienošanas laiku lietotāju atkārtoti brīdina 24 stun­das iepriekš.
+27. Par siltumenerģijas piegādes pārtraukšanu plānotas un līgumā pare­dzētas siltumapgādes sistēmas atvienošanas dēļ piegādātājs lietotāju brīdina rakstiski vismaz 10 dienas iepriekš. Ja piecu dienu laikā pēc brīdinājuma izteikšanas piegādātājam neizdodas siltumapgādes sistēmas atvienošanas laiku saskaņot ar lietotāju, piegādātājs nosaka šo laiku patstāvīgi un paziņo lietotājam. Par siltumapgādes sistēmas atvienošanas laiku lietotāju atkārtoti brīdina 24 stun­das iepriekš.
 
-28\. Ja nekavējoties jānovērš avārija vai bojājumi piegādātāja siltum­apgādes sistēmā, kas padara neiespējamu siltumenerģijas piegādi, piegādātājam ir tiesības atvienot lietotāja siltumapgādes sistēmu un atvienošanas iemeslu paziņot pēc tam.
+28. Ja nekavējoties jānovērš avārija vai bojājumi piegādātāja siltum­apgādes sistēmā, kas padara neiespējamu siltumenerģijas piegādi, piegādātājam ir tiesības atvienot lietotāja siltumapgādes sistēmu un atvienošanas iemeslu paziņot pēc tam.
 
 VIII. Norēķini par izlietoto siltumenerģiju
 
-30\. Lietotājam piegādāto siltumenerģijas daudzumu nosaka atbilstoši siltumenerģijas skaitītāju rādījumiem, izņemot šo noteikumu [35.punktā](https://likumi.lv/ta/id/183035#p35) minētos gadījumus.
+30. Lietotājam piegādāto siltumenerģijas daudzumu nosaka atbilstoši siltumenerģijas skaitītāju rādījumiem, izņemot šo noteikumu [35.punktā](https://likumi.lv/ta/id/183035#p35) minētos gadījumus.
 
-31\. Ja tehnisku iemeslu dēļ siltumenerģijas skaitītājs nav uzstādīts uz piederības robežas, siltumenerģijas zudumus siltumapgādes sistēmas cauruļvados no piederības robežas līdz mēraparāta uzstādīšanas vietai nosaka, izdarot aprēķinus, un siltumenerģijas zudumu norāda līgumā:
+31. Ja tehnisku iemeslu dēļ siltumenerģijas skaitītājs nav uzstādīts uz piederības robežas, siltumenerģijas zudumus siltumapgādes sistēmas cauruļvados no piederības robežas līdz mēraparāta uzstādīšanas vietai nosaka, izdarot aprēķinus, un siltumenerģijas zudumu norāda līgumā:
 
 31.1. ja siltumenerģijas skaitītājs uzstādīts piegādātāja pusē pirms piederības robežas, siltumenerģijas zudumus, kas radušies posmā starp siltumenerģijas skaitītāja uzstādīšanas vietu un piederības robežu, atskaita no lietotājam piegādātās siltumenerģijas daudzuma;
 
 31.2. ja siltumenerģijas skaitītājs uzstādīts lietotāja pusē pirms piederības robežas, siltumenerģijas zudumus, kas radušies posmā starp siltumenerģijas skaitītāja uzstādīšanas vietu un piederības robežu, pieskaita siltumenerģijas daudzumam, kas piegādāts lietotājam.
 
-32\. Izmaksas par siltumnesēja daudzumu, ko no piegādātāja siltumapgādes sistēmas izlieto lietotāja siltumapgādes sistēmu piepildīšanai vai jaunu siltumapgādes sistēmu pieslēgšanai, vai citiem nolūkiem, lietotājs sedz papildus. Maksa par siltumnesēja piebarošanu un uzpildīšanu sedz visas piegādātāja izmaksas par siltumnesēja sagatavošanu.
+32. Izmaksas par siltumnesēja daudzumu, ko no piegādātāja siltumapgādes sistēmas izlieto lietotāja siltumapgādes sistēmu piepildīšanai vai jaunu siltumapgādes sistēmu pieslēgšanai, vai citiem nolūkiem, lietotājs sedz papildus. Maksa par siltumnesēja piebarošanu un uzpildīšanu sedz visas piegādātāja izmaksas par siltumnesēja sagatavošanu.
 
-33\. Ja lietotājs patvaļīgi, nesaskaņojot ar piegādātāju, ir pieslēdzis siltumapgādes sistēmas, izmainījis siltumenerģijas skaitītāju pieslēgšanas shēmu, noņēmis plombas, sabojājis siltumenerģijas skaitītājus, traucējis to normālu darbību vai ir liedzis piegādātāja pārstāvja piekļūšanu siltumapgādes sistēmām, lai kontrolētu siltumenerģijas patēriņa režīmu un uzskaiti, noplombētu siltumapgādes sistēmas vai pārtrauktu siltumenerģijas piegādi, piegādātājs patērēto siltumenerģijas daudzumu aprēķina, ņemot vērā maksimālo slodzi laikposmā pēc pēdējās pārbaudes.
+33. Ja lietotājs patvaļīgi, nesaskaņojot ar piegādātāju, ir pieslēdzis siltumapgādes sistēmas, izmainījis siltumenerģijas skaitītāju pieslēgšanas shēmu, noņēmis plombas, sabojājis siltumenerģijas skaitītājus, traucējis to normālu darbību vai ir liedzis piegādātāja pārstāvja piekļūšanu siltumapgādes sistēmām, lai kontrolētu siltumenerģijas patēriņa režīmu un uzskaiti, noplombētu siltumapgādes sistēmas vai pārtrauktu siltumenerģijas piegādi, piegādātājs patērēto siltumenerģijas daudzumu aprēķina, ņemot vērā maksimālo slodzi laikposmā pēc pēdējās pārbaudes.
 
-34\. Ja tiek konstatēti šo noteikumu [33.punktā](https://likumi.lv/ta/id/183035#p33) minētie pārkāpumi, piegādātāja pārstāvis lietotāja klātbūtnē sastāda aktu.
+34. Ja tiek konstatēti šo noteikumu [33.punktā](https://likumi.lv/ta/id/183035#p33) minētie pārkāpumi, piegādātāja pārstāvis lietotāja klātbūtnē sastāda aktu.
 
-35\. Ja siltumenerģijas skaitītāji ir bojāti vai izslēgti, lai veiktu remontu, pārbaudes, nomaiņu, pārvietošanu vai citu iemeslu dēļ, par laikposmu, kurā siltumenerģijas skaitītāji nedarbojas, izlietotās siltumenerģijas daudzumu nosaka, pamatojoties uz vidējo patēriņu laikposmā, kad siltumenerģijas skaitītājs darbojās un kas nav mazāks par trim diennaktīm. Minētajā gadījumā apkurei un ventilācijai izlietoto siltumenerģijas daudzumu reizina ar koeficientu k:
+35. Ja siltumenerģijas skaitītāji ir bojāti vai izslēgti, lai veiktu remontu, pārbaudes, nomaiņu, pārvietošanu vai citu iemeslu dēļ, par laikposmu, kurā siltumenerģijas skaitītāji nedarbojas, izlietotās siltumenerģijas daudzumu nosaka, pamatojoties uz vidējo patēriņu laikposmā, kad siltumenerģijas skaitītājs darbojās un kas nav mazāks par trim diennaktīm. Minētajā gadījumā apkurei un ventilācijai izlietoto siltumenerģijas daudzumu reizina ar koeficientu k:
 
 
+ k =	\frac{Tt – T1v}{Tt – T2v}, kur
+ 
 |   |k =     |Tt – T1v|, kur|
 |---|--------|--------|-----|
 |   |Tt – T2v|        |     |
@@ -289,7 +294,7 @@ T2v – āra gaisa vidējā temperatūra laikposmā, uz kuru pamatots aprēķins
 
 (MK [03.11.2015.](https://likumi.lv/ta/id/277661-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumu Nr. 628 redakcijā, kas grozīta ar MK [04.10.2022.](https://likumi.lv/ta/id/336253-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumiem Nr. 622)
 
-36.2 Pēc piegādātāja pieprasījuma siltumenerģijas ražotājs, kura siltumavoti ir pieslēgti pie piegādātāja centralizētās siltumapgādes sistēmas, sniedz piegādātājam šo noteikumu [36.15\. apakšpunktā](#p36_15) minēto informāciju.
+36.2 Pēc piegādātāja pieprasījuma siltumenerģijas ražotājs, kura siltumavoti ir pieslēgti pie piegādātāja centralizētās siltumapgādes sistēmas, sniedz piegādātājam šo noteikumu [36.15. apakšpunktā](#p36_15) minēto informāciju.
 
 (MK [04.10.2022.](https://likumi.lv/ta/id/336253-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumu Nr. 622 redakcijā)
 
@@ -311,15 +316,15 @@ T2v – āra gaisa vidējā temperatūra laikposmā, uz kuru pamatots aprēķins
 
 (MK [04.10.2022.](https://likumi.lv/ta/id/336253-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumu Nr. 622 redakcijā)
 
-37\. Ja lietotājs vairāk nekā trīs reizes aizkavē maksājumus, lietotājam ir pienākums pēc piegādātāja pieprasījuma turpmāk veikt iepriekšēju samaksu mēneša vidējā maksājuma apmērā.
+37. Ja lietotājs vairāk nekā trīs reizes aizkavē maksājumus, lietotājam ir pienākums pēc piegādātāja pieprasījuma turpmāk veikt iepriekšēju samaksu mēneša vidējā maksājuma apmērā.
 
-38\. Ja maksājuma dokumentos konstatēta kļūda vai nepareizs siltum­skaitītāja stāvokļa nolasījums, lietotājs 10 dienu laikā par to paziņo piegādātājam.
+38. Ja maksājuma dokumentos konstatēta kļūda vai nepareizs siltum­skaitītāja stāvokļa nolasījums, lietotājs 10 dienu laikā par to paziņo piegādātājam.
 
-39\. Piegādātājs 10 dienu laikā pēc lietotāja paziņojuma saņemšanas pārbauda aprēķinu un, ja nepieciešams, arī siltumenerģijas skaitītājus un pārbaudes rezultātus paziņo lietotājam.
+39. Piegādātājs 10 dienu laikā pēc lietotāja paziņojuma saņemšanas pārbauda aprēķinu un, ja nepieciešams, arī siltumenerģijas skaitītājus un pārbaudes rezultātus paziņo lietotājam.
 
-40\. Ja tiek konstatēta kļūda norēķina uzskaitē vai izlietotās siltumenerģijas aprēķinos, piegādātājs izdara pārrēķinu par pēdējo norēķina periodu.
+40. Ja tiek konstatēta kļūda norēķina uzskaitē vai izlietotās siltumenerģijas aprēķinos, piegādātājs izdara pārrēķinu par pēdējo norēķina periodu.
 
-41\. Piegādātājs ir tiesīgs veikt izlietotās siltumenerģijas daudzuma pārrēķinu par laikposmu, kad siltumnesēja caurplūde ir mazāka par lietotāja siltumenerģijas skaitītāja zemāko pieļaujamo robežu, pieņemot, ka caurplūdes daudzums ir vienāds ar zemāko pieļaujamo robežu.
+41. Piegādātājs ir tiesīgs veikt izlietotās siltumenerģijas daudzuma pārrēķinu par laikposmu, kad siltumnesēja caurplūde ir mazāka par lietotāja siltumenerģijas skaitītāja zemāko pieļaujamo robežu, pieņemot, ka caurplūdes daudzums ir vienāds ar zemāko pieļaujamo robežu.
 
 VIII1. Centralizētās siltumapgādes pakalpojuma maksas kompensācijas kārtība
 
@@ -337,13 +342,13 @@ VIII1. Centralizētās siltumapgādes pakalpojuma maksas kompensācijas kārtī
 
 41.2 Piemēroto centralizētās siltumapgādes pakalpojuma maksas samazinājumu piegādātājam kompensē šādā kārtībā:
 
-41.21. piegādātājs saskaņā ar šo noteikumu [1.](#piel1), [1.1](#piel1_1) vai [2\. pielikumu](#piel2) sagatavo un līdz kārtējā kalendāra mēneša divdesmitajam datumam iesniedz birojā kompensācijas aprēķinu par iepriekšējā mēneša centralizētās siltumapgādes pakalpojuma maksas samazinājumu un minētajam aprēķinam atbilstošu rēķinu;
+41.21. piegādātājs saskaņā ar šo noteikumu [1.](#piel1), [1.1](#piel1_1) vai [2. pielikumu](#piel2) sagatavo un līdz kārtējā kalendāra mēneša divdesmitajam datumam iesniedz birojā kompensācijas aprēķinu par iepriekšējā mēneša centralizētās siltumapgādes pakalpojuma maksas samazinājumu un minētajam aprēķinam atbilstošu rēķinu;
 
-41.22. ja birojs konstatē trūkumus šo noteikumu [41.21\. apakšpunktā](#p41_21) minētajos dokumentos, tas lūdz piegādātāju piecu darbdienu laikā no lūguma saņemšanas dienas dokumentus precizēt un iesniegt atkārtoti.
+41.22. ja birojs konstatē trūkumus šo noteikumu [41.21. apakšpunktā](#p41_21) minētajos dokumentos, tas lūdz piegādātāju piecu darbdienu laikā no lūguma saņemšanas dienas dokumentus precizēt un iesniegt atkārtoti.
 
 (MK [01.02.2022.](https://likumi.lv/ta/id/329649-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumu Nr. 91 redakcijā, kas grozīta ar MK [20.09.2022.](https://likumi.lv/ta/id/335762-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumiem Nr. 590; MK [11.10.2022.](https://likumi.lv/ta/id/336382-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumiem Nr. 637)
 
-41.3 Birojs līdz nākamā mēneša desmitajam datumam izmaksā piegādātājam kompensāciju par lietotājiem piemēroto centralizētās siltumapgādes pakalpojuma maksas samazinājumu saskaņā ar šo noteikumu [41.21\. apakšpunktā](#p41_21) minēto piegādātāja rēķinu.
+41.3 Birojs līdz nākamā mēneša desmitajam datumam izmaksā piegādātājam kompensāciju par lietotājiem piemēroto centralizētās siltumapgādes pakalpojuma maksas samazinājumu saskaņā ar šo noteikumu [41.21. apakšpunktā](#p41_21) minēto piegādātāja rēķinu.
 
 (MK [20.09.2022.](https://likumi.lv/ta/id/335762-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumu Nr. 590 redakcijā)
 
@@ -355,11 +360,11 @@ VIII1. Centralizētās siltumapgādes pakalpojuma maksas kompensācijas kārtī
 
 (MK [20.09.2022.](https://likumi.lv/ta/id/335762-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumu Nr. 590 redakcijā)
 
-41.6 Birojs aptur šo noteikumu [41.21\. apakšpunktā](#p41_21) minētā rēķina samaksu līdz konstatēto neatbilstību pilnīgai novēršanai. Ja šo noteikumu [41.5 punktā](#p41_5) minētajā termiņā piegādātājs nav novērsis konstatētās neatbilstības vai nav iesniedzis papildu informāciju, piegādātājs pieprasīto kompensāciju par attiecīgo mēnesi nesaņem.
+41.6 Birojs aptur šo noteikumu [41.21. apakšpunktā](#p41_21) minētā rēķina samaksu līdz konstatēto neatbilstību pilnīgai novēršanai. Ja šo noteikumu [41.5 punktā](#p41_5) minētajā termiņā piegādātājs nav novērsis konstatētās neatbilstības vai nav iesniedzis papildu informāciju, piegādātājs pieprasīto kompensāciju par attiecīgo mēnesi nesaņem.
 
 (MK [20.09.2022.](https://likumi.lv/ta/id/335762-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumu Nr. 590 redakcijā)
 
-41.7 Birojs atsaka izmaksāt piegādātāja pieprasīto kompensāciju, ja šo noteikumu [41.22\. apakšpunktā](#p41_22) minētajā termiņā piegādātājs nav novērsis trūkumus šo noteikumu [41.21\. apakšpunktā](#p41_21) minētajos dokumentos.
+41.7 Birojs atsaka izmaksāt piegādātāja pieprasīto kompensāciju, ja šo noteikumu [41.22. apakšpunktā](#p41_22) minētajā termiņā piegādātājs nav novērsis trūkumus šo noteikumu [41.21. apakšpunktā](#p41_21) minētajos dokumentos.
 
 (MK [20.09.2022.](https://likumi.lv/ta/id/335762-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumu Nr. 590 redakcijā)
 
@@ -377,7 +382,7 @@ VIII1. Centralizētās siltumapgādes pakalpojuma maksas kompensācijas kārtī
 
 IX. Kompensācijas noteikšana
 
-42\. Ja lietotājs neizpilda līgumsaistības, bet piegādātājs uz piederības robežas ir nodrošinājis siltumnesēja parametrus, piegādātājs ir tiesīgs iekasēt kompensāciju līdz šādam apmēram:
+42. Ja lietotājs neizpilda līgumsaistības, bet piegādātājs uz piederības robežas ir nodrošinājis siltumnesēja parametrus, piegādātājs ir tiesīgs iekasēt kompensāciju līdz šādam apmēram:
 
 42.1. par patvaļīgu atļautās maksimālās slodzes un siltumnesēja caurplūdes pārsniegšanu – atbilstoši trīskāršam tarifam par enerģijas daudzumu, kas patērēts, pārsniedzot līgumā noteikto daudzumu;
 
@@ -387,13 +392,13 @@ IX. Kompensācijas noteikšana
 
 42.4. par kondensāta daudzumu, ko lietotājs nav atdevis piegādātājam saskaņā ar līgumā noteikto apjomu un kvalitāti, – atbilstoši trīskāršai maksai par siltumnesēja piebarošanu.
 
-43\. Kompensāciju par norēķina periodu maksā vienlaikus ar galīgo norēķinu.
+43. Kompensāciju par norēķina periodu maksā vienlaikus ar galīgo norēķinu.
 
 X. Noslēguma jautājumi
 
 (Nodaļas nosaukums MK [28.02.2023.](https://likumi.lv/ta/id/339829-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumu Nr. 79 redakcijā)
 
-44\. Šo noteikumu [8.2 punkts](https://likumi.lv/ta/id/183035#p8_2) tiek piemērots ar 2016. gada 31. decembri.
+44. Šo noteikumu [8.2 punkts](https://likumi.lv/ta/id/183035#p8_2) tiek piemērots ar 2016. gada 31. decembri.
 
 45. Kompensācijas maksājuma korekciju par [2022.](https://likumi.lv/ta/id/183035#p2022) gada oktobrī un novembrī sniegtajiem centralizētās siltumapgādes pakalpojumiem piegādātājs iesniedz birojā līdz [2023.](https://likumi.lv/ta/id/183035#p2023) gada [30.](https://likumi.lv/ta/id/183035#p30) aprīlim un galīgo savstarpējo norēķinu veic saskaņā ar šo noteikumu [41.4 punktu](#p41_4).
 
@@ -413,9 +418,9 @@ Ministru prezidents I.Godmanis
 
 Ekonomikas ministrs K.Gerhards
 
-1\. pielikums  
+1. pielikums  
 Ministru kabineta  
-2008\. gada 21. oktobra  
+2008. gada 21. oktobra  
 noteikumiem Nr. 876
 
 (Pielikums MK [17.01.2023.](https://likumi.lv/ta/id/338900-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumu Nr. 20 redakcijā)
@@ -440,7 +445,7 @@ Tālrunis:
 
 **Centralizētās siltumapgādes pakalpojuma maksas samazinājuma kompensācijas aprēķins,  
 ja centralizētās siltumapgādes pakalpojuma tarifs vai vienošanās cena nepārsniedz 150 EUR/MWh,  
-saskaņā ar [Energoresursu cenu ārkārtēja pieauguma samazinājuma pasākumu likuma](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums) [7\. panta](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums#p7) otro, 2.1 un trešo daļu  
+saskaņā ar [Energoresursu cenu ārkārtēja pieauguma samazinājuma pasākumu likuma](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums) [7. panta](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums#p7) otro, 2.1 un trešo daļu  
 par** /_norādīt mēnesi_/ **2022./2023. gada apkures sezonā**
 
 Siltumapgādes pakalpojuma sniedzējs siltumapgādes pakalpojumus nodrošina par (_atzīmēt atbilstošo_):
@@ -451,43 +456,20 @@ Siltumapgādes pakalpojuma sniedzējs siltumapgādes pakalpojumus nodrošina par
 
 ![](https://likumi.lv/wwwraksti/BILDES/KVADRATS.GIF)  vienošanās cenu
 
+| Nr. p. k. |                                                 Pakalpojuma apraksts                                                 | Mērvienība | Vienības |
+|:---------:|:--------------------------------------------------------------------------------------------------------------------:|:----------:|:--------:|
+|     1.    | Piegādātā siltumenerģija (kopējā)                                                                                    |     MWh    |          |
+|     2.    | Piegādātā siltumenerģija (TIKAI mājsaimniecībām nodotā)                                                              |     MWh    |          |
+|     3.    | Aktuālais apstiprinātais tarifs vai vienošanās cena                                                                  |   EUR/MWh  |          |
+|     4.    | Starpība starp apstiprināto tarifu vai vienošanās cenu (3. punkts) un siltumenerģijas tarifa mediānu (68,00 EUR/MWh) |   EUR/MWh  |          |
+|     5.    | 4. punktā norādītā starpība, dalīta ar 2 (50 %)                                                                      |   EUR/MWh  |          |
+|     6.    | Valsts kompensācijas apmērs (2. punkts x 5. punkts) bez PVN                                                          |     EUR    |          |
+|     7.    | PVN 12 %                                                                                                             |     EUR    |          |
+|     8.    | Valsts kompensācijas apmērs, kopā                                                                                    |     EUR    |          |
 
 
-* Nr. p. k.: 1.
-  * Pakalpojuma apraksts: Piegādātā siltumenerģija (kopējā)
-  * Mērvienība: MWh
-  * Vienības:  
-* Nr. p. k.: 2.
-  * Pakalpojuma apraksts: Piegādātā siltumenerģija (TIKAI mājsaimniecībām nodotā)
-  * Mērvienība: MWh
-  * Vienības:  
-* Nr. p. k.: 3.
-  * Pakalpojuma apraksts: Aktuālais apstiprinātais tarifs vai vienošanās cena
-  * Mērvienība: EUR/MWh
-  * Vienības:  
-* Nr. p. k.: 4.
-  * Pakalpojuma apraksts: Starpība starp apstiprināto tarifu vai vienošanās cenu (3. punkts) un siltumenerģijas tarifa mediānu (68,00 EUR/MWh)
-  * Mērvienība: EUR/MWh
-  * Vienības:  
-* Nr. p. k.: 5.
-  * Pakalpojuma apraksts: 4. punktā norādītā starpība, dalīta ar 2 (50 %)
-  * Mērvienība: EUR/MWh
-  * Vienības:  
-* Nr. p. k.: 6.
-  * Pakalpojuma apraksts: Valsts kompensācijas apmērs (2. punkts x 5. punkts) bez PVN
-  * Mērvienība: EUR
-  * Vienības:  
-* Nr. p. k.: 7.
-  * Pakalpojuma apraksts: PVN 12 %
-  * Mērvienība: EUR
-  * Vienības:  
-* Nr. p. k.: 8.
-  * Pakalpojuma apraksts: Valsts kompensācijas apmērs, kopā
-  * Mērvienība: EUR
-  * Vienības:  
 
-
- Siltumapgādes pakalpojuma sniedzējs, iesniedzot šo aprēķinu, apliecina, ka ir piemērojis [Energoresursu cenu ārkārtēja pieauguma samazinājuma pasākumu likuma](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums) [7\. pantā](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums#p7) noteikto cenas samazinājumu norēķiniem, kā arī apliecina, ka nav saņēmis citu minētajā likumā paredzēto atbalstu par energoresursiem, izņemot atbalstu, kas tiek piemērots juridiskajai personai.
+ Siltumapgādes pakalpojuma sniedzējs, iesniedzot šo aprēķinu, apliecina, ka ir piemērojis [Energoresursu cenu ārkārtēja pieauguma samazinājuma pasākumu likuma](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums) [7. pantā](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums#p7) noteikto cenas samazinājumu norēķiniem, kā arī apliecina, ka nav saņēmis citu minētajā likumā paredzēto atbalstu par energoresursiem, izņemot atbalstu, kas tiek piemērots juridiskajai personai.
 
 Pielikumā: Pašvaldības lēmums par spēkā esošo apstiprināto siltumenerģijas tarifu (ja attiecināms).
 
@@ -499,7 +481,7 @@ Piezīme. Dokumenta rekvizītus "Paraksts" un "Datums" neaizpilda, ja dokuments
 
 1.1 pielikums  
 Ministru kabineta  
-2008\. gada 21. oktobra  
+2008. gada 21. oktobra  
 noteikumiem Nr. 876
 
 (Pielikums MK [17.01.2023.](https://likumi.lv/ta/id/338900-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumu Nr. 20 redakcijā)
@@ -524,7 +506,7 @@ Tālrunis:
 
 **Centralizētās siltumapgādes pakalpojuma maksas samazinājuma kompensācijas aprēķins,  
 ja apstiprinātais centralizētās siltumapgādes pakalpojuma tarifs pārsniedz 150 EUR/MWh,   
-saskaņā ar [Energoresursu cenu ārkārtēja pieauguma samazinājuma pasākumu likuma](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums) [7\. panta](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums#p7) otro un 2.1 daļu  
+saskaņā ar [Energoresursu cenu ārkārtēja pieauguma samazinājuma pasākumu likuma](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums) [7. panta](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums#p7) otro un 2.1 daļu  
 par** /_norādīt mēnesi_/ **2022./2023. gada apkures sezonā**
 
 Siltumapgādes pakalpojuma sniedzējs siltumapgādes pakalpojumus nodrošina par (_atzīmēt atbilstošo_):
@@ -534,50 +516,21 @@ Siltumapgādes pakalpojuma sniedzējs siltumapgādes pakalpojumus nodrošina par
 ![](https://likumi.lv/wwwraksti/BILDES/KVADRATS.GIF) pašvaldības apstiprinātajiem tarifiem
 
 
-
-* Nr.p. k.: 1.
-  * Pakalpojuma apraksts : Piegādātā siltumenerģija (kopējā)
-  * Mērvienība : MWh
-  * Vienības:  
-* Nr.p. k.: 2.
-  * Pakalpojuma apraksts : Piegādātā siltumenerģija (TIKAI mājsaimniecībām nodotā)
-  * Mērvienība : MWh
-  * Vienības:  
-* Nr.p. k.: 3.
-  * Pakalpojuma apraksts : Aktuālais apstiprinātais tarifs 
-  * Mērvienība : EUR/MWh
-  * Vienības:  
-* Nr.p. k.: 4.
-  * Pakalpojuma apraksts : Starpība starp apstiprināto tarifu (3. punkts) un 150,00 EUR/MWh
-  * Mērvienība : EUR/MWh
-  * Vienības:  
-* Nr.p. k.: 5.
-  * Pakalpojuma apraksts : 4. punktā norādītā starpība, reizināta ar 0,9 (90 %)
-  * Mērvienība : EUR/MWh
-  * Vienības:  
-* Nr.p. k.: 6.
-  * Pakalpojuma apraksts : Starpība starp 150,00 EUR/MWh un siltumenerģijas tarifa mediānu (68,00 EUR/MWh)
-  * Mērvienība : EUR/MWh
-  * Vienības:  
-* Nr.p. k.: 7.
-  * Pakalpojuma apraksts : 6. punktā norādītā starpība, reizināta ar 0,5 (50 %)
-  * Mērvienība : EUR/MWh
-  * Vienības:  
-* Nr.p. k.: 8.
-  * Pakalpojuma apraksts : Valsts kompensācijas apmērs (2. punkts x 5. punkts + 2. punkts x 7. punkts) bez PVN
-  * Mērvienība : EUR
-  * Vienības:  
-* Nr.p. k.: 9.
-  * Pakalpojuma apraksts : PVN 12 %
-  * Mērvienība : EUR
-  * Vienības:  
-* Nr.p. k.: 10.
-  * Pakalpojuma apraksts : Valsts kompensācijas apmērs, kopā
-  * Mērvienība : EUR
-  * Vienības:  
+| Nr. p. k. |                                Pakalpojuma apraksts                                 | Mērvienība  | Vienības |
+|:---------:|:-----------------------------------------------------------------------------------:|:-----------:|:--------:|
+|     1.    | Piegādātā siltumenerģija (kopējā)                                                   |     MWh     |          |
+|     2.    | Piegādātā siltumenerģija (TIKAI mājsaimniecībām nodotā)                             |     MWh     |          |
+|     3.    | Aktuālais apstiprinātais tarifs                                                     |   EUR/MWh   |          |
+|     4.    | Starpība starp apstiprināto tarifu (3. punkts) un 150,00 EUR/MWh                    |   EUR/MWh   |          |
+|     5.    | 4. punktā norādītā starpība, reizināta ar 0,9 (90 %)                                |   EUR/MWh   |          |
+|     6.    | Starpība starp 150,00 EUR/MWh un siltumenerģijas tarifa mediānu (68,00 EUR/MWh)     |   EUR/MWh   |          |
+|     7.    | 6. punktā norādītā starpība, reizināta ar 0,5 (50 %)                                |   EUR/MWh   |          |
+|     8.    | Valsts kompensācijas apmērs (2. punkts x 5. punkts + 2. punkts x 7. punkts) bez PVN |     EUR     |          |
+|     9.    | PVN 12 %                                                                            |     EUR     |          |
+|    10.    | Valsts kompensācijas apmērs, kopā                                                   |     EUR     |          |
 
 
-Siltumapgādes pakalpojuma sniedzējs, iesniedzot šo aprēķinu, apliecina, ka ir piemērojis [Energoresursu cenu ārkārtēja pieauguma samazinājuma pasākumu likuma](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums) [7\. pantā](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums#p7) noteikto cenas samazinājumu norēķiniem, kā arī apliecina, ka nav saņēmis citu minētajā likumā paredzēto atbalstu par energoresursiem, izņemot atbalstu, kas tiek piemērots juridiskajai personai.
+Siltumapgādes pakalpojuma sniedzējs, iesniedzot šo aprēķinu, apliecina, ka ir piemērojis [Energoresursu cenu ārkārtēja pieauguma samazinājuma pasākumu likuma](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums) [7. pantā](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums#p7) noteikto cenas samazinājumu norēķiniem, kā arī apliecina, ka nav saņēmis citu minētajā likumā paredzēto atbalstu par energoresursiem, izņemot atbalstu, kas tiek piemērots juridiskajai personai.
 
 Pielikumā: Pašvaldības lēmums par spēkā esošo apstiprināto siltumenerģijas tarifu (ja attiecināms).
 
@@ -587,9 +540,9 @@ Datums
 
 Piezīme. Dokumenta rekvizītus "Paraksts" un "Datums" neaizpilda, ja dokuments ir sagatavots elektroniski atbilstoši normatīvajiem aktiem par elektronisko dokumentu noformēšanu.
 
-2\. pielikums  
+2. pielikums  
 Ministru kabineta  
-2008\. gada 21. oktobra  
+2008. gada 21. oktobra  
 noteikumiem Nr. 876
 
 (Pielikums MK [17.01.2023.](https://likumi.lv/ta/id/338900-grozijumi-ministru-kabineta-2008-gada-21-oktobra-noteikumos-nr-876-siltumenergijas-piegades-un-lietosanas-noteikumi-) noteikumu Nr. 20 redakcijā)
@@ -614,54 +567,25 @@ Tālrunis:
 
 **Centralizētās siltumapgādes pakalpojuma maksas samazinājuma kompensācijas aprēķins,  
 ja centralizētās siltumapgādes pakalpojuma vienošanās cena pārsniedz 150 EUR/MWh,  
-saskaņā ar [Energoresursu cenu ārkārtēja pieauguma samazinājuma pasākumu likuma](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums) [7\. panta](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums#p7) trešo daļu  
+saskaņā ar [Energoresursu cenu ārkārtēja pieauguma samazinājuma pasākumu likuma](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums) [7. panta](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums#p7) trešo daļu  
 par** /_norādīt mēnesi_/ **2022./2023. gada apkures sezonā**
 
+| Nr. p. k. |                                 Pakalpojuma apraksts                                | Mērvienība  | Vienības |
+|:---------:|:-----------------------------------------------------------------------------------:|:-----------:|:--------:|
+|     1.    | Piegādātā siltumenerģija (kopējā)                                                   |     MWh     |          |
+|     2.    | Piegādātā siltumenerģija (TIKAI mājsaimniecībām nodotā)                             |     MWh     |          |
+|     3.    | Siltumenerģijas cena                                                                |   EUR/MWh   |          |
+|     4.    | Starpība starp siltumenerģijas cenu (3. punkts) un 150,00 EUR/MWh                   |   EUR/MWh   |          |
+|     5.    | 4. punktā norādītā starpība, reizināta ar 0,9 (90 %), bet ne vairāk kā 180 EUR/MWh  |   EUR/MWh   |          |
+|     6.    | Starpība starp 150,00 EUR/MWh un siltumenerģijas tarifa mediānu (68,00 EUR/MWh)     |   EUR/MWh   |          |
+|     7.    | 6. punktā norādītā starpība, reizināta ar 0,5 (50 %)                                |   EUR/MWh   |          |
+|     8.    | Valsts kompensācijas apmērs (2. punkts x 5. punkts + 2. punkts x 7. punkts) bez PVN |     EUR     |          |
+|     9.    | PVN 12 %                                                                            |     EUR     |          |
+|    10.    | Valsts kompensācijas apmērs, kopā                                                   |     EUR     |          |
 
 
-* Nr. p. k.: 1.
-  * Pakalpojuma apraksts: Piegādātā siltumenerģija (kopējā)
-  * Mērvienība : MWh
-  * Vienības:  
-* Nr. p. k.: 2.
-  * Pakalpojuma apraksts: Piegādātā siltumenerģija (TIKAI mājsaimniecībām nodotā)
-  * Mērvienība : MWh
-  * Vienības:  
-* Nr. p. k.: 3.
-  * Pakalpojuma apraksts: Siltumenerģijas cena
-  * Mērvienība : EUR/MWh
-  * Vienības:  
-* Nr. p. k.: 4.
-  * Pakalpojuma apraksts: Starpība starp siltumenerģijas cenu (3. punkts) un 150,00 EUR/MWh
-  * Mērvienība : EUR/MWh
-  * Vienības:  
-* Nr. p. k.: 5.
-  * Pakalpojuma apraksts: 4. punktā norādītā starpība, reizināta ar 0,9 (90 %), bet ne vairāk kā 180 EUR/MWh
-  * Mērvienība : EUR/MWh
-  * Vienības:  
-* Nr. p. k.: 6.
-  * Pakalpojuma apraksts: Starpība starp 150,00 EUR/MWh un siltumenerģijas tarifa mediānu (68,00 EUR/MWh)
-  * Mērvienība : EUR/MWh
-  * Vienības:  
-* Nr. p. k.: 7.
-  * Pakalpojuma apraksts: 6. punktā norādītā starpība, reizināta ar 0,5 (50 %)
-  * Mērvienība : EUR/MWh
-  * Vienības:  
-* Nr. p. k.: 8.
-  * Pakalpojuma apraksts: Valsts kompensācijas apmērs (2. punkts x 5. punkts + 2. punkts x 7. punkts) bez PVN
-  * Mērvienība : EUR
-  * Vienības:  
-* Nr. p. k.: 9.
-  * Pakalpojuma apraksts: PVN 12 %
-  * Mērvienība : EUR
-  * Vienības:  
-* Nr. p. k.: 10.
-  * Pakalpojuma apraksts: Valsts kompensācijas apmērs, kopā
-  * Mērvienība : EUR
-  * Vienības:  
 
-
-Siltumapgādes pakalpojuma sniedzējs, iesniedzot šo aprēķinu, apliecina, ka ir piemērojis [Energoresursu cenu ārkārtēja pieauguma samazinājuma pasākumu likuma](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums) [7\. pantā](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums#p7) noteikto cenas samazinājumu norēķiniem, kā arī apliecina, ka nav saņēmis citu minētajā likumā paredzēto atbalstu par energoresursiem, izņemot atbalstu, kas tiek piemērots juridiskajai personai.
+Siltumapgādes pakalpojuma sniedzējs, iesniedzot šo aprēķinu, apliecina, ka ir piemērojis [Energoresursu cenu ārkārtēja pieauguma samazinājuma pasākumu likuma](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums) [7. pantā](https://likumi.lv/ta/id/329532-energoresursu-cenu-arkarteja-pieauguma-samazinajuma-pasakumu-likums#p7) noteikto cenas samazinājumu norēķiniem, kā arī apliecina, ka nav saņēmis citu minētajā likumā paredzēto atbalstu par energoresursiem, izņemot atbalstu, kas tiek piemērots juridiskajai personai.
 
 Paraksts
 
