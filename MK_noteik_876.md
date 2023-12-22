@@ -260,13 +260,10 @@ VIII. Norēķini par izlietoto siltumenerģiju
 
 35. Ja siltumenerģijas skaitītāji ir bojāti vai izslēgti, lai veiktu remontu, pārbaudes, nomaiņu, pārvietošanu vai citu iemeslu dēļ, par laikposmu, kurā siltumenerģijas skaitītāji nedarbojas, izlietotās siltumenerģijas daudzumu nosaka, pamatojoties uz vidējo patēriņu laikposmā, kad siltumenerģijas skaitītājs darbojās un kas nav mazāks par trim diennaktīm. Minētajā gadījumā apkurei un ventilācijai izlietoto siltumenerģijas daudzumu reizina ar koeficientu k:
 
-
- k =	\frac{Tt – T1v}{Tt – T2v}, kur
+$$
+ k=\frac{Tt – T1v}{Tt – T2v}, kur
+ $$
  
-|   |k =     |Tt – T1v|, kur|
-|---|--------|--------|-----|
-|   |Tt – T2v|        |     |
-
 
 Tt  – apkurināmo telpu gaisa vidējā temperatūra; 
 
