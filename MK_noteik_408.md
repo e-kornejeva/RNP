@@ -174,185 +174,47 @@ Dzīvojamās mājas uzturēšanas un apsaimniekošanas darbu tāme \_\_\_\_\_\_.
 
 
 
-|                                       |   |
-|---------------------------------------|---|
-|Informācija par dzīvojamo māju1:       |   |
-|1. Kopējā dzīvokļu īpašumu platība (m2)|   |
-|2. Dzīvokļu īpašumu skaits             |   |
-|3. Cita informācija par ēku            |   |
-|4. Iekšējie inženiertīkli un iekārtas  |   |
-|5. Ārējie inženiertīkli                |   |
-|6. Teritorijas labiekārtojums          |   |
-|                                       |   |
+
+Informācija par dzīvojamo māju1:  
+| 1. Kopējā dzīvokļu īpašumu platība (m2) |   |
+|-----------------------------------------|---|
+| 2. Dzīvokļu īpašumu skaits              |   | 
+| 3. Cita informācija par ēku             |   |
+| 4. Iekšējie inženiertīkli un iekārtas   |   |
+| 5. Ārējie inženiertīkli                 |   |
+| 6. Teritorijas labiekārtojums           |   |
 
 
-
-
-* Nr.p. k.: mēnesī
-  * Pakalpojums: gadā
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro): 
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro): 
-  * Summa (euro): 
-* Nr.p. k.: I. Saņemamie maksājumi
-  * Pakalpojums:  
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-* Nr.p. k.: 1.
-  * Pakalpojums: Maksājumi par pārvaldīšanas pakalpojumu
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 1.1.
-  * Pakalpojums: Obligātie pārvaldīšanas izdevumi
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 1.2.
-  * Pakalpojums: Atlīdzība par pārvaldīšanu3
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 2.
-  * Pakalpojums: Maksājumi par turpmākajos periodos obligāto pārvaldīšanas darbību ietvaros veicamo dzīvojamās mājas remontu, atjaunošanu vai pārbūvi
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 3.
-  * Pakalpojums: Apdrošināšana4
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 4.
-  * Pakalpojums: Citi ieņēmumi (norādīt, kādi)
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: II. Plānotie izdevumi
-  * Pakalpojums:  
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-* Nr.p. k.: 1.
-  * Pakalpojums: Pārvaldīšanas izdevumi
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 1.1.
-  * Pakalpojums: Dzīvojamās mājas sanitārā apkope
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 1.2.
-  * Pakalpojums: Dzīvojamās mājas lietas vešana
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 1.3.
-  * Pakalpojums: Pārvaldīšanas darba plānošana, organizēšana un pārraudzība
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 1.4.
-  * Pakalpojums: Līgumu slēgšana par siltumenerģijas, arī dabasgāzes, piegādi, ūdensapgādes un kanalizācijas pakalpojumu nodrošināšanu, sadzīves atkritumu izvešanu, elektroenerģiju, funkcionāli nepieciešamā zemesgabala lietošanu
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 1.5.
-  * Pakalpojums: Informācijas sniegšana valsts un pašvaldību institūcijām
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 1.6.
-  * Pakalpojums: Dzīvojamās mājas, tajā esošo iekārtu un komunikāciju vizuālā pārbaude
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 1.7.
-  * Pakalpojums: Dzīvojamās mājas, tajā esošo iekārtu un komunikāciju tehniskā apsekošana
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 1.8.
-  * Pakalpojums: Dzīvojamās mājas iekārtu inženierkomunikāciju un sistēmu tehniskā apkope5
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 1.8.1.
-  * Pakalpojums:  
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 1.8.2.
-  * Pakalpojums:  
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 1.9.
-  * Pakalpojums: Dzīvojamās mājas, tajā esošo iekārtu un inženierkomunikāciju uzturēšanas darbi5
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 1.9.1.
-  * Pakalpojums:  
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 1.9.2.
-  * Pakalpojums:  
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 1.10.
-  * Pakalpojums: Dzīvojamās mājas energoefektivitātes uzlabošanas pasākumi, tajā skaitā minimālo prasību izpilde,  ēkas energosertifikācija
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 1.11.
-  * Pakalpojums: Dzīvojamai mājai kā vides objektam noteikto prasību izpilde
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 2.
-  * Pakalpojums: Apdrošināšana4
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: 3.
-  * Pakalpojums: Citi ar dzīvojamās mājas pārvaldīšanu saistīti izdevumi (norādīt, kādi)4
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-  *  
-* Nr.p. k.: III. Maksājumi par turpmākajos periodos veicamajiem dzīvojamās mājas, tajā esošo iekārtu un inženierkomunikāciju uzturēšanas darbiem
-  * Pakalpojums:  
-  * Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2(euro):  
-  * Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī(euro):  
-  * Summa (euro):  
-
+| Nr. p. k.                                                                                                                            | Pakalpojums                                                                                                                                                                                                         | Pakalpojuma cena viena dzīvokļa īpašuma platības m2 mēnesī2 (euro) | Pakalpojuma izmaksas viena dzīvokļa īpašuma platības m2 mēnesī (euro) | Summa (euro) |      |
+|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------------|--------------|------|
+|                                                                                                                                      |                                                                                                                                                                                                                     |                                                                    |                                                                       | mēnesī       | gadā |
+| I. Saņemamie maksājumi                                                                                                               |                                                                                                                                                                                                                     |                                                                    |                                                                       |              |      |
+| 1.                                                                                                                                   | Maksājumi par pārvaldīšanas pakalpojumu                                                                                                                                                                             |                                                                    |                                                                       |              |      |
+| 1.1.                                                                                                                                 | Obligātie pārvaldīšanas izdevumi                                                                                                                                                                                    |                                                                    |                                                                       |              |      |
+| 1.2.                                                                                                                                 | Atlīdzība par pārvaldīšanu3                                                                                                                                                                                         |                                                                    |                                                                       |              |      |
+| 2.                                                                                                                                   | Maksājumi par turpmākajos periodos obligāto pārvaldīšanas darbību ietvaros veicamo dzīvojamās mājas remontu, atjaunošanu vai pārbūvi                                                                                |                                                                    |                                                                       |              |      |
+| 3.                                                                                                                                   | Apdrošināšana4                                                                                                                                                                                                      |                                                                    |                                                                       |              |      |
+| 4.                                                                                                                                   | Citi ieņēmumi (norādīt, kādi)                                                                                                                                                                                       |                                                                    |                                                                       |              |      |
+| II. Plānotie izdevumi                                                                                                                |                                                                                                                                                                                                                     |                                                                    |                                                                       |              |      |
+| 1.                                                                                                                                   | Pārvaldīšanas izdevumi                                                                                                                                                                                              |                                                                    |                                                                       |              |      |
+| 1.1.                                                                                                                                 | Dzīvojamās mājas sanitārā apkope                                                                                                                                                                                    |                                                                    |                                                                       |              |      |
+| 1.2.                                                                                                                                 | Dzīvojamās mājas lietas vešana                                                                                                                                                                                      |                                                                    |                                                                       |              |      |
+| 1.3.                                                                                                                                 | Pārvaldīšanas darba plānošana, organizēšana un pārraudzība                                                                                                                                                          |                                                                    |                                                                       |              |      |
+| 1.4.                                                                                                                                 | Līgumu slēgšana par siltumenerģijas, arī dabasgāzes, piegādi, ūdensapgādes un kanalizācijas pakalpojumu nodrošināšanu, sadzīves atkritumu izvešanu, elektroenerģiju, funkcionāli nepieciešamā zemesgabala lietošanu |                                                                    |                                                                       |              |      |
+| 1.5.                                                                                                                                 | Informācijas sniegšana valsts un pašvaldību institūcijām                                                                                                                                                            |                                                                    |                                                                       |              |      |
+| 1.6.                                                                                                                                 | Dzīvojamās mājas, tajā esošo iekārtu un komunikāciju vizuālā pārbaude                                                                                                                                               |                                                                    |                                                                       |              |      |
+| 1.7.                                                                                                                                 | Dzīvojamās mājas, tajā esošo iekārtu un komunikāciju tehniskā apsekošana                                                                                                                                            |                                                                    |                                                                       |              |      |
+| 1.8.                                                                                                                                 | Dzīvojamās mājas iekārtu inženierkomunikāciju un sistēmu tehniskā apkope5                                                                                                                                           |                                                                    |                                                                       |              |      |
+| 1.8.1.                                                                                                                               |                                                                                                                                                                                                                     |                                                                    |                                                                       |              |      |
+| 1.8.2.                                                                                                                               |                                                                                                                                                                                                                     |                                                                    |                                                                       |              |      |
+| 1.9.                                                                                                                                 | Dzīvojamās mājas, tajā esošo iekārtu un inženierkomunikāciju uzturēšanas darbi5                                                                                                                                     |                                                                    |                                                                       |              |      |
+| 1.9.1.                                                                                                                               |                                                                                                                                                                                                                     |                                                                    |                                                                       |              |      |
+| 1.9.2.                                                                                                                               |                                                                                                                                                                                                                     |                                                                    |                                                                       |              |      |
+| 1.10.                                                                                                                                | Dzīvojamās mājas energoefektivitātes uzlabošanas pasākumi, tajā skaitā minimālo prasību izpilde,  ēkas energosertifikācija                                                                                          |                                                                    |                                                                       |              |      |
+| 1.11.                                                                                                                                | Dzīvojamai mājai kā vides objektam noteikto prasību izpilde                                                                                                                                                         |                                                                    |                                                                       |              |      |
+| 2.                                                                                                                                   | Apdrošināšana4                                                                                                                                                                                                      |                                                                    |                                                                       |              |      |
+| 3.                                                                                                                                   | Citi ar dzīvojamās mājas pārvaldīšanu saistīti izdevumi (norādīt, kādi)4                                                                                                                                            |                                                                    |                                                                       |              |      |
+| III. Maksājumi par turpmākajos periodos veicamajiem dzīvojamās mājas, tajā esošo iekārtu un inženierkomunikāciju uzturēšanas darbiem |                                                                                                                                                                                                                     |                                                                    |                                                                       |              |      |
 
 Piezīmes.
 
@@ -394,92 +256,20 @@ Dzīvojamās mājas uzturēšanas darbu plāns
 |            |   |   |                  |(nosaukums, reģistrācijas Nr., adrese)|
 
 
-
-
-* Dzīvojamās mājas elements, iekārta, inženierkomunikācija vai teritorijas labiekārtojuma elements: Ēka
-  * Uzturēšanas darba veids: 
-  * Informācija par vizuālo pārbaudi vai tehnisko apsekošanu: 
-  * Plānotais uzturēšanas darba veikšanas laiks: 
-  * Plānotās darbu izmaksas1(euro): 
-  * Priekšlikumi darbu finansējuma avotam: 
-  * Pārvaldīšanas izdevumu sadalījums pa gadiem(euro gadā): 
-* Dzīvojamās mājas elements, iekārta, inženierkomunikācija vai teritorijas labiekārtojuma elements:  
-  * Uzturēšanas darba veids:  
-  * Informācija par vizuālo pārbaudi vai tehnisko apsekošanu:  
-  * Plānotais uzturēšanas darba veikšanas laiks:  
-  * Plānotās darbu izmaksas1(euro):  
-  * Priekšlikumi darbu finansējuma avotam:  
-  * Pārvaldīšanas izdevumu sadalījums pa gadiem(euro gadā):  
-* Dzīvojamās mājas elements, iekārta, inženierkomunikācija vai teritorijas labiekārtojuma elements:  
-  * Uzturēšanas darba veids:  
-  * Informācija par vizuālo pārbaudi vai tehnisko apsekošanu:  
-  * Plānotais uzturēšanas darba veikšanas laiks:  
-  * Plānotās darbu izmaksas1(euro):  
-  * Priekšlikumi darbu finansējuma avotam:  
-  * Pārvaldīšanas izdevumu sadalījums pa gadiem(euro gadā):  
-* Dzīvojamās mājas elements, iekārta, inženierkomunikācija vai teritorijas labiekārtojuma elements: Iekšējie inženiertīkli un iekārtas
-  * Uzturēšanas darba veids: 
-  * Informācija par vizuālo pārbaudi vai tehnisko apsekošanu: 
-  * Plānotais uzturēšanas darba veikšanas laiks: 
-  * Plānotās darbu izmaksas1(euro): 
-  * Priekšlikumi darbu finansējuma avotam: 
-  * Pārvaldīšanas izdevumu sadalījums pa gadiem(euro gadā): 
-* Dzīvojamās mājas elements, iekārta, inženierkomunikācija vai teritorijas labiekārtojuma elements:  
-  * Uzturēšanas darba veids:  
-  * Informācija par vizuālo pārbaudi vai tehnisko apsekošanu:  
-  * Plānotais uzturēšanas darba veikšanas laiks:  
-  * Plānotās darbu izmaksas1(euro):  
-  * Priekšlikumi darbu finansējuma avotam:  
-  * Pārvaldīšanas izdevumu sadalījums pa gadiem(euro gadā):  
-* Dzīvojamās mājas elements, iekārta, inženierkomunikācija vai teritorijas labiekārtojuma elements:  
-  * Uzturēšanas darba veids:  
-  * Informācija par vizuālo pārbaudi vai tehnisko apsekošanu:  
-  * Plānotais uzturēšanas darba veikšanas laiks:  
-  * Plānotās darbu izmaksas1(euro):  
-  * Priekšlikumi darbu finansējuma avotam:  
-  * Pārvaldīšanas izdevumu sadalījums pa gadiem(euro gadā):  
-* Dzīvojamās mājas elements, iekārta, inženierkomunikācija vai teritorijas labiekārtojuma elements: Ārējie inženiertīkli
-  * Uzturēšanas darba veids: 
-  * Informācija par vizuālo pārbaudi vai tehnisko apsekošanu: 
-  * Plānotais uzturēšanas darba veikšanas laiks: 
-  * Plānotās darbu izmaksas1(euro): 
-  * Priekšlikumi darbu finansējuma avotam: 
-  * Pārvaldīšanas izdevumu sadalījums pa gadiem(euro gadā): 
-* Dzīvojamās mājas elements, iekārta, inženierkomunikācija vai teritorijas labiekārtojuma elements:  
-  * Uzturēšanas darba veids:  
-  * Informācija par vizuālo pārbaudi vai tehnisko apsekošanu:  
-  * Plānotais uzturēšanas darba veikšanas laiks:  
-  * Plānotās darbu izmaksas1(euro):  
-  * Priekšlikumi darbu finansējuma avotam:  
-  * Pārvaldīšanas izdevumu sadalījums pa gadiem(euro gadā):  
-* Dzīvojamās mājas elements, iekārta, inženierkomunikācija vai teritorijas labiekārtojuma elements:  
-  * Uzturēšanas darba veids:  
-  * Informācija par vizuālo pārbaudi vai tehnisko apsekošanu:  
-  * Plānotais uzturēšanas darba veikšanas laiks:  
-  * Plānotās darbu izmaksas1(euro):  
-  * Priekšlikumi darbu finansējuma avotam:  
-  * Pārvaldīšanas izdevumu sadalījums pa gadiem(euro gadā):  
-* Dzīvojamās mājas elements, iekārta, inženierkomunikācija vai teritorijas labiekārtojuma elements: Teritorijas labiekārtojums
-  * Uzturēšanas darba veids: 
-  * Informācija par vizuālo pārbaudi vai tehnisko apsekošanu: 
-  * Plānotais uzturēšanas darba veikšanas laiks: 
-  * Plānotās darbu izmaksas1(euro): 
-  * Priekšlikumi darbu finansējuma avotam: 
-  * Pārvaldīšanas izdevumu sadalījums pa gadiem(euro gadā): 
-* Dzīvojamās mājas elements, iekārta, inženierkomunikācija vai teritorijas labiekārtojuma elements:  
-  * Uzturēšanas darba veids:  
-  * Informācija par vizuālo pārbaudi vai tehnisko apsekošanu:  
-  * Plānotais uzturēšanas darba veikšanas laiks:  
-  * Plānotās darbu izmaksas1(euro):  
-  * Priekšlikumi darbu finansējuma avotam:  
-  * Pārvaldīšanas izdevumu sadalījums pa gadiem(euro gadā):  
-* Dzīvojamās mājas elements, iekārta, inženierkomunikācija vai teritorijas labiekārtojuma elements:  
-  * Uzturēšanas darba veids:  
-  * Informācija par vizuālo pārbaudi vai tehnisko apsekošanu:  
-  * Plānotais uzturēšanas darba veikšanas laiks:  
-  * Plānotās darbu izmaksas1(euro):  
-  * Priekšlikumi darbu finansējuma avotam:  
-  * Pārvaldīšanas izdevumu sadalījums pa gadiem(euro gadā):  
+| Dzīvojamās mājas elements, iekārta, inženierkomunikācija vai teritorijas labiekārtojuma elements | Uzturēšanas darba veids | Informācija par vizuālo pārbaudi vai tehnisko apsekošanu | Plānotais uzturēšanas darba veikšanas laiks | Plānotās darbu izmaksas1 (euro) | Priekšlikumi darbu finansējuma avotam | Pārvaldīšanas izdevumu sadalījums pa gadiem (euro gadā) |
+|:------------------------------------------------------------------------------------------------:|:-----------------------:|:--------------------------------------------------------:|:-------------------------------------------:|:-------------------------------:|:-------------------------------------:|:-------------------------------------------------------:|
+| Ēka                                                                                              |                         |                                                          |                                             |                                 |                                       |                                                         |
+|                                                                                                  |                         |                                                          |                                             |                                 |                                       |                                                         |
+|                                                                                                  |                         |                                                          |                                             |                                 |                                       |                                                         |
+| Iekšējie inženiertīkli un iekārtas                                                               |                         |                                                          |                                             |                                 |                                       |                                                         |
+|                                                                                                  |                         |                                                          |                                             |                                 |                                       |                                                         |
+|                                                                                                  |                         |                                                          |                                             |                                 |                                       |                                                         |
+| Ārējie inženiertīkli                                                                             |                         |                                                          |                                             |                                 |                                       |                                                         |
+|                                                                                                  |                         |                                                          |                                             |                                 |                                       |                                                         |
+|                                                                                                  |                         |                                                          |                                             |                                 |                                       |                                                         |
+| Teritorijas labiekārtojums                                                                       |                         |                                                          |                                             |                                 |                                       |                                                         |
+|                                                                                                  |                         |                                                          |                                             |                                 |                                       |                                                         |
+|                                                                                                  |                         |                                                          |                                             |                                 |                                       |                                                         |
 
 
 Piezīmes.
@@ -523,116 +313,35 @@ Dzīvojamās mājas pārvaldīšanas un apsaimniekošanas ieņēmumu un izdevumu
 
 **Pārvaldīšanas maksa \_\_\_\_\_\_\_\_\_\_\_\_** _euro_/m2 mēnesī
 
-
-
-* Nr. p. k.: I. Maksājuma atlikums kalendāra gada sākumā par pārvaldīšanas pakalpojumu (euro)
-  * Ieņēmumu un izdevumu posteņi:  
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro): 
-* Nr. p. k.: II. Uzkrāto līdzekļu apmērs turpmākajos periodos nepieciešamajiem uzturēšanas darbiem kalendāra gada sākumā (euro)
-  * Ieņēmumu un izdevumu posteņi:  
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro): 
-* Nr. p. k.: III. Saņemtie maksājumi
-  * Ieņēmumu un izdevumu posteņi:  
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro): 
-* Nr. p. k.: 1.
-  * Ieņēmumu un izdevumu posteņi: Maksājumi par pārvaldīšanas pakalpojumu
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro):  
-* Nr. p. k.: 2.
-  * Ieņēmumu un izdevumu posteņi: Maksājumi par turpmākajos periodos obligāto pārvaldīšanas darbību ietvaros veicamo dzīvojamās mājas remontu, atjaunošanu vai pārbūvi
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro):  
-* Nr. p. k.: 3.
-  * Ieņēmumu un izdevumu posteņi: Līdzekļi ārpuskārtas remontiem
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro):  
-* Nr. p. k.: 4.
-  * Ieņēmumu un izdevumu posteņi: Apdrošināšana
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro):  
-* Nr. p. k.: 5.
-  * Ieņēmumu un izdevumu posteņi: Atlīdzība par pārvaldīšanu1
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro):  
-* Nr. p. k.: 6.
-  * Ieņēmumu un izdevumu posteņi: Citi ieņēmumi (norādīt, kādi)
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro):  
-* Nr. p. k.: IV. Izdevumi
-  * Ieņēmumu un izdevumu posteņi:  
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro): 
-* Nr. p. k.: 1.
-  * Ieņēmumu un izdevumu posteņi: Dzīvojamās mājas sanitārā apkope
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro):  
-* Nr. p. k.: 2.
-  * Ieņēmumu un izdevumu posteņi: Dzīvojamās mājas lietas vešana
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro):  
-* Nr. p. k.: 3.
-  * Ieņēmumu un izdevumu posteņi: Pārvaldīšanas darba plānošana, organizēšana un pārraudzība
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro):  
-* Nr. p. k.: 4.
-  * Ieņēmumu un izdevumu posteņi: Līgumu slēgšana par siltumenerģijas, arī dabasgāzes, piegādi, ūdensapgādes un kanalizācijas pakalpojumu nodrošināšanu, sadzīves atkritumu izvešanu, elektroenerģiju, piesaistītā zemesgabala lietošanu
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro):  
-* Nr. p. k.: 5.
-  * Ieņēmumu un izdevumu posteņi: Informācijas sniegšana valsts un pašvaldību institūcijām
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro):  
-* Nr. p. k.: 6.
-  * Ieņēmumu un izdevumu posteņi: Dzīvojamās mājas, tajā esošo iekārtu un komunikāciju vizuālā pārbaude
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro):  
-* Nr. p. k.: 7.
-  * Ieņēmumu un izdevumu posteņi: Dzīvojamās mājas, tajā esošo iekārtu un komunikāciju tehniskā apsekošana
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro):  
-* Nr. p. k.: 8.
-  * Ieņēmumu un izdevumu posteņi: Dzīvojamās mājas iekārtu inženierkomunikāciju un sistēmu tehniskā apkope
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro):  
-* Nr. p. k.: 9.
-  * Ieņēmumu un izdevumu posteņi: Dzīvojamās mājas, tajā esošo iekārtu un inženierkomunikāciju uzturēšanas darbi, kas segti no maksājumiem par turpmākajos periodos obligāto pārvaldīšanas darbību ietvaros veicamo dzīvojamās mājas remontu, atjaunošanu vai pārbūvi (norādīt katra darba nosaukumu, izmaksas un veikšanas laiku)
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro):  
-* Nr. p. k.: 10.
-  * Ieņēmumu un izdevumu posteņi: Dzīvojamās mājas, tajā esošo iekārtu un inženierkomunikāciju plānotie uzturēšanas darbi, kas segti no maksājumiem par pārvaldīšanas pakalpojumu (norādīt katra darba nosaukumu, izmaksas un veikšanas laiku)
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro):  
-* Nr. p. k.: 11.
-  * Ieņēmumu un izdevumu posteņi: Dzīvojamās mājas energoefektivitātes uzlabošanas pasākumu, tajā skaitā minimālo prasību izpildes, nodrošināšana,  ēkas energosertifikācija
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro):  
-* Nr. p. k.: 12.
-  * Ieņēmumu un izdevumu posteņi: Dzīvojamai mājai kā vides objektam noteikto prasību izpildes nodrošināšana
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro):  
-* Nr. p. k.: 13.
-  * Ieņēmumu un izdevumu posteņi: Apdrošināšana
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro):  
-* Nr. p. k.: 14.
-  * Ieņēmumu un izdevumu posteņi: Citi ar dzīvojamās mājas pārvaldīšanu saistīti izdevumi (norādīt, kādi)
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro):  
-* Nr. p. k.: 15.
-  * Ieņēmumu un izdevumu posteņi: Izdevumi ārpuskārtas remontiem (norādīt katra darba nosaukumu, izmaksas un veikšanas laiku)
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro):  
-* Nr. p. k.: V. Maksājuma atlikums kalendāra gada beigās par pārvaldīšanas pakalpojumu (euro)
-  * Ieņēmumu un izdevumu posteņi:  
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro): 
-* Nr. p. k.: VI. Uzkrāto līdzekļu apmērs turpmākajos periodos nepieciešamajiem uzturēšanas darbiem kalendāra gada beigās2 (euro)
-  * Ieņēmumu un izdevumu posteņi:  
-  * Plānotā summa pārskata periodā (euro):  
-  * Faktiskā summa pārskata periodā (euro): 
+| Nr. p. k.                                                                                                           | Ieņēmumu un izdevumu posteņi                                                                                                                                                                                                                                                                     | Plānotā summa pārskata periodā (euro) | Faktiskā summa pārskata periodā (euro) |
+|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|----------------------------------------|
+| I. Maksājuma atlikums kalendāra gada sākumā par pārvaldīšanas pakalpojumu (euro)                                    |                                                                                                                                                                                                                                                                                                  |                                       |                                        |
+| II. Uzkrāto līdzekļu apmērs turpmākajos periodos nepieciešamajiem uzturēšanas darbiem kalendāra gada sākumā (euro)  |                                                                                                                                                                                                                                                                                                  |                                       |                                        |
+| III. Saņemtie maksājumi                                                                                             |                                                                                                                                                                                                                                                                                                  |                                       |                                        |
+| 1.                                                                                                                  | Maksājumi par pārvaldīšanas pakalpojumu                                                                                                                                                                                                                                                          |                                       |                                        |
+| 2.                                                                                                                  | Maksājumi par turpmākajos periodos obligāto pārvaldīšanas darbību ietvaros veicamo dzīvojamās mājas remontu, atjaunošanu vai pārbūvi                                                                                                                                                             |                                       |                                        |
+| 3.                                                                                                                  | Līdzekļi ārpuskārtas remontiem                                                                                                                                                                                                                                                                   |                                       |                                        |
+| 4.                                                                                                                  | Apdrošināšana                                                                                                                                                                                                                                                                                    |                                       |                                        |
+| 5.                                                                                                                  | Atlīdzība par pārvaldīšanu1                                                                                                                                                                                                                                                                      |                                       |                                        |
+| 6.                                                                                                                  | Citi ieņēmumi (norādīt, kādi)                                                                                                                                                                                                                                                                    |                                       |                                        |
+| IV. Izdevumi                                                                                                        |                                                                                                                                                                                                                                                                                                  |                                       |                                        |
+| 1.                                                                                                                  | Dzīvojamās mājas sanitārā apkope                                                                                                                                                                                                                                                                 |                                       |                                        |
+| 2.                                                                                                                  | Dzīvojamās mājas lietas vešana                                                                                                                                                                                                                                                                   |                                       |                                        |
+| 3.                                                                                                                  | Pārvaldīšanas darba plānošana, organizēšana un pārraudzība                                                                                                                                                                                                                                       |                                       |                                        |
+| 4.                                                                                                                  | Līgumu slēgšana par siltumenerģijas, arī dabasgāzes, piegādi, ūdensapgādes un kanalizācijas pakalpojumu nodrošināšanu, sadzīves atkritumu izvešanu, elektroenerģiju, piesaistītā zemesgabala lietošanu                                                                                           |                                       |                                        |
+| 5.                                                                                                                  | Informācijas sniegšana valsts un pašvaldību institūcijām                                                                                                                                                                                                                                         |                                       |                                        |
+| 6.                                                                                                                  | Dzīvojamās mājas, tajā esošo iekārtu un komunikāciju vizuālā pārbaude                                                                                                                                                                                                                            |                                       |                                        |
+| 7.                                                                                                                  | Dzīvojamās mājas, tajā esošo iekārtu un komunikāciju tehniskā apsekošana                                                                                                                                                                                                                         |                                       |                                        |
+| 8.                                                                                                                  | Dzīvojamās mājas iekārtu inženierkomunikāciju un sistēmu tehniskā apkope                                                                                                                                                                                                                         |                                       |                                        |
+| 9.                                                                                                                  | Dzīvojamās mājas, tajā esošo iekārtu un inženierkomunikāciju uzturēšanas darbi, kas segti no maksājumiem par turpmākajos periodos obligāto pārvaldīšanas darbību ietvaros veicamo dzīvojamās mājas remontu, atjaunošanu vai pārbūvi (norādīt katra darba nosaukumu, izmaksas un veikšanas laiku) |                                       |                                        |
+| 10.                                                                                                                 | Dzīvojamās mājas, tajā esošo iekārtu un inženierkomunikāciju plānotie uzturēšanas darbi, kas segti no maksājumiem par pārvaldīšanas pakalpojumu (norādīt katra darba nosaukumu, izmaksas un veikšanas laiku)                                                                                     |                                       |                                        |
+| 11.                                                                                                                 | Dzīvojamās mājas energoefektivitātes uzlabošanas pasākumu, tajā skaitā minimālo prasību izpildes, nodrošināšana,  ēkas energosertifikācija                                                                                                                                                       |                                       |                                        |
+| 12.                                                                                                                 | Dzīvojamai mājai kā vides objektam noteikto prasību izpildes nodrošināšana                                                                                                                                                                                                                       |                                       |                                        |
+| 13.                                                                                                                 | Apdrošināšana                                                                                                                                                                                                                                                                                    |                                       |                                        |
+| 14.                                                                                                                 | Citi ar dzīvojamās mājas pārvaldīšanu saistīti izdevumi (norādīt, kādi)                                                                                                                                                                                                                          |                                       |                                        |
+| 15.                                                                                                                 | Izdevumi ārpuskārtas remontiem (norādīt katra darba nosaukumu, izmaksas un veikšanas laiku)                                                                                                                                                                                                      |                                       |                                        |
+| V. Maksājuma atlikums kalendāra gada beigās par pārvaldīšanas pakalpojumu (euro)                                    |                                                                                                                                                                                                                                                                                                  |                                       |                                        |
+| VI. Uzkrāto līdzekļu apmērs turpmākajos periodos nepieciešamajiem uzturēšanas darbiem kalendāra gada beigās2 (euro) |                                                                                                                                                                                                                                                                                                  |                                       |                                        |
 
 
 Piezīmes.
