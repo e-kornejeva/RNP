@@ -36,3 +36,20 @@ Ja ŪPS nav nomainīti vai verificēti:
 _\* Ministru kabineta noteikumi Nr.1013 “Kārtība, kādā dzīvokļa īpašnieks daudzdzīvokļu dzīvojamā mājā norēķinās par pakalpojumiem, kas saistīti ar dzīvokļa īpašuma lietošanu”._
 
 _\*\* Rīgas domes saistošie noteikumi Nr. 4 “Par sabiedrisko ūdenssaimniecības pakalpojumu līguma noteikumiem, tā slēgšanas, grozīšanas un izbeigšanas kārtību”._
+
+
+_________________________________________________
+
+# Par ūdens patēriņu
+
+#### URL:https://rnparvaldnieks.lv/par-udens-paterinu/
+
+Rādījumus iespējams iesniegt 5 dažādos veidos:
+
+1.  Iesniedzot aizpildītu specializēto ūdens patēriņa skaitītāju rādījumu lapiņu, iemetot to speciāli izveidotā ūdens patēriņa skaitītāju rādījumu nodošanas kastītē;
+2.  Vortālā **[www.e-parvaldnieks.lv](http://www.e-parvaldnieks.lv/)** BEZ REĢISTRĒŠANĀS, norādot tikai rēķina datus. Instrukcija – [šeit](https://rnparvaldnieks.lv/wp-content/uploads/2021/05/UPS_iesniegsana_vortala_bezReg_LV.pdf);
+3.  Vortālā **[www.e-parvaldnieks.lv](http://www.e-parvaldnieks.lv/)** AR REĢISTRĒŠANOS, kā dzīvokļa īpašnieks vai īrnieks. Instrukcija – [šeit](https://rnparvaldnieks.lv/wp-content/uploads/2021/05/E-parvaldnieks_pamaciba_LV.pdf);
+4.  Nosūtot ar SMS starpniecību. Instrukcija – [šeit](https://rnparvaldnieks.lv/wp-content/uploads/2021/05/SMS_instrukcija_LV.pdf);
+5.  Pašapkalpošanās kioskos SIA “Rīgas namu pārvaldnieks” Klientu apkalpošanas centros\*.
+
+_\* Kioski klientiem pieejami Brīvības ielā 49/53, Mārtiņa ielā 7 (2 kioski), Maskavas ielā 168, Pārslas ielā 10, Tilta ielā 11 k-1, Zebiekstes ielā 8 (2 kioski), Rīgā._
