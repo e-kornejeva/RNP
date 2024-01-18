@@ -59,7 +59,7 @@ Ja Jums ir kādi jautājumi saistībā ar šo paziņojumu vai Jūsu personas dat
 
 Jums ir tiesības piekļūt saviem personas datiem, kuri ir Pārvaldnieka rīcībā, pieprasīt to labošanu, dzēšanu, apstrādes ierobežošanu, iebilst pret Jūsu datu apstrādi, kā arī tiesības uz datu pārnesamību.
 
-Pārvaldnieka privātuma politika ir pieejama Pārvaldnieka tīmekļa vietnē: [https://rnparvaldnieks.lv/lv/kontakti/informacija_par_personu_datu_apstradi/](https://rnparvaldnieks.lv/lv/kontakti/informacija_par_personu_datu_apstradi/).
+Pārvaldnieka privātuma politika ir pieejama Pārvaldnieka tīmekļa vietnē: [https://rnparvaldnieks.lv/lv/kontakti/informacija_par_personu_datu_apstradi/](https://rnparvaldnieks.lv/privatuma-politika/).
 
 Ar šo piekrītu personas datu apstrādei.
 
