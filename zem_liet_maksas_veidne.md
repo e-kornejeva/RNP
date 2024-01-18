@@ -53,13 +53,13 @@ Apliecinu, ka sniegtā informācija ir patiesa, pilnīga un precīza.
 
 ` `(paraksts) 
 
-Pārzinis Jūsu personas datu apstrādei ir SIA “Rīgas namu pārvaldnieks”, adrese: Aleksandra Čaka ielā 42, Rīgā, LV-1011, elektroniskā pasta adrese [datuaizsardziba@rnparvaldnieks.lv]().
+Pārzinis Jūsu personas datu apstrādei ir SIA “Rīgas namu pārvaldnieks”, adrese: Aleksandra Čaka ielā 42, Rīgā, LV-1011, elektroniskā pasta adrese [datuaizsardziba@rnparvaldnieks.lv](mailto:datuaizsardziba@rnparvaldnieks.lv).
 
-Ja Jums ir kādi jautājumi saistībā ar šo paziņojumu vai Jūsu personas datu apstrādi, tad Jūs varat ar Pārvaldnieku sazināties, izmantojot šajā paziņojumā norādītos saziņas veidus vai sazinoties ar Pārvaldnieka personas datu aizsardzības speciālistu, rakstot uz elektronisko pasta adresi: [datuaizsardziba@rnparvaldnieks.lv]().
+Ja Jums ir kādi jautājumi saistībā ar šo paziņojumu vai Jūsu personas datu apstrādi, tad Jūs varat ar Pārvaldnieku sazināties, izmantojot šajā paziņojumā norādītos saziņas veidus vai sazinoties ar Pārvaldnieka personas datu aizsardzības speciālistu, rakstot uz elektronisko pasta adresi: [datuaizsardziba@rnparvaldnieks.lv](mailto:datuaizsardziba@rnparvaldnieks.lv).
 
 Jums ir tiesības piekļūt saviem personas datiem, kuri ir Pārvaldnieka rīcībā, pieprasīt to labošanu, dzēšanu, apstrādes ierobežošanu, iebilst pret Jūsu datu apstrādi, kā arī tiesības uz datu pārnesamību.
 
-Pārvaldnieka privātuma politika ir pieejama Pārvaldnieka tīmekļa vietnē: [https://rnparvaldnieks.lv/lv/kontakti/informacija_par_personu_datu_apstradi/]( ).
+Pārvaldnieka privātuma politika ir pieejama Pārvaldnieka tīmekļa vietnē: [https://rnparvaldnieks.lv/lv/kontakti/informacija_par_personu_datu_apstradi/](https://rnparvaldnieks.lv/lv/kontakti/informacija_par_personu_datu_apstradi/).
 
 Ar šo piekrītu personas datu apstrādei.
 
