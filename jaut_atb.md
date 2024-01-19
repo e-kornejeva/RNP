@@ -19,7 +19,7 @@ Attālināti noslēgt dzīvojamās mājas pārvaldīšanas līgumu ar SIA “Rī
 *   elektroniskā pasta adresi, ar kuru tiks veikta reģistrācija elektronisko pakalpojumu vortālā **[e-parvaldnieks.lv](https://e-parvaldnieks.lv/)**;
 *   tālruņa numuru saziņai.
 
-Klātienē dzīvojamās mājas pārvaldīšanas līgumu var noslēgt, vēršoties jebkurā Pārvaldnieka klientu apkalpošanas centrā (adreses un darba laiki pieejami [**ŠEIT**](/klientu_apkalposanas_centri/)), līdzi ņemot personas identitāti un īpašumtiesību apliecinošus dokumentus (oriģinālus)
+Klātienē dzīvojamās mājas pārvaldīšanas līgumu var noslēgt, vēršoties jebkurā Pārvaldnieka klientu apkalpošanas centrā (adreses un darba laiki pieejami [**ŠEIT**](https://rnparvaldnieks.lv/klientu_apkalposanas_centri/), līdzi ņemot personas identitāti un īpašumtiesību apliecinošus dokumentus (oriģinālus)
 
 Dzīvokļa īpašumam nomainījies īpašnieks. Kā tiks sadalīts rēķins? Vai iesniegt pieņemšanas-nodošanas aktu?
 
@@ -34,7 +34,7 @@ Kā iesniegt dokumentus?
 Lai iesniegtu nepieciešamos dokumentus:
 
 *   rakstot uz e-pastu **[rnparvaldnieks@rnparvaldnieks.lv](mailto:rnparvaldnieks@rnparvaldnieks.lv)**, norādot arī tālruņa nr. saziņai ar Jums. Iesūtot iesniegumu un dokumentus elektroniski, tiem jābūt parakstītiem ar drošu elektronisko parakstu;
-*   atstājot dokumentus SIA “Rīgas namu pārvaldnieks” [**Klientu apkalpošanas centra**](/klientu_apkalposanas_centri/) pastkastītē, norādot arī tālruņa nr. saziņai ar Jums;
+*   atstājot dokumentus SIA “Rīgas namu pārvaldnieks” [**Klientu apkalpošanas centra**](https://rnparvaldnieks.lv/klientu_apkalposanas_centri/) pastkastītē, norādot arī tālruņa nr. saziņai ar Jums;
 *   ar pasta starpniecību, nosūtot dokumentus uz SIA “Rīgas namu pārvaldnieks” juridisko adresi – Aleksandra Čaka iela 42, Rīga, LV-1011.
 
 Iesniedzot iesniegumu, klientam obligāti jānorāda savs vārds un uzvārds, kontakttālrunis un pēc iespējas plašāka jāapraksta situācija, ko nepieciešams risināt. Iesūtot iesniegumu elektroniski, aicinām klientus nosūtīt tos no e-pasta adreses, ar ko autorizējies vortālā E-pārvaldnieks. Ja dzīvokļa īpašnieks nav autorizējis savu profilu vortālā, dokumentiem jābūt parakstītiem ar drošu elektronisko parakstu. Nepieciešamības gadījumā iesniegumam pievienot dokumentu kopijas, kas apliecina iesniegumā minētos apstākļus. Iesniegums var būt pašrocīgi parakstīts, ja tas tiek ievietos Klientu apkalpošanas centra pastkastītē.
@@ -44,7 +44,7 @@ Kā un kur varu iesniegt ūdens patēriņa skaitītāju nomaiņas/verifikācijas
 Ūdens patēriņa skaitītāju nomaiņas/verifikācijas aktu un skaitītāju sertifikātus var iesniegt:
 
 *   sūtot uz e-pastu **[rnparvaldnieks@rnparvaldnieks.lv](mailto:rnparvaldnieks@rnparvaldnieks.lv)**, norādot arī tālruņa nr. saziņai ar Jums;
-*   atstājot dokumentus tiem paredzētā pastkastē pie SIA “Rīgas namu pārvaldnieks” **[Klientu apkalpošanas centriem](/klientu_apkalposanas_centri/)**, norādot arī tālruņa nr. saziņai ar Jums;
+*   atstājot dokumentus tiem paredzētā pastkastē pie SIA “Rīgas namu pārvaldnieks” **[Klientu apkalpošanas centriem](https://rnparvaldnieks.lv/klientu_apkalposanas_centri/)**, norādot arī tālruņa nr. saziņai ar Jums;
 *   ar pasta starpniecību nosūtot dokumentus SIA “Rīgas namu pārvaldnieks” juridisko adresi – Aleksandra Čaka iela 42, Rīga, LV-1011.
 
 **Par trīspusējo līguma noslēgšanu**
@@ -66,15 +66,15 @@ RNP sagatavo trīspusēju līgumu pēc RNP izstrādātā parauga, nodrošinot vi
 
 Kā reģistrēties vortālā e-parvaldnieks.lv?
 
-Lai reģistrētos vortālā [**e-parvaldnieks.lv**](https://e-parvaldnieks.lv/), aicinām sekot pamācībai, kas pieejama [ŠEIT](/wp-content/uploads/2021/06/E-parvaldnieks_pamaciba_LV.pdf).
+Lai reģistrētos vortālā [**e-parvaldnieks.lv**](https://e-parvaldnieks.lv/), aicinām sekot pamācībai, kas pieejama [ŠEIT](https://rnparvaldnieks.lv/wp-content/uploads/2021/06/E-parvaldnieks_pamaciba_LV.pdf).
 
 Esmu dzīvokļa īpašnieks. Kā varu autorizēt savu vortāla e-parvaldnieks.lv profilu kā dzīvokļa īpašnieks?
 
-Lai veiktu autorizāciju, dzīvokļa īpašniekam sākumā nepieciešams ielogoties vortālā [**e-parvaldnieks.lv**](https://e-parvaldnieks.lv/), ievadot lietotājvārdu (elektroniskā pasta adresi) un paroli. Pēc tam logā “Lūdzam apliecināt savus personas datus” būs iespēja izvēlēties attiecīgo internetbanku vai eID un veikt personas datu apliecināšanu. Pamācība, kā to izdarīt, pieejama [ŠEIT](/wp-content/uploads/2021/06/E-parvaldnieks_pamaciba_LV.pdf).
+Lai veiktu autorizāciju, dzīvokļa īpašniekam sākumā nepieciešams ielogoties vortālā [**e-parvaldnieks.lv**](https://e-parvaldnieks.lv/), ievadot lietotājvārdu (elektroniskā pasta adresi) un paroli. Pēc tam logā “Lūdzam apliecināt savus personas datus” būs iespēja izvēlēties attiecīgo internetbanku vai eID un veikt personas datu apliecināšanu. Pamācība, kā to izdarīt, pieejama [ŠEIT](https://rnparvaldnieks.lv/wp-content/uploads/2021/06/E-parvaldnieks_pamaciba_LV.pdf).
 
-Autorizāciju iespējams veikt arī, personīgi ierodoties jebkurā SIA “Rīgas namu pārvaldnieks” Klientu apkalpošanas centrā (adreses un darba laiki pieejami [**ŠEIT**](/klientu_apkalposanas_centri/)), līdzi ņemot personu apliecinošu dokumentu.
+Autorizāciju iespējams veikt arī, personīgi ierodoties jebkurā SIA “Rīgas namu pārvaldnieks” Klientu apkalpošanas centrā (adreses un darba laiki pieejami [**ŠEIT**](https://rnparvaldnieks.lv/klientu_apkalposanas_centri/), līdzi ņemot personu apliecinošu dokumentu.
 
-Ja dzīvokļa īpašnieks ir juridiska persona, autorizācijai aicinām atsūtīt uzņēmuma paraksttiesīgas personas ar drošu elektronisko parakstu parakstītu iesniegumu (brīvā formā), norādot elektroniskā pasta adresi, kurai veicama autorizācija, uz elektroniskā pasta adresi **[rnparvaldnieks@rnparvaldnieks.lv](mailto:rnparvaldnieks@rnparvaldnieks.lv)** vai uzņēmuma pilnvaroto pārstāvi personīgi vērsties jebkurā SIA “Rīgas namu pārvaldnieks” Klientu apkalpošanas centrā (adreses un darba laiki pieejami [**ŠEIT**](/klientu_apkalposanas_centri/)), līdzi ņemot personas identitāti un uzņēmuma pārstāvību apliecinošus dokumentus.
+Ja dzīvokļa īpašnieks ir juridiska persona, autorizācijai aicinām atsūtīt uzņēmuma paraksttiesīgas personas ar drošu elektronisko parakstu parakstītu iesniegumu (brīvā formā), norādot elektroniskā pasta adresi, kurai veicama autorizācija, uz elektroniskā pasta adresi **[rnparvaldnieks@rnparvaldnieks.lv](mailto:rnparvaldnieks@rnparvaldnieks.lv)** vai uzņēmuma pilnvaroto pārstāvi personīgi vērsties jebkurā SIA “Rīgas namu pārvaldnieks” Klientu apkalpošanas centrā (adreses un darba laiki pieejami [**ŠEIT**](https://rnparvaldnieks.lv/klientu_apkalposanas_centri/), līdzi ņemot personas identitāti un uzņēmuma pārstāvību apliecinošus dokumentus.
 
 Kā vortālā e-parvaldnieks.lv nomainīt reģistrēto e-pastu?
 
@@ -343,7 +343,7 @@ Rādījumus iespējams iesniegt 5 dažādos veidos:
 1.  Iesniedzot aizpildītu specializēto ūdens patēriņa skaitītāju rādījumu lapiņu, iemetot to speciāli izveidotā ūdens patēriņa skaitītāju rādījumu nodošanas kastītē;
 2.  Vortālā [www.e-parvaldnieks.lv](http://www.e-parvaldnieks.lv/) BEZ REĢISTRĒŠANĀS, norādot tikai rēķina datus;
 3.  Vortālā [www.e-parvaldnieks.lv](http://www.e-parvaldnieks.lv/) AR REĢISTRĒŠANOS, kā dzīvokļa īpašnieks vai īrnieks;
-4.  Nosūtot ar SMS starpniecību. Instrukcija – [šeit](/wp-content/uploads/2021/06/SMS_instrukcija_LV.pdf);
+4.  Nosūtot ar SMS starpniecību. Instrukcija – [šeit](https://rnparvaldnieks.lv/wp-content/uploads/2021/06/SMS_instrukcija_LV.pdf);
 5.  Pašapkalpošanās kioskos SIA “Rīgas namu pārvaldnieks” Klientu apkalpošanas centros\*.
 
 _\* Kioski klientiem pieejami Aleksandra Čaka ielā 42, Brīvības ielā 49/53, Brīvības gatvē 430A, Mārtiņa ielā 7 (2 kioski), Maskavas ielā 168, Pārslas ielā 10, Tilta ielā 11 k-1, Zebiekstes ielā 8 (2 kioski), Rīgā._
@@ -368,7 +368,7 @@ Novērots, ka daudzdzīvokļu dzīvojamo māju iedzīvotāji ūdens skaitītāju
 
 *   klātienē – nododot rādījumus rakstveidā vai izmantojot ūdens skaitītāju rādījumu nodošanas termināli Rīgas klientu centrā;
 *   elektroniski – pašapkalpošanās vortālā [www.e-parvaldnieks.lv](http://www.e-parvaldnieks.lv/);
-*   iesūtot rādījumus, izmantojot SMS ([INSTRUKCIJA](/wp-content/uploads/2021/06/SMS_instrukcija_LV.pdf)).
+*   iesūtot rādījumus, izmantojot SMS ([INSTRUKCIJA](https://rnparvaldnieks.lv/wp-content/uploads/2021/06/SMS_instrukcija_LV.pdf).
 
 Kādēļ tika ieviesta jaunā kārtība ūdens patēriņa skaitītāju rādījumu paziņošanai?
 
@@ -404,9 +404,9 @@ Ja nevēlos iesniegt ūdens patēriņa skaitītāju rādījumus papīra formāt�
 
 RNP mērķis ir pakāpeniski pilnībā pāriet uz ūdens patēriņa skaitītāju rādījumu iesniegšanu elektroniskā formātā, tādējādi ne tikai domājot par dabas resursu ilgtspējību, bet arī atvieglojot klientu ikdienas gaitas. Jau šobrīd daudz klientu izmanto rādījumu iesniegšanu:
 
-*   Vortālā [e-parvaldnieks.lv](https://e-parvaldnieks.lv/) ([INSTRUKCIJA](/wp-content/uploads/2021/06/E-parvaldnieks_pamaciba_LV_UPS_nodosana.pdf));
-*   Ar SMS starpniecību ([INSTRUKCIJA](/wp-content/uploads/2021/06/SMS_instrukcija_LV.pdf));
-*   Klientu apkalpošanas centros speciāli izvietotajos ūdens patēriņa skaitītāju rādījumus [kioskos](/wp-content/uploads/2021/06/Kioska_pamaciba_LV_ar-malinu.pdf);
+*   Vortālā [e-parvaldnieks.lv](https://e-parvaldnieks.lv/) ([INSTRUKCIJA](https://rnparvaldnieks.lv/wp-content/uploads/2021/06/E-parvaldnieks_pamaciba_LV_UPS_nodosana.pdf);
+*   Ar SMS starpniecību ([INSTRUKCIJA](https://rnparvaldnieks.lv/wp-content/uploads/2021/06/SMS_instrukcija_LV.pdf);
+*   Klientu apkalpošanas centros speciāli izvietotajos ūdens patēriņa skaitītāju rādījumus [kioskos](https://rnparvaldnieks.lv/wp-content/uploads/2021/06/Kioska_pamaciba_LV_ar-malinu.pdf);
 *   Uzstādot ūdens patēriņa skaitītājus ar attālināto nolasīšanu.
 
 Kā rodas ūdens patēriņa starpība?
@@ -550,7 +550,7 @@ Nepieciešama dzīvojamās mājas dzīvokļu īpašnieku iesaiste, lai uzstādī
 
 Pēc tam, kad RNP speciālists ir saņēmis iesniegumu, tiek pārbaudīts, vai iesniegums ir saistošs un izpildāms. To, vai tiks uzstādīti šķiroto atkritumu konteineri vai arī nē, RNP speciālists informē dzīvojamās mājas pārstāvi. Ja dzīvojamās mājas teritorijā var uzstādīt šķiroto atkritumu konteinerus, tad pārvaldnieks nosūtu pieteikumu atkritumu apsaimniekotājam par šķiroto atkritumu konteineru uzstādīšanu, kā arī norāda informāciju par konteineru iztukšošanai nepieciešamo reižu skaitu nedēļā vai mēnesī. Atkritumu apsaimniekotājs uzstāda konteinerus norādītajā vietā.
 
-**Norādām – kopš 2020. gada 20. maija, kas stājās spēkā jaunie [jaunā atkritumu apsaimniekošanas kārtība](/par-jauno-atkritumu-apsaimniekosanas-kartibu/), šķiroto atkritumu konteinera saturs tiek izvests pa maksu, ja tajos izmesti parastie, nešķirotie atkritumi.**
+**Norādām – kopš 2020. gada 20. maija, kas stājās spēkā jaunie [jaunā atkritumu apsaimniekošanas kārtība](https://rnparvaldnieks.lv/par-jauno-atkritumu-apsaimniekosanas-kartibu/), šķiroto atkritumu konteinera saturs tiek izvests pa maksu, ja tajos izmesti parastie, nešķirotie atkritumi.**
 
 Kā izveidot atkritumu konteineru novietni?
 
@@ -582,7 +582,7 @@ Kā mājas pagalmā uzstādīt soliņus?
 
 Soliņu var uzstādīt dzīvojamās mājas teritorijā, taču to atrašanās vietu ir nepieciešams izvērtēt.
 
-Par soliņu izveidi jānobalso vairākumam dzīvokļa īpašnieku (PAR jānobalso 50% + 1 dzīvokļa īpašniekam). Mājas iedzīvotāji var lemt arī par soliņu demontāžu. Par soliņu uzstādīšanai nepieciešamo finansējumu jālemj dzīvokļu īpašnieku kopībai – tas var būt esošais mājas uzkrājums vai jauna uzkrājuma veidošana. Informāciju, kā kopība var pieņemt lēmumu, un lēmumu paraugi pieejami mūsu mājas lapā – [**ŠEIT**](/kopibas_lemumu_pienemsana/).
+Par soliņu izveidi jānobalso vairākumam dzīvokļa īpašnieku (PAR jānobalso 50% + 1 dzīvokļa īpašniekam). Mājas iedzīvotāji var lemt arī par soliņu demontāžu. Par soliņu uzstādīšanai nepieciešamo finansējumu jālemj dzīvokļu īpašnieku kopībai – tas var būt esošais mājas uzkrājums vai jauna uzkrājuma veidošana. Informāciju, kā kopība var pieņemt lēmumu, un lēmumu paraugi pieejami mūsu mājas lapā – [**ŠEIT**](https://rnparvaldnieks.lv/kopibas_lemumu_pienemsana/).
 
 Dzīvokļu īpašnieku kopības lēmumu par soliņu uzstādīšanu iespējams iesniegt:
 
@@ -610,7 +610,7 @@ Nesaskaņota puķu dobju un apstādījumu ierīkošana dzīvojamās mājas kopī
 
 Saskaņā ar Dzīvokļa īpašuma likuma 15. panta pirmo daļu, dzīvojamā māja, kas sadalīta dzīvokļu īpašumos, pārvaldes institūcija ir **dzīvokļu īpašnieku kopība**, tādejādi par dzīvojamās mājas piesaistītās teritorijas labiekārtošanu lemj dzīvojamās mājas dzīvokļu īpašnieki. Lai varētu veikt teritorijas labiekārtošanas darbus, nepieciešams dzīvokļu īpašnieku kopības lēmums, kur dzīvokļu īpašnieki kopsapulcē vai aptaujā ar 50% + 1 balsi lēmuši PAR šo darbu veikšanu, norādot finansējuma avotu.
 
-Vairāk par to, kā organizēt dzīvokļu īpašnieku kopsapulci, lasīt [**ŠEIT**](/kopibas_lemumu_pienemsana/).
+Vairāk par to, kā organizēt dzīvokļu īpašnieku kopsapulci, lasīt [**ŠEIT**](https://rnparvaldnieks.lv/kopibas_lemumu_pienemsana/).
 
 Kas notiks ar nesaskaņoti izveidotu puķu dobi?
 
@@ -897,7 +897,7 @@ Būvdarbu un remonta laikā nedrīkst pieļaut ēkas koplietošanas telpu piesā
 
 Kas jādara, lai nomainītu dvieļu žāvētāju?
 
-Ja dvieļu žāvētāju nomaina pret līdzīgu, ar identisku izvietojumu, tad pietiek ar [**iesniegumu**](/iesniegumu-veidlapas/), ko dzīvokļa īpašnieks iesniedz pārvaldniekam, garantējot, ka dvieļu žāvētāja diametrs netiks samazināts un izvietojums netiks mainīts. Iesniegumā dzīvokļa īpašnieks arī norāda, ka ūdens noplūdes vai traucējumu gadījumā trūkumi tiks novērsti triju dienu laikā. Toties, ja tiek veikta pārbūve, piemēram, dvieļu žāvētājs tiek pārvietots uz pretējo sienu, tam tiek izmainīts pieslēgums, demontēt dvieļu žāvētāju, nepieciešams izstrādāt projektu un saskaņot to ar pārvaldnieku, tieši tā pat, kā mainot radiatoru.
+Ja dvieļu žāvētāju nomaina pret līdzīgu, ar identisku izvietojumu, tad pietiek ar [**iesniegumu**](https://rnparvaldnieks.lv/iesniegumu-veidlapas/), ko dzīvokļa īpašnieks iesniedz pārvaldniekam, garantējot, ka dvieļu žāvētāja diametrs netiks samazināts un izvietojums netiks mainīts. Iesniegumā dzīvokļa īpašnieks arī norāda, ka ūdens noplūdes vai traucējumu gadījumā trūkumi tiks novērsti triju dienu laikā. Toties, ja tiek veikta pārbūve, piemēram, dvieļu žāvētājs tiek pārvietots uz pretējo sienu, tam tiek izmainīts pieslēgums, demontēt dvieļu žāvētāju, nepieciešams izstrādāt projektu un saskaņot to ar pārvaldnieku, tieši tā pat, kā mainot radiatoru.
 
 Ja izlemjat demontēt dvieļu žāvētāju, tad lieciet aiz auss, ka šī siltumelementa neesamība Jūsu dzīvokļa īpašumā neatbrīvo no maksājuma par karstā ūdens cirkulāciju. Atbilstoši metodikai, ko izmanto patērētās siltumenerģijas sadales un maksas aprēķināšanai, Rīgas domes 2010. gada 24. augusta instrukcijas Nr. 9 „Rīgas pašvaldības īpašumā vai pārvaldīšanā esošajās daudzdzīvokļu dzīvojamās mājās patērētās siltumenerģijas sadales un maksas aprēķināšanas kārtība” 11. punkts nosaka, ka par karstā ūdens cirkulācijai patērētās siltumenerģijas daudzumu patērētājs maksā arī gadījumos, ja īpašums atslēgts no mājas kopējās karstā ūdens padeves sistēmas, kā arī tad, ja patērētājs atrodas prombūtnē vai karstā ūdens patēriņš īpašumā norēķina periodā ir vienāds ar nulli.
 
@@ -956,7 +956,7 @@ Lai saskaņotu [**pieteikumu**](https://www.sadalestikls.lv/klientiem/pieslegumi
 
 *   aizpildīt un parakstīt iesniegumu par elektroenerģijas jaudas izmaiņām;
 *   uz iepriekšminētā iesnieguma pamata, AS “Sadales tīkls” sagatavos elektroietaišu ierīkošanas tehniskos noteikumus;
-*   tehniskie noteikumi kopā ar aizpildītu saskaņojuma veidlapu ir [**jāiesniedz**](/ka-iesniegt-dokumentus/) SIA “Rīgas namu pārvaldnieks”.
+*   tehniskie noteikumi kopā ar aizpildītu saskaņojuma veidlapu ir [**jāiesniedz**](https://rnparvaldnieks.lv/ka-iesniegt-dokumentus/) SIA “Rīgas namu pārvaldnieks”.
 
 **Par tiešajiem norēķiniem**
 
@@ -1130,8 +1130,8 @@ Kā iesniegt dokumentus?
 Lai iesniegtu nepieciešamos dokumentus:
 
 *   sagatavojot un noformējot atbilstoši normatīvo aktu prasībām, parakstot ar drošu elektronisko, jānosūta uz e-pastu **[rnparvaldnieks@rnparvaldnieks.lv](mailto:rnparvaldnieks@rnparvaldnieks.lv);**
-*   atstājot dokumentus SIA “Rīgas namu pārvaldnieks” [**Klientu apkalpošanas centra pastkastītē**](/klientu_apkalposanas_centri/), norādot arī tālruņa nr. saziņai ar Jums;
-*   klātienē, iesniedzot jebkurā SIA “Rīgas namu pārvaldnieks” [**Klientu apkalpošanas centrā**](/klientu_apkalposanas_centri/).
+*   atstājot dokumentus SIA “Rīgas namu pārvaldnieks” [**Klientu apkalpošanas centra pastkastītē**](https://rnparvaldnieks.lv/klientu_apkalposanas_centri/), norādot arī tālruņa nr. saziņai ar Jums;
+*   klātienē, iesniedzot jebkurā SIA “Rīgas namu pārvaldnieks” [**Klientu apkalpošanas centrā**](/klientu_apkalposanas_centri/](https://rnparvaldnieks.lv/klientu_apkalposanas_centri/).
 
 Par dzīvokļa platību
 
