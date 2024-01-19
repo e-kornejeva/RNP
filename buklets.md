@@ -75,11 +75,11 @@ savā starpā un kā pareizi pieņemt kopības lēmumu?"
 
 
 
-## 4 soļi kā pareizi sasaukt kopsapulci:
+**4 soļi kā pareizi sasaukt kopsapulci:**
 
 **1. solis**
 
-### Kopsapulces sasaukšana
+**Kopsapulces sasaukšana**
 
  Kopsapulces sasaukšanas iniciators var būt viens vai vairāki dzīvokļu
  īpašnieki kā arī pārvaldnieks.
@@ -97,7 +97,7 @@ savā starpā un kā pareizi pieņemt kopības lēmumu?"
 
 **2. solis**
 
-### Kopsapulces norise
+**Kopsapulces norise**
 
  Lai uzsāktu kopības lēmumu pieņemšanas procesu, ir jānoskaidro, vai
  kopsapulce ir lemttiesīga.
@@ -156,7 +156,7 @@ savā starpā un kā pareizi pieņemt kopības lēmumu?"
 
 **3. solis**
 
-### Lēmuma pieņemšana kopsapulcē
+**Lēmuma pieņemšana kopsapulcē**
 
  Izskatot jautājumus dzīvokļu īpašnieku kopsapulcē, ir jānosaka, vai
  attiecīgā lēmuma pieņemšana ir dzīvokļu īpašnieku kopības kompetencē.
@@ -216,7 +216,7 @@ savā starpā un kā pareizi pieņemt kopības lēmumu?"
 
 **4. solis**
 
-### Kopsapulces protokola noformēšana
+**Kopsapulces protokola noformēšana**
 
 Kopsapulces protokola noformēšanas piemērs aplūkojams bukletā:https://rnparvaldnieks.lv/wp-content/uploads/2022/09/KopibasLemumaBuklets_A5_.pdf 
 
@@ -336,7 +336,7 @@ Dzīvokļu īpašnieku kopība ar (*skaits*) balsīm «Par»
  Klientiem -> Kopības lēmumu pieņemšana: https://rnparvaldnieks.lv/kopibas_lemumu_pienemsana/
 
 
-###  Dzīvokļu īpašnieku kopsapulces sasaukšana 
+**Dzīvokļu īpašnieku kopsapulces sasaukšana**
 
  Iniciatori: dzīvokļa īpašnieks, vairāki dzīvokļu īp[ašnieki vai dzīvojamās mājas pārvaldnieks.
  
@@ -349,7 +349,7 @@ Dzīvokļu īpašnieku kopība ar (*skaits*) balsīm «Par»
 Kopsapulce ir lemttiesīga, ja tajā tiek pārstāvēta vairāk kā puse no visiem dzīvokļu īpašumiem, izņemot tos
 gadījumus, kuros likuma 17. pantā paredzēts cits lēmuma pieņemšanai nepieciešamais balsu skaits.
 
-###  Dzīvokļu īpašnieku aptaujas veikšana 
+**Dzīvokļu īpašnieku aptaujas veikšana**
 
  Iniciatori: dzīvokļa īpašnieks, vairāki dzīvokļu īp[ašnieki vai dzīvojamās mājas pārvaldnieks.
  
