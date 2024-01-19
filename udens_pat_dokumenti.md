@@ -22,7 +22,7 @@ Aicinām ŪPS nomaiņas dokumentus iesniegt savlaicīgi! ŪPS nomaiņas/verifik�
 
 **Līdz mēneša 15. datumam RNP iesniegtie akti/sertifikāti par nomainītajiem/verificētiem ŪPS, datu bāzes sistēmā būs pieejami nākamajā rādījumu iesniegšanas periodā!**
 
-Skatīt video par ūdens patēriņa skaitītāju nomaiņas dokumentu iesniegšanu
+Skatīt video par ūdens patēriņa skaitītāju nomaiņas dokumentu iesniegšanu: https://youtu.be/K87klwL85_0
 #### VIDEO:https://youtu.be/K87klwL85_0
 
 Ja ŪPS nav nomainīti vai verificēti:
@@ -52,4 +52,4 @@ Rādījumus iespējams iesniegt 5 dažādos veidos:
 4.  Nosūtot ar SMS starpniecību. Instrukcija – [šeit](https://rnparvaldnieks.lv/wp-content/uploads/2021/05/SMS_instrukcija_LV.pdf);
 5.  Pašapkalpošanās kioskos SIA “Rīgas namu pārvaldnieks” Klientu apkalpošanas centros\*.
 
-_\* Kioski klientiem pieejami Brīvības ielā 49/53, Mārtiņa ielā 7 (2 kioski), Maskavas ielā 168, Pārslas ielā 10, Tilta ielā 11 k-1, Zebiekstes ielā 8 (2 kioski), Rīgā._
+\* Kioski klientiem pieejami Brīvības ielā 49/53, Mārtiņa ielā 7 (2 kioski), Maskavas ielā 168, Pārslas ielā 10, Tilta ielā 11 k-1, Zebiekstes ielā 8 (2 kioski), Rīgā.
