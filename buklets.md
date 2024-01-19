@@ -270,7 +270,7 @@ Dzīvokļu īpašnieku kopība ar: (*skaits*) balsīm «Par»
 
 1.  Par
 
-2.  Par .
+2.  Par 
 
  **Darba kartība:**
 
@@ -281,7 +281,7 @@ Dzīvokļu īpašnieku kopība ar: (*skaits*) balsīm «Par»
  Kopsapulces vadītājs noskaidro, vai □ ir/□ nav darba kārtības
  papildinājumi, citi ierosinājumi. Ierosinājumi, papildinājumi
 
- **1. jautājums. Par** . Ziņo: .
+ **1. jautājums. Par** . Ziņo: 
 
  *(vārds, uzvārds)*
 
@@ -332,8 +332,8 @@ Dzīvokļu īpašnieku kopība ar (*skaits*) balsīm «Par»
 
  protokolētājs
 
- Paraugs pieejams tīmekļa vietnē *rnparvaldnieks.lv* sadaļā -\
- Klientiem -\ Kopības lēmumu pieņemšana: https://rnparvaldnieks.lv/kopibas_lemumu_pienemsana/
+ Paraugs pieejams tīmekļa vietnē *rnparvaldnieks.lv* sadaļā 
+ Klientiem -> Kopības lēmumu pieņemšana: https://rnparvaldnieks.lv/kopibas_lemumu_pienemsana/
 
 
 ###  Dzīvokļu īpašnieku kopsapulces sasaukšana 
