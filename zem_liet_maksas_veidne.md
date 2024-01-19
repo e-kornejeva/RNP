@@ -37,7 +37,7 @@ dzīvojamās mājas adrese:
 Maksājumi veicami ar bezskaidras naudas norēķinu, pārskaitot uz bankas kontu
 Nr.	,
 
-norēķinu iestāde:	.
+norēķinu iestāde:	
 
 Zemesgabala atsavināšanas gadījumā, apņemos 5 (piecu) dienu laikā no atsavinājuma līguma noslēgšanas par to informēt SIA “Rīgas namu pārvaldnieks”.
 
@@ -51,7 +51,7 @@ Apliecinu, ka sniegtā informācija ir patiesa, pilnīga un precīza.
 | :- | :- | :- |
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-` `(paraksts) 
+(paraksts) 
 
 Pārzinis Jūsu personas datu apstrādei ir SIA “Rīgas namu pārvaldnieks”, adrese: Aleksandra Čaka ielā 42, Rīgā, LV-1011, elektroniskā pasta adrese [datuaizsardziba@rnparvaldnieks.lv](mailto:datuaizsardziba@rnparvaldnieks.lv).
 
@@ -65,4 +65,4 @@ Ar šo piekrītu personas datu apstrādei.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-` `(paraksts) 
+(paraksts) 
